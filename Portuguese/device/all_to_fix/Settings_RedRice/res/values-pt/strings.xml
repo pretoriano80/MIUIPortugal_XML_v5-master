@@ -2869,7 +2869,7 @@ Toque no botão Adicionar contactos para selecionar os contactos que deseja asso
     <string name="MobileNetwork_SIM2_Active">Está ativo o SIM2</string>
     <string name="dlg_mount_external_sd_title">Montar o cartão SD?</string>
     <string name="dlg_mount_external_sd_summary">Se montar o cartão SD, algumas aplicações que está a usar vão terminar.</string>
-    <string name="tethered_ipv6_title">Definições Hotspot & depuração</string>
+    <string name="tethered_ipv6_title">Definições Hotspot e depuração</string>
     <string name="tethered_ipv4v6">(IPv6 disponível)</string>
     <string name="tethered_ipv6">(Apenas disponível IPv6)</string>
     <string name="tethered_ipv4">(IPv6 disponível)</string>
