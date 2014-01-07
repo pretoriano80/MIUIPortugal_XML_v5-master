@@ -388,9 +388,8 @@
     <string name="permlab_setAlwaysFinish">Fechar todos as aplicações em segundo plano</string>
     <string name="permdesc_setAlwaysFinish">Permite que uma aplicação controle se as atividades são sempre concluídas assim que vão para o segundo plano. Aplicações normais não precisam disso em momento algum.</string>
     <string name="permlab_batteryStats">Modificar estatísticas da bateria</string>
-    <string name="permdesc_batteryStats">Permite que uma aplicação leia os dados atuais de uso de bateria de baixo nível. Pode permitir que a aplicação para descobrir informações detalhadas sobre quais aplicações que usa.</string>
-    <string name="permlab_updateBatteryStats">modificar estatísticas da bateria</string>
     <string name="permdesc_batteryStats">Permite a modificação das estatísticas de bateria recolhidas. Não deve ser usado por aplicações normais.</string>
+    <string name="permlab_updateBatteryStats">modificar estatísticas da bateria</string>
     <string name="permlab_backup">controlar backup e restauro do sistema</string>
     <string name="permdesc_backup">Permite que a aplicação controle o mecanismo de backup e restauro do sistema. Não deve ser usado por aplicações normais.</string>
     <string name="permlab_confirm_full_backup">confirmar um backup completo ou operação de restauro</string>
