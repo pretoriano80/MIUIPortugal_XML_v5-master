@@ -2151,7 +2151,6 @@ Permitir auto-iniciar？"</string>
     <string name="unlock_set_enter_system">Aceder diretamente ao bloqueio de ecrã</string>
     <string name="unlock_set_enter_system_summary">Vá diretamente para a ecrã inicial para ligar</string>
     <string name="forget_wifi_message">O seu telefone irá parar de se ligar a essa rede automaticamente</string>
-    <string name="no_nearby_wifi">Nenhuma rede detetada. Por favor, verifique novamente ou adicionar rede manualmente</string>
     <string name="no_nearby_wifi">Não há redes detectadas.</string>
     <string name="manually_add_network">Adicionar rede manualmente</string>
     <string name="network_detail">%s Detalhe de rede</string>
