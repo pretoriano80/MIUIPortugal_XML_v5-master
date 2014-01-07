@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+  <plurals name="wifi_available">
+	<item quantity="other">Redes Wi-Fi disponíveis</item>
+        <item quantity="one">Rede Wi-Fi disponível</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Redes Wi-Fi abertas disponíveis</item>
+        <item quantity="one">Rede Wi-Fi aberta disponível</item>
+  </plurals>
+</resources>

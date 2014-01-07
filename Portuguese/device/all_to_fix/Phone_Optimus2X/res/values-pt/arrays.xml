@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string-array name="clir_display_values">
+        <item>Network default</item>
+        <item>Hide number</item>
+        <item>Show number</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>EvDo only</item>
+        <item>CDMA w/o EvDo</item>
+        <item>CDMA/EvDo auto</item>
+        <item>GSM/WCDMA auto</item>
+        <item>WCDMA only</item>
+        <item>GSM only</item>
+        <item>GSM/WCDMA preferred</item>
+    </string-array>
+    <string-array name="list_language_entries">
+        <item>Inglês</item>
+        <item>Francês</item>
+        <item>Espanhol</item>
+        <item>Japonês</item>
+        <item>Coreano</item>
+        <item>Chinês</item>
+        <item>Hebraico</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Somente doméstica</item>
+        <item>Automático</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY desativado</item>
+        <item>TTY completo</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Longo</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Sempre</item>
+        <item>Só quando em silêncio</item>
+        <item>Nunca</item>
+    </string-array>
+</resources>

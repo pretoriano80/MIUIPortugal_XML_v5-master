@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string-array name="barge_in_commands">
+        <item>Sorir</item>
+        <item>Queijo</item>
+        <item>Capturar</item>
+        <item>Disparo</item>
+    </string-array>
+    <string-array name="sel_pic_items">
+        <item>@string/gallery</item>
+        <item>@string/take_photo</item>
+    </string-array>
+</resources>

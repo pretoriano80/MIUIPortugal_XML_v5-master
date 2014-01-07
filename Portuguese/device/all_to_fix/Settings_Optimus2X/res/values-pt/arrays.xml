@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string-array name="timezone_filters">
+        <item>América</item>
+        <item>Europa</item>
+        <item>África</item>
+        <item>Ásia</item>
+        <item>Austrália</item>
+        <item>Pacífico</item>
+        <item>Todos</item>
+    </string-array>
+    <string-array name="screen_timeout_entries">
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Nunca</item>
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Imediato</item>
+        <item>5 segundos</item>
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="entries_font_size">
+        <item>Pequena</item>
+        <item>Normal</item>
+        <item>Grande</item>
+        <item>Enorme</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Muito lento</item>
+        <item>Lento</item>
+        <item>Normal</item>
+        <item>Rápido</item>
+        <item>Muito Rápido</item>
+    </string-array>
+    <string-array name="tts_pitch_entries">
+        <item>Muito Baixo</item>
+        <item>Baixo</item>
+        <item>Normal</item>
+        <item>Alto</item>
+        <item>Muito elevado</item>
+    </string-array>
+    <string-array name="tts_demo_strings">
+        <item>This is an example of speech synthesis in English.</item>
+        <item>Voici un échantillon de synthèse vocale en français.</item>
+        <item>Dies ist ein Beispiel für Sprachsynthese in Deutsch.</item>
+        <item>Questo è un esempio di sintesi vocale in italiano.</item>
+        <item>Este es un ejemplo de síntesis de voz en español.</item>
+    </string-array>
+    <string-array name="tts_demo_string_langs">
+        <item>eng</item>
+        <item>fra</item>
+        <item>deu</item>
+        <item>ita</item>
+        <item>spa</item>
+    </string-array>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>A sondar...</item>
+        <item>A ligar...</item>
+        <item>A autenticar...</item>
+        <item>A obter endereço IP...</item>
+        <item>Ligado</item>
+        <item>Suspenso</item>
+        <item>A desligar…</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>A Sondar</item>
+        <item>A ligar-se a %1$s...</item>
+        <item>Autenticação com %1$s...</item>
+        <item>A obter o endereço IP do %1$s...</item>
+        <item>Ligado a %1$s</item>
+        <item>Suspenso</item>
+        <item>Desligar de %1$s...</item>
+        <item>Desligado</item>
+        <item>Sem sucesso</item>
+        <item>Bloqueado</item>
+        <item>A evitar temporariamente ligações fracas</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Aberta</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
+    <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_p2p_wps_setup">
+        <item>Push button</item>
+        <item>PIN de dispositivo ponto a ponto</item>
+        <item>PIN a partir deste dispositivo</item>
+    </string-array>
+    <string-array name="wifi_p2p_status">
+        <item>Ligado</item>
+        <item>Convidado</item>
+        <item>Sem sucesso</item>
+        <item>Disponível</item>
+        <item>Inacessível</item>
+    </string-array>
+    <string-array name="bluetooth_visibility_timeout_entries">
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>1 hora</item>
+        <item>Sem tempo limite</item>
+    </string-array>
+    <string-array name="wifi_signal">
+        <item>Fraco</item>
+        <item>Aceitável</item>
+        <item>Boa</item>
+        <item>Excelente</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries">
+        <item>Sempre</item>
+        <item>Só quando a carregar</item>
+        <item>Nunca (aumenta tráfego)</item>
+    </string-array>
+    <string-array name="wifi_sleep_policy_entries_wifi_only">
+        <item>Sempre</item>
+        <item>Só quando a carregar</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Auto</item>
+        <item>Só 5 GHz</item>
+        <item>Só 2.4 GHz</item>
+    </string-array>
+    <string-array name="usage_stats_display_order_types">
+        <item>Tempo de utilização</item>
+        <item>Iniciar contagem</item>
+        <item>Nome da aplicação</item>
+    </string-array>
+    <string-array name="wifi_eap_entries">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+    </string-array>
+    <string-array name="wifi_phase2_entries">
+        <item>Nenhum</item>
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
+    <string-array name="wifi_ip_settings">
+        <item>DHCP</item>
+        <item>Estático</item>
+    </string-array>
+    <string-array name="wifi_proxy_settings">
+        <item>Nenhum</item>
+        <item>Manual</item>
+    </string-array>
+    <string-array name="emergency_tone_entries">
+        <item>Desligado</item>
+        <item>Alerta</item>
+        <item>Vibrar</item>
+    </string-array>
+    <string-array name="apn_auth_entries">
+        <item>Nenhum</item>
+        <item>PAP</item>
+        <item>CHAP</item>
+        <item>PAP ou CHAP</item>
+    </string-array>
+    <string-array name="apn_protocol_entries">
+        <item>IPv4</item>
+        <item>IPv6</item>
+        <item>IPv4/IPv6</item>
+    </string-array>
+    <string-array name="apn_protocol_values">
+        <item>IP</item>
+        <item>IPV6</item>
+        <item>IPV4V6</item>
+    </string-array>
+    <string-array name="bearer_entries">
+        <item>LTE</item>
+        <item>eHRPD</item>
+        <item>Unspecified</item>
+    </string-array>
+    <string-array name="app_install_location_entries">
+        <item>Armazenamento de dispositivo interno</item>
+        <item>Cartão SD removível</item>
+        <item>Deixe o sistema decidir</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_titles">
+        <item>Curto</item>
+        <item>Médio</item>
+        <item>Longo</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Nunca verificar</item>
+        <item>Apenas DRM</item>
+        <item>Verificar sempre</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Nunca usar verificação HDCP</item>
+        <item>Usar verificação HDCP apenas para conteúdo DRM</item>
+        <item>Usar sempre verificação HDCP</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animação desligada</item>
+        <item>Animação escala .5x</item>
+        <item>Animação escala 1x</item>
+        <item>Animação escala 1.5x</item>
+        <item>Animação escala 2x</item>
+        <item>Animação escala 5x</item>
+        <item>Animação escala 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala da animação .5x</item>
+        <item>Escala da animação 1x</item>
+        <item>Escala da animação 1.5x</item>
+        <item>Escala da animação 2x</item>
+        <item>Escala da animação 5x</item>
+        <item>Escala da animação 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animação desligada</item>
+        <item>Escala da animação .5x</item>
+        <item>Escala da animação 1x</item>
+        <item>Escala da animação 1.5x</item>
+        <item>Escala da animação 2x</item>
+        <item>Escala da animação 5x</item>
+        <item>Escala da animação 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Limite padrão</item>
+        <item>Nenhum processo em fundo</item>
+        <item>No máximo 1 processo</item>
+        <item>No máximo 2 processos</item>
+        <item>No máximo 3 processos</item>
+        <item>No máximo 4 processos</item>
+    </string-array>
+    <string-array name="vpn_types">
+        <item>PPTP</item>
+        <item>L2TP/IPSec PSK</item>
+        <item>L2TP/IPSec RSA</item>
+        <item>IPSec Xauth PSK</item>
+        <item>IPSec Xauth RSA</item>
+        <item>IPSec Hybrid RSA</item>
+    </string-array>
+    <string-array name="vpn_types_long">
+        <item>PPTP VPN</item>
+        <item>L2TP/IPSec VPN with pre-shared keys</item>
+        <item>L2TP/IPSec VPN with certificates</item>
+        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
+        <item>IPSec VPN with certificates and Xauth authentication</item>
+        <item>IPSec VPN with certificates and hybrid authentication</item>
+    </string-array>
+    <string-array name="vpn_states">
+        <item>Desligado</item>
+        <item>A iniciar...</item>
+        <item>A ligar...</item>
+        <item>Ligado</item>
+        <item>Timeout</item>
+        <item>Unsuccessful</item>
+    </string-array>
+    <string-array name="user_content_ratings_entries">
+        <item>Ser iluminado</item>
+        <item>Humano</item>
+        <item>Neanderthal</item>
+        <item>Chimpanzé</item>
+        <item>Macaco</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Fraco</item>
+        <item>Médio</item>
+        <item>Forte</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Graficos</item>
+        <item>Percentagem</item>
+        <item>Barra no topo</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>Ask on connection</item>
+        <item>Charge only</item>
+        <item>Mount SD card</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 segundos</item>
+        <item>3 segundos</item>
+        <item>4 segundos</item>
+        <item>5 segundos</item>
+        <item>6 segundos</item>
+        <item>7 segundos</item>
+        <item>8 segundos</item>
+        <item>9 segundos</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Roxo</item>
+        <item>Purpura</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Azul</item>
+        <item>Vermelho</item>
+        <item>Amarelo</item>
+        <item>Verde</item>
+        <item>Ciano</item>
+        <item>Branco</item>
+        <item>Roxo</item>
+    </string-array>
+    <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Nenhum</item>
+        <item>Lança painel recentes</item>
+        <item>Lança assistente de voz</item>
+        <item>Lança Google Now</item>
+        <item>Fecha a aplicação</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 segundos</item>
+        <item>1 segundos</item>
+        <item>1.5 segundos</item>
+        <item>2 segundos</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 segundo</item>
+        <item>2 segundos</item>
+        <item>5 segundos</item>
+        <item>10 segundos</item>
+        <item>20 segundos</item>
+        <item>Sempre</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Dispositivo ligado, a criar sessão...</item>
+        <item>Sessão criada</item>
+        <item>Sessão demolida...</item>
+        <item>Sessão falhou</item>
+        <item>Sessão a criar tempo limite, a repetir...</item>
+        <item>Dispositivo ligado</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Modo Performance</item>
+        <item>Modo Normal</item>
+        <item>Modo Economia de Energia</item>
+    </string-array>
+    <string-array name="msd_pc_system">
+        <item>Windows XP ou versões mais antigas</item>
+        <item>Windows Vista ou versões mais recentes</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"Para o Windows XP ou versões mais antigas,
+o driver precisa ser instalado manualmente"</item>
+        <item>"Para o Windows Vista ou versões mais recentes,
+o leitor de música MI 2 irá aparecer no seu computador"</item>
+        <item>"Para sistema operativo Mac OS,
+o driver precisa ser instalado manualmente"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(Por favor, ignore o Assistente de Configuração)
+o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
+Abra e selecione Setup.exe para instalação"</item>
+        <item></item>
+        <item>"o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
+Abra e selecione AndroidFileTransfer.dmg para instalação"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"dispositivo 2.MI 2 de armazenamento móvel irá aparecer no seu computador
+Pode agora transferir arquivos"</item>
+        <item></item>
+        <item>"Computador auto abrir e ler dados do telefone
+Pode agora transferir arquivos"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"Se instalar este driver
+dispositivo 2.MI 2 de armazenamento móvel irá aparecer no seu computador"</item>
+        <item>"Para o Windows Vista ou versões mais recentes,
+o leitor de música MI 2 irá aparecer no seu computador"</item>
+        <item>"Se instalar este driver
+Computador vai auto abrir e ler dados do telefone"</item>
+        <item></item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Quente</item>
+        <item>Natureza</item>
+        <item>Frio</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brilhante</item>
+        <item>Padrão</item>
+    </string-array>
+    <string-array name="perms_hips_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Allow</item>
+        <item>Ask</item>
+        <item>Deny</item>
+    </string-array>
+    <string-array name="startup_hips_values">
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Allow</item>
+        <item>Deny</item>
+    </string-array>
+</resources>

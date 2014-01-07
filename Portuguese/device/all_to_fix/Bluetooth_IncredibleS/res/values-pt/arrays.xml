@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string-array name="numberup">
+        <item>Uma página por face</item>
+        <item>Duas páginas por face</item>
+        <item>Quatro páginas por face</item>
+    </string-array>
+    <string-array name="numberup_val">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Retrato</item>
+        <item>Paisagem</item>
+        <item>Paisagem revertida</item>
+        <item>Retrato revertido</item>
+    </string-array>
+    <string-array name="orientation_val">
+        <item>portrait</item>
+        <item>landscape</item>
+        <item>reverse-landscape</item>
+        <item>reverse-portrait</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Um lado</item>
+        <item>Dois lados de Borda Longa</item>
+        <item>Dois lados de Borda Curta</item>
+    </string-array>
+    <string-array name="sides_val">
+        <item>one-sided</item>
+        <item>two-sided-long-edge</item>
+        <item>two-sided-short-edge</item>
+    </string-array>
+</resources>

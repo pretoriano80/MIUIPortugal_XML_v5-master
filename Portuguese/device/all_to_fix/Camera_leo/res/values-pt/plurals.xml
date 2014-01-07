@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Eliminar fich. selecionados?</item>
+        <item quantity="one">Eliminar fich. selecionado?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selecionado</item>
+        <item quantity="zero">%1$d selecionado</item>
+        <item quantity="one">%1$d selecionado</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d selecionado</item>
+        <item quantity="zero">%1$d selecionado</item>
+        <item quantity="one">%1$d selecionado</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d selecionado</item>
+        <item quantity="zero">%1$d selecionado</item>
+        <item quantity="one">%1$d selecionado</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Fazer álbuns disponíveis quando desligado.</item>
+        <item quantity="one">Fazer álbum disponível quando desligado.</item>
+    </plurals>
+</resources>
