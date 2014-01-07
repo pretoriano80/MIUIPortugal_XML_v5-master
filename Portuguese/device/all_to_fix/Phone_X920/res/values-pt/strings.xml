@@ -766,7 +766,6 @@ Taxa de dados reduzida para %2$d Kb/s"</string>
     <string name="notification_missedCallsMsg">%s chamadas perdidas</string>
     <string name="notification_missedCallTicker">Chamada perdida de %s</string>
     <string name="notification_ongoing_call">Chamada a decorrer</string>
-    <string name="notification_ongoing_call">chamada em andamento</string>
     <string name="notification_on_hold">Em espera</string>
     <string name="notification_incoming_call">Chamada recebida</string>
     <string name="notification_voicemail_title">Novo correio de voz</string>
