@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <plurals name="uninstall_dialog_title_format">
+        <item quantity="other">Desinstalar %1$s e %2$d outras aplicações?</item>
+        <item quantity="one">Desinstalar \"%s\"</item>
+        <item quantity="two">Desinstalar \"%s\" e 1 outra aplicação?</item>
+    </plurals>
+    <plurals name="uninstall_result_succeeded">
+        <item quantity="other">%1$ aplicação desinstalada</item>
+        <item quantity="one">Aplicações desinstaladas</item>
+    </plurals>
+    <plurals name="uninstall_result_failed">
+        <item quantity="other">"Não foi possível desinstalar %1$s e %2$d outras aplicações"</item>
+        <item quantity="one">"Não foi possível desinstalar %s</item>
+        <item quantity="two">"Não foi possível desinstalar %s and 1 other app"</item>
+    </plurals>
+</resources>

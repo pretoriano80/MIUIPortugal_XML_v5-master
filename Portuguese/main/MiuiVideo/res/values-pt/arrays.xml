@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Sucesso</item>
+        <item>Ranking</item>
+        <item>Últimos</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Preferidos</item>
+        <item>Ranking</item>
+        <item>Últimos</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Meus vídeos</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Drama</item>
+        <item>Introdução</item>
+    </string-array>
+</resources>

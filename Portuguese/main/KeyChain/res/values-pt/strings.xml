@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+  <string name="app_name">Chaveiro</string>
+  <string name="title_no_certs">Nenhum certificado encontrado</string>
+  <string name="title_select_cert">Selecione o certificado</string>
+  <string name="requesting_application">A aplicação %s solicitou um certificado. Selecionar um certificado concederá à aplicação a capacidade de usar essa identidade com servidores agora e no futuro.</string>
+  <string name="requesting_server">A aplicação identificou um pedido do servidor como %s, mas só deverá conceder o acesso da aplicação ao certificado caso confie na aplicação.</string>
+  <string name="install_new_cert_message">Pode instalar certificados de um ficheiro PKCS#12 com uma extensão %1$s ou %2$s localizado no armazenamento externo.</string>
+  <string name="install_new_cert_button_label">Instalar</string>
+  <string name="allow_button">Permitir</string>
+  <string name="deny_button">Negar</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+  <string name="app_name">Gestão de conta Xiaomi</string>
+    <string name="sync_item_sms_title">Sincronização SMS</string>
+    <string name="sync_item_sms_summary">Permitindo, vai sincronizar os seus Sms</string>
+    <string name="sub_sync_item_sms_title_wifi_only">Apenas Wi-Fi para Mms</string>
+    <string name="sub_sync_item_sms_summary">Recomendado para permitir, caso contrário irá consumir tráfego de rede</string>
+    <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
+    <string name="pref_title_sync_display_photo_on_wifi_only">WIFI apenas para exibição de fotos</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Recomendado para permitir, caso contrário irá consumir tráfego de rede</string>
+    <string name="find_device">Localizar dispositivo</string>
+    <string name="find_device_stop_noise">Clique em \"OK\" para parar o som</string>
+</resources>

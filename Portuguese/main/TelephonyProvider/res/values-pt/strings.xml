@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_label">Telefome/Armazenamento de Mensagens</string>
+    <string name="sms_provider_label">SMS</string>
+    <string name="mms_provider_label">MMS</string>
+    <string name="mms_sms_provider_label">Mensagens</string>
+    <string name="default_cateogry_fraudulent">Fraudulento</string>
+    <string name="default_cateogry_sales">Vendas</string>
+    <string name="default_cateogry_intermediary">Intermediário</string>
+    <string name="default_cateogry_meal_delivery">Entrega de refeições</string>
+    <string name="default_cateogry_courier">Correio</string>
+</resources>

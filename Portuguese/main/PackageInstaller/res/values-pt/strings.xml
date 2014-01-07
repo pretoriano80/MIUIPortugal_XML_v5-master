@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_name">Instalador do pacote</string>
+    <string name="install">Instalar</string>
+    <string name="done">Concluído</string>
+    <string name="security_settings_desc">Permitir que esta aplicação:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="unknown">Desconhecido</string>
+    <string name="installing">A instalar…</string>
+    <string name="install_done">Programa instalado</string>
+    <string name="install_confirm_question">Deseja instalar esta aplicação?</string>
+    <string name="install_failed">A aplicação não está instalada</string>
+    <string name="install_failed_invalid_apk">O pacote parece estar corrompido.</string>
+    <string name="install_failed_inconsistent_certificates">Um pacote existente com o mesmo nome com uma assinatura em conflito já está instalado.</string>
+    <string name="install_failed_older_sdk">O pacote só funciona nas versões mais novas do Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">"Esta aplicação não é compatível com o CPU deste telefone"</string>
+    <string name="install_failed_file_not_found">O pacote especificado foi eliminado antes de ser possível concluir a instalação.</string>
+    <string name="install_failed_verify_failed">O pacote passou na verificação e não pode ser instalado.</string>
+    <string name="install_failed_verify_timeout">Excedeu o tempo limite para tentar verificar este pacote. Por favor, tente instalá-lo novamente mais tarde.</string>
+    <string name="install_failed_msg">Não foi possível instalar o %1$s neste telefone.</string>
+    <string name="launch">Abrir</string>
+    <string name="unknown_apps_dlg_title">Instalação bloqueada</string>
+    <string name="unknown_apps_dlg_text">"Por razões de segurança, este telefone foi definido para proibir a instalação de aplicações não-oficiais. Pode levantar a proibição de instalar aplicações a partir de qualquer canal, mas este telefone e dados pessoais podem ser atacados por aplicações de fontes desconhecidas e deve assumir total responsabilidade pela escolha.
+  
+Pode modificar através de Configurações->Segurança->Fontes desconhecidas."</string>
+    <string name="ok">OK</string>
+    <string name="settings">Definições</string>
+    <string name="allow_source_dlg_title">Permitir a nova fonte para aplicações?</string>
+    <string name="allow_source_dlg_text">"%1$s quer instalar outras aplicações.
+
+Permitir isso agora e no futuro?"</string>
+    <string name="manage_applications">Gerir programas</string>
+    <string name="dlg_app_replacement_title">Substituir aplicação</string>
+    <string name="dlg_app_replacement_statement">"A aplicação que está a instalar irá substituir outra aplicação.
+
+Todos os dados de utilizador anteriores serão guardados."</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) irá substituir a versão atualmente instalada (%3$s). O conteúdo do utilizador será mantido.
+Tem a certeza que quer instalar?"</string>
+    <string name="dlg_sys_app_replacement_statement">"Esta é uma aplicação do sistema. Ainda deseja substituí-la?
+
+Todos os dados de utilizador anteriores serão guardados."</string>
+    <string name="lift_ban">Levantar proibição</string>
+    <string name="out_of_space_dlg_title">Sem espaço</string>
+    <string name="out_of_space_dlg_text">Não foi possível instalar %1$s. Liberte algum espaço e tente novamente.</string>
+    <string name="dlg_ok">OK</string>
+    <string name="app_not_found_dlg_title">Aplicação não encontrada</string>
+    <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas.</string>
+    <string name="uninstall_application_title">Desinstalar a aplicação</string>
+    <string name="uninstall_update_title">Desinstalar atualização</string>
+    <string name="uninstall_activity_text">%1$s é parte da seguinte aplicação:</string>
+    <string name="uninstall_confirm_question">Deseja desinstalar a aplicação?</string>
+    <string name="uninstall_application_text">Esta aplicação será desinstalada.</string>
+    <string name="uninstall_update_text">A aplicação será substituída pela versão de fábrica.</string>
+    <string name="uninstalling">A desinstalar…</string>
+    <string name="uninstall_done">Desinstalação concluída</string>
+    <string name="uninstall_failed">Falha na desinstalação</string>
+    <string name="uninstall_failed_device_policy_manager">Não é possível desinstalar: Este pacote é um administrador de dispositivo ativo.</string>
+    <string name="manage_device_administrators">Gerir administradores de dispositivo</string>
+    <string name="uninstall_failed_msg">%1$s Não foi possível desinstalar </string>
+    <string name="uninstall_failed_retained_app_msg">Não foi possível desinstalar a aplicação personalizada pelo operador</string>
+    <string name="Parse_error_dlg_title">Erro de processamento</string>
+    <string name="Parse_error_dlg_text">Ocorreu um problema ao processar este pacote.</string>
+    <string name="caller_app">Ligar: %1$s</string>
+    <string name="safe_guard_support">Apoio técnico fornecido por %1$s</string>
+    <string name="safe_relative">Permissões relativas seguras</string>
+    <string name="privacy_relative">Permissões relativas privadas</string>
+    <string name="other_relative">outras pemissões</string>
+    <string name="perm_notice">Alerta de segurança</string>
+    <string name="trust_switch_dialog_msg">"MIUI não irá pedir confirmação de qualquer segurança ou operações afins de privacidade a partir deste aplicação. Por favor, certifique-se que é segura.
+Confiar nesta aplicação？"</string>
+    <string name="auto_startup_dialog_msg">"MIUI vai permitir que a aplicação inicie automaticamente sem perguntar. Pode 
+permitir auto iniciar？"</string>
+    <string name="low_risk_perms">Permissões de baixo risco</string>
+    <string name="high_risk_perms">Permissões de alto risco</string>
+    <string name="perm_privacy_app_finish">Terminar</string>
+    <string name="perm_privacy_app_launch">Iniciar</string>
+    <string name="perm_privacy_app_installed">Instalação bem sucedida!</string>
+    <string name="perm_sysopt_boost_auto_start">Permissões de inicio automático</string>
+    <string name="perm_sysopt_boost_auto_start_summary">A aplicação irá iniciar automáticamente!</string>
+    <string name="perm_privacy_app_trust">Confio nesta aplicação</string>
+    <string name="perm_privacy_app_trust_summary">MIUI vai monitorizar esta aplicação</string>
+    <string name="perm_action_accept">Permitir</string>
+    <string name="perm_action_prompt">Perguntar</string>
+    <string name="perm_action_reject">Negar</string>
+    <string name="unknown_installer">Indefinido</string>
+    <string name="install_failed_system_incompatible">Esta aplicação não é compatível com o sistema MIUI.</string>
+    <string name="virus_scan_install"><u>Continue a instalação</u></string>
+    <string name="virus_scan_is_virus">Esta aplicação é um vírus, é recomendado que cancele imediatamente！</string>
+    <string name="virus_scan_is_risk">A aplicação de risco, quer para continuar a instalação！</string>
+    <string name="virus_scan_clear">Eliminar</string>
+</resources>

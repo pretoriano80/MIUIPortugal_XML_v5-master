@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+  <string name="app_name">MusicFX</string>
+  <string name="no_effects">Efeitos não disponíveis</string>
+  <string name="main_toggle_effects_title">Efeitos de áudio</string>
+  <string name="eq_dialog_title">Equalizador</string>
+  <string name="headset_plug">Por favor, ligue os auriculares para estes efeitos</string>
+  <string name="bass_boost_strength">Aumento dos Baixos</string>
+  <string name="virtualizer_strength">Efeito 3D</string>
+  <string name="pr_title">Reverberação:</string>
+  <string name="pr_summary">Efeitos de reverberação da sala adicionais</string>
+  <string name="pr_dialog_title">Predefinição de reverberação</string>
+  <string name="setup">Instalação</string>
+  <string name="ci_extreme">Aumento FX</string>
+  <string name="user">Utilizador</string>
+  <string name="picker_title">Painel de controlo de efeitos de música</string>
+</resources>

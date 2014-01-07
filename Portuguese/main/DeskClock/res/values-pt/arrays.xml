@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <integer-array name="alarm_repeat_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <integer-array name="alarm_repeat_type_no_workdays_values">
+        <item>0</item>
+        <item>1</item>
+        <item>3</item>
+        <item>4</item>
+    </integer-array>
+    <string-array name="alarm_set">
+        <item>Alarme em menos de um minuto</item>
+        <item>Alarme em  %1$s</item>
+        <item>Alarme em  %2$s</item>
+        <item>Alarme em  %1$s %2$s</item>
+        <item>Alarme em  %3$s</item>
+        <item>Alarme em  %1$s %3$s</item>
+        <item>Alarme em  %2$s %3$s</item>
+        <item>Alarme em  %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Nunca parar</item>
+        <item>1 minuto</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>15 minutos</item>
+        <item>20 minutos</item>
+        <item>25 minutos</item>
+        <item>30 minutos</item>
+    </string-array>
+    <string-array name="auto_silence_values">
+        <item>-1</item>
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Nenhum</item>
+        <item>Repetir</item>
+        <item>Ignorar</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarme em menos de um minuto</item>
+        <item>Alarme em  %1$s</item>
+        <item>Alarme em  %2$s</item>
+        <item>Alarme em  %1$s %2$s</item>
+        <item>Alarme em  %3$s</item>
+        <item>Alarme em  %1$s %3$s</item>
+        <item>Alarme em  %2$s %3$s</item>
+        <item>Alarme em  %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Ontem</item>
+        <item>Hoje</item>
+        <item>Amanhã</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Uma vez</item>
+        <item>Diáriamente</item>
+        <item>Dias de trabalho</item>
+        <item>Seg a Sex</item>
+        <item>Personalizar</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Uma vez</item>
+        <item>Diáriamente</item>
+        <item>Seg a Sex</item>
+        <item>Personalizar</item>
+    </string-array>
+</resources>

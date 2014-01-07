@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_label">Conteúdo protegido por DRM</string>
+    <string name="permlab_accessDrm">Aceder a conteúdo DRM.</string>
+    <string name="permdesc_accessDrm">Permitir às aplicações aceder a conteúdo com DRM.</string>
+    <string name="permlab_installDrm">Instale o conteúdo DRM.</string>
+    <string name="permdesc_installDrm">Permitir às aplicações instalar o conteúdo DRM.</string>
+</resources>

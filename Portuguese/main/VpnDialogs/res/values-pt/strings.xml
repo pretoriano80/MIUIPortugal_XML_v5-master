@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="prompt">%s tentativas de criar uma ligação VPN.</string>
+    <string name="warning">Ao continuar, está a dar a permissão para a aplicação intercetar todo o tráfego de rede. <b>Não aceite a menos que confie na aplicação.</b>" Caso contrário, corre o risco de ter os dados comprometidos por um software malicioso."</string>
+    <string name="accept">Confio nesta aplicação.</string>
+    <string name="legacy_title">VPN esta ligada</string>
+    <string name="configure">Configurar</string>
+    <string name="disconnect">Desligar</string>
+    <string name="session">Sessão:</string>
+    <string name="duration">Duração:</string>
+    <string name="data_transmitted">Enviado:</string>
+    <string name="data_received">Recebido:</string>
+    <string name="data_value_format">%1$s bytes / %2$s pacotes</string>
+</resources>

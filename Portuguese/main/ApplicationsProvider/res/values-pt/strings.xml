@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_label">Procurar fornecedores de aplicações</string>
+    <string name="search_label">Apps</string>
+    <string name="application_desc">Aplicação</string>
+    <string name="settings_description">Nomes de aplicações instaladas</string>
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Dados Wi-Fi</item>
+        <item>Todos os programas</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Navegador</item>
+        <item>Galeria</item>
+        <item>Gestor de permissões</item>
+        <item>Câmera</item>
+        <item>Assistente de rede</item>
+        <item>Armazenamento de Tempo</item>
+        <item>Tempo</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Contactos</item>
+        <item>Registo de chamadas</item>
+        <item>Mensagens</item>
+        <item>Mensagens multimédia</item>
+        <item>Definições de sistema</item>
+        <item>Definições Wi-Fi</item>
+        <item>Disposição da área de trabalho</item>
+        <item>Definições de alarme</item>
+        <item>Notas</item>
+        <item>DND</item>
+        <item>Conta</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Dados</item>
+        <item>Programas</item>
+        <item>Programas e dados</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Contactos</item>
+        <item>Registo de chamadas</item>
+        <item>Mensagens</item>
+        <item>Definições Wi-Fi</item>
+        <item>Notas</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Contactos</item>
+        <item>Definições Wi-Fi</item>
+        <item>Notas</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Registo de chamadas</item>
+        <item>Mensagens</item>
+    </string-array>
+</resources>
