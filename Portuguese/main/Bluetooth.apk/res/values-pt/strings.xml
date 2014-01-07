@@ -56,7 +56,7 @@
     <string name="upload_succ_line5">Ficheiro enviado</string>
     <string name="upload_succ_ok">OK</string>
     <string name="Button_Cancel">Cancel</string>
-    <string name="Button_Cancel_All">Cancel all</string>
+    <string name="Button_Cancel_All">Cancelar todos</string>
     <string name="upload_fail_line1">O ficheiro não foi enviado para \"%1$s\".</string>
     <string name="upload_fail_line1_2">Ficheiro: %1$s</string>
     <string name="upload_fail_ok">Tentar novamente</string>
