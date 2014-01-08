@@ -199,8 +199,8 @@
     <string name="pref_zoom_on_double_tap">Zoom no duplo toque</string>
     <string name="pref_force_userscalable">Forçar zoom</string>
     <string name="pref_force_userscalable_summary">Sobrepor-se ao pedido de um site para controlar o comportamento de zoom</string>
-    <string name="pref_inverted_category">Inverter renderização de ecrã</string>
-    <string name="pref_inverted">Renderização invertida</string>
+    <string name="pref_inverted_category">Inverter representação de ecrã</string>
+    <string name="pref_inverted">Representação invertida</string>
     <string name="pref_inverted_summary">Preto torna-se branco e vice-versa</string>
     <string name="pref_inverted_contrast">Contraste</string>
     <string name="pref_default_zoom">Zoom predefinido</string>
@@ -401,7 +401,7 @@
     <string name="history_track">Histórico</string>
     <string name="history_most_visited">Mais visitados</string>
     <string name="history_saved_webpage">Gravar página da web</string>
-    <string name="clear_history_group">Eliminar histórico de (%s paginas)</string>
+    <string name="clear_history_group">Eliminar histórico de (%s páginas)</string>
     <string name="open_history_group_in_new_window">Abrir o histórico numa nova janela (%s pages)</string>
     <string name="open_history_most_visited_group_in_new_window">Abrir mais visitadas</string>
     <string name="pref_privacy_clear_history_by_group_dlg">Eliminar histórico de navegação?</string>
@@ -483,7 +483,7 @@
     <string name="crash_recovcery_message">O Browser parou indevidamente na última vez. Quer abrir as últimas páginas da última sessão?</string>
     <string name="pref_autologin_progress_in_background">Assinar em sites do Google usando %s em segundo plano</string>
     <string name="menu_enable_night_mode">Ativar modo noturno</string>
-    <string name="menu_disable_night_mode">Desativar modo diurno</string>
+    <string name="menu_disable_night_mode">Desativar modo noturno</string>
     <string name="search_cancel">Cancelar</string>
     <string name="search">Pesquisar</string>
     <string name="clear_search_history">Eliminar histórico</string>
@@ -523,15 +523,15 @@
     <string name="menu_disable_save_bandwidth_mode">Desativar o limite do uso de dados móveis</string>
     <string name="menu_save_bandwidth_mode_first_clicked_txt">Não usar a rede móvel para pré-carregar páginas ou para exibir automaticamente as imagens</string>
     <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
-    <string name="menu_save_bandwidth_mode_open_toast">Reduzir o uso de dados.</string>
+    <string name="menu_save_bandwidth_mode_open_toast">Limitar o uso de dados.</string>
     <string name="menu_save_bandwidth_mode_close_toast">Usar dados normalmente.</string>
     <string name="return_to_homepage">Voltar à página principal</string>
     <string name="notif_install_successful">Tranferência concluída.</string>
     <string name="in_incognito">Modo sem registo, não será guardado no histórico</string>
-    <string name="alert_tips">Este site pode ser um risco de segurança</string>
+    <string name="alert_tips">Este site pode ser um risco de segurança.</string>
     <string name="stop_loading">Parar</string>
-    <string name="close_all_tab_alert_title">Fechar todas as abas</string>
-    <string name="close_all_tab_alert_message">Fechar todas as abas?</string>
+    <string name="close_all_tab_alert_title">Fechar todas as páginas</string>
+    <string name="close_all_tab_alert_message">Fechar todas as páginas?</string>
     <string name="file_picker">Selecione o caminho</string>
     <string name="file_name">Nome do arquivo</string>
     <string name="file_dir">Diretório</string>
@@ -557,7 +557,7 @@
     <string name="disk_space_available">%1$s disponível</string>
     <string name="not_enough_disk_space_alert">Não há espaço suficiente no disco</string>
     <string name="download_video_alert_title">Alerta de transferência</string>
-    <string name="download_video_alert_message">A rede atual pode ter um aumento de custos de tráfego ao fazer download de vídeos, deseja continuar?</string>
+    <string name="download_video_alert_message">A rede atual pode ter um aumento de custos de tráfego ao fazer transferência de vídeos, deseja continuar?</string>
     <string name="download_video_start_down_toast">Transferir %1$s video(s)</string>
     <string name="menu_download_video">Vídeos transferidos</string>
     <string name="download_video_unseleted_all">Desmarcar todos</string>
@@ -592,7 +592,7 @@
     <string name="download_dialog_file_length_nolength_error_txt">Transferência sem exito</string>
     <string name="download_dialog_file_length_lessthan1kb">Menos que 1K</string>
     <string name="download_dialog_default_path_invalid">O caminho é inválido, utilize o caminho predefinido para as transferências</string>
-    <string name="modify_download_path_no_sdcard_dlg_msg">Para modificar é necessário Armazenamento USB.</string>
+    <string name="modify_download_path_no_sdcard_dlg_msg">Para modificar é necessário Armaz. SD</string>
     <string name="bottom_bar_tabs_long_click_up_tip_txt">Deslize para cima para fechar</string>
     <string name="bottom_bar_tabs_long_click_down_tip_txt">Deslize para baixo para fechar</string>
     <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">A última página</string>
@@ -611,6 +611,9 @@
     <string name="quicklinks_group_default_subtitle">Vazio</string>
     <string name="add_quicklink_to_popular">Adicionar à página inicial</string>
     <string name="quicklink_saved_before">Este site foi adicionado</string>
+    <string name="network_alert_message">Sem Wi-Fi disponível, usar rede móvel?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
     <string name="webapp_autohority">miui.browser.webapps</string>
     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
