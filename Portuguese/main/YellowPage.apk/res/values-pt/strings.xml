@@ -127,6 +127,7 @@ Por favor, verifique rastreamento do número."</string>
     <string name="balance_inquiry_title">Consulta de saldo</string>
     <string name="balance_inquiry_default_sp_name">Operador</string>
     <string name="balance_inquiry_send_sms_hint">Uma mensagem SMS gratuito será enviado ao operador para consulta de saldo</string>
+    <string name="balance_inquiry_send_sms_summmary">Verifique seu saldo</string>
     <string name="navigation_search_automatically_positioned_city">Cidade atual</string>
     <string name="navigation_search_positioning">Localizando…</string>
     <string name="navigation_search_positioning_failed">Selecionar cidade</string>
@@ -135,7 +136,17 @@ Por favor, verifique rastreamento do número."</string>
     <string name="navigation_search_all_cities">todas as cidades</string>
     <string name="order_empty_hint">Sem pedidos</string>
     <string name="order_merchant_title">Minhas ordens - %s</string>
+    <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="order_id">Ordem ID:%s</string>
     <string name="order_status">%s</string>
     <string name="order_price">%s</string>
+    <string name="general_yellow_page_title">Geral</string>
+    <string name="general_recent_title">Recente</string>
+    <string name="general_favorite_title">Favoritos</string>
+    <string name="general_no_yellow_page">A lista está vazia</string>
+    <string name="general_menu_favorite">Favoritos</string>
+    <string name="general_menu_unfavorite">Remover dos favoritos</string>
+    <string name="general_menu_delete_recent">Eliminar recentes</string>
+    <string name="general_cancel_favorite_ok">Favorito removido</string>
+    <string name="general_delete_recent_ok">Eliminados recentemente</string>
 </resources>

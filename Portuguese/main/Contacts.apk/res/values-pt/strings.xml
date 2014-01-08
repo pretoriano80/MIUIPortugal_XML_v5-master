@@ -38,6 +38,7 @@
     <string name="resource_downloading">A transferir</string>
     <string name="resource_waiting_download">Espere</string>
     <string name="resource_import_successful">Transferência concluída.</string>
+    <string name="resource_import_failed">Importação falhada</string>
     <string name="resource_delta_update_successful">Atualizado com sucesso</string>
     <string name="resource_delta_update_failed">Atualização falhada: Transferindo novamente o tema…</string>
     <string name="resource_delta_update_total">%1$d atualizações delta guardadas %2$s</string>
@@ -46,10 +47,11 @@
     <string name="resource_select">Selecionar</string>
     <string name="resource_buy">Comprar</string>
     <string name="resource_importing">A importar…</string>
-    <string name="online_no_network">Não é possível ligar à rede</string>
-    <string name="online_search_hint">Pesquisar on-line por recursos</string>
+    <string name="resource_ringtone_playing_error">playing error</string>
+    <string name="online_no_network">Não foi possível ligar à rede</string>
+    <string name="online_search_hint">Pesquisar online por recursos</string>
     <string name="loading">A carregar…</string>
-    <string name="download_failed">Transferência falhou</string>
+    <string name="download_failed">Transferência falhada</string>
     <string name="download_preview_failed">Falha ao carregar a pré-visualizar</string>
     <string name="resource_delete_confirm">Eliminar estes recursos?</string>
     <string name="all_resources">Todos</string>
@@ -85,6 +87,14 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_purchase_getting_order">Recuperando a informação encomenda…</string>
     <string name="resource_purchase_waiting_payment">À espera de informações de pagamento…</string>
     <string name="resource_purchase_verifying_payment">Verificando informações de pagamento…</string>
+    <string name="resource_download_trial">Teste de avaliação</string>
+    <string name="resource_apply_trial">Avalie agora</string>
+    <string name="resource_on_trial">Avaliando: %1$s</string>
+    <string name="resource_trial_time">（avaliação por %1$d minutes）</string>
+    <string name="resource_trial_end_title">Avaliação expirada</string>
+    <string name="resource_trial_end_message">Avaliação de %1$s expirado. If you like, please purchase it.</string>
+    <string name="resource_trial_end_restore">Avaliação terminou</string>
+    <string name="resource_trial_end_purchase">Comprar</string>
     <string name="deleting">A eliminar…</string>
     <string name="resource_title_select_ringtone">Selecionar toque</string>
     <string name="resource_tip_select_ringtone">Não foi selecionado nenhum toque</string>
@@ -160,7 +170,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_unknow_error">Erro deesconhecido.</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_hint">Alerta</string>
-    <string name="resource_ringtone_volume_mute">O seu toque está silenciado.</string>
+    <string name="resource_ringtone_volume_mute">O seu toque está silenciado</string>
     <string name="config_import_vcard_type">predefinido</string>
     <string name="config_export_vcard_type">v30_generic</string>
     <string name="config_export_dir">/mnt/sdcard</string>
@@ -400,10 +410,10 @@ Para adicionar um contacto à sua lista de favoritos:
     <string name="description_minus_button">minus</string>
     <string name="description_plus_button">plus</string>
     <string name="description_view_contact_detail">Ver contacto</string>
-    <string name="no_sdcard_message">Cartão de memória não encontrado</string>
+    <string name="no_sdcard_message">Cartão de memória não encontrado.</string>
     <string name="import_from_sim">Importar do cartão SIM</string>
-    <string name="import_from_sdcard">Importar do cartão de memória</string>
-    <string name="export_to_sdcard">Exportar para o cartão de memória</string>
+    <string name="import_from_sdcard">Importar do cartão SD</string>
+    <string name="export_to_sdcard">Exportar para o cartão SD</string>
     <string name="share_visible_contacts">Partilhar contactos</string>
     <string name="import_one_vcard_string">Importar um ficheiro vCard</string>
     <string name="import_multiple_vcard_string">Importar vários ficheiros vCard</string>
@@ -1057,7 +1067,7 @@ Clique em Fundir, pode ser necessário esperar um pouco para a conclusão autom�
     <string name="bluetooth_connection_failed_toast">A ligação Bluetooth foi interrompida</string>
     <string name="device_import_done_toast">%1$d contactos importados</string>
     <string name="device_import_progress_toast">%1$d contactos importados</string>
-    <string name="no_contact_in_other_phone">Não foram encontrados contactos.</string>
+    <string name="no_contact_in_other_phone">Não foram encontrados contactos</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="import_weibo_dialog_title">Importar contactos weibo</string>
     <string name="import_weibo_fetch_followers">A Importar contactos…</string>
@@ -1084,7 +1094,8 @@ Os dados de contacto armazenados em sua conta MiCloud também serão eliminados.
     <string name="profile_name">Meu perfil</string>
     <string name="profile_name_photo">I</string>
     <string name="toast_copying">A copiar…</string>
-    <string name="toast_copy_done">Concluído.</string>
+    <string name="toast_copy_done">Concluído</string>
+    <string name="group_name">Meus grupos</string>
     <string name="import_all_sim_entries_miui">Importar todos os contactos</string>
     <string name="import_sim_entry_miui">Importar</string>
     <string name="delete_sim_entry_miui">Eliminar</string>
@@ -1125,7 +1136,6 @@ Os dados de contacto armazenados em sua conta MiCloud também serão eliminados.
     <string name="yellowPageNavigationLabel">Directório</string>
     <string name="yellowPageNavigationIconLabel">Directório</string>
     <string name="login_ok">Entrar em</string>
-    <string name="login_before_recharging">Tem que se inscrever antes de poder completar.</string>
     <string name="yellowpage_navigation_search_hint">Localizar</string>
     <string name="yellowpage_navigation_no_content">Nenhum resultado na pesquisa</string>
     <string name="yellowpage_navigation_search_offline_hint">Sem acesso à internet</string>
@@ -1136,4 +1146,5 @@ Os dados de contacto armazenados em sua conta MiCloud também serão eliminados.
     <string name="yellowpage_navigation_search_result_network_error">Não foi possível ligar à rede</string>
     <string name="yellowpage_navigation_search_result_service_error">Serviço indisponível</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Erro desconhecido</string>
+    <string name="yellowpage_navigation_menu_order">Minha ordem</string>
 </resources>

@@ -74,6 +74,7 @@
     <string name="download_success">Transferido com sucesso.</string>
     <string name="basic_info">Informação Básica</string>
     <string name="account_info">A minha conta</string>
+    <string name="purchased_list">Lista de compras</string>
     <string name="payment_info">Centro MiCredits</string>
     <string name="theme_batch_has_update_text">%1$d temas têm nova versão</string>
     <string name="theme_batch_updating_text">%1$d temas estão a ser atualizados</string>
@@ -128,6 +129,7 @@
     <string name="resource_downloading">Transferindo</string>
     <string name="resource_waiting_download">Aguarde</string>
     <string name="resource_import_successful">Transferência completa.</string>
+    <string name="resource_import_failed">Importação falhada</string>
     <string name="resource_delta_update_successful">Atualização com sucesso</string>
     <string name="resource_delta_update_failed">Atualização falhada: volte a transferir o tema…</string>
     <string name="resource_delta_update_total">%1$d atualizações delta guardadas %2$s para si</string>
@@ -135,7 +137,8 @@
     <string name="resource_update">Atualizar</string>
     <string name="resource_buy">Comprar</string>
     <string name="resource_importing">Importar</string>
-    <string name="online_no_network">Impedido de ligar à internet</string>
+    <string name="resource_ringtone_playing_error">playing error</string>
+    <string name="online_no_network">Não foi possível ligar-se à rede</string>
     <string name="online_search_hint">Procurar recurso on-line</string>
     <string name="loading">A procurar…</string>
     <string name="download_failed">Transferência falhada</string>
@@ -155,8 +158,8 @@
     <string name="resource_share_title">Partilhar</string>
     <string name="resource_share_subject">Partilhar tema: %1$s</string>
     <string name="resource_share_text">Aqui está um tema que  pode gostar: %1$s! Link: %2$s</string>
-    <string name="resource_delete_all">Tem a certeza que quer eliminar %1$d selecione recurso?</string>
-    <string name="resource_can_not_selected">%1$s Não pode selecionar!</string>
+    <string name="resource_delete_all">Eliminar %1$d recurso seleciono?</string>
+    <string name="resource_can_not_selected">Não pode selecionar %1$s</string>
     <string name="resource_system_title">Recurso de sistema</string>
     <string name="resource_downloaded_title">Transferência de recursos</string>
     <string name="resource_see_more">Ver mais</string>
@@ -174,6 +177,14 @@ o conteúdo que está a procurr não está disponível na sua região."</string>
     <string name="resource_purchase_getting_order">Recuperando informação encomenda…</string>
     <string name="resource_purchase_waiting_payment">À espera de informações de pagamento…</string>
     <string name="resource_purchase_verifying_payment">Verificar informações de pagamento…</string>
+    <string name="resource_download_trial">Teste gratuito</string>
+    <string name="resource_apply_trial">Experimente agora</string>
+    <string name="resource_on_trial">Experimentando: %1$s</string>
+    <string name="resource_trial_time">（Experimentando %1$d minutos）</string>
+    <string name="resource_trial_end_title">Avaliação expirada</string>
+    <string name="resource_trial_end_message">Avaliação por %1$s expirada. Se gosta, pode comprá-lo.</string>
+    <string name="resource_trial_end_restore">Avaliação expeirada</string>
+    <string name="resource_trial_end_purchase">Comprar</string>
     <string name="deleting">A Eliminar…</string>
     <string name="resource_title_select_ringtone">Selecione toque</string>
     <string name="resource_tip_select_ringtone">Nenhum toque foi selecionado</string>

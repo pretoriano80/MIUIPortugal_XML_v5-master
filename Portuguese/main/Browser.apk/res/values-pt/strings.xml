@@ -611,6 +611,9 @@
     <string name="quicklinks_group_default_subtitle">Vazio</string>
     <string name="add_quicklink_to_popular">Adicionar à página inicial</string>
     <string name="quicklink_saved_before">Este site foi adicionado</string>
+    <string name="network_alert_message">Sem Wi-Fi disponível, usar rede móvel?</string>
+    <string name="yes">Sim</string>
+    <string name="no">Não</string>
     <string name="webapp_autohority">miui.browser.webapps</string>
     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
