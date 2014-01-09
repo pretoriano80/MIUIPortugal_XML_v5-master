@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Início</item>
+        <item>Residencial</item>
         <item>Trabalho</item>
-        <item>Outro</item>
-        <item>Personalizar</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -19,29 +18,29 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Trabalho</item>
-        <item>Outro</item>
-        <item>Personalizar</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Início</item>
-        <item>Telemóvel</item>
+        <item>Residencial</item>
+        <item>Celular</item>
         <item>Trabalho</item>
-        <item>Fax do Emprego</item>
-        <item>Fax Pessoal</item>
+        <item>Fax do trabalho</item>
+        <item>Fax doméstico</item>
         <item>Pager</item>
-        <item>Outro</item>
-        <item>Personalizar</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Início</item>
+        <item>Residencial</item>
         <item>Trabalho</item>
-        <item>Outro</item>
-        <item>Personalizar</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Início</item>
+        <item>Residencial</item>
         <item>Trabalho</item>
-        <item>Outro</item>
-        <item>Personalizar</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
     </string-array>
 </resources>

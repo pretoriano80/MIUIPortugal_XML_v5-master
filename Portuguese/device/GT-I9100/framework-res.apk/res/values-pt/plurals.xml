@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <plurals name="num_seconds_ago">
         <item quantity="other">%d segundos atrás</item>
@@ -14,7 +13,7 @@
         <item quantity="one">1 hora atrás</item>
     </plurals>
     <plurals name="last_num_days">
-        <item quantity="other">Ultimos %d dias</item>
+        <item quantity="other">Últimos %d dias</item>
     </plurals>
     <plurals name="num_days_ago">
         <item quantity="other">%d dias atrás</item>
@@ -29,7 +28,7 @@
         <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">em %d horas</item>
+        <item quantity="other">Em %d horas</item>
         <item quantity="one">em 1 hora</item>
     </plurals>
     <plurals name="in_num_days">
@@ -37,12 +36,12 @@
         <item quantity="one">amanhã</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
-        <item quantity="other">%d segundos atrás</item>
-        <item quantity="one">1 segundo atrás</item>
+        <item quantity="other">"%d segundos   atrás"</item>
+        <item quantity="one">1 seg. atrás</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins atrás</item>
-        <item quantity="one">1 min atrás</item>
+        <item quantity="other">%d minutos atrás</item>
+        <item quantity="one">1 minuto atrás</item>
     </plurals>
     <plurals name="abbrev_num_hours_ago">
         <item quantity="other">%d horas atrás</item>
@@ -53,12 +52,12 @@
         <item quantity="one">ontem</item>
     </plurals>
     <plurals name="abbrev_in_num_seconds">
-        <item quantity="other">em %d segs</item>
-        <item quantity="one">em 1 seg</item>
+        <item quantity="other">em %d segundos</item>
+        <item quantity="one">em 1 segundo</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">em %d mins</item>
-        <item quantity="one">em 1 min</item>
+        <item quantity="other">em %d minutos</item>
+        <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="abbrev_in_num_hours">
         <item quantity="other">em %d horas</item>
@@ -78,6 +77,6 @@
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 correspondente</item>
+        <item quantity="one">Uma correspondência</item>
     </plurals>
 </resources>
