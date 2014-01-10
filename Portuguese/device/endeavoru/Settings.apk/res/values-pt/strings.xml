@@ -1445,7 +1445,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="media_volume_summary">Definir volume para música e vídeos</string>
     <string name="alarm_volume_title">Alarme</string>
     <string name="dock_settings_summary">As configurações de áudio para o anexo dock</string>
-    <string name="dtmf_tone_enable_title">Marque tons de toque paddrão</string>
+    <string name="dtmf_tone_enable_title">Marque tons de toque padrão</string>
     <string name="sound_effects_enable_title">Seleção audível</string>
     <string name="lock_sounds_enable_title">Sons de bloqueio de ecrã</string>
     <string name="haptic_feedback_enable_title">Vibrar com toque</string>
