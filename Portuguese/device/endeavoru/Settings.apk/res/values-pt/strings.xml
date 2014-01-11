@@ -259,7 +259,11 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="version_text">versão %1$s</string>
     <string name="security_relative">Relacionadas com segurança</string>
     <string name="privacy_relative">Relacionadas com privacidade</string>
+    <string name="perm_mian_name">Permissões</string>
     <string name="perm_app_name">Permissões</string>
+    <string name="perm_manage_tab_title">Permissões</string>
+    <string name="app_manage_tab_title">Aplicações</string>
+    <string name="app_log_tab_title">Registo de permissões</string>
     <string name="perm_copyright">Desenvolvido por LBE Privacy Guard</string>
     <string name="perm_version">Versão: %1$s</string>
     <string name="perm_configuration">Definições</string>
@@ -367,7 +371,6 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_log">Registos</string>
     <string name="perm_header">Gerir %1$d aplicações</string>
     <string name="perm_header_disabled">Está desativado gerir Permissões</string>
-    <string name="perm_su_enable_summary">Aplicações podem obter permissão de root</string>
     <string name="perm_su_switch">Permissão ROOT</string>
     <string name="perm_su">Gerir Permissão ROOT</string>
     <string name="perm_su_desc">Gerir %1$d aplicações para permissão ROOT</string>
@@ -392,6 +395,7 @@ Faça a transferência do desenvolvedor construção de MIUI para permitir permi
     <string name="perm_hips_disable_title">Gerir permissões</string>
     <string name="perm_hips_disable_content">Desligar vai fazer que a  MIUI pare as solicitações de aplicações de gerênciamento e não vai proteger a sua segurança e privacidade. Continuar?</string>
     <string name="perm_su_enable_title">Permissão ROOT</string>
+    <string name="perm_su_enable_summary">Permitir às aplicações obter permissão root</string>
     <string name="perm_su_enable_content">"Permitir aplicações que solicitam permissão ROOT.
 
 Nota: Aplicações com permissão podem causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos no hardware."</string>
@@ -417,12 +421,9 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="perm_sysopt_boost_auto_start">Auto-iniciar permissão</string>
     <string name="perm_sysopt_boost_auto_start_summary">Permitir que inicie automáticamente</string>
     <string name="perm_su_enable_dialog">%1$s está a tentar obter permissão ROOT do sistema que está desativada por padrão para garantir a segurança do sistema. Se precisa de ativar, vá até as configurações de gerênciamento de permissões.</string>
+    <string name="perm_notice">Notícia</string>
     <string name="trust_switch_dialog_msg">Não vai ser notificado quando esta aplicação executa ações de segurança ou de privacidade.</string>
     <string name="auto_startup_dialog_msg">A aplicação será iniciada automáticamente sem perguntar. Pode aumentar o consumo de energia e/ou o uso de dados.</string>
-    <string name="perm_mian_name">Permissão</string>
-    <string name="perm_manage_tab_title">Permissões</string>
-    <string name="app_manage_tab_title">Aplicações</string>
-    <string name="app_log_tab_title">Registo de permissões</string>
     <string name="auto_start_summary">%1$d aplicações ativadas para execução automática</string>
     <string name="auto_start_title">Gestão de execução automática</string>
     <string name="perm_app_enable">Monitorizar solicitações de permissão</string>
@@ -431,6 +432,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="perm_log_empty">Registo vazio</string>
     <string name="perm_root_manage_empty">Nenhuma das suas aplicações têm permissão ROOT</string>
     <string name="perm_app_manage_empty">Não está a monitorizar todas as aplicações</string>
+    <string name="perm_support_hints">Desenvolvido por LBE</string>
     <string name="power_autorun_control_title">Auto iniciar</string>
     <string name="power_autorun_control_desc">Aumentar o número de programas de inicialização automatica pode aumentar o consumo de energia do telefone"</string>
     <string name="power_usage_sort_title">Ver o consumo de energia</string>
@@ -2575,7 +2577,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="device_cpu2_info">Dual-Core:</string>
     <string name="device_cpu4_info">Quad-Core:</string>
     <string name="available_size">Disponível: %s</string>
-    <string name="total_size">Total %s</string>
+    <string name="total_size">Total: %s</string>
     <string name="memory_title">Disponível %1$s\u0009\u0009Total %2$s</string>
     <string name="xiaomi_account">Conta Xiaomi</string>
     <string name="sync_settings">Definições e Sincronização</string>

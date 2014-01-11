@@ -118,6 +118,7 @@
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>15000</item>
@@ -126,6 +127,7 @@
         <item>120000</item>
         <item>300000</item>
         <item>600000</item>
+        <item>2147483647</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nunca</item>
@@ -306,7 +308,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
-        <item>Só quando ligado na tomada</item>
+        <item>Só quando ligado a</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="wifi_sleep_policy_values">
@@ -845,7 +847,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Câmera</item>
         <item>Galeria</item>
         <item>Música</item>
-        <item>Vídeo</item>
         <item>Email</item>
     </string-array>
 </resources>
