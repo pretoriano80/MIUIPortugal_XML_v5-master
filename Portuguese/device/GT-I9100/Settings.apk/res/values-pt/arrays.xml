@@ -847,7 +847,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Câmera</item>
         <item>Galeria</item>
         <item>Música</item>
-        <item>Vídeo</item>
         <item>Email</item>
     </string-array>
 </resources>

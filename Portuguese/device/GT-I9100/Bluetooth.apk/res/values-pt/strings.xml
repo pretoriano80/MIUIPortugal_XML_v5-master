@@ -104,6 +104,9 @@
     <string name="bluetooth_share_file_name">Nome do ficheiro</string>
     <string name="sharedUserId" />
     <string name="process" />
+    <string name="miui_transfer_history_title">Transferências Bluetooth</string>
+    <string name="miui_transfer_inbound_title">Entradas</string>
+    <string name="miui_transfer_outbound_title">Saídas</string>
     <string name="pbap_session_key_dialog_title">Chave tipo de sessão para %1$s</string>
     <string name="pbap_session_key_dialog_header">Chave de sessão Bluetooth necessária</string>
     <string name="pbap_acceptance_timeout_message">Não houve tempo para aceitar a ligação com %1$s</string>
