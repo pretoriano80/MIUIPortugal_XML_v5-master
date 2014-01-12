@@ -432,7 +432,7 @@ Be careful, granting root permission to third-party apps may destabilize your de
     <string name="perm_log_empty">Registo vazio</string>
     <string name="perm_root_manage_empty">Nenhum das aplicações têm permissão ROOT</string>
     <string name="perm_app_manage_empty">Não está monitorizando todos as aplicações</string>
-    <string name="perm_support_hints">Desnvolvodo por LBE</string>
+    <string name="perm_support_hints">Desenvolvido por LBE</string>
     <string name="power_autorun_control_title">Auto iniciar</string>
     <string name="power_autorun_control_desc">Aumentar o número de programas de inicialização automatica pode aumentar o consumo de energia do telefone"</string>
     <string name="power_usage_sort_title">Ver o consumo de energia</string>
