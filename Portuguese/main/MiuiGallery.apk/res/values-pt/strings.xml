@@ -241,7 +241,7 @@
     <string name="add_sharer">Adicionar membro</string>
     <string name="album_name">Nome do álbum</string>
     <string name="already_apply_album">Abrir %1$s?</string>
-    <string name="no_picture_or_video">Cheio.</string>
+    <string name="no_picture_or_video">Vazio</string>
     <string name="camera_view_none_message">Usar a Câmera para tirar fotos e vídeos.</string>
     <string name="none_picture">Sem imagens.</string>
     <string name="show_hidden_albums">Mostrar álbuns escondidos</string>

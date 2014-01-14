@@ -19,9 +19,9 @@ Tem a certeza que quer desativar?"</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="cache_manage_title">Eliminar %1$d ficheiros(s) em cache,  %2$s de espaço livre</string>
-    <string name="cache_list_empty_hints">Não há ficheiros em cache.</string>
+    <string name="cache_list_empty_hints">Não há ficheiros em cache</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
-    <string name="fancy_icon_power_center">com.miui.powercenter</string>
+    <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
     <string name="optimize_title_cache">Cache</string>
     <string name="optimize_title_ad">Adicionar ficheiros</string>
     <string name="optimize_title_apk">Pacotes</string>
@@ -68,7 +68,7 @@ Tem a certeza que quer desativar?"</string>
     <string name="deep_clean_title_residual">Residuais</string>
     <string name="deep_clean_title_large_file">Ficheios grandes</string>
     <string name="system_cache_title">Cache de sistema</string>
-    <string name="empty_folder_title">Pasta cheia(%d)</string>
+    <string name="empty_folder_title">Pasta vazia(%d)</string>
     <string name="downloaded_rom_title">Atualizar pacotes</string>
     <string name="optimize_large_file_list_empty_content">Não foram encontrados ficheiros grandes.</string>
     <string name="deep_clean_tips_cache_title">Cache：</string>
@@ -259,7 +259,11 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="version_text">versão %1$s</string>
     <string name="security_relative">Relacionadas com segurança</string>
     <string name="privacy_relative">Relacionadas com privacidade</string>
+    <string name="perm_mian_name">Permissões</string>
     <string name="perm_app_name">Permissões</string>
+    <string name="perm_manage_tab_title">Permissões</string>
+    <string name="app_manage_tab_title">Aplicações</string>
+    <string name="app_log_tab_title">Registo de permissões</string>
     <string name="perm_copyright">Desenvolvido por LBE Privacy Guard</string>
     <string name="perm_version">Versão: %1$s</string>
     <string name="perm_configuration">Definições</string>
@@ -367,7 +371,6 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_log">Registos</string>
     <string name="perm_header">Gerir %1$d aplicações</string>
     <string name="perm_header_disabled">Está desativado gerir Permissões</string>
-    <string name="perm_su_enable_summary">Aplicações podem obter permissão de root</string>
     <string name="perm_su_switch">Permissão ROOT</string>
     <string name="perm_su">Gerir Permissão ROOT</string>
     <string name="perm_su_desc">Gerir %1$d aplicações para permissão ROOT</string>
@@ -376,7 +379,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_su_disabled_in_stable">ROOT não disponível na MIUI estável</string>
     <string name="perm_su_disabled_in_stable_desc">"Dar permissão ROOT para aplicações 3-party pode causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos no hardware.
         
-Por favor, mude para a aversão de desenvolvimento MIUI para permitir permissão ROOT."</string>
+Por favor, mude para a versão de desenvolvimento MIUI para permitir permissão ROOT."</string>
     <string name="perm_su_disabled_desc">Dar permissão ROOT para aplicações 3-party pode causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos ao hardware. Por favor, verifique se sabe utilizar a permissão ROOT.
 Faça a transferência do desenvolvedor construção de MIUI para permitir permissão ROOT."</string>
     <string name="perm_su_disabled_in_stable_download">Transferir MIUI</string>
@@ -392,14 +395,15 @@ Faça a transferência do desenvolvedor construção de MIUI para permitir permi
     <string name="perm_hips_disable_title">Gerir permissões</string>
     <string name="perm_hips_disable_content">Desligar vai fazer que a  MIUI pare as solicitações de aplicações de gerênciamento e não vai proteger a sua segurança e privacidade. Continuar?</string>
     <string name="perm_su_enable_title">Permissão ROOT</string>
-    <string name="perm_su_enable_content">"Permitir aplicações que solicitam permissão ROOT.
+    <string name="perm_su_enable_summary">Permitir às aplicações obter permissão root</string>
+    <string name="perm_su_enable_content">"Ligar que permitirá aplicações não solicitem permissão ROOT.
 
 Nota: Aplicações com permissão podem causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos no hardware."</string>
     <string name="perm_log_clear_title">Eliminar registos</string>
     <string name="perm_log_clear_content">Todos os registos serão eliminados. Quer ativar?</string>
-    <string name="perm_privacy_count">Permitidos: %1$d Negados: %2$d</string>
-    <string name="perm_privacy_app_count">%1$d permissões</string>
+    <string name="perm_privacy_count">Permitidos: %1$d | Negados: %2$d</string>
     <string name="perm_privacy_app_trust_summary">Permitido</string>
+    <string name="perm_privacy_app_count">%1$d permissões</string>
     <string name="perm_privacy_app_trust">Confiar nesta aplicação</string>
     <string name="perm_privacy_app_trust_summary_off">MIUI vai acompanhar esta aplicação</string>
     <string name="perm_privacy_app_trust_summary_on">MIUI vai confiar nesta Aplicação</string>
@@ -417,20 +421,18 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="perm_sysopt_boost_auto_start">Auto-iniciar permissão</string>
     <string name="perm_sysopt_boost_auto_start_summary">Permitir que inicie automáticamente</string>
     <string name="perm_su_enable_dialog">%1$s está a tentar obter permissão ROOT do sistema que está desativada por padrão para garantir a segurança do sistema. Se precisa de ativar, vá até as configurações de gerênciamento de permissões.</string>
+    <string name="perm_notice">Noticia</string>
     <string name="trust_switch_dialog_msg">Não vai ser notificado quando esta aplicação executa ações de segurança ou de privacidade.</string>
     <string name="auto_startup_dialog_msg">A aplicação será iniciada automáticamente sem perguntar. Pode aumentar o consumo de energia e/ou o uso de dados.</string>
-    <string name="perm_mian_name">Permissão</string>
-    <string name="perm_manage_tab_title">Permissões</string>
-    <string name="app_manage_tab_title">Aplicações</string>
-    <string name="app_log_tab_title">Registo de permissões</string>
     <string name="auto_start_summary">%1$d aplicações ativadas para execução automática</string>
     <string name="auto_start_title">Gestão de execução automática</string>
     <string name="perm_app_enable">Monitorizar solicitações de permissão</string>
     <string name="perm_app_header">Gestão de permissões</string>
     <string name="perm_app_title">Gestão de permissões das aplicações</string>
     <string name="perm_log_empty">Registo vazio</string>
-    <string name="perm_root_manage_empty">Nenhuma das suas aplicações têm permissão ROOT</string>
-    <string name="perm_app_manage_empty">Não está a monitorizar todas as aplicações</string>
+    <string name="perm_root_manage_empty">Nenhum das aplicações têm permissão ROOT</string>
+    <string name="perm_app_manage_empty">Não está monitorizando todos as aplicações</string>
+    <string name="perm_support_hints">Desenvolvido por LBE</string>
     <string name="power_autorun_control_title">Auto iniciar</string>
     <string name="power_autorun_control_desc">Aumentar o número de programas de inicialização automatica pode aumentar o consumo de energia do telefone"</string>
     <string name="power_usage_sort_title">Ver o consumo de energia</string>
@@ -2022,14 +2024,14 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="accessibility_settings_title">Definições de acessibilidade</string>
     <string name="accessibility_services_title">Serviços</string>
     <string name="accessibility_system_title">Sistema</string>
-    <string name="accessibility_toggle_large_text_title">Large text</string>
-    <string name="accessibility_power_button_ends_call_title">Power button ends call</string>
-    <string name="accessibility_speak_password_title">Speak passwords</string>
-    <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
-    <string name="accessibility_script_injection_title">Enhance web accessibility</string>
-    <string name="accessibility_menu_item_settings">Settings</string>
-    <string name="accessibility_service_state_on">On</string>
-    <string name="accessibility_service_state_off">Off</string>
+    <string name="accessibility_toggle_large_text_title">Texto grande</string>
+    <string name="accessibility_power_button_ends_call_title">Botão Lig/desl Term. chamada</string>
+    <string name="accessibility_speak_password_title">Dizer senhas</string>
+    <string name="accessibility_long_press_timeout_title">Temporização ao tocar e manter</string>
+    <string name="accessibility_script_injection_title">Instalar scripts da web</string>
+    <string name="accessibility_menu_item_settings">Definições</string>
+    <string name="accessibility_service_state_on">Ligado</string>
+    <string name="accessibility_service_state_off">Desligado</string>
     <string name="accessibility_script_injection_allowed">Permitido</string>
     <string name="accessibility_script_injection_disallowed">Não permitido</string>
     <string name="accessibility_script_injection_button_allow">Permitir</string>
@@ -2575,7 +2577,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="device_cpu2_info">Dual-Core:</string>
     <string name="device_cpu4_info">Quad-Core:</string>
     <string name="available_size">Disponível: %s</string>
-    <string name="total_size">Total %s</string>
+    <string name="total_size">Total: %s</string>
     <string name="memory_title">Disponível %1$s\u0009\u0009Total %2$s</string>
     <string name="xiaomi_account">Conta Xiaomi</string>
     <string name="sync_settings">Definições e Sincronização</string>
