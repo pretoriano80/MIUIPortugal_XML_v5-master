@@ -28,7 +28,7 @@
         <item quantity="one">em 1 minuto</item>
     </plurals>
     <plurals name="in_num_hours">
-        <item quantity="other">Em %d horas</item>
+        <item quantity="other">em %d horas</item>
         <item quantity="one">em 1 hora</item>
     </plurals>
     <plurals name="in_num_days">
