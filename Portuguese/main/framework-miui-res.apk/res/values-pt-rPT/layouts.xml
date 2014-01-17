@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <item type="layout" name="android_always_use_checkbox">@*android:layout/always_use_checkbox</item>
+    <item type="layout" name="android_notification_template_base">@*android:layout/notification_template_base</item>
+    <item type="layout" name="android_preference_header_item">@*android:layout/preference_header_item</item>
+    <item type="layout" name="android_preference_list_fragment">@*android:layout/preference_list_fragment</item>
+    <item type="layout" name="android_preference_widget_checkbox">@*android:layout/preference_widget_checkbox</item>
+    <item type="layout" name="android_preference_widget_switch">@*android:layout/preference_widget_switch</item>
+    <item type="layout" name="android_transient_notification">@*android:layout/transient_notification</item>
+    <item type="layout" name="android_usb_storage_activity">@*android:layout/usb_storage_activity</item>
+    <item type="layout" name="deprecated_3">@*android:layout/notification_template_base</item>
+    <item type="layout" name="deprecated_4">@*android:layout/notification_template_base</item>
+    <item type="layout" name="deprecated_5">@*android:layout/notification_template_base</item>
+    <item type="layout" name="deprecated_6">@*android:layout/notification_template_base</item>
+    <item type="layout" name="deprecated_7">@*android:layout/notification_template_base</item>
+    <item type="layout" name="deprecated_8">@*android:layout/notification_template_base</item>
+    <item type="layout" name="android_simple_list_item_2_single_choice">@*android:layout/simple_list_item_2_single_choice</item>
+    <item type="layout" name="android_expanded_menu_layout">@*android:layout/expanded_menu_layout</item>
+    <item type="layout" name="android_list_menu_item_layout">@*android:layout/list_menu_item_layout</item>
+    <item type="layout" name="android_resolver_grid">@*android:layout/resolver_grid</item>
+    <item type="layout" name="android_resolve_list_item">@*android:layout/resolve_list_item</item>
+    <item type="layout" name="android_screen_action_bar">@*android:layout/screen_action_bar</item>
+    <item type="layout" name="android_screen_action_bar_overlay">@*android:layout/screen_action_bar_overlay</item>
+    <item type="layout" name="android_search_bar">@*android:layout/search_bar</item>
+    <item type="layout" name="android_search_view">@*android:layout/search_view</item>
+    <item type="layout" name="deprecated_0">@*android:layout/notification_template_base</item>
+    <item type="layout" name="deprecated_1">@*android:layout/notification_template_base</item>
+    <item type="layout" name="deprecated_2">@*android:layout/notification_template_base</item>
+    <item type="layout" name="android_notification_template_big_base">@*android:layout/notification_template_big_base</item>
+    <item type="layout" name="android_notification_template_big_picture">@*android:layout/notification_template_big_picture</item>
+    <item type="layout" name="android_notification_template_big_text">@*android:layout/notification_template_big_text</item>
+    <item type="layout" name="android_notification_template_inbox">@*android:layout/notification_template_inbox</item>
+    <item type="layout" name="android_media_controller">@*android:layout/media_controller</item>
+    <item type="layout" name="android_seekbar_dialog">@*android:layout/seekbar_dialog</item>
+</resources>

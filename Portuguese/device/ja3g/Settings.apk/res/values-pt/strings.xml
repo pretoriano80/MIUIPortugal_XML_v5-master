@@ -2,10 +2,10 @@
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string name="versionCode">2</string>
-    <string name="versionName">1.0.131218</string>
+    <string name="versionName">1.0.140114</string>
     <string name="auto_startup_application_manage">Auto Iniciar</string>
-    <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automáticamente</string>
-    <string name="man_add_application">Adicionar aplicações a iniciar automáticamente</string>
+    <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automaticamente</string>
+    <string name="man_add_application">Adicionar aplicações a iniciar automaticamente</string>
     <string name="application_item_disable">Negar</string>
     <string name="application_item_permission">Permitir</string>
     <string name="application_item_already_permission">Permitidas</string>
@@ -121,7 +121,7 @@ Tem a certeza que quer desativar?"</string>
     <string name="power_center_consume_rank">Consumo de energia</string>
     <string name="power_center_custom_title">Economizar bateria</string>
     <string name="power_center_custom_summary_default">Otimizar as configurações, de economizar bateria</string>
-    <string name="power_center_low_battery_title">Mudar automáticamente</string>
+    <string name="power_center_low_battery_title">Mudar automaticamente</string>
     <string name="power_center_low_battery_summary_default">Mudar de modo quando a bateria está fraca</string>
     <string name="power_center_low_battery_summary_dynamic">Quando a energia restante é inferior a %1$d%% mudar para %2$s</string>
     <string name="power_center_on_time_title">Agenda</string>
@@ -163,7 +163,7 @@ Tem a certeza que quer desativar?"</string>
     <string name="power_mode_cpu_state_balance_desc">Apenas aumentar o desempenho da CPU conforme necessário</string>
     <string name="power_mode_cpu_state_save">Economizar bateria</string>
     <string name="power_mode_cpu_state_save_desc">Tornar o desempenho da vida da bateria uma prioridade</string>
-    <string name="power_mode_auto_clean_memory">Elimine a memória automáticamente</string>
+    <string name="power_mode_auto_clean_memory">Elimine a memória automaticamente</string>
     <string name="power_mode_auto_clean_memery_lock_screen">Bloquear ecrã depois %1$d mins</string>
     <string name="power_mode_auto_clean_memory_in_one_minute">Depois de um minuto</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">Depois de cinco minutos</string>
@@ -197,12 +197,12 @@ Tem a certeza que quer desativar?"</string>
     <string name="power_dialog_cpu_state_balance_desc">Aumentar apenas o desempenho da CPU, conforme necessário</string>
     <string name="power_dialog_cpu_state_save">Desempenho da bateria</string>
     <string name="power_dialog_cpu_state_save_desc">Tornar a vida da bateria uma prioridade sobre o desempenho da CPU</string>
-    <string name="power_dialog_auto_clean_memory_title">Eliminar memória automáticamente</string>
+    <string name="power_dialog_auto_clean_memory_title">Eliminar memória automaticamente</string>
     <string name="power_dialog_auto_clean_memory_summary">Quando o dispositivo está bloqueado, eliminar cache dos processos que estão a consumir energia</string>
     <string name="power_dialog_sleep_title">Dormir</string>
     <string name="power_dialog_vibration_title">Vibrar</string>
     <string name="power_dialog_screen_brightness_title">Brilho</string>
-    <string name="power_dialog_screen_brightness_automatic">Ajustar brilho automáticamente</string>
+    <string name="power_dialog_screen_brightness_automatic">Ajustar brilho automaticamente</string>
     <string name="power_dialog_screen_brightness_automatic_off">O brilho da tela permanecerá constante em todos os ambientes</string>
     <string name="power_dialog_screen_brightness_automatic_on">O brilho da tela pode variar em relação à luz em seu redor</string>
     <string name="power_dialog_cancel">Cancelar</string>
@@ -390,7 +390,7 @@ Faça a transferência do desenvolvedor construção de MIUI para permitir permi
     <string name="perm_hips_desc2">Gerir %1$d para segurança e privacidade</string>
     <string name="perm_hips_risky">Permissões de risco (%1$d)</string>
     <string name="perm_hips_safe">Permissões normais (%1$d)</string>
-    <string name="perm_auto_start">Gerir aplicações que iniciam automáticamente</string>
+    <string name="perm_auto_start">Gerir aplicações que iniciam automaticamente</string>
     <string name="perm_auto_start_desc">Ligar ou desligar a função de auto-gerir aplicações</string>
     <string name="perm_hips_disable_title">Gerir permissões</string>
     <string name="perm_hips_disable_content">Desligar vai fazer que a  MIUI pare as solicitações de aplicações de gerênciamento e não vai proteger a sua segurança e privacidade. Continuar?</string>
@@ -419,11 +419,11 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="perm_sysopt_boost_receiver">Fundo</string>
     <string name="perm_sysopt_boost_auto_start_group">Auto-iniciar</string>
     <string name="perm_sysopt_boost_auto_start">Auto-iniciar permissão</string>
-    <string name="perm_sysopt_boost_auto_start_summary">Permitir que inicie automáticamente</string>
+    <string name="perm_sysopt_boost_auto_start_summary">Permitir que inicie automaticamente</string>
     <string name="perm_su_enable_dialog">%1$s está a tentar obter permissão ROOT do sistema que está desativada por padrão para garantir a segurança do sistema. Se precisa de ativar, vá até as configurações de gerênciamento de permissões.</string>
     <string name="perm_notice">Noticia</string>
     <string name="trust_switch_dialog_msg">Não vai ser notificado quando esta aplicação executa ações de segurança ou de privacidade.</string>
-    <string name="auto_startup_dialog_msg">A aplicação será iniciada automáticamente sem perguntar. Pode aumentar o consumo de energia e/ou o uso de dados.</string>
+    <string name="auto_startup_dialog_msg">A aplicação será iniciada automaticamente sem perguntar. Pode aumentar o consumo de energia e/ou o uso de dados.</string>
     <string name="auto_start_summary">%1$d aplicações ativadas para execução automática</string>
     <string name="auto_start_title">Gestão de execução automática</string>
     <string name="perm_app_enable">Monitorizar solicitações de permissão</string>
@@ -470,7 +470,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="summary_usb">Evite espalhar vírus através da ligação USB</string>
     <string name="title_virus_update_no">Atualização automatica de definições de vírus desligada</string>
     <string name="title_virus_update_yes">Atualização automatica de definições de vírus ligada</string>
-    <string name="summary_virus_update">Atualizar as definições de vírus automáticamente quando ligado a Wi-Fi</string>
+    <string name="summary_virus_update">Atualizar as definições de vírus automaticamente quando ligado a Wi-Fi</string>
     <string name="title_install_virus_no">Monitor de instalação desativado</string>
     <string name="title_install_virus_yes">Monitor de instalação ativado</string>
     <string name="summary_install_virus">Verificar aplicações antes da instalação</string>
@@ -485,7 +485,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="button_text_security">Segurança</string>
     <string name="item_virus">Vírus</string>
     <string name="item_usb_debug">Depuração USB</string>
-    <string name="item_virus_lib">Atualizar as definições de vírus automáticamente</string>
+    <string name="item_virus_lib">Atualizar as definições de vírus automaticamente</string>
     <string name="item_install_monitor">instalar monitorizar</string>
     <string name="item_app_permission">Permissões de aplicações</string>
     <string name="item_mms">Filtro de mensagens indesejadas</string>
@@ -540,7 +540,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scanner_select_single">Use apenas as definições de uma fonte confiável.</string>
     <string name="virus_scanner_provider">Definições fornecidas por %s</string>
     <string name="virus_scanner_module">Tencent</string>
-    <string name="virus_scanner_auto_update">Atualizar automáticamente</string>
+    <string name="virus_scanner_auto_update">Atualizar automaticamente</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
     <string name="virus_scanner_manual_update">Atualizado %s</string>
     <string name="virus_scanner_lib_updating">Atualizando definições…</string>
@@ -586,7 +586,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="show_notification">Mostrar notificações</string>
     <string name="opt_reject_blacklist">Rejeitar chamadas de números da lista de bloqueio</string>
     <string name="opt_reject_blacklist_stranger">Rejeitar chamadas de números desconhecidos da lista de bloqueio</string>
-    <string name="opt_reject_blacklist_stranger_summary">Chamadas de números bloqueados serão rejeitados automáticamente</string>
+    <string name="opt_reject_blacklist_stranger_summary">Chamadas de números bloqueados serão rejeitados automaticamente</string>
     <string name="opt_accept_whitelist">Aceitar chamadas de números na lista de exceções</string>
     <string name="opt_reject_all">Rejeitar todas as chamadas</string>
     <string name="firewall_action">Ações de bloqueio</string>
@@ -795,7 +795,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scan_settings_title">Configurações de definição de virus</string>
     <string name="virus_scan_lib_update_success">Atualização concluída!</string>
     <string name="virus_scan_link_wifi_to_update_lib">Atualizar automaticamente</string>
-    <string name="virus_scan_update_lib">Atualizar definições de vírus automáticamente</string>
+    <string name="virus_scan_update_lib">Atualizar definições de vírus automaticamente</string>
     <string name="virus_scan_update_now">Atualizar agora</string>
     <string name="virus_scan_use_cloud">Definições de vírus Cloud</string>
     <string name="virus_scan_can_use_wifi">Use definições on-line para verificar</string>
@@ -803,7 +803,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scan_judge_is_virus">Verificar vírus antes de instalar uma aplicação</string>
     <string name="virus_scan_viruslib_version">Versão das definições de vírus: %s</string>
     <string name="virus_scan_settings">Configurações</string>
-    <string name="virus_scanner_lib_update_success">As definições de vírus foram atualizadas automáticamente. ^_^</string>
+    <string name="virus_scanner_lib_update_success">As definições de vírus foram atualizadas automaticamente. ^_^</string>
     <string name="virus_scanner_lib_update_failed">Atualização falhada.</string>
     <string name="virus_scan_finish_text">OK, verificação concluída!</string>
     <string name="virus_scan_list_loading_hits">Verificando…</string>
@@ -1520,9 +1520,9 @@ Configuração do telefone pode exigir a atividade de rede significativa."</stri
     <string name="search_settings">Pesquisar</string>
     <string name="search_settings_summary">Gerir as definições de pesquisa e histórico</string>
     <string name="display_settings">Ecrã</string>
-    <string name="accelerometer_title">Rodar ecrã automáticamente</string>
-    <string name="accelerometer_summary_on">Rodar automáticamente ao girar o telefone</string>
-    <string name="accelerometer_summary_off">Rodar automáticamente ao girar o telefone</string>
+    <string name="accelerometer_title">Rodar ecrã automaticamente</string>
+    <string name="accelerometer_summary_on">Rodar automaticamente ao girar o telefone</string>
+    <string name="accelerometer_summary_off">Rodar automaticamente ao girar o telefone</string>
     <string name="brightness">Brilho</string>
     <string name="brightness_summary">Ajustar o brilho do ecrã</string>
     <string name="screen_timeout">Dormir</string>
@@ -2497,9 +2497,9 @@ Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus co
 Poderá encontrar controlos de uso de dados mais adequados nas configurações disponíveis na aplicação".</string>
     <string name="data_usage_restrict_denied_dialog">Restringir dados em segundo plano é possível apenas quando já tiver definido um limite de dados móveis.</string>
     <string name="data_usage_auto_sync_on_dialog_title">Ligar auto-sincronização de dados?</string>
-    <string name="data_usage_auto_sync_on_dialog">"As alterações feitas às suas contas no web serão automáticamente copiadas para o seu telefone.
+    <string name="data_usage_auto_sync_on_dialog">"As alterações feitas às suas contas no web serão automaticamente copiadas para o seu telefone.
 
-Algumas contas podem copiar também automáticamente as alterações feitas no telefone para a web. Uma conta do Google funciona dessa maneira.
+Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta do Google funciona dessa maneira.
 
 Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Configurações > Contas. "</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desligar auto-sincronização de dados?</string>
@@ -2656,9 +2656,9 @@ Qualquer utilizador pode aceitar as permissões de aplicações atualizados em n
     <string name="dndm_auto_time_setting">Definições das horas</string>
     <string name="dndm_auto_time_setting_summary">De %1$s a %2$s</string>
     <string name="dndm_auto_time_turn_on">Hora de início</string>
-    <string name="dndm_auto_time_turn_on_title">Ligar automáticamente não perturbar</string>
+    <string name="dndm_auto_time_turn_on_title">Ligar automaticamente não perturbar</string>
     <string name="dndm_auto_time_turn_off">Hora de fim</string>
-    <string name="dndm_auto_time_turn_off_title">Desligar automáticamente não perturbar</string>
+    <string name="dndm_auto_time_turn_off_title">Desligar automaticamente não perturbar</string>
     <string name="dndm_dlg_remove_vip">Eliminar da lista VIP?</string>
     <string name="dndm_dlg_remove_ok">Eliminar</string>
     <string name="dndm_menu_add_vip_custom">Adicionar nºs VIP</string>
@@ -2755,7 +2755,7 @@ Qualquer utilizador pode aceitar as permissões de aplicações atualizados em n
     <string name="touch_sensitive_turn_off_cancel">Cancelar</string>
     <string name="screen_never_timeout_title">Nunca desliga o ecrã</string>
     <string name="screen_on_proximity_sensor_title">Prevenir uso inadvertido no bolso</string>
-    <string name="screen_on_proximity_sensor_summary">O telefone irá bloquear automáticamente quando colocado no bolso.</string>
+    <string name="screen_on_proximity_sensor_summary">O telefone irá bloquear automaticamente quando colocado no bolso.</string>
     <string name="preferred_launcher_title">Launcher preferido</string>
     <string name="preferred_application_title">Preferidas %s</string>
     <string name="preferred_application_warning_title">Substituir o launcher preferido %s</string>
@@ -2812,7 +2812,7 @@ Qualquer utilizador pode aceitar as permissões de aplicações atualizados em n
     <string name="nearby_wifi">Redes disponíveis</string>
     <string name="unlock_set_enter_system">Aceder diretamente ao bloqueio de ecrã</string>
     <string name="unlock_set_enter_system_summary">Vá diretamente para a ecrã inicial para ligar</string>
-    <string name="forget_wifi_message">O seu telefone irá parar de se ligar a essa rede automáticamente</string>
+    <string name="forget_wifi_message">O seu telefone irá parar de se ligar a essa rede automaticamente</string>
     <string name="button_disconnect_network">Desligado da rede</string>
     <string name="no_nearby_wifi">Não há redes detectadas</string>
     <string name="manually_add_network">Adicionar rede manualmente</string>
@@ -3050,7 +3050,7 @@ Link para transferir http://miui.com/mac"</string>
     <string name="drive_mode_phone_report">Relatório de chamadas</string>
     <string name="drive_mode_sms_report">Relatório de SMS</string>
     <string name="drive_mode_invert_stop_report">Vire para parar relatório</string>
-    <string name="drive_mode_auto_reply">Responder automáticamente</string>
+    <string name="drive_mode_auto_reply">Responder automaticamente</string>
     <string name="drive_mode_calling_auto_sms_reply">Resposta automática a chamada por SMS</string>
     <string name="drive_mode_sms_auto_sms_reply">Resposta automática via SMS</string>
     <string name="drive_mode_only_contact_reply">Responder só a contactos</string>
@@ -3100,7 +3100,7 @@ Link para transferir http://miui.com/mac"</string>
     <string name="enable_wifi_display">Ativar exibição Wireless</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">MiCredit</string>
-    <string name="wifi_auto_connect">Ligar automáticamente</string>
+    <string name="wifi_auto_connect">Ligar automaticamente</string>
     <string name="select_ssid_type_title">Resseleção entre SSID</string>
     <string name="gsm_to_wifi_connect_type_title">Cellular->Wi-Fi</string>
     <string name="wifi_priority_settings_label">Prioridade de Definições</string>
