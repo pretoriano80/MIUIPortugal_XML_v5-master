@@ -320,12 +320,12 @@
     <string name="experimental_validate_warning">Em cada exploração que faz, ajuda a MIUI a tornar-se melhor!</string>
     <string name="find_device_check_sim">A verificar o SIM…</string>
     <string name="find_device_sim_change_instructions">"O seu dispositivo foi bloqueado
-Por favor, insira o cartão SIM, ou introduza a senha da sua conta Xiaomi."</string>
+Por favor, insira o cartão SIM, ou introduza a senha da sua conta Xiaomi"</string>
     <string name="find_device_sim_change_instructions_no_network">"O seu dispositivo foi bloqueado
-Por favor, insira o cartão SIM."</string>
+Por favor, insira o cartão SIM"</string>
     <string name="find_device_turn_off_flight_mode">Desativar o modo avião</string>
     <string name="find_device_turn_off_flight_mode_instructions">"O seu dispositivo foi bloqueado
-Por favor, desligue o modo avião."</string>
+Por favor, desligue o modo avião"</string>
     <string name="firewall_setting">AntiSpam</string>
     <string name="first_back_long_press_message">"Quer ativar a função pressionar-longo a tecla voltar para terminar todos os processos em excução? 
 
@@ -429,7 +429,7 @@ Memória disponível: %2$s"</string>
     <string name="screen_on_proximity_sensor_summary">Não cubra a parte superior do ecrã</string>
     <string name="screen_on_proximity_sensor_title">Modo de prevenção de operação incorreta</string>
     <string name="deprecated_48" />
-    <string name="sd_not_available">Não foi detectado nenhum cartão SD</string>
+    <string name="sd_not_available">O cartão SD não está disponível, insira-o</string>
     <string name="sd_not_available_low_internal_storage">Cartão SD indisponível e falta de armazenamento interno</string>
     <string name="sd_not_available_saved_to_internal_storage">Ficheiro armazenado dentro de uma pasta</string>
     <string name="sd_not_available_use_internal_storage">Cartão SD indisponível, foi guardado no armazenamento interno</string>
@@ -595,7 +595,7 @@ Memória disponível: %2$s"</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Barra de estado, Barra de notificação</string>
     <string name="app_no_notification">nada</string>
     <string name="app_notificaiton_on_notificationBar">Bar de notification</string>
-    <string name="android_safe_media_volume_warning">@*android:string/no</string>
+    <string name="deprecated_49" />
     <string name="device_hongmi">Telefone Hongmi</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu a senha errada %d vezes. Depois de %d tentativas, para desbloquear o telefone tem que aceder à sua conta.
 
@@ -667,5 +667,5 @@ Tente novamente em %d segundos."</string>
     <string name="return_to_me_message">Perdido por favor devolva a</string>
     <string name="unlock_string">OK</string>
     <string name="open_wifi_settings">Ligação de rede aberta</string>
-    <string name="lock_screen_date">dd/MM EEEE</string>
+    <string name="lock_screen_date">dd/MM E</string>
 </resources>
