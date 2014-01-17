@@ -13,7 +13,7 @@
     <string name="ok">OK</string>
     <string name="paste">Colar</string>
     <string name="search_go">Pesquisar</string>
-    <string name="selectAll">Seleccionar tudo</string>
+    <string name="selectAll">Selecionar tudo</string>
     <string name="unknownName">(Desconhecido)</string>
     <string name="untitled">&lt;Sem nome></string>
     <string name="VideoView_error_button">OK</string>
@@ -177,7 +177,7 @@
     <string name="serviceDisabled">O serviço foi desactivado.</string>
     <string name="serviceRegistered">O registo foi bem sucedido.</string>
     <string name="serviceErased">A eliminação foi bem sucedida.</string>
-    <string name="passwordIncorrect">Palavra-passe incorrecta.</string>
+    <string name="passwordIncorrect">Palavra-passe incorreta.</string>
     <string name="mmiComplete">MMI concluído.</string>
     <string name="badPin">O PIN antigo que introduziu não está correto.</string>
     <string name="badPuk">O PUK que introduziu não está correto.</string>
@@ -189,7 +189,7 @@
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
     <string name="ClipMmi">ID do Autor da Chamada</string>
-    <string name="ClirMmi">ID do autor da chamada efetuada</string>
+    <string name="ClirMmi">ID do autor da chamada efectuada</string>
     <string name="CfMmi">Encaminhamento de chamadas</string>
     <string name="CwMmi">Chamada em espera</string>
     <string name="BaMmi">Barramento de chamadas</string>
@@ -254,7 +254,7 @@
     <string name="httpErrorConnect">Não foi possível ligar ao servidor.</string>
     <string name="httpErrorIO">Não foi possível comunicar com o servidor. Tente novamente mais tarde.</string>
     <string name="httpErrorTimeout">Esgotou o tempo limite da ligação ao servidor.</string>
-    <string name="httpErrorRedirectLoop">A página contém demasiados redireccionamentos do servidor.</string>
+    <string name="httpErrorRedirectLoop">A página contém demasiados redirecionamentos do servidor.</string>
     <string name="httpErrorFailedSslHandshake">Não foi possível estabelecer uma ligação segura.</string>
     <string name="httpErrorFile">Não foi possível aceder ao ficheiro.</string>
     <string name="httpErrorFileNotFound">Não foi possível localizar o ficheiro solicitado.</string>
@@ -271,9 +271,9 @@
     <string name="turn_off_radio">Desactivar sem fios</string>
     <string name="screen_lock">Bloqueio de ecrã</string>
     <string name="power_off">Desligar</string>
-    <string name="silent_mode_silent">Campainha desativada</string>
-    <string name="silent_mode_vibrate">Campainha em vibração.</string>
-    <string name="silent_mode_ring">Campainha ativada</string>
+    <string name="silent_mode_silent">Toque desativado</string>
+    <string name="silent_mode_vibrate">Toque em vibração.</string>
+    <string name="silent_mode_ring">Toque ativado</string>
     <string name="shutdown_progress">A encerrar...</string>
     <string name="shutdown_confirm">O seu telefone irá encerrar.</string>
     <string name="shutdown_confirm_question">Pretende encerrar?</string>
