@@ -412,14 +412,14 @@ Para adicionar um contacto à sua lista de favoritos:
     <string name="description_view_contact_detail">Ver contacto</string>
     <string name="no_sdcard_message">Cartão de memória não encontrado.</string>
     <string name="import_from_sim">Importar do cartão SIM</string>
-    <string name="import_from_sdcard">Importar do cartão SD</string>
-    <string name="export_to_sdcard">Exportar para o cartão SD</string>
+    <string name="import_from_sdcard">Importar do armazenamento</string>
+    <string name="export_to_sdcard">Exportar para o armazenamento</string>
     <string name="share_visible_contacts">Partilhar contactos</string>
     <string name="import_one_vcard_string">Importar um ficheiro vCard</string>
     <string name="import_multiple_vcard_string">Importar vários ficheiros vCard</string>
     <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
     <string name="searching_vcard_message">A procurar dados do vCard no armaz…</string>
-    <string name="scanning_sdcard_failed_title">O Cartão SD não pode ser verificado</string>
+    <string name="scanning_sdcard_failed_title">O armazenamento não pode ser verificado</string>
     <string name="scanning_sdcard_failed_message">Razão: \"%s\".</string>
     <string name="fail_reason_io_error">Erro I/O</string>
     <string name="fail_reason_low_memory_during_import">Memória insuficiente. O ficheiro pode é muito grande</string>
@@ -787,6 +787,7 @@ Motivo: \"%s\""</string>
     <string name="deselect_all">Desmarcar tudo</string>
     <string name="select_none">Nada selecionado</string>
     <string name="toast_finish_delete_call_log">Registo de chamadas eliminado</string>
+    <string name="toast_finish_delete_selected_call_log">O registo de chamada selecionado foi eliminado</string>
     <string name="confirm_delete_contact_all_call_logs">Eliminar registos de chamadas?</string>
     <string name="confirm_delete_selected_all_call_logs">Eliminar registos de chamadas?</string>
     <string name="calllog_menu_blacklist">Bloquear</string>
