@@ -53,8 +53,8 @@
     <string name="menu_call">Marcar</string>
     <string name="menu_sms">Enviar mensagem</string>
     <string name="menu_restore">Restaurar a mensagem</string>
-    <string name="menu_bl_call_log">Verifique as chamadas bloqueadas</string>
-    <string name="menu_bl_sms_log">Verifique as mensagens bloqueadas</string>
+    <string name="menu_bl_call_log">Ver chamadas bloqueadas</string>
+    <string name="menu_bl_sms_log">Ver mensagens bloqueadas</string>
     <string name="menu_bl_remove">Eliminar da lista negra</string>
     <string name="menu_bl_clear">Eliminar lista negra</string>
     <string name="menu_bl_add_manual">Adcionar</string>
@@ -81,7 +81,7 @@
     <string name="st_filter_keywords_setting_title">Definir filtro de palavras-chave</string>
     <string name="st_filter_keywords_title">Filtro de palavras-chave para mensagens</string>
     <string name="st_filter_keywords_setting_summary1">As mensagems enviadas por números desconhecidos contém palavras-chave e serão bloqueadas.</string>
-    <string name="st_filter_keywords_setting_summary2">Pode adicionar várias palavras-chave, separadas com vírgula.</string>
+    <string name="st_filter_keywords_setting_summary2">Pode adicionar várias palavras-chave, separadas com vírgula \",\"</string>
     <string name="st_advanced_setting_group">Avançado</string>
     <string name="st_block_unknown_call">Bloquear chamadas desconhecidas</string>
     <string name="st_block_unknown_sms">Bloquear mensagens desconhecidas</string>

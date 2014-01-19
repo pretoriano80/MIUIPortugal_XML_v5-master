@@ -39,5 +39,6 @@ Clique %s para iniciar esta transferência da próxima vez que estiver ligado a 
     <string name="download_percent">%d%%</string>
     <string name="dialog_insufficient_space_on_external">Não há espaço suficiente no armazenamento externo</string>
     <string name="dialog_insufficient_space_on_cache">Não há espaço suficiente no armazenamento de transferências interno</string>
-    <string name="auto_restart_under_wifi">Wi-Fi will automatically download this file</string>
+    <string name="auto_restart_under_wifi">Wi-Fi irá transferir automáticamente este arquivo</string>
+    <string name="task_already_exist">A tarefa já existe</string>
 </resources>

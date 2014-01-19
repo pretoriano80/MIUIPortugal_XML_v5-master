@@ -4,7 +4,7 @@
     <string-array name="reminder_methods_labels">
         <item>Notificação</item>
         <item>Email</item>
-        <item>SMS</item>
+        <item>Mensagem de texto</item>
         <item>Alarme</item>
     </string-array>
     <integer-array name="reminder_methods_values">
