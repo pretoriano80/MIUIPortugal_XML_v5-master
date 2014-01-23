@@ -1166,7 +1166,7 @@
         <item>1</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Avançar Pagina/voltar</item>
+        <item>Avançar Página/voltar</item>
         <item>Mudar janela</item>
     </string-array>
     <string-array name="pref_fling_on_border_values">
@@ -1180,7 +1180,7 @@
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Nunca</item>
-        <item>Apenas ligado a Wi-Fi</item>
+        <item>Apenas quando ligado a Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
 </resources>

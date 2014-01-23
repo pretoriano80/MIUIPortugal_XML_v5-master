@@ -2,7 +2,26 @@
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <plurals name="delete_selection">
-        <item quantity="other">Delete selected items?</item>
+        <item quantity="other">Eliminar itens selecionados?</item>
         <item quantity="one">Eliminar item selecionado?</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d selecionado(s)</item>
+        <item quantity="zero">%1$d selecionado(s)</item>
+        <item quantity="one">%1$d selecionado(s)</item>
+    </plurals>
+    <plurals name="number_of_albums_selected">
+        <item quantity="other">%1$d selecionado(s)</item>
+        <item quantity="zero">%1$d selecionado(s)</item>
+        <item quantity="one">%1$d selecionado(s)</item>
+    </plurals>
+    <plurals name="number_of_groups_selected">
+        <item quantity="other">%1$d selecionado(s)</item>
+        <item quantity="zero">%1$d selecionado(s)</item>
+        <item quantity="one">%1$d selecionado(s)</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Disponibilizar álbuns offline.</item>
+        <item quantity="one">Disponibilizar álbum offline.</item>
     </plurals>
 </resources>

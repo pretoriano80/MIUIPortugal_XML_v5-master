@@ -140,13 +140,13 @@
     <string name="autologin_bar_hide_text">Ocultar</string>
     <string name="autologin_bar_error">Não foi possível fazer login</string>
     <string name="autofill_profile_editor_heading">Digite o texto para preenchimento automático de formulários web.</string>
-    <string name="autofill_profile_editor_name">Nome completo:</string>
+    <string name="autofill_profile_editor_name">Nome completo</string>
     <string name="autofill_profile_editor_email_address">Endereço de correio electrónico</string>
     <string name="autofill_profile_editor_company_name">Nome da empresa:</string>
     <string name="autofill_profile_editor_address_line_1">Morada linha 1</string>
     <string name="autofill_profile_editor_address_line_1_hint">Rua, Código Postal</string>
-    <string name="autofill_profile_editor_address_line_2">Morada linha 2:</string>
-    <string name="autofill_profile_editor_address_line_2_hint">Apartamento, suíte, empresa, edifício, andar, etc.</string>
+    <string name="autofill_profile_editor_address_line_2">Morada linha 2</string>
+    <string name="autofill_profile_editor_address_line_2_hint">Apartamento, suite, empresa, edifício, andar, etc.</string>
     <string name="autofill_profile_editor_city">Cidade:</string>
     <string name="autofill_profile_editor_state">Estado/Concelho/Região</string>
     <string name="autofill_profile_editor_zip_code">Código Postal</string>
@@ -157,7 +157,7 @@
     <string name="autofill_profile_successful_save">Texto de preenchimento guardado automáticamente.</string>
     <string name="autofill_profile_successful_delete">Texto de preenchimento automático foi eliminado.</string>
     <string name="autofill_profile_editor_delete_profile">Eliminar</string>
-    <string name="autofill_setup_dialog_message">O browser pode preencher automáticamente formulários da web como este. Gostaria de definir o texto de preenchimento automático?</string>
+    <string name="autofill_setup_dialog_message">O browser pode preencher automaticamente formulários da web como este. Gostaria de definir o texto de preenchimento automático?</string>
     <string name="autofill_setup_dialog_negative_toast">Poderá configurar o texto de preenchimento automático do browser em &gt; Configurações &gt; ecrã geral.</string>
     <string name="disable_autofill">Desativar preenchimento automático</string>
     <string name="pref_privacy_security_title">Privacidade &amp; segurança</string>
@@ -611,9 +611,6 @@
     <string name="quicklinks_group_default_subtitle">Vazio</string>
     <string name="add_quicklink_to_popular">Adicionar à página inicial</string>
     <string name="quicklink_saved_before">Este site foi adicionado</string>
-    <string name="network_alert_message">Sem Wi-Fi disponível, usar rede móvel?</string>
-    <string name="yes">Sim</string>
-    <string name="no">Não</string>
     <string name="webapp_autohority">miui.browser.webapps</string>
     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>

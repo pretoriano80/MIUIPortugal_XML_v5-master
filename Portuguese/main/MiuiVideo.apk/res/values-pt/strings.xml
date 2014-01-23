@@ -146,6 +146,7 @@
     <string name="pick_video_to_myfavorite">Choose items</string>
     <string name="pick_myfavorite_to_cancel">Choose items</string>
     <string name="fullscreen_to_play">Fullscreen</string>
+    <string name="to_play_airekan">Cast</string>
     <string name="connecting">Connecting…</string>
     <string name="retrieving">Retrieving…</string>
     <string name="cant_connecting">"Couldn't connect to server"</string>
@@ -301,6 +302,8 @@
     <string name="buffering">缓冲中...</string>
     <string name="airkan_video_playing_in">视频正在</string>
     <string name="airkan_video_playing">播放</string>
+    <string name="airkan_tips">"点这里，将正在播放的视频
+投影到盒子/电视上"</string>
     <string name="menu_item_orientation_auto_sensor_action">开启自动旋转</string>
     <string name="menu_item_orientation_fixed_by_videosize_action">关闭自动旋转</string>
     <string name="menu_item_screen_shot">截屏</string>
@@ -326,5 +329,7 @@
     <string name="nowifi_alert_dialog_exit">退出</string>
     <string name="menu_item_enable_audio_enhance">开启电影音效增强</string>
     <string name="menu_item_disable_audio_enhance">关闭电影音效增强</string>
+    <string name="menu_item_enable_3d_mode">开启3D模式</string>
+    <string name="menu_item_disable_3d_mode">关闭3D模式</string>
     <string name="toast_message_set_misound">请设置米音...</string>
 </resources>

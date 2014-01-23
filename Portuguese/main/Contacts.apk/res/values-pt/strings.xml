@@ -234,7 +234,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="menu_redirect_calls_to_vm">Redirecionar chamadas para correio de voz</string>
     <string name="menu_not_redirect_calls_to_vm">Correio de voz, não está em uso</string>
     <string name="redirect_calls_to_vm_confirm_message">Se não tiver acordo com este operador, por favor, não ligar. Caso contrário, pode não ser capaz de receber chamadas a partir deste contacto.</string>
-    <string name="redirect_calls_to_vm_confirm_text">Ok</string>
+    <string name="redirect_calls_to_vm_confirm_text">OK</string>
     <string name="readOnlyContactWarning">Não pode eliminar contactos de contas bloqueadas, mas pode ocultá-los da sua lista de contactos.</string>
     <string name="readOnlyContactDeleteConfirmation">Este contacto possui informação de diversas contas. Informações de contas bloqueadas podem ser ocultadas da sua lista de contactos, não eliminadas.</string>
     <string name="multipleContactDeleteConfirmation">Ao eliminar este contacto, serão eliminadas informações de outras contas.</string>
@@ -499,7 +499,7 @@ Motivo: \"%s\""</string>
     <string name="display_more_groups">Mais grupos…</string>
     <string name="display_ungrouped">Todos os outros contactos</string>
     <string name="display_all_contacts">Todos os contactos</string>
-    <string name="display_warn_remove_ungrouped">Eliminar \"%s\" de sincronização também removerá quaisquer contactos desagrupados da sincronização.</string>
+    <string name="display_warn_remove_ungrouped">Eliminar \"%s\" de sincronização também vai eliminar da sincronização contactos desagrupados.</string>
     <string name="account_phone">Apenas telefone, não sincronizados</string>
     <string name="call_custom">Chamada %s</string>
     <string name="call_home">Ligar para Casa</string>
@@ -810,14 +810,7 @@ Motivo: \"%s\""</string>
     <string name="noContactHelpTextAccountsInfo">Sincronizar contactos de contas Xiaomi, Google e Exchange.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Restaurar dados do backup na conta Xiaomi e MiTalk</string>
     <string name="recent_contacts_label">Contactos recentes</string>
-    <string name="pick_favorites_list_title">%1$d favoritos</string>
-    <string name="pick_recent_list_title">%1$d contactos recentes</string>
-    <string name="noRecentContacts">Nenhum contacto recente.</string>
-    <string name="hint_search_contacts">%d contactos</string>
-    <string name="hint_search_phone_numbers"> %d números de contacto</string>
-    <string name="hint_search_emails">%d emails</string>
-    <string name="pick_favorites_contacts_list_title">%1$d favoritos</string>
-    <string name="pick_recent_contacts_list_title">%1$d contactos recentes</string>
+    <string name="noRecentContacts">Sem contactos recentes</string>
     <string name="loading_groups">Carregar grupos…</string>
     <string name="loading_group_members">A carregar membros do grupo…</string>
     <string name="loading_recent">Carregar contactos recentes…</string>
@@ -1068,7 +1061,6 @@ Clique em Fundir, pode ser necessário esperar um pouco para a conclusão autom�
     <string name="prepare_import">Importar contactos</string>
     <string name="device_import_message">A importar</string>
     <string name="bluetooth_connection_failed_toast">A ligação Bluetooth foi interrompida</string>
-    <string name="device_import_done_toast">%1$d contactos importados</string>
     <string name="device_import_progress_toast">%1$d contactos importados</string>
     <string name="no_contact_in_other_phone">Não foram encontrados contactos</string>
     <string name="sina_weibo">Sina Weibo</string>
@@ -1087,8 +1079,6 @@ Clique em Fundir, pode ser necessário esperar um pouco para a conclusão autom�
     <string name="add_xiaomi_account_dialog_btn">Usar a conta Xiaomi </string>
     <string name="keep_local_btn">Usar o armaz. interno do telefone.</string>
     <string name="batch_delete">Eliminar Registos</string>
-    <string name="batch_delete_msg">"Eliminar %d contactos?
-
 Os dados de contacto armazenados na sua conta MiCloud também serão eliminados."</string>
     <string name="starred_contacts">Favoritos</string>
     <string name="other_contacts">Outros contactos</string>
@@ -1150,4 +1140,5 @@ Os dados de contacto armazenados na sua conta MiCloud também serão eliminados.
     <string name="yellowpage_navigation_search_result_service_error">Serviço indisponível</string>
     <string name="yellowpage_navigation_search_result_unknown_error">Erro desconhecido</string>
     <string name="yellowpage_navigation_menu_order">Minha ordem</string>
+    <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado ao painel inicial</string>
 </resources>

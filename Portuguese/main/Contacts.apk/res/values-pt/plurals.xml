@@ -45,6 +45,34 @@
         <item quantity="other">%1$d ficheiros selecionados</item>
         <item quantity="one">%1$d ficheiro selecionado</item>
     </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d favoritos</item>
+        <item quantity="one">%1$d favorito</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d contactos recentes</item>
+        <item quantity="one">1 contacto recente</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d contactos</item>
+        <item quantity="one">%1$d contacto</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d números</item>
+        <item quantity="one">%1$d número</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d contactos de emails</item>
+        <item quantity="one">1 contactos de email</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d favoritos</item>
+        <item quantity="one">%1$d favorito</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d contactos recentes</item>
+        <item quantity="one">%1$d contacto recente</item>
+    </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">" %1$d adicionados"</item>
         <item quantity="one">%1$d contacto adicionado</item>
@@ -52,6 +80,10 @@
     <plurals name="smart_group_member_count">
         <item quantity="other">%d pessoas</item>
         <item quantity="one">1 pessoa</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d contactos importados</item>
+        <item quantity="one">%1$d contacto importado</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">" %1$d ficheiros selecionados"</item>

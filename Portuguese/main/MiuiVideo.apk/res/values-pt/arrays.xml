@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="home_tabs">
         <item>Online</item>
-        <item>Meus vídeos</item>
+        <item>Local</item>
     </string-array>
     <string-array name="series_detail_tabs">
         <item>Drama</item>
