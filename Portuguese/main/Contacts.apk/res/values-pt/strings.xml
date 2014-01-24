@@ -1078,7 +1078,7 @@ Clique em Fundir, pode ser necessário esperar um pouco para a conclusão autom�
     <string name="add_xiaomi_account_dialog_msg">Use sua conta Xiaomi para sincronizar e fazer cópia dos seus contactos em vários dispositivos.</string>
     <string name="add_xiaomi_account_dialog_btn">Usar a conta Xiaomi </string>
     <string name="keep_local_btn">Usar o armaz. interno do telefone.</string>
-    <string name="batch_delete">Eliminar Registos
+    <string name="batch_delete">"Eliminar Registos
 Os dados de contacto armazenados na sua conta MiCloud também serão eliminados."</string>
     <string name="starred_contacts">Favoritos</string>
     <string name="other_contacts">Outros contactos</string>
