@@ -18,7 +18,7 @@
         <item quantity="one">1 dia</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">Semana %d</item>
+        <item quantity="other">SEMANA %d</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
