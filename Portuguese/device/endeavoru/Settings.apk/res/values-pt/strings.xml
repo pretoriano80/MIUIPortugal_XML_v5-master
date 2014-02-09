@@ -1693,7 +1693,6 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Cartão SD</
     <string name="master_clear_gesture_explanation">Tem que desenhar o seu padrão de desbloqueio para confirmar o restauro do telefone.</string>
     <string name="master_clear_failed">Nenhuma restauração foi realizada porque o serviço System Clear não está disponível.</string>
     <string name="master_clear_confirm_title">Restaurar?</string>
-    <string name="media_format_title">Eliminar o armazenamento interno</string>
     <string name="internal_media_format_desc">Eliminar todo o armazenamento interno? Vai perder <b>todos</b> os dados armazenados e depois telefone irá reiniciar!</string>
     <string name="internal_media_format_button_text">Eliminar o armazenamento interno</string>
     <string name="internal_media_format_final_desc">Eliminar o armazenamento interno e arquivos aí armazenados? Não poderá reverter esta ação! O telefone irá reiniciar após o armazenamento Interno ter sido eliminado!</string>
