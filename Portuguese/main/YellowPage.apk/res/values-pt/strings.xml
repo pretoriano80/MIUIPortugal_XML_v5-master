@@ -3,11 +3,13 @@
 <resources>
     <string name="app_label">Páginas Amarelas</string>
     <string name="phone_info_divider">" ｜ "</string>
+    <string name="call">Chamada</string>
     <string name="check_network">Ver configuração de rede</string>
     <string name="try_again">Tente novamente</string>
     <string name="network_unavaliable">Não foi possível ligar à rede</string>
     <string name="service_unavailiable">A Rede não está disponível</string>
     <string name="data_error">A Rede não está disponível</string>
+    <string name="locating_fail">Falha ao localizar, por favor, verifique o serviço de localização ou tente novamente</string>
     <string name="yellow_page_detail_title">Sobre</string>
     <string name="yellow_page_call_log_title">Registo de chamadas</string>
     <string name="yellow_page_website">Site oficial</string>
@@ -80,14 +82,16 @@
     <string name="recharge_user_confirm_summary">"Vai ser cobrado RMB %2$s para %1$s.
 
 Total do valor: RMB%3$s"</string>
-    <string name="recharge_order_id">Ordem ID：</string>
-    <string name="recharge_status_description">Estado：</string>
-    <string name="recharge_actual_price">Preço：</string>
+    <string name="recharge_order_id">Ordem ID:</string>
+    <string name="recharge_status_description">Estado:</string>
+    <string name="recharge_actual_price">Preço:</string>
     <string name="recharge_order_original_price">RMB %s</string>
     <string name="recharge_order_actual_price">¥%s</string>
     <string name="recharge_order_pay">Finalizar</string>
     <string name="recharge_history">Histórico de carga</string>
     <string name="recharge_history_empty">Sem histórico</string>
+    <string name="recharge_my_phone_number">O meu número</string>
+    <string name="recharge_unknown_number">Desconhecido</string>
     <string name="packages_pay">Comprar</string>
     <string name="packages_pay_confirm">Confirma comprar</string>
     <string name="packages_title">Fluxo preferencial de pacotes</string>
@@ -128,6 +132,7 @@ Por favor, verifique rastreamento do número."</string>
     <string name="balance_inquiry_default_sp_name">Operador</string>
     <string name="balance_inquiry_send_sms_hint">Uma mensagem SMS gratuito será enviado ao operador para consulta de saldo</string>
     <string name="balance_inquiry_send_sms_summmary">Verifique seu saldo</string>
+    <string name="balance_inquiry_send_sms_fail_hint">falha ao enviar SMS. Verifique o estado do seu cartão SIM.</string>
     <string name="navigation_search_automatically_positioned_city">Cidade atual</string>
     <string name="navigation_search_positioning">Localizando…</string>
     <string name="navigation_search_positioning_failed">Selecionar cidade</string>
@@ -149,4 +154,7 @@ Por favor, verifique rastreamento do número."</string>
     <string name="general_menu_delete_recent">Eliminar recentes</string>
     <string name="general_cancel_favorite_ok">Favorito removido</string>
     <string name="general_delete_recent_ok">Eliminados recentemente</string>
+    <string name="nearby_yellow_page_title">Próximo</string>
+    <string name="nearby_no_yellow_page">Sem resultados</string>
+    <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>
 </resources>
