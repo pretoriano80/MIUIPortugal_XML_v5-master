@@ -26,6 +26,13 @@
         <item>-1.0dip</item>
         <item>0.0dip</item>
     </array>
+    <array name="app_locating_animation_scaler">
+        <item>1.0</item>
+        <item>1.4</item>
+        <item>0.9</item>
+        <item>1.1</item>
+        <item>1.0</item>
+    </array>
     <string-array name="transformation_entries">
         <item>Clássico</item>
         <item>Classico (sem excesso)</item>
@@ -71,30 +78,42 @@
         <item>Clássico</item>
     </string-array>
     <string-array name="gadget_weather_image">
-    <item>Limpo</item>
-    <item>Nublado</item>
-    <item>Nebuloso</item>
-    <item>Nevoeiro</item>
-    <item>Tempestade severa</item>
-    <item>Tempestade</item>
-    <item>Chuva forte</item>
-    <item>Trovoada</item>
-    <item>Aguaceiros</item>
-    <item>Chuvas fortes</item>
-    <item>Chuva</item>
-    <item>Chuva muito fraca</item>
-    <item>Granizo</item>
-    <item>Tempestade de neve</item>
-    <item>Quedas de neve pontuais</item>
-    <item>Forte nevão</item>
-    <item>Neve</item>
-    <item>Leve queda de neve</item>
-    <item>Forte tempestade de areia</item>
-    <item>Tempestade de areia</item>
-    <item>Tempestade de areia fraca</item>
-    <item>Tempestade de areia</item>
-    <item>Granizo forte</item>
-    <item>Poeira</item>
-    <item>Neblina</item>
+        <item>Limpo</item>
+        <item>Nublado</item>
+        <item>Nebuloso</item>
+        <item>Enevoado</item>
+        <item>Tempestade severa</item>
+        <item>Tempestade</item>
+        <item>Chuva intensa</item>
+        <item>Tempestade</item>
+        <item>Chuviscos</item>
+        <item>Trovoada</item>
+        <item>Chuva</item>
+        <item>Chuvisco</item>
+        <item>Chuva com neve</item>
+        <item>tempestade de neve</item>
+        <item>Nuvens de neve</item>
+        <item>Queda de neve</item>
+        <item>Queda de neve</item>
+        <item>Queda de neve fraca</item>
+        <item>Forte tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Fraca tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Granizo</item>
+        <item>Poeira flutuante</item>
+        <item>Neblina</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Limpe o ecrã inicial</item>
+        <item>Adicionar widgets</item>
+        <item>Mudar imagem fundo</item>
+        <item>Transições de ecrã</item>
+    </string-array>
+    <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
 </resources>

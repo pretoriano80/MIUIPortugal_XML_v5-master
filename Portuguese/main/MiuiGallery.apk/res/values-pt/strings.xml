@@ -462,6 +462,7 @@ albúm em qualquer lugar.
     <string name="error_album_not_exist">Este album não existe</string>
     <string name="error_invalid_link">O link inválido</string>
     <string name="error_socket_timeout">Atingiu o tempo limite de rede</string>
+    <string name="error_share_with_creator">É agora um membro neste álbum</string>
     <string name="error_cloud_not_active">O album Cloud album não está em uso</string>
     <string name="cloud_camera_display_name">Fotos da Câmera</string>
     <string name="camera_folder_display_name">Fotos da Câmera</string>

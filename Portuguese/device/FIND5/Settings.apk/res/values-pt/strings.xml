@@ -19,7 +19,7 @@ Tem a certeza que quer desativar?"</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="cache_manage_title">Eliminar %1$d ficheiros(s) em cache,  %2$s de espaço livre</string>
-    <string name="cache_list_empty_hints">Não há ficheiros em cache.</string>
+    <string name="cache_list_empty_hints">Não há ficheiros em cache</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
     <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
     <string name="fancy_icon_antispam">com.miui.antispam.AntiSpam</string>
@@ -178,10 +178,10 @@ Tem a certeza que quer desativar?"</string>
     <string name="power_mode_cpu_state_performance">Desempenho</string>
     <string name="power_mode_cpu_state_performance_desc">Faça o desempenho de uma prioridade sobre a vida da bateria</string>
     <string name="power_mode_cpu_state_balance">Balanço</string>
-    <string name="power_mode_cpu_state_balance_desc">Apenas aumentar o desempenho da CPU conforme necessário</string>
+    <string name="power_mode_cpu_state_balance_desc">Aumentar apenas o desempenho da CPU conforme necessário</string>
     <string name="power_mode_cpu_state_save">Economizar bateria</string>
     <string name="power_mode_cpu_state_save_desc">Tornar o desempenho da vida da bateria uma prioridade</string>
-    <string name="power_mode_auto_clean_memory">Elimine a memória automaticamente</string>
+    <string name="power_mode_auto_clean_memory">Eliminar a memória automaticamente</string>
     <string name="power_mode_auto_clean_memery_lock_screen">Bloquear ecrã depois %1$d mins</string>
     <string name="power_mode_auto_clean_memory_in_one_minute">Depois de um minuto</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">Depois de cinco minutos</string>
@@ -229,12 +229,12 @@ Tem a certeza que quer desativar?"</string>
     <string name="power_dialog_delete_dialog_delete">"Eliminar perfil e dados de configuração associados? Não pode reverter esta ação!</string>
     <string name="power_dialog_delete_dialog_cannot_delete_default">Não é possível eliminar: Está a usar atualmente este perfil."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Não é possível eliminar: O dispositivo está definido para mudar para este perfil quando a bateria está fraca, 
-Precisa de alterar esta configuração para que possa eliminar este perfil."</string>
+Tem que alterar as definições da sua bateria antes de poder eliminar esta configuração."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Não é possível eliminar: O dispositivo está programado para mudar para este perfil, 
-Precisa de alterar esta configuração para que possa eliminar este perfil."</string>
+Tem que alterar as definições da sua bateria antes de poder eliminar esta configuração."</string>
     <string name="power_save_choose_mode">Escolha uma configuração</string>
-    <string name="power_save_low_battery_title">Auto-switch</string>
-    <string name="power_save_low_battery_auto_save_title">Auto-switch</string>
+    <string name="power_save_low_battery_title">Mudar automaticamente</string>
+    <string name="power_save_low_battery_auto_save_title">Mudar automaticamente</string>
     <string name="power_save_low_battery_seekbar_title">A bateria está fraca quando a energia restante é inferior a: %1$d%%</string>
     <string name="power_save_low_battery_option_title">Quando a bateria está fraca mude para</string>
     <string name="power_save_low_battery_option_summary">Quando a bateria está com carga suficiente o dispositivo irá reverter para o perfil usado recentemente</string>
@@ -281,7 +281,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_app_name">Permissões</string>
     <string name="perm_manage_tab_title">Permissões</string>
     <string name="app_manage_tab_title">Aplicações</string>
-    <string name="app_log_tab_title">Registo de Permissões</string>
+    <string name="app_log_tab_title">Registo de permissões</string>
     <string name="perm_copyright">Desenvolvido por LBE Privacy Guard</string>
     <string name="perm_version">Versão: %1$s</string>
     <string name="perm_configuration">Definições</string>
@@ -388,7 +388,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_app">Aplicações</string>
     <string name="perm_log">Registos</string>
     <string name="perm_header">Gerir %1$d aplicações</string>
-    <string name="perm_header_disabled">Monitor de permissões Está desativado</string>
+    <string name="perm_header_disabled">O Monitor de permissões está desativado</string>
     <string name="perm_su_switch">Permissão ROOT</string>
     <string name="perm_su">Gerir Permissão ROOT</string>
     <string name="perm_su_desc">Gerir %1$d aplicações para permissão ROOT</string>
@@ -498,6 +498,8 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="title_app_update_yes">Todas as aplicações atualizadas</string>
     <string name="title_data_flow_no">Monitor de uso de dados desligado</string>
     <string name="title_data_flow_yes">Monitor de uso de dados ligado</string>
+    <string name="title_show_notification_yes">Mostrar em notificações está ligado</string>
+    <string name="title_show_notification_no">Mostrar em notificações está desligado</string>
     <string name="button_text_fix">Fixar</string>
     <string name="button_text_view">Ver</string>
     <string name="button_text_security">Segurança</string>
@@ -834,7 +836,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scan_viruslib_version">Versão das definições de vírus: %s</string>
     <string name="virus_scan_settings">Configurações</string>
     <string name="virus_scanner_lib_update_success">As definições de vírus foram atualizadas automaticamente. ^_^</string>
-    <string name="virus_scanner_lib_update_failed">Atualização falhada.</string>
+    <string name="virus_scanner_lib_update_failed">Atualização falhada</string>
     <string name="virus_scan_finish_text">OK, verificação concluída!</string>
     <string name="virus_scan_list_loading_hits">Verificando…</string>
     <string name="virus_scan_list_empty_content">Não foram detectados ficheiros suspeitos.</string>
@@ -842,8 +844,8 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scan_lib_update_time">Última atualização: %s</string>
     <string name="virus_scan_lib_unknow">Última atualização: desconhecida</string>
     <string name="virus_scan_others_title">Configurações relacionadas</string>
-    <string name="virus_scan_risk_list_empty">Não foram detectados riscos.</string>
-    <string name="virus_scan_virus_list_empty">Não foram detectados vírus.</string>
+    <string name="virus_scan_risk_list_empty">Não foram detectados riscos</string>
+    <string name="virus_scan_virus_list_empty">Não foram detectados vírus</string>
     <string name="virus_scan_description">Esta aplicação é um grande risco para a segurança do seu telefone."</string>
     <string name="virus_scanner_select_OK">OK</string>
     <string name="virus_scanner_select_Cancel">Cancelar</string>
@@ -858,6 +860,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scan_last_scan_date">Verificação mais recente foi %d dias atrás</string>
     <string name="virus_scan_unknown_virus_name">Desconhecido</string>
     <string name="virus_scan_is_cloud_scanning">Localizar em Cloud…</string>
+    <string name="virus_scan_clean_dialog_message">A limpar...</string>
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
     <string name="input_method_selector_show_automatically_value">0</string>
@@ -1718,7 +1721,7 @@ O PIN possivelmente está incorreto."</string>
     <string name="restore_default_apn_completed">Redefinição das definições padrão do APN concluída</string>
     <string name="master_clear_title">Configuração original</string>
     <string name="master_clear_summary">Elimina todos os dados no telefone</string>
-    <string name="master_clear_desc">Isto irá eliminar todos os dados de <b>memória interna</b>" no seu telefone , incluindo:
+    <string name="master_clear_desc">"Isto irá eliminar todos os dados de "<b>memória interna</b>" no seu telefone , incluindo:
 
 "<li>A sua conta do Google</li>"
 "<li>Sistema, dados de aplicações e configurações</li>"

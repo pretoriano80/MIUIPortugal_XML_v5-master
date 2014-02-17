@@ -29,7 +29,7 @@
     <string name="permlab_install_shortcut">Instalar atalhos</string>
     <string name="permdesc_install_shortcut">Permite que uma aplicação adicione atalhos sem a intervenção do utilizador.</string>
     <string name="permlab_uninstall_shortcut">Eliminar atalhos</string>
-    <string name="permdesc_uninstall_shortcut">Permite que uma aplicação remova atalhos sem a intervenção do utilizador.</string>
+    <string name="permdesc_uninstall_shortcut">Permite que uma aplicação elimine atalhos sem a intervenção do utilizador.</string>
     <string name="permlab_install_widget">instalar widgets</string>
     <string name="permdesc_install_widget">Permite que uma aplicação adicione Widgets sem intervenção do utilizador.</string>
     <string name="permlab_read_settings">Ver definições principais e atalhos</string>
@@ -43,7 +43,11 @@
     <string name="menu_sort">Ordenar aplicações</string>
     <string name="menu_launcher_setting">Configurar Launcher</string>
     <string name="editing_tips">Editar ecrã principal</string>
-    <string name="cant_remove_system_app">Aplicação do sistema, é impossível revovê-la</string>
+    <string name="multi_selecting_tips">Prima o icone para iniciar</string>
+    <string name="editing_add_widget_tips">Adicionar Widgets</string>
+    <string name="editing_set_wallpaper_tips">Alterar papel parede</string>
+    <string name="editing_set_transition_effect_tips">Alterar ecrã de efeitos transição</string>
+    <string name="cant_remove_system_app">Aplicação do sistema, é impossível eliminá-la</string>
     <string name="cant_remove_retained_app">Não é possível desinstalar esta aplicação</string>
     <string name="uninstall_dialog_message">A desinstalação irá eliminar todos os dados da aplicação</string>
     <string name="uninstall_dialog_title_format">Desinstalar \"%s\"</string>
@@ -70,11 +74,13 @@
     <string name="default_folder_title_game">Jogos</string>
     <string name="default_folder_title_security">Sistema</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
+    <string name="online_wallpaper">Papel de parede Online</string>
+    <string name="custom_wallpaper_picker">Personalizar</string>
     <string name="reset_scene_prompt">O ecrã será redefinido para o padrão layout</string>
     <string name="preferences_title">Definições do lançador</string>
     <string name="preferences_general_title">Definições gerais</string>
     <string name="pref_keep_in_memory_title">Manter na memória</string>
-    <string name="pref_keep_in_memory_summary">Mantenha lançador a funcionamentor quando houver pouca memória</string>
+    <string name="pref_keep_in_memory_summary">Mantenha lançador a funcionar quando houver pouca memória</string>
     <string name="pref_render_in_truecolor_title">Gráficos de alta resolução</string>
     <string name="pref_render_in_truecolor_summary">Desligar esta opção irá melhorar o desempenho dos gráficos</string>
     <string name="pref_enable_drawing_cache_title">Desenho de cache</string>
@@ -98,12 +104,15 @@
     <string name="buffering">A criar buffer…</string>
     <string name="emptyplaylist">Toque para adicionar músicas</string>
     <string name="unknown_artist_name">Artista desconhecido</string>
+    <string name="gadget_search_label">Pesquisar</string>
     <string name="global_search_hint">Pesquisar</string>
     <string name="widget_global_search">Pesquisa geral</string>
     <string name="gadget_clear_button_label">Limpeza</string>
+    <string name="gadget_clock_label">Relógio</string>
     <string name="gadget_clock_12_label">Relógio 2x1</string>
     <string name="gadget_clock_22_label">Relógio 2x2</string>
     <string name="gadget_clock_24_label">Relógio 4x2</string>
+    <string name="gadget_photo_label">Imagem</string>
     <string name="gadget_photo_44_label">Imagem 4x4</string>
     <string name="gadget_photo_22_label">Imagem 2x2</string>
     <string name="gadget_photo_24_label">Imagem 4x2</string>
@@ -121,15 +130,16 @@
     <string name="photo_load_failed">Falha ao carregar imagem</string>
     <string name="frame_load_failed">Falha ao carregar moldura</string>
     <string name="gadget_weather_loading">Não há dados meteorológicos</string>
+    <string name="gadget_weather_title">Tempo</string>
     <string name="gadget_weather_title_24">Tempo</string>
     <string name="gadget_weather_title_14">Tempo</string>
     <string name="gadget_weather_app_not_installed">Toque para transferir o Tempo MIUI</string>
     <string name="gadget_weather_time_format">d/MM EEE</string>
     <string name="gadget_weather_theme_type">Tipo de Gadget</string>
     <string name="gadget_weather_download_title">Transferir</string>
-    <string name="gadget_weather_download_message">Precisa de transferir o pacote do tema: %1$s. size: %2$s. Por favor volte a escolher depois de concluir a transferência</string>
+    <string name="gadget_weather_download_message">Tem que transferir o pacote do tema: %1$s. size: %2$s. Por favor volte a escolher depois de concluir a transferência</string>
     <string name="gadget_weather_download_start">Transferir</string>
-    <string name="gadget_weather_downloading">O pacote do tema está a ser transferido. Reinicie pós a transferência ter sido concluída</string>
+    <string name="gadget_weather_downloading">O pacote do tema está a ser transferido. Reinicie após a transferência ter sido concluída</string>
     <string name="gadget_weather_low_temp">Temperatura baixa</string>
     <string name="gadget_weather_aqi_title">Qualidade do ar</string>
     <string name="aqi_quality_index_good">Bom</string>
@@ -144,9 +154,10 @@
     <string name="free_style_edit_bar_select_app">Selecionar aplicação</string>
     <string name="free_style_enter_tip">Deslize para baixo com dois dedos para mudar para MiHome</string>
     <string name="free_style_exit_tip">Deslize para cima com dois dedos para sair do MiSpace</string>
-    <string name="free_style_londing_text">Carregando…</string>
+    <string name="free_style_londing_text">A carregar…</string>
     <string name="toggle_select_title">Selecionar Controlo</string>
     <string name="toggle_title">Controlo</string>
+    <string name="settings_shortcut">Definições dos atalhos</string>
     <string name="free_style_edit_tab_shortcut">Atalhos</string>
     <string name="free_style_edit_tab_free_component">Objetos</string>
     <string name="free_style_edit_tab_widget">Widgets</string>
@@ -212,7 +223,8 @@
     <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
     <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
     <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
-    <string name="screen_rotation_freeze_message">Auto rotãção desativado.</string>
+    <string name="screen_rotation_freeze_message">Auto rotação desativada.</string>
     <string name="screen_button_disabled_message">Botões de navegação estão desativados. Para reativar, selecione Home e Botão de Energia simultâneamente.</string>
     <string name="screen_button_enabled_message">Botões de navegação ativados.</string>
+    <item type="string" name="APKTOOL_DUMMY_00a9">false</item>
 </resources>

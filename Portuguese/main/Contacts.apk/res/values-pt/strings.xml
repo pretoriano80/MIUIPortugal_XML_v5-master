@@ -279,8 +279,8 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="listTotalAllContactsZeroGroup">Sem contactos em %s</string>
     <string name="listSingleContact">Contacto único</string>
     <string name="listCustomView">Contactos no modo de exibição personalizado</string>
-    <string name="foundTooManyContacts">Encontrados mais de %d</string>
-    <string name="listFoundAllContactsZero">Não foi encontrado nenhum contacto</string>
+    <string name="foundTooManyContacts">Encontrados mais de %d.</string>
+    <string name="listFoundAllContactsZero">Sem contactos</string>
     <string name="contactsAllLabel">Contactos</string>
     <string name="contactsGroupsLabel">Grupos</string>
     <string name="contactsFavoritesLabel">Favoritos</string>
@@ -693,10 +693,10 @@ Motivo: \"%s\""</string>
     <string name="voicemail_status_action_configure">Configurar</string>
     <string name="voicemail_status_action_call_server">Correio de voz</string>
     <string name="voicemail_speed_slowest">Velocidade mais lenta</string>
-    <string name="voicemail_speed_slower">velocidade lenta</string>
-    <string name="voicemail_speed_normal">velocidade normal</string>
-    <string name="voicemail_speed_faster">velocidade rápida</string>
-    <string name="voicemail_speed_fastest">velocidade máxima</string>
+    <string name="voicemail_speed_slower">Velocidade lenta</string>
+    <string name="voicemail_speed_normal">Velocidade normal</string>
+    <string name="voicemail_speed_faster">Velocidade rápida</string>
+    <string name="voicemail_speed_fastest">Velocidade máxima</string>
     <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
     <string name="group_name_hint">Nome do grupo</string>
     <string name="nfc_vcard_file_name">Contacto recebido através de NFC</string>
@@ -1141,4 +1141,8 @@ Os dados de contacto armazenados na sua conta MiCloud também serão eliminados.
     <string name="yellowpage_navigation_search_result_unknown_error">Erro desconhecido</string>
     <string name="yellowpage_navigation_menu_order">Minha ordem</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado ao painel inicial</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Activar o serviço de localização de rede</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_summary">Activando o serviço de localização de rede local, o operador da rede fornece serviços de acordo com a sua cidade, se activar o Wi-Fi pode melhorar a qualidade do serviço.</string>
+    <string name="yellowpage_navigation_network_location_enable">Activar agora</string>
+    <string name="yellowpage_navigation_network_location_enable_later">Activar mais tarde</string>
 </resources>

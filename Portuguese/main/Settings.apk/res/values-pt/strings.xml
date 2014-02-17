@@ -19,7 +19,7 @@ Tem a certeza que quer desativar?"</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_cancel">Cancelar</string>
     <string name="cache_manage_title">Eliminar %1$d ficheiros(s) em cache,  %2$s de espaço livre</string>
-    <string name="cache_list_empty_hints">Não há ficheiros em cache.</string>
+    <string name="cache_list_empty_hints">Não há ficheiros em cache</string>
     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
     <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
     <string name="fancy_icon_antispam">com.miui.antispam.AntiSpam</string>
@@ -229,9 +229,9 @@ Tem a certeza que quer desativar?"</string>
     <string name="power_dialog_delete_dialog_delete">"Eliminar perfil e dados de configuração associados? Não pode reverter esta ação!</string>
     <string name="power_dialog_delete_dialog_cannot_delete_default">Não é possível eliminar: Está a usar atualmente este perfil."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Não é possível eliminar: O dispositivo está definido para mudar para este perfil quando a bateria está fraca, 
-Precisa alterar esta configuração para que possa eliminar este perfil."</string>
+Tem que alterar as definições da sua bateria antes de poder eliminar esta configuração."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Não é possível eliminar: O dispositivo está programado para mudar para este perfil, 
-Precisa alterar esta configuração para que possa eliminar este perfil."</string>
+Tem que alterar as definições da sua bateria antes de poder eliminar esta configuração."</string>
     <string name="power_save_choose_mode">Escolha uma configuração</string>
     <string name="power_save_low_battery_title">Economizar energia quando a bateria está fraca</string>
     <string name="power_save_low_battery_auto_save_title">Economizar energia quando a bateria está fraca</string>
@@ -498,6 +498,8 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="title_app_update_yes">Todas as aplicações atualizadas</string>
     <string name="title_data_flow_no">Monitor de uso de dados desligado</string>
     <string name="title_data_flow_yes">Monitor de uso de dados ligado</string>
+    <string name="title_show_notification_yes">Mostrar nas notificações ligado</string>
+    <string name="title_show_notification_no">Mostrar nas notificações desligado</string>
     <string name="button_text_fix">Fixar</string>
     <string name="button_text_view">Ver</string>
     <string name="button_text_security">Segurança</string>
@@ -858,6 +860,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scan_last_scan_date">Verificação mais recente foi %d dias atrás</string>
     <string name="virus_scan_unknown_virus_name">Desconhecido</string>
     <string name="virus_scan_is_cloud_scanning">Localizar em Cloud…</string>
+    <string name="virus_scan_clean_dialog_message">A limpar...</string>
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
     <string name="input_method_selector_show_automatically_value">0</string>
@@ -867,7 +870,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="yes">Sim</string>
     <string name="create">Criar</string>
     <string name="device_info_default">Desconhecido</string>
-    <string name="header_category_wireless_networks">SEM FIOS E REDES</string>
+    <string name="header_category_wireless_networks">WI-FI E REDES</string>
     <string name="header_category_device">DISPOSITIVO</string>
     <string name="header_category_personal">PESSOAIS</string>
     <string name="header_category_system">SISTEMA</string>
@@ -903,14 +906,14 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="radioInfo_display_asu">asu</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_cid">CID</string>
-    <string name="sdcard_unmount">Desmontar cartão SD</string>
-    <string name="sdcard_format">Eliminar cartão SD</string>
+    <string name="sdcard_unmount">Desmontar armaz. USB</string>
+    <string name="sdcard_format">Eliminar armaz. USB</string>
     <string name="small_font">Pequena</string>
     <string name="medium_font">Média</string>
     <string name="large_font">Grande</string>
     <string name="font_size_preview_text">Sirva a este homem uma cerveja e kiwis.</string>
     <string name="font_size_save">OK</string>
-    <string name="sdcard_setting">Cartão SD</string>
+    <string name="sdcard_setting">Armaz. USB</string>
     <string name="battery_info_status_label">Estado da Bateria:</string>
     <string name="battery_info_power_label">Ligado à Corrente:</string>
     <string name="battery_info_scale_label">Escala da bateria:</string>
@@ -972,8 +975,8 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="bluetooth_connected_no_a2dp">Ligado(sem multimédia)</string>
     <string name="bluetooth_connected_no_headset_no_a2dp">Ligado (nenhum telefone ou multimédia)</string>
     <string name="bluetooth_disconnected">Desligado</string>
-    <string name="bluetooth_disconnecting">Desligando…</string>
-    <string name="bluetooth_connecting">Ligando…</string>
+    <string name="bluetooth_disconnecting">A desligar…</string>
+    <string name="bluetooth_connecting">A ligar…</string>
     <string name="bluetooth_unknown" />
     <string name="bluetooth_pairing">A emparelhar…</string>
     <string name="bluetooth_device">Dispositivo Bluetooth sem nome</string>
@@ -1724,8 +1727,8 @@ está atualmente assinado para as seguintes contas:
 "<li>Outros dados de utilizador</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "<b>cartão SD</b> tem de ser eliminado.</string>
-    <string name="erase_external_storage">Eliminar o cartão SD</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</b> tem de ser eliminado.</string>
+    <string name="erase_external_storage">Eliminar o armaz. USB</string>
     <string name="erase_external_storage_description">Eliminar todos os dados no cartão SD, tais como música ou fotos</string>
     <string name="master_clear_button_text">Restaurar telefone</string>
     <string name="master_clear_final_desc">Deseja eliminar todas as suas informações pessoais e quaisquer aplicações instalados? É impossível reverter esta ação!</string>
@@ -1927,7 +1930,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="empty_list_msg">Não tem aplicações de terceiros instaladas.</string>
     <string name="move_app">Mover</string>
     <string name="move_app_to_internal">Mover para o telefone</string>
-    <string name="move_app_to_sdcard">Mover para o cartão SD</string>
+    <string name="move_app_to_sdcard">Mover para o armaz. USB</string>
     <string name="moving">A mover</string>
     <string name="insufficient_storage">Não há espaço de armazenamento suficiente.</string>
     <string name="does_not_exist">A aplicação não existe.</string>
