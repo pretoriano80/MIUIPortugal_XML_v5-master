@@ -10,6 +10,7 @@
     <string name="service_unavailiable">A Rede não está disponível</string>
     <string name="data_error">A Rede não está disponível</string>
     <string name="locating_fail">Falha ao localizar, por favor, verifique o serviço de localização ou tente novamente</string>
+    <string name="no_more_result">Sem mais resultados</string>
     <string name="yellow_page_detail_title">Sobre</string>
     <string name="yellow_page_call_log_title">Registo de chamadas</string>
     <string name="yellow_page_website">Site oficial</string>
@@ -103,7 +104,7 @@ Total do valor: RMB%3$s"</string>
     <string name="packages_select_sim_cards_title">Por favor selecione o cartão SIM</string>
     <string name="packages_select_sim_cards_summmary">Sistema irá recomendar pacotes de tráfego de acordo com a sua escolha</string>
     <string name="packages_no_package">Não há pacotes de tráfego adequados</string>
-    <string name="login_ok">Entrar na conta</string>
+    <string name="login_ok">Iniciar sessão em</string>
     <string name="login_before_recharging">Tem que fazer login antes de poder completar</string>
     <string name="express_inquiry">Seguimento</string>
     <string name="express_inquiry_serial_number_indication">O número de seguimento</string>
@@ -140,7 +141,7 @@ Por favor, verifique rastreamento do número."</string>
     <string name="navigation_search_hot_cities">Popular</string>
     <string name="navigation_search_all_cities">todas as cidades</string>
     <string name="order_empty_hint">Sem pedidos</string>
-    <string name="order_merchant_title">Minhas ordens - %s</string>
+    <string name="order_merchant_title">Minhas ordens %s</string>
     <string name="order_merchant_title_format">%1$s-%2$s</string>
     <string name="order_id">Ordem ID:%s</string>
     <string name="order_status">%s</string>

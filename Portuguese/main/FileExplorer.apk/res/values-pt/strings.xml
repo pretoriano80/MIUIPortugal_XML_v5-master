@@ -50,11 +50,10 @@
     <string name="operation_delete_confirm_message">Eliminar</string>
     <string name="operation_delete_confirm_message_folder">"Se eliminar a pasta, elimina todos os arquivos que estão na mesma.
 "</string>
-    <string name="delete_folder">Deseja eliminar esta pasta?</string>
+    <string name="delete_folder">Eliminar esta pasta?</string>
     <string name="delete_folders">A eliminar %1$d?</string>
     <string name="delete_file">Deseja eliminar este arquivo?</string>
     <string name="delete_files">Eliminar %1$d arquivos?</string>
-    <string name="delete_files_and_folders">Eliminar %1$d arquivo(s) e %2$d pasta(s)?</string>
     <string name="new_folder_name">Pasta sem nome</string>
     <string name="sd_card_size">Cartão SD: %1$s</string>
     <string name="sd_card_available">Disponível: %1$s</string>
@@ -115,30 +114,28 @@
     <string name="directory_info_divider">"  |  "</string>
     <string name="no_enough_storage_title">Não há espaço suficiente.</string>
     <string name="no_enough_storage_indication">O armazenamento está cheio.</string>
-    <string name="ui_bar_txt_download_progress">%1$d arquivo(s) que faltam transferir</string>
-    <string name="ui_bar_txt_upload_progress">%1$d arquivo(s) que faltam enviar</string>
     <string name="ui_main_menu_option_task_manage">Gestão de Transferências</string>
     <string name="kuaipan_label">Kuaipan</string>
-    <string name="create_kuaipan_shortcut_pref">Criar um atalho para o ambiente de trabalho</string>
-    <string name="login_reg_content0">KuaiPan é o seu disco Net</string>
+    <string name="create_kuaipan_shortcut_pref">Colocar no ambiente de trabalho</string>
+    <string name="login_reg_content0">Use o KuaiPan em qualquer lugar</string>
     <string name="login_reg_content">Armazenar arquivos e sincronizá-los entre vários dispositivos,
 tem que ligar à rede para usar este recurso."</string>
     <string name="start_use_xiaomi_account">Começar a usar KuaiPan</string>
-    <string name="pan_settting">Configurações do KuaiPan</string>
+    <string name="pan_settting">Definições do KuaiPan</string>
     <string name="xiaomi_account">Conta Xiaomi</string>
     <string name="space_usage">Espaço usado</string>
     <string name="used">Usado</string>
     <string name="loading">A carregar</string>
     <string name="load_err">O carregamento falhou</string>
     <string name="local_cache_size">Tamanho do cache local: %s</string>
-    <string name="net_lose_connected">A rede não está disponível. Não é possível avaliar o tamanho</string>
-    <string name="wangpan_root_path">Meu dispositivo</string>
-    <string name="kuaipan_over_space">O seu KuaiPan não tem espaço disponível.</string>
-    <string name="kuaipan_tech_support">Entre em kuaipan.cn para transferir a versão para PC, Mac</string>
+    <string name="net_lose_connected">A ligação à rede foi perdida</string>
+    <string name="wangpan_root_path">Kuaipan</string>
+    <string name="kuaipan_over_space">Não existe espaço disponível</string>
+    <string name="kuaipan_tech_support">iniciar sessão em kuaipan.cn</string>
     <string name="no_tasks">Sem Tarefas</string>
     <string name="no_more_space">Não há espaço suficiente</string>
-    <string name="sd_full">O armazenamento interno do seu telefone está cheio.</string>
-    <string name="file_too_large">O arquivo é muito grande, não pode ser carregado</string>
+    <string name="sd_full">O armazenamento interno do seu telefone está cheio</string>
+    <string name="file_too_large">Falha ao carregar: o ficheiro é muito grande</string>
     <string name="create_new_folder_failed">Falha ao criar a pasta</string>
     <string name="user_guide_kuaipan_copy">Aceda aos seus ficheiros em vários dispositivos</string>
     <string name="user_guide_upload_to_kuaipan">Loja de artigos do seu telefone em Kuaipan</string>
@@ -179,14 +176,14 @@ tem que ligar à rede para usar este recurso."</string>
     <string name="copy_failed">Falha ao copiar</string>
     <string name="delete_failed">Falha ao eliminar</string>
     <string name="toast_file_not_can_read">Não foi encontrada nenhuma aplicação para efetuar esta ação.</string>
-    <string name="ui_main_menu_option_sign_in">Entrar</string>
-    <string name="sign_description">Entrar em…</string>
+    <string name="ui_main_menu_option_sign_in">Iniciar sessão em</string>
+    <string name="sign_description">A iniciar sessão em…</string>
     <string name="signin_error">Falha ao ligar ao servidor. Verifique a sua ligação de rede.</string>
     <string name="signin_success">"Bem vindo!
 Foi adicionado %1$s de espaço grátis"</string>
-    <string name="already_signin_description">Já entrou em</string>
-    <string name="pull_to_signin">Deslize para baixo para entrar.</string>
-    <string name="release_to_signin">Soltar para entrar</string>
+    <string name="already_signin_description">Já iniciou a sessão em</string>
+    <string name="pull_to_signin">Deslize para baixo para iniciar sessão.</string>
+    <string name="release_to_signin">Soltar para iniciar a sessão em</string>
     <string name="server_control_settings">Definições</string>
     <string name="server_control_advanced_settings">Definições FTP</string>
     <string name="server_control_charset">Codificação da transferência</string>
@@ -300,7 +297,7 @@ Foi adicionado %1$s de espaço grátis"</string>
     <string name="operation_moving_detail">A mover(%1$d/%2$d)</string>
     <string name="operation_copying">A copiar…</string>
     <string name="operation_copying_detail">A copiar (%1$d/%2$d)</string>
-    <string name="name_illegal">Tem que digitar um nome.</string>
+    <string name="name_illegal">Tem que digitar um nome</string>
     <string name="open_changed_file_title">Alteração aplicada</string>
     <string name="open_changed_file_message">"O arquivo que está a tentar abrir foi alterado. Para fixar este problema:
 1. Transfira novamente o arquivo para o atualizar.

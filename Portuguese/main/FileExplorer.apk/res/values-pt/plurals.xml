@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">Eliminar %1$d ficheiros</item>
+        <item quantity="one">Eliminar i ficheiro</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">" e %1$d pastas?"</item>
+        <item quantity="one">" and 1 folder?"</item>
+    </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d ficheiros</item>
         <item quantity="one">1 ficheiro</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">faltam transferir %1$d ficheiros</item>
+        <item quantity="one">falta transferir 1 ficheiro</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">faltam enviar %1$d ficheiros</item>
+        <item quantity="one">falta enviar 1 ficheiro</item>
     </plurals>
 </resources>
