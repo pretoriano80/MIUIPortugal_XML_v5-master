@@ -83,11 +83,11 @@
         <item>2</item>
     </string-array>
     <string-array name="score_descriptions">
-        <item>Lista Negra desativada.</item>
-        <item>Gestor de permissões desligado.</item>
-        <item>Lixo é muito grande.</item>
-        <item>Definições de Virus desatualizadas.</item>
-        <item>Muitos processos em segundo plano.</item>
+        <item>Lista Negra desativada</item>
+        <item>Gestor de permissões desligado</item>
+        <item>Lixo é muito grande</item>
+        <item>Definições de Virus desatualizadas</item>
+        <item>Muitos processos em segundo plano</item>
     </string-array>
     <string-array name="score_suggests">
         <item>Ative a Lista Negra</item>
@@ -242,7 +242,7 @@
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>A Localizar…</item>
-        <item>A ligar-se a %1$s…</item>
+        <item>A ligar a %1$s…</item>
         <item>Autenticação com %1$s…</item>
         <item>A obter o endereço IP de %1$s…</item>
         <item>Ligado a %1$s</item>
@@ -251,7 +251,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporariamente ligações fracas</item>
+        <item>Evitar temporáriamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_security">
         <item>@string/wifi_security_none</item>
@@ -353,7 +353,7 @@
         <item>Manual</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Desligado</item>
+        <item>Off</item>
         <item>Alerta</item>
         <item>Vibrar</item>
     </string-array>
@@ -771,7 +771,7 @@
         <item>Dispositivo ligado, a criar sessão…</item>
         <item>Sessão criada.</item>
         <item>Sessão desligada…</item>
-        <item>Sessão falhou</item>
+        <item>Sessão falhou.</item>
         <item>Expirou o tempo, a repetir…</item>
         <item>Dispositivo ligado</item>
     </string-array>
@@ -882,7 +882,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Câmera</item>
         <item>Galeria</item>
         <item>Música</item>
-        <item>Vídeo</item>
         <item>Email</item>
     </string-array>
 </resources>
