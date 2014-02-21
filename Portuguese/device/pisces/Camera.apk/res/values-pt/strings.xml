@@ -530,12 +530,9 @@ Saia da vista por um momento"</string>
     <string name="wifi_connect_success">Ligado.</string>
     <string name="wifi_connect_not_found">É impossível encontrar Wi-FI</string>
     <string name="wifi_connect_current_connetion">Está ligado a uma rede Wi-Fi</string>
-    <string name="pref_camera_watermark_title">Tempo marca d'água</string>
+    <string name="pref_camera_watermark_title">"Tempo marca d'água"</string>
     <string name="pref_camera_watermark_entry_off">Off</string>
     <string name="pref_camera_watermark_entry_on">On</string>
-    <string name="pref_camera_watermark_default">off</string>
-    <string name="pref_camera_watermark_entryvalue_off">off</string>
-    <string name="pref_camera_watermark_entryvalue_on">on</string>
     <string name="accessibility_flash_mode_button">FlashButton</string>
     <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
     <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
@@ -546,9 +543,6 @@ Saia da vista por um momento"</string>
     <string name="pref_scan_qrcode_title">Scanear Codigo QR</string>
     <string name="pref_scan_qrcode_entry_off">Off</string>
     <string name="pref_scan_qrcode_entry_on">On</string>
-    <string name="pref_scan_qrcode_default">off</string>
-    <string name="pref_scan_qrcode_value_off">off</string>
-    <string name="pref_scan_qrcode_value_on">on</string>
     <string name="pref_manual_exposure_title">Manual Exposure</string>
     <string name="pref_camera_exposuretime_title">Exposure Time</string>
     <string name="pref_camera_exposuretime_default">0</string>
