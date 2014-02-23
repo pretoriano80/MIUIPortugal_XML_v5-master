@@ -50,29 +50,6 @@
     <string name="frame_black">Preto</string>
     <string name="frame_semicircle">Semicírculo</string>
     <string name="frame_movie">Filme</string>
-    <string name="frame_white_tooltip">photoeditor_frame_white</string>
-    <string name="frame_black_tooltip">photoeditor_frame_black</string>
-    <string name="frame_classic_tooltip">photoeditor_frame_classic</string>
-    <string name="frame_semicircle_tooltip">photoeditor_frame_semicircle</string>
-    <string name="frame_movie_tooltip">photoeditor_frame_movie</string>
-    <string name="crop_polymorphism">photoeditor_effect_crop</string>
-    <string name="rotate_polymorphism">photoeditor_effect_rotate</string>
-    <string name="flip_polymorphism">photoeditor_effect_flip</string>
-    <string name="straighten_polymorphism">photoeditor_effect_straighten</string>
-    <string name="doodle_polymorphism">photoeditor_effect_doodle</string>
-    <string name="autofix_polymorphism">photoeditor_effect_autofix</string>
-    <string name="redeye_polymorphism">photoeditor_effect_redeye</string>
-    <string name="sharpen_polymorphism">photoeditor_effect_sharpen</string>
-    <string name="filllight_polymorphism">photoeditor_effect_filllight</string>
-    <string name="shadow_polymorphism">photoeditor_effect_shadow</string>
-    <string name="highlight_polymorphism">photoeditor_effect_highlight</string>
-    <string name="hue_polymorphism">photoeditor_effect_hue</string>
-    <string name="saturation_polymorphism">photoeditor_effect_saturation</string>
-    <string name="contrast_polymorphism">photoeditor_effect_contrast</string>
-    <string name="fisheye_polymorphism">photoeditor_effect_fisheye</string>
-    <string name="vignette_polymorphism">photoeditor_effect_vignette</string>
-    <string name="dummy_vs">uniform mat4 mg_ModelView, mg_Projection; attribute vec2 mg_TexCoord0, mg_TexCoord1; attribute vec3 mg_Vertex; varying vec2 mg_UV0, mg_UV1; void main() { gl_Position = mg_Projection * mg_ModelView * vec4(mg_Vertex, 1); mg_UV0 = mg_TexCoord0; mg_UV1 = mg_TexCoord1; }</string>
-    <string name="dummy_fs">precision mediump float; uniform mat4 mg_TextureMatrix; uniform sampler2D mg_Texture0, mg_Texture1; uniform vec4 mg_Color; uniform float mg_Texture0_Weight, mg_Texture1_Weight, mg_Color_Weight; uniform vec4 mg_Texture0_Modulate, mg_Texture1_Modulate; varying vec2 mg_UV0, mg_UV1; vec2 transform_uv(vec2 uv) { vec4 v = vec4(uv, 0, 1); v = mg_TextureMatrix * v; return v.xy; } void main() { vec4 col = vec4(0, 0, 0, 0); if(mg_Texture0_Weight > 0.05) { col += mg_Texture0_Modulate * texture2D(mg_Texture0, transform_uv(mg_UV0)) * mg_Texture0_Weight; } if(mg_Texture1_Weight > 0.05) { col += mg_Texture1_Modulate * texture2D(mg_Texture1, transform_uv(mg_UV1)) * mg_Texture1_Weight; } if(mg_Color_Weight > 0.05) { col += mg_Color * mg_Color_Weight; } gl_FragColor = col; }</string>
     <string name="app_name">Galeria</string>
     <string name="details_ms">%1$02d:%2$02d</string>
     <string name="details_hms">%1$d:%2$02d:%3$02d</string>
@@ -260,7 +237,6 @@ albúm em qualquer lugar.
     <string name="cloud_be_shared_guide_message">Pode ver fotos dos seus amigos e adicionar fotos no álbum, bem como todos vocês podem vê-los.</string>
     <string name="cloud_owner_album_share_guide">Pode partilhar este álbum com os amigos</string>
     <string name="view_sharers">Exibir partilhadores</string>
-    <string name="camera_path">/DCIM/Camera</string>
     <string name="open_single_image_failure">Falha ao carregar a imagem.</string>
     <string name="damaged_file">O arquivo está corrompido</string>
     <string name="must_pick_file">Selecione uma imagem</string>
