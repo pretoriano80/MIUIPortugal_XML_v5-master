@@ -820,9 +820,6 @@ Attempts Remaining :"</string>
     <string name="lockscreen_network_locked_message">Rede bloqueada</string>
     <string name="lockscreen_perso_locked_message">SIM/RUIM is Perso locked</string>
     <string name="lockscreen_sim_puk_locked_instructions">Consulte o Manual de utilizador ou contacte a Assistência a Clientes.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">"PIN1 Blocked. Enter PUK1.
-or
-Please see the User Guide or contact Customer Care."</string>
     <string name="lockscreen_sim_locked_message">O cartão SIM está bloqueado.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">A desbloquear cartão SIM...</string>
     <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
