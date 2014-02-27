@@ -69,6 +69,7 @@
     <string name="no_updates_warning2">A aplicação irá notificá-lo de todas as actualizações futuras</string>
     <string name="new_updates_found_title">Actualizações disponíveis</string>
     <string name="new_update_content_title">Há uma nova versão do MIUI disponível</string>
+    <string name="new_update_content_notification_shade" />
     <string name="new_update_downloading_body">A transferir versão: %s</string>
     <string name="new_update_download_complete_body">Nova versão: %s</string>
     <string name="update_success_title">Actualização concluída!</string>

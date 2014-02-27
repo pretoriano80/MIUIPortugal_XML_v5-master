@@ -72,7 +72,7 @@
     <string name="confirm_know">OK</string>
     <string name="error_info_cant_send_folder">Este tipo de arquivo não é suportado.</string>
     <string name="fail_to_create_folder">Não é possível criar a pasta: sem espaço ou a pasta já existe.</string>
-    <string name="fail_to_create_folder_unknown">Falha ao criar a pasta.</string>
+    <string name="fail_to_create_folder_unknown">Falha ao criar a pasta</string>
     <string name="fail_to_rename">O arquivo ou pasta com o novo nome já existe</string>
     <string name="error_filename_too_long">Nome do arquivo muito longo</string>
     <string name="enable_sd_card">Insira o cartão SD ou desative o armaz. em massa USB.</string>
