@@ -1633,7 +1633,6 @@ Phone setup can require significant network activity."</string>
     <string name="screensaver_settings_summary_off">Desligado</string>
     <string name="screensaver_settings_summary_sleep">While charging</string>
     <string name="screensaver_settings_summary_dock">While docked</string>
-    <string name="screensaver_settings_summary_off">Off</string>
     <string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn Daydream on.</string>
     <string name="screensaver_settings_when_to_dream">When to daydream</string>
     <string name="screensaver_settings_dream_start">Start now</string>
