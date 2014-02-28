@@ -49,7 +49,7 @@
     <string name="editing_set_transition_effect_tips">Alterar ecrã de efeitos transição</string>
     <string name="cant_remove_system_app">Aplicação do sistema, é impossível eliminá-la</string>
     <string name="cant_remove_retained_app">Não é possível desinstalar esta aplicação</string>
-    <string name="uninstall_dialog_message">A desinstalação irá eliminar todos os dados da aplicação</string>
+    <string name="uninstall_dialog_message">A desinstalação irá eliminar todos os dados da aplicação.</string>
     <string name="uninstall_dialog_title_format">Desinstalar \"%s\"</string>
     <string name="uninstall">Desinstalar</string>
     <string name="starting_preset_app">Iniciar…</string>
@@ -99,7 +99,7 @@
     <string name="pref_wallpaper_scroll_type_title">Alinhamento do papel de parede</string>
     <string name="pref_cell_layout_size">Disposição das aplicações</string>
     <string name="pref_keep_layout_title">Bloquear posições das aplicações</string>
-    <string name="pref_keep_layout_summary">Alterando a disposição do ecrã inicial não afetará as posições em relação a outras aplicações</string>
+    <string name="pref_keep_layout_summary">Alterando a disposição do ecrã inicial não afectará as posições em relação a outras aplicações</string>
     <string name="widget_gadget_player">Música</string>
     <string name="buffering">A criar buffer…</string>
     <string name="emptyplaylist">Toque para adicionar músicas</string>
@@ -141,7 +141,7 @@
     <string name="gadget_weather_download_start">Transferir</string>
     <string name="gadget_weather_downloading">O pacote do tema está a ser transferido. Reinicie após a transferência ter sido concluída</string>
     <string name="gadget_weather_low_temp">Temperatura baixa</string>
-    <string name="gadget_weather_aqi_title">Qualidade do ar</string>
+    <string name="gadget_weather_aqi_title">Qualidade do ar:</string>
     <string name="aqi_quality_index_good">Bom</string>
     <string name="aqi_quality_index_moderate">Moderado</string>
     <string name="aqi_quality_index_light_pollution">Poluição ligeira</string>
@@ -194,7 +194,7 @@
     <string name="status_bar_toggle_torch">Lanterna</string>
     <string name="status_bar_toggle_vibrate">Vibrar</string>
     <string name="status_bar_toggle_wifi">Wi-fi</string>
-    <string name="status_bar_toggle_power_mode">Modo de energia</string>
+    <string name="status_bar_toggle_power_mode">Energia</string>
     <string name="status_bar_toggle_drive_mode">Condução</string>
     <string name="status_bar_toggle_wifi_ap">Wi-Fi</string>
     <string name="status_bar_toggle_quiet_mode">Não perturbar</string>

@@ -133,8 +133,8 @@ Tentativa feita: %s."</string>
     <string name="confirm_restore_positive">Restaurar</string>
     <string name="delete_unlocked">Eliminar mensagens protegidas</string>
     <string name="delete">Eliminar</string>
-    <string name="stick">PIN</string>
-    <string name="unstick">UNPIN</string>
+    <string name="stick">Pin</string>
+    <string name="unstick">Unpin</string>
     <string name="stick_conversation">Conversa atual Pin</string>
     <string name="unstick_conversation">Unpin conversa atual</string>
     <string name="sticked_conversation">Já introduziu o pin na conversa atual</string>
@@ -233,7 +233,7 @@ Tentativa feita: %s."</string>
     <string name="search_hint">Procurar mensagem</string>
     <string name="search">Mensagens</string>
     <string name="search_setting_description">Texto nas suas mensagens</string>
-    <string name="search_empty">Sem resultados</string>
+    <string name="search_empty">Sem resultados.</string>
     <string name="save">Guardar</string>
     <string name="storage_limits_message">Deseja limitar o número de mensagens por conversação?</string>
     <string name="storage_limits_setting">Definir limites</string>
@@ -456,7 +456,7 @@ Tentativa feita: %s."</string>
     <string name="send_sms">Enviar mensagem</string>
     <string name="file_share_message_description">Eu partilho arquivos comsigo</string>
     <string name="addBlackList">Adicionar à Lista Negra</string>
-    <string name="confirm_add_blacklist_dialog_dspt">Adicionar número à LIsta Negra?</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Adicionar número à Lista Negra?</string>
     <string name="batch_adding_progress_message">A adicionar…</string>
     <string name="invalid_private_contact">Contacto privado inválido</string>
     <string name="sp_conversation_title">Notificação de mensagens</string>
@@ -467,11 +467,11 @@ Tentativa feita: %s."</string>
     <string name="sp_mark_as_read_progress">A marcar todas as mensagens como lidas...</string>
     <string name="refill_now">Encher agora</string>
     <string name="toast_feedback_start">Reunindo dados de registo…</string>
-    <string name="toast_feedback_finish">O seu relatório será enviado automáticamente ao ligar-se a uma rede WLAN</string>
+    <string name="toast_feedback_finish">O seu relatório será enviado automaticamente ao ligar-se a uma rede WLAN</string>
     <string name="toast_feedback_max">Só pode enviar 3 relatórios por dia</string>
     <string name="toast_description_required">Não pode enviar uma mensagem em branco</string>
     <string name="pref_key_mx_feedback">Enviar comentário</string>
-    <string name="pref_summary_mx_feedback">"Ajude a fazer MIUI melhor! 
+    <string name="pref_summary_mx_feedback">"Ajude a fazer uma MIUI melhor! 
 Relatar bugs e enviar comentários diretamente para a MIUI."</string>
     <string name="feedback_description_hint">Escreva seu comentário aqui</string>
     <string name="feedback_submit">Enviar</string>

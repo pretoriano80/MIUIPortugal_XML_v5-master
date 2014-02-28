@@ -13,7 +13,7 @@
     <string name="audio_db_artist_name">Suas gravações</string>
     <string name="audio_db_album_name">Gravações de áudio</string>
     <string name="audio_db_playlist_name">Minhas gravações</string>
-    <string name="error_sdcard_access">Impossivel aceder ao armazenamento interno ou externo</string>
+    <string name="error_sdcard_access">É impossivel aceder ao armazenamento interno ou externo</string>
     <string name="error_app_internal">Talvez seja um erro do cartao ou existe outra aplicação a utilizar o software de gravação. Verifique e tente novamente.</string>
     <string name="error_app_internal_title">Erro interno da aplicação</string>
     <string name="error_mediadb_new_record">Não é possível guardar o áudio gravado</string>
@@ -53,7 +53,7 @@
     <string name="dialog_content_storage_full">A gravação parou porque não há espaço suficiente restante na memória interna do telefone.</string>
     <string name="status_bar_anti_disturb">Telefone em modo silencioso</string>
     <string name="status_bar_recording">A gravar…</string>
-    <string name="status_bar_back" />
+    <string name="status_bar_back">Para voltar, toque neste bar</string>
     <string name="status_bar_recording_pause">Gravação pausada</string>
     <string name="record_saving">A guardar…</string>
     <string name="record_loading">A carregar…</string>
