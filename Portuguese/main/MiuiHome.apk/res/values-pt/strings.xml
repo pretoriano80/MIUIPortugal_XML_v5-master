@@ -223,8 +223,8 @@
     <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
     <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
     <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
-    <string name="screen_rotation_freeze_message">Auto rotação desativada.</string>
-    <string name="screen_button_disabled_message">Botões de navegação estão desativados. Para reativar, selecione Home e Botão de Energia simultâneamente.</string>
-    <string name="screen_button_enabled_message">Botões de navegação ativados.</string>
-    <item type="string" name="APKTOOL_DUMMY_00a9">false</item>
+    <string name="screen_rotation_freeze_message">Auto rotação desactivada.</string>
+    <string name="screen_button_disabled_message">Botões de navegação estão desactivados. Para reactivar, selecione Home e Botão de Energia simultâneamente.</string>
+    <string name="screen_button_enabled_message">Botões de navegação activados.</string>
+    <item type="string" name="APKTOOL_DUMMY_00ad">false</item>
 </resources>
