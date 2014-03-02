@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string name="versionCode">2</string>
@@ -1953,7 +1953,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="filter_apps_onsdcard">Armazenamento USB</string>
     <string name="disabled">Desactivado</string>
     <string name="no_applications">Sem aplicações.</string>
-    <string name="internal_storage">Armazenamento de sestema</string>
+    <string name="internal_storage">Armazenamento de sIstema</string>
     <string name="sd_card_storage">Armazenamento USB</string>
     <string name="recompute_size">A calcular o tamanho…</string>
     <string name="clear_data_dlg_title">Eliminar dados da aplicação?</string>
