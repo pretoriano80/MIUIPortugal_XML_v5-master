@@ -27,7 +27,7 @@ Tem a certeza que quer desativar?"</string>
     <string name="optimize_title_ad">Adicionar ficheiros</string>
     <string name="optimize_title_apk">Pacotes</string>
     <string name="optimize_title_residual">Residuais</string>
-    <string name="button_text_quick_scan">Comece a varificação</string>
+    <string name="button_text_quick_scan">Comece a verificação</string>
     <string name="button_text_a_key_clean_up">Limpar</string>
     <string name="button_text_a_key_optimize">Optimizar agora</string>
     <string name="button_text_a_key_uninstall">Uninstall</string>
@@ -1988,7 +1988,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="disabled">Desativado</string>
     <string name="not_installed">Not installed</string>
     <string name="no_applications">Sem aplicações.</string>
-    <string name="internal_storage">Armazenamento de sIstema</string>
+    <string name="internal_storage">Armazenamento de sistema</string>
     <string name="sd_card_storage">Armazenamento USB</string>
     <string name="recompute_size">A calcular o tamanho…</string>
     <string name="clear_data_dlg_title">Eliminar dados da aplicação?</string>
