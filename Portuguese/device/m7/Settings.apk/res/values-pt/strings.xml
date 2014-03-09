@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
-    <string name="versionCode">2</string>
-    <string name="versionName">1.0.140114</string>
+    <string name="versionCode">3</string>
+    <string name="versionName">1.0.140225</string>
     <string name="auto_startup_application_manage">Auto Iniciar</string>
     <string name="auto_startup_count">%d aplicações estão autorizadas a iniciar automaticamente</string>
     <string name="man_add_application">Adicionar aplicações a iniciar automaticamente</string>
@@ -317,6 +317,9 @@ Tem que alterar as definições da sua bateria antes de poder eliminar esta conf
 Quando a bateria se recupera o dispositivo está definido para mudar para esta configuração. Tem que alterar as definições da bateria antes de poder eliminar esta configuração."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Não é possível eliminar: O dispositivo está definido para mudar para essa configuração quando programado um período. É preciso alterar as definições da bateria antes de poder eliminar esta configuração.</string>
     <string name="power_mode_chooser_button_text">aplicar</string>
+    <string name="menu_item_force_stop">Forcar a paragem</string>
+    <string name="menu_item_uninstall">Desinstalar</string>
+    <string name="menu_item_app_details">Detalhes</string>
     <string name="application_info_label">Aplicações</string>
     <string name="version_text">versão %1$s</string>
     <string name="security_relative">Relacionadas com segurança</string>
@@ -569,6 +572,9 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
     <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
     <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
+    <string name="category_key_power_usage_details">key_power_usage_details</string>
+    <string name="category_key_power_usage_packages">key_power_usage_packages</string>
+    <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
     <string name="app_name">Segurança</string>
     <string name="action_settings">Definições</string>
     <string name="hello_world">Olá mundo!</string>
@@ -605,7 +611,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scanner_scan">Toque para verificar</string>
     <string name="virus_scanner_select_lib">Selecione definições de vírus</string>
     <string name="virus_scanner_select_trust_lib">Selecione definições de vírus</string>
-    <string name="virus_scanner_update_lib">Atualizar definições</string>
+    <string name="virus_scanner_update_lib">Actualizar definições</string>
     <string name="virus_scanner_select_multi">Selecionando mais de um conjunto de definições vai abrandar a instalação e verificação.</string>
     <string name="virus_scanner_select_single">Use apenas as definições de uma fonte confiável.</string>
     <string name="virus_scanner_provider">Definições fornecidas por %s</string>

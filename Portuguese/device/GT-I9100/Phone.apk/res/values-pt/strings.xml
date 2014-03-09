@@ -328,7 +328,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="puk2_requested">Senha incorreta. SIM bloqueado! PUK2 solicitado.</string>
     <string name="doneButton">Concluído</string>
     <string name="caller_manage_header">Chamadas em conferência %s</string>
-    <string name="fake_phone_activity_phoneNumber_text">(21) 123-4567</string>
+    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="fake_phone_activity_infoText_text">Entrada de número de Telefone</string>
     <string name="fake_phone_activity_placeCall_text">Entrada de Chamada Falsa</string>
     <string name="voicemail_settings_number_label">Número correio de voz</string>
@@ -576,8 +576,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="answer_widget_sliding_vertical_miui">Deslizar na vertical</string>
     <string name="answer_widget_title_miui">Gesto de atendimento</string>
     <string name="answer_state_setting_title">Definições de chamadas recebidas</string>
-    <string name="answer_state_setting_summary">Definições de sensor de proximidade,  virar e silenciar, etc.</string>
-    <string name="answer_state_setting_title_miui">Definições de chamadas recebidas</string>
+    <string name="answer_state_setting_summary">Configurar opções adicionais de chamadas recebidas</string>
     <string name="areacode_required_for_emergency_number_miui">Código de área requerido para chamadas de emergência</string>
     <string name="areacode_required_miui">Código de área requerido</string>
     <string name="areacode_required_accept_miui">OK</string>
@@ -646,6 +645,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="call_record_notification_message_miui">Toque para ver %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">A gravação foi interrompida pois o cartão SD foi desmontado.</string>
     <string name="call_record_notification_message_start_failed">Dispositivo de gravação está ocupado por outra aplicação.</string>
+    <string name="call_record_error_access">Não é possível gravar enquanto estiver no modo convidado</string>
     <string name="call_record_notification_title_error_miui">Falha ao gravar ligação</string>
     <string name="call_record_notification_title_miui">Gravação de chamada completa</string>
     <string name="call_record_sd_error_miui">Erro ao aceder ao cartão SD!</string>

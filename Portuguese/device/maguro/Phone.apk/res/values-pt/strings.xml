@@ -72,7 +72,7 @@
     <string name="sum_cdma_call_settings">Configs. adicionais para cham. CDMA</string>
     <string name="labelNwService">Config. do serviço de rede</string>
     <string name="labelCallerId">ID da chamada</string>
-    <string name="sum_loading_settings">A carregar configurações...</string>
+    <string name="sum_loading_settings">A carregar configurações…</string>
     <string name="sum_hide_caller_id">Ocultar número ao chamar</string>
     <string name="sum_show_caller_id">Mostrar número ao chamar</string>
     <string name="sum_default_caller_id">Usar as predefinições do operador para exibir o meu número nas chamadas efectuadas</string>
@@ -138,7 +138,7 @@ Deseja mudar para a nova operadora?"</string>
     <string name="sum_carrier_select">Selecione uma operadora de rede</string>
     <string name="sum_search_networks">Pesquisar todas as redes disponíveis</string>
     <string name="select_automatically">Selecionar automaticamente</string>
-    <string name="sum_select_automatically">Selecionar rede preferida automáticamente</string>
+    <string name="sum_select_automatically">Selecionar rede preferida automaticamente</string>
     <string name="register_automatically">Registo automático...</string>
     <string name="preferred_network_mode_title">Modo de Rede</string>
     <string name="preferred_network_mode_summary">Altera o modo de operação de redes</string>
@@ -151,7 +151,7 @@ Deseja mudar para a nova operadora?"</string>
     <string name="preferred_network_mode_cdma_evdo_summary">Modo preferido: CDMA/EvDo</string>
     <string name="preferred_network_mode_cdma_only_summary">Modo preferido: Apenas CDMA</string>
     <string name="preferred_network_mode_evdo_only_summary">Modo preferido: Apenas EvDo</string>
-    <string name="preferred_network_mode_lte_cdma_summary">Preferred network mode: LTE / CDMA</string>
+    <string name="preferred_network_mode_lte_cdma_summary">Modo de rede preferido: LTE / CDMA</string>
     <string name="data_enabled">Dados ativados</string>
     <string name="data_enable_summary">Ativar acesso a dados pela rede móvel</string>
     <string name="roaming">Roaming de dados</string>
@@ -328,7 +328,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="puk2_requested">Senha incorreta. SIM bloqueado! PUK2 solicitado.</string>
     <string name="doneButton">Concluído</string>
     <string name="caller_manage_header">Chamadas em conferência %s</string>
-    <string name="fake_phone_activity_phoneNumber_text">(032)3218-3218</string>
+    <string name="fake_phone_activity_phoneNumber_text">(650) 555-1234</string>
     <string name="fake_phone_activity_infoText_text">Número de Telefone de Chamada</string>
     <string name="fake_phone_activity_placeCall_text">Chamada de Entrada Falsa</string>
     <string name="voicemail_settings_number_label">Número correio de voz</string>
@@ -370,11 +370,11 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="incall_error_supp_service_transfer">Não é possível transferir a chamada.</string>
     <string name="incall_error_supp_service_conference">Não é possível realizar conferências telefónicas.</string>
     <string name="incall_error_supp_service_reject">Não é possível rejeitar a chamada.</string>
-    <string name="incall_error_supp_service_hangup">Não é possível libertar a(s) chamada(s).</string>
+    <string name="incall_error_supp_service_hangup">Não é possível realizar chamada(s).</string>
     <string name="incall_call_type_label_sip">Chamada Internet</string>
     <string name="emergency_enable_radio_dialog_title">Chamada de emergência</string>
     <string name="emergency_enable_radio_dialog_message">A ativar o rádio…</string>
-    <string name="emergency_enable_radio_dialog_retry">Área fora de serviço, a tentar novamente...</string>
+    <string name="emergency_enable_radio_dialog_retry">Área fora de serviço, a tentar novamente…</string>
     <string name="dial_emergency_error">Chamada não completada. %s não é um número de emergência!</string>
     <string name="dial_emergency_empty_error">Chamada não completada. Marque um número de emergência!</string>
     <string name="dialerKeyboardHintText">Usar o teclado para marcar</string>
@@ -578,16 +578,15 @@ Tente novamente ou ligue para o serviço ao cliente para mais opções."</string
     <string name="answer_widget_title_miui">Gesto de atendimento</string>
     <string name="answer_state_setting_title">Definições de chamadas recebidas</string>
     <string name="answer_state_setting_summary">Definições de sensor de proximidade,  virar e silenciar, etc.</string>
-    <string name="answer_state_setting_title_miui">Definições de chamadas recebidas</string>
     <string name="areacode_required_for_emergency_number_miui">Código de área requerido para chamadas de emergência</string>
-    <string name="areacode_required_miui">Código de área requerido</string>
+    <string name="areacode_required_miui">É requerido o Código de área</string>
     <string name="areacode_required_accept_miui">OK</string>
     <string name="auto_answer_summary_not_enabled">Não ativado</string>
     <string name="auto_answer_summary_delay">(atrasar:%s segundos)</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
     <string name="auto_answer_delay_entries_delay_3s_miui">3s</string>
     <string name="auto_answer_delay_entries_delay_5s_miui">5s</string>
-    <string name="auto_answer_delay_entries_immediately_miui">0s</string>
+    <string name="auto_answer_delay_entries_immediately_miui">Nenhum atraso</string>
     <string name="auto_answer_delay_title_miui">Atraso de atendimento</string>
     <string name="auto_answer_pref_summary_miui">Atender automaticamente chamadas telefónicas</string>
     <string name="auto_answer_pref_title_miui">Atendimento automático</string>
@@ -647,9 +646,10 @@ Tente novamente ou ligue para o serviço ao cliente para mais opções."</string
     <string name="call_record_notification_message_miui">Toque para ver %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">A gravação foi interrompida pois o cartão SD foi desmontado.</string>
     <string name="call_record_notification_message_start_failed">O dispositivo de gravação está ocupado por outra aplicação.</string>
+    <string name="call_record_error_access">Não é possível gravar enquanto estiver no modo convidado</string>
     <string name="call_record_notification_title_error_miui">Falha ao gravar ligação</string>
     <string name="call_record_notification_title_miui">Gravação de chamada completa</string>
-    <string name="call_record_sd_error_miui">Erro ao aceder ao cartão SD!</string>
+    <string name="call_record_sd_error_miui">Erro ao aceder ao cartão SD</string>
     <string name="call_record_sd_space_low_miui">O cartão SD está com pouco espaço livre. Tente novamente após libertar espaço no cartão SD</string>
     <string name="call_record_path_name_of_sdcard_miui">Cartão SD</string>
     <string name="call_settings_category_miui">Configurações de chamada</string>
@@ -728,7 +728,7 @@ Tente novamente ou ligue para o serviço ao cliente para mais opções."</string
     <string name="dtmf_tones_title_miui">Tons DTMF</string>
     <string name="edit_custom_location_title_miui">Personalizar configurações regionais como número e operadoras</string>
     <string name="emergency_call_area_code_edit_dialog_button_miui">Chamar</string>
-    <string name="emergency_call_area_code_edit_dialog_hint_miui">ex: 112</string>
+    <string name="emergency_call_area_code_edit_dialog_hint_miui">Digite o código da àrea</string>
     <string name="enable_miui">Ativar</string>
     <string name="enable_proximity_summary_miui">Ativar o sensor de proximidade para desativar o ecrã durante uma chamada</string>
     <string name="enable_proximity_title_miui">Ativar sensor de proximidade</string>
@@ -813,10 +813,10 @@ Tente novamente ou ligue para o serviço ao cliente para mais opções."</string
     <string name="onscreen_tools_on_miui">Ferramentas</string>
     <string name="other_settings_miui">Outras</string>
     <string name="pin2_changed_miui">PIN2 alterado</string>
-    <string name="pin2_invalid_or_name_is_too_long">Digitou um PIN incorreto ou o nome é muito longo.</string>
-    <string name="pin2_locked_message_miui">PIN2 incorreto e funcionalidades relacionada com o PIN2 estão bloqueadas. Por favor reinicie o PIN2 por PUK2.</string>
+    <string name="pin2_invalid_or_name_is_too_long">Digitou um PIN incorreto ou o nome é muito longo</string>
+    <string name="pin2_locked_message_miui">Tente novamente: PIN2 incorreto</string>
     <string name="pin2_lock_warning_miui">"
-Todas as funções que exijam PIN2 estarão bloqueadas na próxima tentativa incorreta!!"</string>
+Todas as funções que exijam PIN2 estarão bloqueadas na próxima tentativa incorreta"</string>
     <string name="pin_attempts_miui">Tem %d tentativas restantes</string>
     <string name="pin_changed_miui">PIN do SIM alterado com sucesso</string>
     <string name="pin_lock_warning_miui">"

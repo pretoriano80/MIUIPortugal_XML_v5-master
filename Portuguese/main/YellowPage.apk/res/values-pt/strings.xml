@@ -64,6 +64,8 @@
     <string name="user_notice_yp_detail_summary_format">Algumas das suas informações de diretório rótulo estão desatualizadas. Quer atualizá-las? Ao tocar \"Concordo\" concorda com as Xiaomi %1$s and %2$s.</string>
     <string name="about_smart_antispam_summary">Sobre este recurso</string>
     <string name="about_telephone_fraud">Cuidado com fraudes no telefone</string>
+    <string name="notify_connect_every_time">Pedir sempre permissão de rede</string>
+    <string name="do_not_remind_me">Não voltar a lembrar</string>
     <string name="title_about_yellow_page">Sobre</string>
     <string name="payment_back">Voltar</string>
     <string name="payment_failed_common_problems">Ocorreu um problema durante o pagamento</string>
@@ -84,6 +86,7 @@
     <string name="recharge_payment_result_failed_summary">Por favor tente novamente</string>
     <string name="recharge_payment_result_progress_summary">Verificando o resultado do pagamento…</string>
     <string name="recharge_phone_number_error">Número de telefone que inseriu é inválido</string>
+    <string name="recharge_phone_number_empty">O número de telefone que digitou não deve estar vazio</string>
     <string name="recharge_user_confirm_title">Confirme</string>
     <string name="recharge_user_confirm_summary">"Vai ser-lhe cobrado RMB %2$s para %1$s.
 

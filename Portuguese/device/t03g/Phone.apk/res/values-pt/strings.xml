@@ -138,7 +138,7 @@ Deseja mudar para a nova operadora mesmo assim?"</string>
     <string name="sum_carrier_select">Selecione uma operadora de rede</string>
     <string name="sum_search_networks">Pesquisar todas as redes disponíveis</string>
     <string name="select_automatically">Selecionar automaticamente</string>
-    <string name="sum_select_automatically">Selecionar rede preferida automáticamente</string>
+    <string name="sum_select_automatically">Selecionar rede preferida automaticamente</string>
     <string name="register_automatically">Registo automático...</string>
     <string name="preferred_network_mode_title">Modo de Rede</string>
     <string name="preferred_network_mode_summary">Altera o modo de operação de redes</string>
@@ -577,7 +577,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="answer_widget_title_miui">Gesto de atendimento</string>
     <string name="answer_state_setting_title">Definições de chamadas recebidas</string>
     <string name="answer_state_setting_summary">Definições de sensor de proximidade,  virar e silenciar, etc.</string>
-    <string name="answer_state_setting_title_miui">Definições de chamadas recebidas</string>
     <string name="areacode_required_for_emergency_number_miui">Código de área requerido para chamadas de emergência</string>
     <string name="areacode_required_miui">Código de área requerido</string>
     <string name="areacode_required_accept_miui">OK</string>
@@ -646,6 +645,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="call_record_notification_message_miui">Toque para ver %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">A gravação foi interrompida pois o cartão SD foi desmontado.</string>
     <string name="call_record_notification_message_start_failed">Dispositivo de gravação está ocupado por outra aplicação.</string>
+    <string name="call_record_error_access">Não é possível gravar no modo Convidado</string>
     <string name="call_record_notification_title_error_miui">Falha ao gravar ligação</string>
     <string name="call_record_notification_title_miui">Gravação de chamada completa</string>
     <string name="call_record_sd_error_miui">Erro ao aceder ao cartão SD!</string>
