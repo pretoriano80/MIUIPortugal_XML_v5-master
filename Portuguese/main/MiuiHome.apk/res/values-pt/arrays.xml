@@ -35,9 +35,9 @@
     </array>
     <string-array name="transformation_entries">
         <item>Clássico</item>
-        <item>Classico (sem excesso)</item>
+        <item>Classico</item>
         <item>Crossfade</item>
-        <item>Tumbling</item>
+        <item>Tumble</item>
         <item>Página</item>
         <item>Cascata</item>
         <item>Rotação</item>

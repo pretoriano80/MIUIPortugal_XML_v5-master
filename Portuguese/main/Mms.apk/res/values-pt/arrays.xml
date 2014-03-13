@@ -68,7 +68,7 @@
         <item>Email</item>
         <item>Organização</item>
         <item>IM</item>
-        <item>VoIP</item>
+        <item>Telefone VoIP</item>
         <item>Aniversário</item>
         <item>Website</item>
         <item>Morada</item>
@@ -89,11 +89,11 @@
     </string-array>
     <string-array name="entries_date_type">
         <item>Tempo recebido</item>
-        <item>Tempo enviado</item>
+        <item>Tempo de envio</item>
     </string-array>
     <string-array name="resent_via_entries_sms">
-        <item>Por mensagem</item>
-        <item>Por mensagem na nuvem</item>
+        <item>Via mensagem</item>
+        <item>Via mensagem na nuvem</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>Via mensagem</item>

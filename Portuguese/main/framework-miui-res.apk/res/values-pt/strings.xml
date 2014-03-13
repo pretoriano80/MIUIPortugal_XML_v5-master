@@ -3,7 +3,7 @@
 <resources>
     <string name="activate">Ativar</string>
     <string name="activate_fail_notification_title">Reativar sincronização</string>
-    <string name="activating">Activando…</string>
+    <string name="activating">A activar…</string>
     <string name="alwaysUsePrompt">Lembrar a minha escolha</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
@@ -15,8 +15,8 @@
     <string name="call_record_or">or</string>
     <string name="call_record_sample_prefix_miui">Gravação de chamada</string>
     <string name="caller_info_name_delimiter">Ou</string>
-    <string name="check_phone_error_title">Serviço de sincronização não ativado</string>
-    <string name="check_phone_io_error">Erro de rede.</string>
+    <string name="check_phone_error_title">Serviço de sincronização não activado</string>
+    <string name="check_phone_io_error">Erro de rede</string>
     <string name="childrens_day">Dia da Criança</string>
     <string name="chinese_youth_day">Dia da Juventude</string>
     <string name="christmas_day">Natal</string>
@@ -255,10 +255,10 @@
     <string name="day_of_month">" %d"</string>
     <string name="delete">Eliminar</string>
     <string name="double_seventh_day">Tanabata</string>
-    <string name="error_forbidden">Existem alguns problemas com a sua conta: sincronização desativada.</string>
-    <string name="error_not_acceptable">Erro no servidor: Sincronização desativada.</string>
+    <string name="error_forbidden">Existem alguns problemas com a sua conta: sincronização desactivada.</string>
+    <string name="error_not_acceptable">Erro no servidor: Sincronização desactivada.</string>
     <string name="error_title">Erro de sincronização</string>
-    <string name="error_unauthorized">Muitas falhas na autenticação: A sincronização foi desativada.</string>
+    <string name="error_unauthorized">Sincronização foi desactivada devido a demasiadas tentativas.</string>
     <string name="every_day">Todos os dias</string>
     <string name="experimental_validate">Validar</string>
     <string name="experimental_validate_fail">Falha na validação.</string>
@@ -268,12 +268,11 @@
     <string name="experimental_validate_username">ID Xiaomi</string>
     <string name="experimental_validate_warning">Em cada exploração que faz, ajuda a MIUI a tornar-se melhor!</string>
     <string name="find_device_check_sim">A verificar o SIM…</string>
-    <string name="find_device_sim_change_instructions">"O seu dispositivo foi bloqueado
-Por favor, insira o cartão SIM, ou introduza a senha da sua conta Xiaomi."</string>
+    <string name="find_device_sim_change_instructions">O seu dispositivo está bloqueado insira o cartão SIM ou inicie sessão na sua conta Xiaomi.</string>
     <string name="find_device_sim_change_instructions_no_network">"O seu dispositivo foi bloqueado
 Por favor, insira o cartão SIM."</string>
-    <string name="find_device_turn_off_flight_mode">Desativar o modo avião</string>
-    <string name="find_device_turn_off_flight_mode_instructions">"O seu dispositivo foi bloqueado
+    <string name="find_device_turn_off_flight_mode">Desactivar o modo avião.</string>
+    <string name="find_device_turn_off_flight_mode_instructions">"O seu dispositivo foi bloqueado.
 Por favor, desligue o modo avião."</string>
     <string name="firewall_setting">AntiSpam</string>
     <string name="first_back_long_press_message">"Quer ativar a função pressionar-longo a tecla voltar para terminar todos os processos em excução? 
@@ -281,8 +280,9 @@ Por favor, desligue o modo avião."</string>
 Activar via Definições > Sistema > Botão Definições"</string>
     <string name="fm_record_smaple_prefix_miui">Gravação FM</string>
     <string name="fools_day">Dia da mentira</string>
-    <string name="force_exit_message">Fechado \"%1$s</string>
-    <string name="global_action_privacy_mode_dialog_message">No modo protegido, chamadas, notas, galeria de dados e mensagens de texto serão ocultados e o launcher não será capaz de entrar em modo de edição. Pode definir uma senha para proteger o modo protegido na configuração de Controle de Acesso</string>
+    <string name="force_exit_message">Fechado \"%1$s\"</string>
+    <string name="format_time_in_12_hours">hh:mma</string>
+    <string name="global_action_privacy_mode_dialog_message">chamadas, notas, galeria de dados e mensagens de texto serão ocultados e o launcher não será capaz de entrar em modo de edição. Pode definir uma senha para proteger o modo protegido na configuração de Controle de Acesso</string>
     <string name="global_action_toggle_privacy_mode">Privacidade</string>
     <string name="grain_buds">Xiaoman</string>
     <string name="grain_in_ear">Grão na Orelha</string>
@@ -370,9 +370,9 @@ Memória disponível: %2$s"</string>
     <string name="safetylegal_activity_unreachable">O telefone não está ligado ao serviço de dados. Para ver estas informações, aceda %s em qualquer computador ligado à internet.</string>
     <string name="deprecated_46" />
     <string name="deprecated_47" />
-    <string name="screen_button_notification_text">Para reativar, pressione os botões Home e Power simultaneamente</string>
-    <string name="screen_button_notification_title">Botões do ecrã estão desativados</string>
-    <string name="screen_on_proximity_sensor_hint">Para desativar este recurso, pressione a tecla Voltar e Volume + simultaneamente</string>
+    <string name="screen_button_notification_text">Para reactivar, pressione os botões Home e Power simultaneamente</string>
+    <string name="screen_button_notification_title">Botões do ecrã estão desactivados</string>
+    <string name="screen_on_proximity_sensor_hint">Para desactivar este recurso, pressione a tecla Voltar e Volume + simultaneamente</string>
     <string name="screen_on_proximity_sensor_summary">Não cubra a parte superior do ecrã</string>
     <string name="screen_on_proximity_sensor_title">Modo de prevenção de operação incorreta</string>
     <string name="sd_not_available">Não foi detectado nenhum cartão SD</string>
@@ -381,10 +381,10 @@ Memória disponível: %2$s"</string>
     <string name="sd_not_available_use_internal_storage">Cartão SD indisponível, foi guardado no armazenamento interno</string>
     <string name="select">Selecionar</string>
     <string name="select_all">Selecionar tudo</string>
-    <string name="send_sms_for_sync_notice">É preciso enviar um SMS de ativação, deseja continuar?</string>
-    <string name="send_sms_for_sync_title">Serviço de sincronização não ativado</string>
+    <string name="send_sms_for_sync_notice">É preciso enviar um SMS de activação, deseja continuar?</string>
+    <string name="send_sms_for_sync_title">Serviço de sincronização não activado</string>
     <string name="sim_account_name">SIM</string>
-    <string name="sim_changed_reactivate_notice">O cartão SIM está inativo. É necessário um sms para ativar o serviço, ativar agora?</string>
+    <string name="sim_changed_reactivate_notice">O cartão SIM está inactivo. É necessário um sms para activar o serviço, activar agora?</string>
     <string name="slight_cold">Frio</string>
     <string name="slight_heat">Quente</string>
     <string name="solar_calendar">Calendário gregoriano</string>
@@ -409,12 +409,12 @@ Memória disponível: %2$s"</string>
     <string name="user_agreement2">"Política de privacidade"</string>
     <string name="user_agreement3">" e "</string>
     <string name="user_agreement4">Política de privacidade</string>
-    <string name="user_agreement5">Selecione OK para concordar que está de acordo com o conteúdo. Toque em Cancelar para sair.</string>
+    <string name="user_agreement5" />
     <string name="v5_date_picker_label_day" />
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
     <string name="v5_deselect_all">Desmarcar tudo</string>
-    <string name="v5_edit_mode_title_empty">Selecionar Ficheiros</string>
+    <string name="v5_edit_mode_title_empty">0 Selecionado</string>
     <string name="v5_icon_menu_bar_more_item_label">Mais</string>
     <string name="v5_select_all">Selecionar tudo</string>
     <string name="v5_time_picker_label_hour">H</string>
@@ -438,16 +438,16 @@ Memória disponível: %2$s"</string>
     <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
     <string name="send">Send</string>
     <string name="share">Share</string>
-    <string name="perm_data_update_lab">Atualização de Data</string>
+    <string name="perm_data_update_lab">Actualização de Data</string>
     <string name="perm_data_update_dspt">Autorizar envio de marca de água</string>
     <string name="provider_sougou">Fornecido por Sogou</string>
     <string name="provider_114">Fornecido por 114</string>
-    <string name="device_xiaomi">Telefone Xiaomi</string>
+    <string name="device_xiaomi">Xiaomi</string>
     <string name="miui_device_name">Android</string>
     <string name="sim_unavailable">Cartão SIM indisponível</string>
     <string name="sim_locked">Cartão SIM está bloqueado</string>
-    <string name="sim_not_ready">Cartão SIM está em uso. Por favor, tente mais tarde.</string>
-    <string name="sim_in_airplane_mode">Por favor, desative o modo avião.</string>
+    <string name="sim_not_ready">Cartão SIM está em uso. Tente mais tarde.</string>
+    <string name="sim_in_airplane_mode">Desactive o modo avião.</string>
     <string name="sim_changed_reactivate_int_notice">O cartão SIM está inactivo. É necessário um sms internacional para ativar o serviço, ativar agora?</string>
     <string name="days">%d dias</string>
     <string name="hours">%d horas</string>
@@ -468,7 +468,7 @@ Tente novamente em %d segundos."</string>
     <string name="tw_youth_day">Dia da Juventude</string>
     <string name="tw_childrens_day">Dia das crianças</string>
     <string name="anniversary_of_lifting_martial_law">Memorial Xie Yan</string>
-    <string name="armed_forces_day">Seção militar</string>
+    <string name="armed_forces_day">Secção militar</string>
     <string name="united_nations_day">Dia do país</string>
     <string name="retrocession_day">Dia da Independência</string>
     <string name="text_copied">Texto copiado</string>
@@ -487,6 +487,7 @@ Tente novamente em %d segundos."</string>
     <string name="day_following_good_friday">Dia seguinte Sexta-feira Santa</string>
     <string name="easter">Páscoa</string>
     <string name="v5_date_time_picker_dialog_title">Defina o tempo de lembrete</string>
+    <string name="open_wifi_settings">Abrir ligação de rede</string>
     <string name="lockscreen_emergency_call">Chamada de emergência</string>
     <string name="lockscreen_forgot_pattern_button_text">Esquecer</string>
     <string name="lockscreen_transport_prev_description">Anterior</string>
@@ -510,10 +511,10 @@ Tente novamente em %d segundos."</string>
     <string name="input_pin_code">PIN</string>
     <string name="input_pin_code_to_unlock">PIN</string>
     <string name="pincode_set_to_default_msg">O código PIN está definido como 1234, pode mudá-lo aqui:</string>
-    <string name="incorrect_pukcode_remaining_attempts">Código PUK incorreto, tentativas restantes %d</string>
-    <string name="incorrect_pincode_remaining_attempts">Código PUK incorreto, tentativas restantes %d</string>
-    <string name="incorrect_pukcode">Código PUK incorreto</string>
-    <string name="incorrect_pincode">Código PIN incorreto</string>
+    <string name="incorrect_pukcode_remaining_attempts">Código PUK incorrecto, tentativas restantes %d</string>
+    <string name="incorrect_pincode_remaining_attempts">Código PUK incorrecto, tentativas restantes %d</string>
+    <string name="incorrect_pukcode">Código PUK incorrecto</string>
+    <string name="incorrect_pincode">Código PIN incorrecto</string>
     <string name="puk_operation_failed">Operação do PUK falhou.</string>
     <string name="pin_operation_failed">Operação do PIN falhou.</string>
     <string name="return_to_me_message">Perdido por favor devolva a</string>

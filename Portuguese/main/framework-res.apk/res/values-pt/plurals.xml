@@ -77,6 +77,6 @@
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">1 correspondência</item>
+        <item quantity="one">1 corresponde</item>
     </plurals>
 </resources>

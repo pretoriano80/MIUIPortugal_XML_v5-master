@@ -83,17 +83,17 @@
         <item>2</item>
     </string-array>
     <string-array name="score_descriptions">
-        <item>Lista Negra desativada</item>
+        <item>Lista Negra desactivada.</item>
         <item>Gestor de permissões desligado</item>
         <item>Lixo é muito grande</item>
-        <item>Definições de Virus desatualizadas</item>
+        <item>Definições de Virus desactualizadas</item>
         <item>Muitos processos em segundo plano</item>
     </string-array>
     <string-array name="score_suggests">
-        <item>Ative a Lista Negra</item>
-        <item>Por favor ative o controle de permissões das aplicações</item>
+        <item>Active a Lista Negra</item>
+        <item>Por favor active o controle de permissões das aplicações</item>
         <item>Por favor elimine a lixeira</item>
-        <item>Por favor atualize as definições de vírus</item>
+        <item>Por favor actualize as definições de vírus</item>
         <item>Por favor verifique o número de aplicações em segundo plano…</item>
     </string-array>
     <string-array name="timezone_filters">
@@ -353,7 +353,7 @@
         <item>Manual</item>
     </string-array>
     <string-array name="emergency_tone_entries">
-        <item>Off</item>
+        <item>Desligado</item>
         <item>Alerta</item>
         <item>Vibrar</item>
     </string-array>
@@ -707,7 +707,7 @@
         <item>Iniciar painel recente</item>
         <item>Iniciar assistente de Voz</item>
         <item>Iniciar Google agora</item>
-        <item>Fechar aplicação atual</item>
+        <item>Fechar aplicação actual</item>
     </string-array>
     <string-array name="screen_key_long_press_action_value">
         <item>none</item>
@@ -771,7 +771,7 @@
         <item>Dispositivo ligado, a criar sessão…</item>
         <item>Sessão criada.</item>
         <item>Sessão desligada…</item>
-        <item>Sessão falhou.</item>
+        <item>Sessão falhou</item>
         <item>Expirou o tempo, a repetir…</item>
         <item>Dispositivo ligado</item>
     </string-array>
@@ -883,5 +883,10 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Galeria</item>
         <item>Música</item>
         <item>Email</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>Rede está lenta devido ao excesso de tráfego</item>
+        <item>Rede está lenta devido a intensidade do sinal ser fraco</item>
+        <item>A mover…</item>
     </string-array>
 </resources>
