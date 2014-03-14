@@ -519,6 +519,5 @@ Tente novamente em %d segundos."</string>
     <string name="pin_operation_failed">Operação do PIN falhou.</string>
     <string name="return_to_me_message">Perdido por favor devolva a</string>
     <string name="unlock_string">OK</string>
-    <string name="open_wifi_settings">Ligação de rede aberta</string>
-    <string name="lock_screen_date">dd/MM EEEE</string>
+    <string name="lock_screen_date">MM/dd EEEE</string>
 </resources>

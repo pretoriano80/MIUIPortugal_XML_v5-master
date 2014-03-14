@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Residência</item>
-        <item>Emprego</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
         <item>Outro</item>
-        <item>Personalizado</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,37 +17,38 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Emprego</item>
+        <item>Trabalho</item>
         <item>Outro</item>
-        <item>Personalizado</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Residência</item>
-        <item>Móvel</item>
-        <item>Emprego</item>
-        <item>Fax do emprego</item>
-        <item>Fax da residência</item>
+        <item>Casa</item>
+        <item>Telemóvel</item>
+        <item>Trabalho</item>
+        <item>Fax do Emprego</item>
+        <item>Fax Pessoal</item>
         <item>Pager</item>
         <item>Outro</item>
-        <item>Personalizado</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Residência</item>
-        <item>Emprego</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
         <item>Outro</item>
-        <item>Personalizado</item>
+        <item>Personalizar</item>
     </string-array>
     <integer-array name="maps_starting_lat_lng">
-        <item>38707163</item>
-        <item>-9135517</item>
+        <item>36149777</item>
+        <item>-95993398</item>
     </integer-array>
     <integer-array name="maps_starting_zoom">
-        <item>4</item>
+        <item>3</item>
     </integer-array>
+    <array name="common_nicknames" />
     <string-array name="imAddressTypes">
-        <item>Residência</item>
-        <item>Emprego</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
         <item>Outro</item>
-        <item>Personalizado</item>
+        <item>Personalizar</item>
     </string-array>
 </resources>

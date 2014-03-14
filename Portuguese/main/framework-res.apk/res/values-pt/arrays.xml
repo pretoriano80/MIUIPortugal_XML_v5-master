@@ -42,17 +42,10 @@
         <item>mute</item>
         <item>phone_evdo_signal</item>
     </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>36149777</item>
-        <item>-95993398</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>3</item>
-    </integer-array>
-    <string-array name="imAddressTypes">
         <item>Casa</item>
         <item>Trabalho</item>
         <item>Outro</item>
         <item>Personalizar</item>
     </string-array>
+    <array name="carrier_properties" />
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Residência</item>
+        <item>Casa</item>
         <item>Trabalho</item>
         <item>Outro</item>
-        <item>Personalizado</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -18,29 +18,29 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Trabalho</item>
-        <item>Outros</item>
-        <item>Personalizado</item>
+        <item>Outro</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Residência</item>
+        <item>Casa</item>
         <item>Telemóvel</item>
         <item>Trabalho</item>
-        <item>Fax do trabalho</item>
-        <item>Fax doméstico</item>
+        <item>Fax do Emprego</item>
+        <item>Fax Pessoal</item>
         <item>Pager</item>
-        <item>Outros</item>
-        <item>Personalizado</item>
+        <item>Outro</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Residêncial</item>
+        <item>Casa</item>
         <item>Trabalho</item>
-        <item>Outros</item>
-        <item>Personalizado</item>
+        <item>Outro</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Residência</item>
+        <item>Casa</item>
         <item>Trabalho</item>
-        <item>Outros</item>
-        <item>Personalizado</item>
+        <item>Outro</item>
+        <item>Personalizar</item>
     </string-array>
 </resources>
