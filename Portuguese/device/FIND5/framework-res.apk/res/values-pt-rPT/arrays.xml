@@ -37,10 +37,6 @@
         <item>Other</item>
         <item>Custom</item>
     </string-array>
-
-      
-       
-
     <integer-array name="maps_starting_lat_lng">
         <item>36149777</item>
         <item>-95993398</item>
