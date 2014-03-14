@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Casa</item>
+        <item>Residencial</item>
         <item>Trabalho</item>
-        <item>Outro</item>
+        <item>Outros</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="imProtocols">
@@ -18,34 +18,29 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Trabalho</item>
-        <item>Outro</item>
+        <item>Outros</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Casa</item>
-        <item>Telemóvel</item>
+        <item>Residencial</item>
+        <item>Celular</item>
         <item>Trabalho</item>
-        <item>Fax do Emprego</item>
-        <item>Fax Pessoal</item>
+        <item>Fax do trabalho</item>
+        <item>Fax doméstico</item>
         <item>Pager</item>
-        <item>Outro</item>
-        <item>Personalizar</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
-    </string-array>
-        <item>sync_active</item>
-        <item>gps</item>
-        <item>mute</item>
-        <item>phone_evdo_signal</item>
-    </string-array>
-        <item>Casa</item>
+        <item>Residencial</item>
         <item>Trabalho</item>
-        <item>Outro</item>
-        <item>Personalizar</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
     </string-array>
-    <array name="carrier_properties" />
+    <string-array name="imAddressTypes">
+        <item>Residencial</item>
+        <item>Trabalho</item>
+        <item>Outros</item>
+        <item>Personalizado</item>
+    </string-array>
 </resources>
