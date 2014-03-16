@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string-array name="channel_tabs">
         <item>Sucesso</item>
-        <item>Ranking</item>
+        <item>Posição</item>
         <item>Últimos</item>
     </string-array>
     <string-array name="channel_featured_tabs">
         <item>Preferidos</item>
-        <item>Ranking</item>
+        <item>Posição</item>
         <item>Últimos</item>
     </string-array>
     <string-array name="home_tabs">
