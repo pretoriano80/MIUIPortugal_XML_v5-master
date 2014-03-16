@@ -3327,12 +3327,4 @@ pode usar redes de outros utilizadores"</string>
     <string name="miracast_PC2THOR_streaming_on">Miracast is unavailable because a PC is streaming to this device</string>
     <string name="miracast_disable_dhcp">Desativar HDCP</string>
     <string name="miracast_enable_dhcp">Ativar HDCP</string>
-    <item type="string" name="APKTOOL_DUMMY_0c8c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0c8d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0c8e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0c8f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0c90">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0c91">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0c92">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0c93">false</item>
 </resources>

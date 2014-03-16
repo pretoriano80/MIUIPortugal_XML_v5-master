@@ -65,14 +65,14 @@
         <item>@null</item>
     </array>
     <string-array name="clir_display_values">
-        <item>Rede predefenida</item>
-        <item>Ocultar número</item>
-        <item>Mostrar número</item>
+        <item>Network default</item>
+        <item>Hide number</item>
+        <item>Show number</item>
     </string-array>
     <string-array name="clir_values">
-        <item>PREDEFINIDO</item>
-        <item>OCULTAR</item>
-        <item>MOSTRAR</item>
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/CDMA</item>
@@ -300,9 +300,9 @@
         <item>@string/clir_choices_show_number_miui</item>
     </string-array>
     <string-array name="clir_values_miui">
-        <item>PREDEFINIDO</item>
-        <item>OCULTAR</item>
-        <item>MOSTRAR</item>
+        <item>DEFAULT</item>
+        <item>HIDE</item>
+        <item>SHOW</item>
     </string-array>
     <string-array name="tty_mode_entries_miui">
         <item>@string/tty_mode_entries_off_miui</item>
