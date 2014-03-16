@@ -138,8 +138,8 @@ Deseja mudar para a nova operadora mesmo assim?"</string>
     <string name="sum_carrier_select">Selecione uma operadora de rede</string>
     <string name="sum_search_networks">Pesquisar todas as redes disponíveis</string>
     <string name="select_automatically">Selecionar automaticamente</string>
-    <string name="sum_select_automatically">Selecionar rede preferida automáticamente</string>
-    <string name="register_automatically">Registo automático...</string>
+    <string name="sum_select_automatically">Selecionar rede preferida automaticamente</string>
+    <string name="register_automatically">Registo automatico...</string>
     <string name="preferred_network_mode_title">Modo de Rede</string>
     <string name="preferred_network_mode_summary">Altera o modo de operação de redes</string>
     <string name="preferred_network_mode_dialogtitle">Modo preferido</string>

@@ -7,7 +7,7 @@
     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" e %1$d pastas?"</item>
-        <item quantity="one">" and 1 folder?"</item>
+        <item quantity="one">" e 1 pasta?"</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d ficheiros</item>

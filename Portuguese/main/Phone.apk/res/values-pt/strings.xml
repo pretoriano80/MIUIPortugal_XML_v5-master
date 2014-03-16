@@ -988,8 +988,8 @@ Todas as funções que exijam PIN2 estarão bloqueadas na próxima tentativa inc
     <string name="pin_changed_miui">PIN do SIM alterado</string>
     <string name="pin_lock_warning_miui">"
 O seu telefone será bloqueado depois de inserir outra tentativa incorrecta"</string>
-    <string name="pin_progress_change_pin2_miui">Alterando PIN2…</string>
-    <string name="pin_progress_change_pin_miui">Alterando PIN…</string>
+    <string name="pin_progress_change_pin2_miui">A alterar o PIN2…</string>
+    <string name="pin_progress_change_pin_miui">A alterar o PIN…</string>
     <string name="pin_progress_set_fdn_lock_miui">Definir estado de FDN…</string>
     <string name="pin_progress_set_icc_lock_miui">Definir estado de ICC…</string>
     <string name="pin_progress_unlock_icc_miui">Desbloquear cartão SIM…</string>
@@ -997,14 +997,14 @@ O seu telefone será bloqueado depois de inserir outra tentativa incorrecta"</st
     <string name="pref_custom_location_title_miui">Minhas localizações</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">Preferir redes 3G</string>
     <string name="preferred_network_type_pref_entries_auto_miui">Automático</string>
-    <string name="preferred_network_type_pref_entries_only_2g_miui">Apenas resdes 2G (Economia de energia)</string>
-    <string name="preferred_network_type_pref_entries_only_3g_miui">Apenas redes 3G</string>
+    <string name="preferred_network_type_pref_entries_only_2g_miui">Apenas 2G (Economiza energia)</string>
+    <string name="preferred_network_type_pref_entries_only_3g_miui">Apenas 3G</string>
     <string name="preferred_network_type_pref_entries_global_miui">Global</string>
     <string name="preferred_network_type_3g_only_warning_miui">Não será capaz de se ligar à rede se o seu cartão SIM não tem a funcionalidade 3G.</string>
     <string name="preferred_network_type_cdma_miui">CDMA</string>
     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
     <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
-    <string name="preferred_network_type_title_miui">Seleção de tipo de rede</string>
+    <string name="preferred_network_type_title_miui">Selecção do tipo de rede</string>
     <string name="puk_lock_warning_miui">"
 O cartão SIM será inutilizado após outra tentativa falhada"</string>
     <string name="remove_miui">Eliminar</string>

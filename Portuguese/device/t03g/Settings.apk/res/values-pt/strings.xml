@@ -2946,7 +2946,7 @@ Tente o seguinte:
 2) Crie um diretório \"mkdir\" /media/mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
 4) Volte a ligar
-5) Acesso dispositivo montado mtpfs / media / mtp via Explorador de ficheiros, igual ao diretório local
+5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros, igual ao diretório local
 6) Desinstalar o dispositivo fusermount -u /media/mtp
  Note: Para ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Instalar driver</string>

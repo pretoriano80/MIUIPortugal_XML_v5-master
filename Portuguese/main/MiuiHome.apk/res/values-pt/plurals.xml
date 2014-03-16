@@ -13,6 +13,6 @@
     <plurals name="uninstall_result_failed">
         <item quantity="other">Não foi possível desinstalar %1$s e %2$d outras aplicações</item>
         <item quantity="one">Não foi possível desinstalar %s</item>
-        <item quantity="two">Não foi possível desinstalar %s and 1 other app</item>
+        <item quantity="two">Não foi possível desinstalar %s e 1 outra aplicação</item>
     </plurals>
 </resources>

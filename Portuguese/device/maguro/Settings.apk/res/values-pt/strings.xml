@@ -590,7 +590,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="power_mgr">Energia</string>
     <string name="quick_cleanup">Limpar</string>
     <string name="protection_adb">Depuração USB</string>
-    <string name="protection_perm">Configurações de permissões</string>
+    <string name="protection_perm">Definições de permissões</string>
     <string name="protection_sms">Filtro de SMS</string>
     <string name="start_checking_protection">Iniciar a proteção de verificação em tempo real...</string>
     <string name="finish_checking_protection">Terminar a proteção de verificação em tempo real...</string>
@@ -3247,7 +3247,7 @@ pode usar redes de outros utilizadores"</string>
     <string name="hdmi_3dplay_control_text">Ativar 3D</string>
     <string name="hdmi_3dplay_control_enable_subtext">3D Saída para exibição em 3D estereoscópico externo ativado</string>
     <string name="hdmi_3dplay_control_disable_subtext">3D Saída para exibição em 3D estereoscópico externo desativado</string>
-    <string name="adjust_3d_depth_title">"Ajustar a profundidade de jogos 3D</string>
+    <string name="adjust_3d_depth_title">Ajustar a profundidade de jogos 3D</string>
     <string name="hdmi_3d_stereo_separation_label">3D</string>
     <string name="hdmi_3d_help_title">Sobre o suporte HDMI 3D estereoscópico</string>
     <string name="power_mode_balanced_title">Ativar balanço de energia</string>
@@ -3297,5 +3297,13 @@ pode usar redes de outros utilizadores"</string>
     <string name="preferred_app_settings">Definições padrão das aplicações</string>
     <string name="preferred_app_settings_default">Padrão</string>
     <string name="preferred_app_settings_reset">Restaurar para padrão</string>
-    <string name="preferred_app_settings_reset_message">Tem certeza que deseja restaurar para as configurações padrão da aplicação?</string>
+    <string name="preferred_app_settings_reset_message">Tem certeza que deseja restaurar para as definições padrão da aplicação?</string>
+    <item type="string" name="APKTOOL_DUMMY_0c8c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c8d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c8e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c8f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c90">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c91">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c92">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c93">false</item>
 </resources>

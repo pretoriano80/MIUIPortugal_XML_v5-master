@@ -24,7 +24,7 @@
     <string name="operation_delete">Eliminar</string>
     <string name="operation_info">Detalhes</string>
     <string name="operation_cancel">Cancelar</string>
-    <string name="operation_refresh">Atualizar</string>
+    <string name="operation_refresh">Actualizar</string>
     <string name="operation_show_sys">Mostrar ficheiros ocultos</string>
     <string name="operation_hide_sys">Não mostrar ficheiros ocultos</string>
     <string name="cancel">Cancelar</string>
@@ -75,7 +75,7 @@
     <string name="fail_to_create_folder_unknown">Falha ao criar a pasta</string>
     <string name="fail_to_rename">O arquivo ou pasta com o novo nome já existe</string>
     <string name="error_filename_too_long">Nome do arquivo muito longo</string>
-    <string name="enable_sd_card">Insira o cartão SD ou desative o armaz. em massa USB.</string>
+    <string name="enable_sd_card">Insira o cartão SD ou desactive o armaz. em massa USB.</string>
     <string name="start_server">Iniciar</string>
     <string name="stop_server">Parar</string>
     <string name="notif_server_starting">Iniciar o servidor FTP…</string>
@@ -105,7 +105,7 @@
     <string name="ui_main_progress_txt_open_file">A Transferir…</string>
     <string name="networkView_notConnected">Sem rede disponível.</string>
     <string name="ui_main_toast_favorite_removed">Favorito eliminado</string>
-    <string name="ui_main_toast_operation_failed">Falha ao eliminar favorito %1$s</string>
+    <string name="ui_main_toast_operation_failed">Falha ao eliminar o favorito %1$s</string>
     <string name="user_guide">Introdução ao KuaiPan</string>
     <string name="user_guide_summary">Uma breve visão geral</string>
     <string name="rename_failed">Falha ao renomear %1$s</string>
@@ -132,7 +132,7 @@ tem que ligar à rede para usar este recurso."</string>
     <string name="net_lose_connected">A ligação à rede foi perdida</string>
     <string name="wangpan_root_path">Kuaipan</string>
     <string name="kuaipan_over_space">Não existe espaço disponível</string>
-    <string name="kuaipan_tech_support">iniciar sessão em kuaipan.cn</string>
+    <string name="kuaipan_tech_support">Iniciar sessão em kuaipan.cn</string>
     <string name="no_tasks">Sem Tarefas</string>
     <string name="no_more_space">Não há espaço suficiente</string>
     <string name="sd_full">O armazenamento interno do seu telefone está cheio</string>
@@ -176,7 +176,7 @@ tem que ligar à rede para usar este recurso."</string>
     <string name="move_failed">Falha ao cortar</string>
     <string name="copy_failed">Falha ao copiar</string>
     <string name="delete_failed">Falha ao eliminar</string>
-    <string name="toast_file_not_can_read">Não foi encontrada nenhuma aplicação para efectuar esta ação</string>
+    <string name="toast_file_not_can_read">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
     <string name="ui_main_menu_option_sign_in">Iniciar sessão</string>
     <string name="sign_description">A iniciar sessão…</string>
     <string name="signin_error">Falha ao ligar ao servidor. Verifique a sua ligação de rede.</string>
@@ -194,7 +194,7 @@ Foi adicionado %1$s de espaço grátis"</string>
     <string name="gbk_summary">A codificação padrão do sistema Windows versão chinês simplificado</string>
     <string name="big5_title">BIG5</string>
     <string name="big5_summary">A codificação padrão do sistema Windows versão chinesa tradicional</string>
-    <string name="stay_awake_title">Manter ativo</string>
+    <string name="stay_awake_title">Manter activo</string>
     <string name="stay_awake_summary">O ecrã nunca desliga enquanto estiver a usar FTP</string>
     <string name="ftp_transfer_secure">Segurança</string>
     <string name="ftp_port_number">Número da porta</string>
@@ -233,9 +233,9 @@ Foi adicionado %1$s de espaço grátis"</string>
     <string name="des_running_trans">Não foram transferidos %1$d ficheiros.</string>
     <string name="trans_task_delete_confirm_message">Eliminar %1$d tarefa selecionada?</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Clicar&lt;/a>para ir para a Lixeira</string>
-    <string name="storage_internal">Armaz. Interno</string>
+    <string name="storage_internal">Armazenamento Interno</string>
     <string name="storage_sd_card">Cartão SD</string>
-    <string name="storage_usb">Armaz. USB</string>
+    <string name="storage_usb">Armazenamento USB</string>
     <string name="bind_account">Sincronizar conta existente</string>
     <string name="bind_account_summary">Sincronize a sua conta KuaiPan com a sua conta Xiaomi</string>
     <string name="binded_accout_title">Conta sincronizada</string>
@@ -248,7 +248,7 @@ Foi adicionado %1$s de espaço grátis"</string>
     <string name="application_size_label">Aplicação</string>
     <string name="data_size_label">Dados</string>
     <string name="cache_size_label">Cache</string>
-    <string name="sd_size_label">Armaz. do utilizador</string>
+    <string name="sd_size_label">Armazenamento do utilizador</string>
     <string name="version_text">versão %1$s</string>
     <string name="uninstall_app_data">Eliminar aplicações e todos os dados das aplicações</string>
     <string name="start_cleanup">Eliminar</string>
@@ -307,4 +307,6 @@ Foi adicionado %1$s de espaço grátis"</string>
     <string name="folder_exist">A pasta já existe</string>
     <string name="unmount_inform_text">Desmontar armaz. USB?</string>
     <string name="dlg_error_unmount_text">Falha ao desmontar o armazenamento USB.</string>
+    <item type="string" name="APKTOOL_DUMMY_012a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_012b">false</item>
 </resources>

@@ -116,7 +116,7 @@ Tentativa feita: %s."</string>
     <string name="prefDefault_vibrate_false">nunca</string>
     <string name="pref_title_mms_auto_retrieval">Auto receber MMS</string>
     <string name="pref_summary_mms_auto_retrieval">Receber automaticamente MMS</string>
-    <string name="pref_title_mms_retrieval_during_roaming">Auto receber em roaming</string>
+    <string name="pref_title_mms_retrieval_during_roaming">Receber automaticamente em roaming</string>
     <string name="pref_summary_mms_retrieval_during_roaming">Receber automaticamente as mensagens quando em roaming</string>
     <string name="to_label">"Para "</string>
     <string name="confirm_dialog_title">Eliminar?</string>
@@ -216,7 +216,7 @@ Tentativa feita: %s."</string>
     <string name="select_audio">Seleccione som</string>
     <string name="copy_to_sdcard">Guardar anexo</string>
     <string name="copy_to_sdcard_success">Anexo guardado em %s</string>
-    <string name="copy_to_sdcard_fail">Não foi possível guardar anexo</string>
+    <string name="copy_to_sdcard_fail">Não foi possível guardar o anexo</string>
     <string name="save_ringtone">Guardar como toque</string>
     <string name="saved_ringtone">Toque de guardado.</string>
     <string name="saved_ringtone_fail">Não foi possível guardar o toque</string>
@@ -294,7 +294,7 @@ Tentativa feita: %s."</string>
     <string name="bookmark_list_title">Favoritos</string>
     <string name="delete_bookmark">Remover dos favoritos</string>
     <string name="view_bookmark">Ver mensagem original</string>
-    <string name="bookmark_confirm_delete_message">Remover mensagens selecionadas de favoritos?</string>
+    <string name="bookmark_confirm_delete_message">Remover mensagens selecionadas dos favoritos?</string>
     <string name="bookmark_empty">Sem favoritos</string>
     <string name="phrase_list_title">Mensagens rápidas</string>
     <string name="new_phrase">Adicionar resposta</string>
@@ -338,7 +338,7 @@ Tentativa feita: %s."</string>
     <string name="activity_not_found">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
     <string name="activity_not_found_uri">Não foi encontrada nenhuma aplicação para concluir esta acção</string>
     <string name="fetion_prefix">[Fetion]</string>
-    <string name="chenghu_disable_mms">Não pode usar apelidos no MMS</string>
+    <string name="chenghu_disable_mms">Não pode usar apelidos nas MMS</string>
     <string name="non_english_subject_limit">Limite de 13 caracteres</string>
     <string name="text_in_popup_saved_to_clipboard">O texto selecionado foi copiado</string>
     <string name="guild_add_recipients">Toque para adicionar destinatários</string>
@@ -417,7 +417,7 @@ Tentativa feita: %s."</string>
     <string name="private_message">Mensagem privada</string>
     <string name="private_protect">Senhas</string>
     <string name="private_new_notification">Notificações da mensagem</string>
-    <string name="enable_password_protect">Requer senha</string>
+    <string name="enable_password_protect">Requer uma senha</string>
     <string name="enable_visible_pattern_title">Fazer padrão vísivel</string>
     <string name="importing_progress_private_message">Importar mensagens…</string>
     <string name="exporting_progress_private_message">Exportar mensagens…</string>
@@ -438,7 +438,7 @@ Tentativa feita: %s."</string>
     <string name="pref_title_fwd_sender_info">Reenviar informações do remetente</string>
     <string name="saved_to_sim">Guardado</string>
     <string name="save_to_sim_failed">Falha ao guardar</string>
-    <string name="restored_to_phone_memory">Restaurado</string>
+    <string name="restored_to_phone_memory">A restaurar para a memória interna</string>
     <string name="restore_to_phone_memory_failed">Falha ao restaurar</string>
     <string name="pref_title_card_format">Formato de partilha de cartão</string>
     <string name="pref_title_miui_card">Enviar via cartão</string>
@@ -462,8 +462,8 @@ Tentativa feita: %s."</string>
     <string name="sp_conversation_title">Notificação de mensagens</string>
     <string name="title_collapse_sp_messages">Mensagens do aperador de rede</string>
     <string name="pref_collapse_sp_messages_summary">Mensagem do operador de rede na mesma conversa</string>
-    <string name="sp_mark_as_read_title">Marcar todas como lidas</string>
-    <string name="sp_mark_as_read">Marcar todas como lidas?</string>
+    <string name="sp_mark_as_read_title">Marcar todas as mensagens como lidas</string>
+    <string name="sp_mark_as_read">Marcar todas as mensagens como lidas?</string>
     <string name="sp_mark_as_read_progress">A marcar todas as mensagens como lidas…</string>
     <string name="refill_now">Encher agora</string>
     <string name="toast_feedback_start">Reunindo dados de registo…</string>

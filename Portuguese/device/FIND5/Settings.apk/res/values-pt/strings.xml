@@ -3298,4 +3298,12 @@ pode usar redes de outros utilizadores"</string>
     <string name="preferred_app_settings_default">Padrão</string>
     <string name="preferred_app_settings_reset">Restaurar para padrão</string>
     <string name="preferred_app_settings_reset_message">Tem certeza que deseja restaurar para as configurações padrão da aplicação?</string>
+    <item type="string" name="APKTOOL_DUMMY_0c8c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c8d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c8e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c8f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c90">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c91">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c92">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0c93">false</item>
 </resources>

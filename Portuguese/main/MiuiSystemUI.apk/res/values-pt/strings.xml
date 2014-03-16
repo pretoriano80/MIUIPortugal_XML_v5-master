@@ -167,9 +167,9 @@ d.M.yyyy"</string>
     <string name="settings_basic_settings">Definições básicas</string>
     <string name="settings_advanced">Definições adicionais</string>
     <string name="settings_show_flow_info">Mostrar informações de uso de dados</string>
-    <string name="settings_toggle_position_divider_page">%1$d controlos da barra de notficações estão activos</string>
-    <string name="settings_toggle_position_divider_list">Tcontrolos da barra de notficações estão activos</string>
-    <string name="settings_toggle_position_reset">Redefenir controlos</string>
+    <string name="settings_toggle_position_divider_page">%1$d controlos da barra de notificações estão activos</string>
+    <string name="settings_toggle_position_divider_list">Controlos da barra de notificações estão activos</string>
+    <string name="settings_toggle_position_reset">Repor controlos</string>
     <string name="camera_key_action_setting_title">Botão MI</string>
     <string name="camera_key_action_category_title">Use se a aplicação câmera não está ligada</string>
     <string name="camera_key_action_none_title">Nenhuma acção</string>
@@ -314,6 +314,6 @@ d.M.yyyy"</string>
     <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
     <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
     <string name="screen_rotation_freeze_message">Auto-rotação desactivada.</string>
-    <string name="screen_button_disabled_message">Botões de Navigation desactivados. Para reactivá-los, toque em Principal e no botão energia simultaneamente.</string>
-    <string name="screen_button_enabled_message">Botões de navegação activados.</string>
+    <string name="screen_button_disabled_message">Botões de Navegação estão desactivados. Para reactivá-los, toque em Principal e no botão energia simultaneamente.</string>
+    <string name="screen_button_enabled_message">Botões de navegação estão activados.</string>
 </resources>

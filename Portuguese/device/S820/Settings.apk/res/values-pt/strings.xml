@@ -1046,7 +1046,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="bluetooth_ask_enablement">Uma aplicação neste telefone está a solicitar permissão para activar o Bluetooth. Deseja permitir?</string>
     <string name="bluetooth_ask_discovery">Uma aplicação neste telefone está a solicitar permissão para activar o Bluetooth e tornar este telefone detetável por outros dispositivos por %1$d segundos. Deseja permitir?</string>
     <string name="bluetooth_ask_lasting_discovery">Uma aplicação neste telefone está a solicitar permissão para fazer este telefone \"sempre identificável\" por outros dispositivos Bluetooth. Deseja permitir?</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Uma aplicação neste telefone está a solicitar permissão para activar o Bluetooth e tornar este telefone detetável por outros dispositivos por %1$d segundos. Deseja permitir?</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Uma aplicação neste telefone está a solicitar permissão para activar o Bluetooth e tornar este telefone detectável por outros dispositivos por %1$d segundos. Deseja permitir?</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Uma aplicação neste telefone está a solicitar permissão para activar o Bluetooth e tornar este telefone detetável por outros dispositivos. Deseja permitir?</string>
     <string name="bluetooth_turning_on">A ligar Bluetooth…</string>
     <string name="bluetooth_turning_off">A desligar Bluetooth…</string>
@@ -1216,7 +1216,7 @@ Encriptar leva uma hora ou mais. Deve iniciar com a bateria carregada e manter o
     <string name="crypt_keeper_setup_title">A encriptar</string>
     <string name="crypt_keeper_setup_description">Aguarde enquanto o seu telefone está a ser encriptado. ^1% concluído.</string>
     <string name="crypt_keeper_cooldown">Tente novamente em ^1 segundos.</string>
-    <string name="crypt_keeper_enter_password">Insira a sua senha</string>
+    <string name="crypt_keeper_enter_password">Insira a sua senha.</string>
     <string name="crypt_keeper_failed_title">Não foi encriptado</string>
     <string name="crypt_keeper_failed_summary">"A encriptação foi interrompida e não pôde terminar. Como resultado, os dados no telefone já não estão acessíveis.
 
@@ -1232,8 +1232,8 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="unlock_set_unlock_off_title">Nenhum</string>
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Nenhum</string>
-    <string name="unlock_set_unlock_none_summary">Desactivar o bloqueio de ecrã</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Desbloquear por rosto</string>
+    <string name="unlock_set_unlock_none_summary">Desativar o bloqueio de ecrã</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo, experimental</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
     <string name="unlock_set_unlock_pattern_summary">Defina o padrão para desbloquear o ecrã</string>
@@ -1288,8 +1288,8 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="bluetooth_pin_values_hint">Geralmente 0000 ou 1234</string>
     <string name="bluetooth_enter_pin_other_device">Poderá ter que inserir este PIN no outro dispositivo.</string>
     <string name="bluetooth_enter_passkey_other_device">Poderá ter que inserir esta senha no outro dispositivo.</string>
-    <string name="bluetooth_confirm_passkey_msg">Para emparelhar com &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, verifique se a senha está a ser exibida: &lt;br>&lt;b>%2$s&lt;/b>.</string>
-    <string name="bluetooth_incoming_pairing_msg">&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Deseja emparelhar.</string>
+    <string name="bluetooth_confirm_passkey_msg">Para emparelhar com &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Verifique se a senha está a ser exibida: &lt;br>&lt;b>%2$s&lt;/b>.</string>
+    <string name="bluetooth_incoming_pairing_msg">De:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Deseja emparelhar.</string>
     <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> Digite: &lt;br>&lt;b>%2$s&lt;/b>, em seguida, pressione Return ou Enter.</string>
     <string name="bluetooth_pairing_accept">Emparelhar</string>
     <string name="bluetooth_pairing_decline">Cancelar</string>
@@ -1718,7 +1718,7 @@ O PIN possivelmente está incorreto."</string>
     <string name="dlg_error_unmount_text">Não é possível desmontar o cartão SD. Tente novamente mais tarde.</string>
     <string name="unmount_inform_text">O cartão SD será desmontado.</string>
     <string name="sd_ejecting_title">Desmontar</string>
-    <string name="sd_ejecting_summary">A desmontar</string>
+    <string name="sd_ejecting_summary">A desmontar…</string>
     <string name="storage_low_title">O espaço de armazenamento está a esgotar-se</string>
     <string name="storage_low_summary">Algumas funções do sistema, como a sincronização, poderão não funcionar correctamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdo multimédia ou aplicações.</string>
     <string name="storage_menu_usb">Ligação USB ao computador</string>
@@ -1771,7 +1771,7 @@ O PIN possivelmente está incorreto."</string>
     <string name="restore_default_apn">A recuperar as definições APN padrão</string>
     <string name="menu_restore">Redefinir para o padrão</string>
     <string name="restore_default_apn_completed">Restaurar as definições padrão do APN concluída.</string>
-    <string name="master_clear_title">Restaurar configuração de fábrica</string>
+    <string name="master_clear_title">Restaurar definições de fábrica</string>
     <string name="master_clear_summary">Elimina todos os dados no telefone</string>
     <string name="master_clear_desc">Isto irá eliminar todos os dados de "<b>memória interna</b>", no seu telefone, incluindo:
 
@@ -3101,7 +3101,7 @@ Tente o seguinte:
 2) Crie um diretório \"mkdir\" /media/mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
 4) Volte a ligar
-5) Acesso dispositivo montado mtpfs / media / mtp via Explorador de ficheiros, igual ao diretório local
+5) Acesso ao dispositivo montado mtpfs / media/mtp via Explorador de ficheiros, igual ao directório local
 6) Desinstalar o dispositivo fusermount -u /media/mtp
  Note: Para ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Instalar driver</string>

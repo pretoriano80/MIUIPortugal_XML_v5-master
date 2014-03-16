@@ -182,7 +182,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_on_trial">A tentar: %1$s</string>
     <string name="resource_trial_time">（avaliação por %1$d minutos）</string>
     <string name="resource_trial_end_title">avaliação expirada</string>
-    <string name="resource_trial_end_message">Avaliação desactivada %1$s expirada. Se gostou por favor compre.</string>
+    <string name="resource_trial_end_message">Avaliação %1$s está desactivada e expirada. Se gostou por favor compre.</string>
     <string name="resource_trial_end_restore">Terminar avaliação</string>
     <string name="resource_trial_end_purchase">Comprar</string>
     <string name="deleting">A Eliminar…</string>

@@ -946,5 +946,10 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Prazo mais curto</item>
         <item>Padrão</item>
         <item>Melhor qualidade</item>
+   </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>A Rede é lenta devido ao excesso de tráfego</item>
+        <item>A Rede é lenta devido à intensidade do sinal ser fraca</item>
+        <item>A mover…</item>
     </string-array>
 </resources>
