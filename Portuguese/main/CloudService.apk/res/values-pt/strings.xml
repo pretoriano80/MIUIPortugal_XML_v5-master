@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
-  <string name="app_name">Sincronização Xiaomi</string>
-    <string name="sync_item_sms_title">Sincronização SMS</string>
+  <string name="app_name">Sincronizar Xiaomi</string>
+    <string name="sync_item_sms_title">Sincronizar SMS</string>
     <string name="sync_item_sms_summary">Sincronização de Mensagens de texto entre dispositivos</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS: Apenas Wi-Fi</string>
-    <string name="sub_sync_item_sms_summary">Dados de uso guardados (pode poupar o seu dinheiro)</string>
-    <string name="pref_title_sync_my_profile_title">Sync my profile</string>
+    <string name="sub_sync_item_sms_summary">Reduz o uso de dados</string>
+    <string name="pref_title_sync_my_profile_title">Sincronizar o meu perfil</string>
     <string name="pref_title_sync_contacts_title">Sincronizar contactos</string>
     <string name="pref_title_sync_display_photo_on_wifi_only">Mostrar fotos: Apenas em Wi-Fi</string>
-    <string name="pref_summary_sync_display_photo_on_wifi_only">Dados de uso guardados (pode poupar o seu dinheiro)</string>
+    <string name="pref_summary_sync_display_photo_on_wifi_only">Reduz o uso de dados</string>
     <string name="find_device">Localizar dispositivo</string>
     <string name="find_device_stop_noise">Clique em OK para silenciar</string>
-    <string name="find_device_noise_title">Localize dispositivo por som</string>
+    <string name="find_device_noise_title">Localize o dispositivo por som</string>
     <string name="sync_item_calllog_title">Sincronizar registos das chamadas</string>
-    <string name="sync_item_calllog_summary">Sincronizar os registros de chamadas feitas e recebidas neste telefone</string>
+    <string name="sync_item_calllog_summary">Sincronizar os registos de chamadas feitas e recebidas neste telefone</string>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
-    <string name="app_label">Agenda</string>
+    <string name="app_label">Calendário</string>
     <string name="what_label">O quê</string>
     <string name="where_label">Onde</string>
     <string name="when_label">Quando</string>
@@ -14,9 +14,9 @@
     <string name="date_time_fmt" formatted="false">%s, %s</string>
     <string name="repeats_label">Repetições</string>
     <string name="no_title_label">(Sem título)</string>
-    <string name="calendar_refresh">Atualizar</string>
+    <string name="calendar_refresh">Actualizar</string>
     <string name="show_day_view">Mostrar dia</string>
-    <string name="agenda_view">Agenda</string>
+    <string name="agenda_view">Calendário</string>
     <string name="day_view">Dia</string>
     <string name="week_view">Semana</string>
     <string name="month_view">Mês</string>
@@ -26,14 +26,14 @@
     <string name="event_delete">Eliminar evento</string>
     <string name="goto_today">Hoje</string>
     <string name="menu_preferences">Definições</string>
-    <string name="menu_select_visible_calendars">Calendários a exibir</string>
+    <string name="menu_select_visible_calendars">Calendários a mostrar</string>
     <string name="search">Localizar</string>
     <string name="hide_controls">Ocultar controlos</string>
     <string name="show_controls">Mostrar controlos</string>
-    <string name="select_visible_calendars_title">Calendários a exibir</string>
+    <string name="select_visible_calendars_title">Calendários a mostrar</string>
     <string name="synced">sincronizado</string>
     <string name="not_synced">não sincronizado</string>
-    <string name="acct_not_synced">Esta conta não está a ser sincronizada e os seus calendários podem não estar atualizados.</string>
+    <string name="acct_not_synced">Esta conta não está a ser sincronizada e os seus calendários podem não estar actualizados.</string>
     <string name="accounts">Contas e Sincronização</string>
     <string name="select_synced_calendars_title">Calendários a sincronizar</string>
     <string name="select_synced_calendars_button">Calendários a sincronizar</string>
@@ -43,23 +43,23 @@
     <string name="hint_attendees">Convidados</string>
     <string name="creating_event">Evento criado</string>
     <string name="saving_event">Evento guardado</string>
-    <string name="empty_event">Evento vazio não criado</string>
-    <string name="creating_event_with_guest">Convites enviados</string>
-    <string name="saving_event_with_guest">Atualizações enviadas</string>
+    <string name="empty_event">O evento vazio não foi criado</string>
+    <string name="creating_event_with_guest">Convites vão ser enviados</string>
+    <string name="saving_event_with_guest">Actualizações vão ser enviadas</string>
     <string name="alert_title">Notificações da agenda</string>
     <string name="event_info_title">Visualizar evento</string>
     <string name="event_info_title_invite">Convite para reunião</string>
-    <string name="edit_event_to_label">Para</string>
-    <string name="edit_event_from_label">De</string>
-    <string name="edit_event_all_day_label">O dia inteiro</string>
-    <string name="edit_event_calendar_label">Agenda</string>
+    <string name="edit_event_to_label">PARA</string>
+    <string name="edit_event_from_label">DE</string>
+    <string name="edit_event_all_day_label">TODO O DIA</string>
+    <string name="edit_event_calendar_label">Calendário</string>
     <string name="edit_event_show_all">Mostrar tudo</string>
     <string name="description_label">Descrição</string>
     <string name="presence_label">Estado</string>
     <string name="privacy_label">Privacidade</string>
     <string name="reminders_label">Lembretes</string>
-    <string name="no_syncable_calendars">Nenhuma agenda disponível</string>
-    <string name="no_calendars_found">É necessária uma conta Google/Exchange para ver ou editar os eventos. Quer fazer login agora?</string>
+    <string name="no_syncable_calendars">Sem agendas</string>
+    <string name="no_calendars_found">É necessária uma conta Google/Exchange para ver ou editar os eventos. Quer iniciar a sessão agora?</string>
     <string name="create_an_account_desc">"O Calendário funciona melhor com uma conta do Google.
 
 •Aceder de qualquer navegador web
@@ -99,8 +99,8 @@
     <string name="dismiss_all_label">Dispensar tudo</string>
     <string name="snooze_label">Snooze</string>
     <string name="does_not_repeat">Evento único</string>
-    <string name="daily">Diário</string>
-    <string name="every_weekday">Cada dia da semana (seg-sex)</string>
+    <string name="daily">Diáriamente</string>
+    <string name="every_weekday">Cada dia da semana (Seg-Sex)</string>
     <string name="weekly">Semanalmente (cada %s)</string>
     <string name="monthly_on_day_count">Mensalmente (%1$s %2$s de cada mês)</string>
     <string name="monthly">Mensalmente</string>
@@ -117,17 +117,17 @@
     <string name="delete_recurring_event_title">Eliminar %s?</string>
     <string name="change_response_title">Alterar resposta</string>
     <string name="menu_general_preferences">Definições Gerais</string>
-    <string name="menu_about_preferences">Sobre o calendário</string>
+    <string name="menu_about_preferences">Sobre a calendário</string>
     <string name="preferences_title">Definições</string>
     <string name="preferences_general_title">Definições de visualização da agenda</string>
-    <string name="preferences_reminder_title">Configurações de lembrete</string>
+    <string name="preferences_reminder_title">Definições do lembrete</string>
     <string name="preferences_hide_declined_title">Ocultar recusados</string>
     <string name="preferences_week_start_day_title">A semana começa</string>
     <string name="preferences_week_start_day_dialog">A semana começa</string>
     <string name="preferences_week_start_day_default">-1</string>
-    <string name="preferences_clear_search_history_title">Eliminar histórico de pesquisa</string>
+    <string name="preferences_clear_search_history_title">Eliminar histórico da pesquisa</string>
     <string name="preferences_clear_search_history_summary">Eliminar todas as pesquisas que executou</string>
-    <string name="search_history_cleared">Histórico de pesquisa eliminado</string>
+    <string name="search_history_cleared">Histórico da pesquisa foi eliminado</string>
     <string name="preferences_alerts_title">Notificações</string>
     <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
     <string name="preferences_alerts_ringtone_title">Selecionar toque</string>
@@ -136,17 +136,17 @@
     <string name="preferences_default_reminder_dialog">Tempo do lembrete</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Usar fuso horário habitual</string>
-    <string name="preferences_use_home_tz_descrip">Exibe calendários e horários do evento no seu fuso horário, quando viajar</string>
+    <string name="preferences_use_home_tz_descrip">Quando viajar, exibe calendários e horários do evento no seu fuso horário</string>
     <string name="preferences_home_tz_title">Fuso horário habitual</string>
     <string name="preferences_home_tz_default">Europa/Londres</string>
     <string name="preferences_show_week_num_title">Mostrar número da semana</string>
     <string name="preferences_about_title">Acerca</string>
     <string name="preferences_build_version">Versão da compilação</string>
-    <string name="prefDefault_alerts_vibrateWhen">Nunca</string>
-    <string name="prefDefault_alerts_vibrate_true">Sempre</string>
-    <string name="prefDefault_alerts_vibrate_false">Nunca</string>
+    <string name="prefDefault_alerts_vibrateWhen">nunca</string>
+    <string name="prefDefault_alerts_vibrate_true">sempre</string>
+    <string name="prefDefault_alerts_vibrate_false">nunca</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrar</string>
-    <string name="gadget_title">Agenda</string>
+    <string name="gadget_title">Calendário</string>
     <string name="gadget_no_events">Nenhum evento para breve no calendário</string>
     <string name="tardis">TARDIS</string>
     <string name="copy_db">Enviar base de dados</string>
@@ -167,9 +167,9 @@
     <string name="accessibility_reminder_type">Tipo do lembrete</string>
     <string name="accessibility_reminder_showmeas">Mostrar-me como</string>
     <string name="accessibility_reminder_privacy">Privacidade</string>
-    <string name="acessibility_cal_notification">Notificação de agenda</string>
-    <string name="acessibility_snooze_notification">Notificação de Suspender</string>
-    <string name="day_view_new_event_hint">+ Novo evento</string>
+    <string name="acessibility_cal_notification">Notificação de calendário</string>
+    <string name="acessibility_snooze_notification">Suspender notificação</string>
+    <string name="day_view_new_event_hint">Novo evento</string>
     <string name="template_announce_item_index">Evento %1$s de %2$s.</string>
     <string name="acessibility_selected_marker_description">Evento selecionado</string>
     <string name="do_not_check">Não verificar -></string>
@@ -193,8 +193,8 @@
     <string name="miui_menu_create_event">Novo</string>
     <string name="preferences_category_general_title">Geral</string>
     <string name="preferences_category_account_title">Conta</string>
-    <string name="work_day_indication">:(</string>
-    <string name="rest_day_indication">:)</string>
+    <string name="work_day_indication">: (</string>
+    <string name="rest_day_indication">: )</string>
     <string name="button_day">D</string>
     <string name="button_month">M</string>
     <string name="account_and_calendar">Conta e Calendário</string>
@@ -206,7 +206,7 @@
     <string name="event_lunar_month">Mês</string>
     <string name="huangli_good_type">Deveria</string>
     <string name="huangli_bad_type">Evitar</string>
-    <string name="event_all_day_label">Tosdos os dias</string>
+    <string name="event_all_day_label">Todos os dias</string>
     <string name="today_no_events">Sem agenda para hoje</string>
     <string name="event_account">Conta Calendário</string>
     <string name="event_show_more">Mostrar</string>
@@ -226,14 +226,7 @@
     <string name="lunar_date">Data Lunar</string>
     <string name="widget_select_style">Selecione um estilo</string>
     <string name="widget_events">Póximo evento</string>
-    <string name="widget_no_events">Próximo, sem agenda</string>
-    <string name="gou_piao_website_start_time">Os ingressos podem ser comprados %s (reservas por telefone)</string>
-    <string name="gou_piao_window_start_time">As saídas da estação podem ser comprados bilhetes %s</string>
-    <string name="gou_piao_event_title">Lembre-me de comprar um bilhete de comboio %s</string>
-    <string name="gou_piao_item1">Neste dia faz-me lembrar para ir votar</string>
-    <string name="gou_piao_item2">Reservas por telefone ligue para 707 210 220</string>
-    <string name="gou_piao_item3">Aplicações de ingressos use 12306</string>
-    <string name="show_gou_piao">Mostrar Festival da Primavera no calendário</string>
+    <string name="widget_no_events">Sem eventos</string>
     <string name="month_medium_january">Jan</string>
     <string name="month_medium_february">Fev</string>
     <string name="month_medium_march">Mar</string>

@@ -213,7 +213,7 @@ d.M.yyyy"</string>
     <string name="ext_media_nomedia_notification_title">Armaz. USB removido</string>
     <string name="ext_media_nomedia_notification_message">Armaz. USB removido. Insira um novo cartão.</string>
     <string name="ext_media_mountable_notification_title">O armaz. USB está ligado</string>
-    <string name="ext_media_mountable_notification_message">Clique em Ir para o Explorador</string>
+    <string name="ext_media_mountable_notification_message">Clique em ir para o Explorador</string>
     <string name="ext_media_safe_remove">Remover com segurança</string>
     <string name="screen_button_custom">Personalize as posições dos botões navegação</string>
     <string name="recent_apps_key">Botão de aplicações recentes</string>

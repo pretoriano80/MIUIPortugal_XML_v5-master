@@ -649,7 +649,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="respond_via_sms_canned_response_2">Ligo de volta</string>
     <string name="respond_via_sms_canned_response_3">Ligo mais tarde.</string>
     <string name="respond_via_sms_canned_response_4">"Não posso falar agora. Pode ligar mais tarde?"</string>
-    <string name="respond_via_sms_custom_message">Mensagem personalizada</string>
+    <string name="respond_via_sms_custom_message">Mensagem personalizada...</string>
     <string name="respond_via_sms_setting_title">Respostas rápidas</string>
     <string name="respond_via_sms_setting_title_2">Editar respostas rápidas</string>
     <string name="respond_via_sms_setting_summary" />
@@ -814,12 +814,11 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="call_record_notification_message_sd_unmounted_miui">A gravação foi interrompida: o cartão SD foi desmontado.</string>
     <string name="call_record_notification_message_start_failed">Dispositivo de gravação está ocupado por outra aplicação.</string>
     <string name="call_record_error_access">Não é possível gravar enquanto estiver no modo Convidado</string>
-    <string name="call_record_notification_title_error_miui">Falha ao gravar ligação</string>
-    <string name="call_record_notification_title_miui">Chamada gravada</string>
-    <string name="call_record_sd_error_miui">Erro ao aceder ao cartão SD</string>
+    <string name="call_record_notification_title_error_miui">Gravação da chamada com falha</string>
+    <string name="call_record_notification_title_miui">Gravador de chamadas</string>
+    <string name="call_record_sd_error_miui">Falha ao aceder ao cartão SD</string>
     <string name="call_record_sd_space_low_miui">Não existe espaço: o seu cartão SD está muito cheio</string>
-    <string name="call_record_path_name_of_sdcard_miui">Cartão SD</string>
-    <string name="call_settings_category_miui">Configurações de chamada</string>
+    <string name="call_settings_category_miui">Chamada</string>
     <string name="call_settings_miui">Configurações de chamada</string>
     <string name="call_title_redialing_with_times_miui">Remarcando %d vezes</string>
     <string name="call_waiting_sum_miui">Durante uma chamada, notificar-me de chamadas em espera</string>
@@ -997,8 +996,8 @@ O seu telefone será bloqueado depois de inserir outra tentativa incorrecta"</st
     <string name="pref_custom_location_title_miui">Minhas localizações</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">Preferir redes 3G</string>
     <string name="preferred_network_type_pref_entries_auto_miui">Automático</string>
-    <string name="preferred_network_type_pref_entries_only_2g_miui">Apenas 2G (Economiza energia)</string>
-    <string name="preferred_network_type_pref_entries_only_3g_miui">Apenas 3G</string>
+    <string name="preferred_network_type_pref_entries_only_2g_miui">Apenas redes 2G (Economiza energia)</string>
+    <string name="preferred_network_type_pref_entries_only_3g_miui">Apenas redes 3G</string>
     <string name="preferred_network_type_pref_entries_global_miui">Global</string>
     <string name="preferred_network_type_3g_only_warning_miui">Não será capaz de se ligar à rede se o seu cartão SIM não tem a funcionalidade 3G.</string>
     <string name="preferred_network_type_cdma_miui">CDMA</string>

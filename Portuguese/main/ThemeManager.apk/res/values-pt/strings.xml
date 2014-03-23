@@ -191,13 +191,12 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="loading_resource_detail_info">A carregar…</string>
     <string name="loading_resource_detail_fail">Falha ao carregar o recurso.</string>
     <string name="resource_expand_full_text">Espandir</string>
-    <string name="resource_account_login">Entrar em</string>
+    <string name="resource_account_login">Iniciar sessão</string>
     <string name="resource_account_switch">Mudar</string>
-    <string name="resource_account_current">Conta: %1$s</string>
-    <string name="resource_account_login_title">Entrar em</string>
-    <string name="resource_account_fail_to_add">Falha ao adicionar conta.</string>
+    <string name="resource_account_login_title">Iniciar sessão</string>
+    <string name="resource_account_fail_to_add">Falha ao adicionar conta</string>
     <string name="resource_account_abnormal_state">Erro de conta: Tente mais tarde.</string>
-    <string name="resource_account_login_before_action">Primeiro tem que entrar na sua conta Xiaomi.</string>
+    <string name="resource_account_login_before_action">Entrar agora na sua conta Xiaomi</string>
     <string name="resource_send">Enviar</string>
     <string name="resource_save_to_note">Guardar em Notas</string>
     <string name="resource_present">Presente</string>
@@ -260,5 +259,5 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_hint">Alerta</string>
-    <string name="resource_ringtone_volume_mute">O seu toque está silenciado.</string>
+    <string name="resource_ringtone_volume_mute">O seu toque está silenciado</string>
 </resources>

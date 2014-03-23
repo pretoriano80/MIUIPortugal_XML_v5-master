@@ -22,8 +22,8 @@
     <string name="micloud_error_empty_username">Digite nome de utilizador</string>
     <string name="micloud_error_empty_pwd">Digite a sua senha</string>
     <string name="micloud_error_illegal_pwd">Senha inválida</string>
-    <string name="micloud_error_empty_captcha_code">Digite código de verificação</string>
-    <string name="micloud_error_empty_vcode">Digite código de verificação</string>
+    <string name="micloud_error_empty_captcha_code">Digite o código de verificação</string>
+    <string name="micloud_error_empty_vcode">Digite o código de verificação</string>
     <string name="micloud_email">Insira o seu email</string>
     <string name="reg_type_phone">Registe-se através do número de telefone (recomendado)</string>
     <string name="reg_type_email">Registar via email</string>
@@ -31,29 +31,29 @@
     <string name="micloud_password_confirm_hint">Confirmar senha</string>
     <string name="micloud_password_req_notice">8~16 chars, contém dígitos, letras do alfabeto, maiúsculas e minúsculas</string>
     <string name="micloud_password_error_inconsistent">As senhas não correspondem</string>
-    <string name="micloud_active_alert_title">Ativar as sua conta</string>
+    <string name="micloud_active_alert_title">Activar as sua conta</string>
     <string name="micloud_via_sms_alert">Um SMS será enviado para validar o seu número de telefone. Continuar?</string>
     <string name="micloud_via_int_sms_alert">Um SMS que podem implicar custos internacionais será enviado para validar o seu número de telefone. Continuar?</string>
     <string name="micloud_error_email">Email inválido</string>
     <string name="micloud_account">Conta Xiaomi</string>
-    <string name="micloud_activing_account">A ativar a conta…</string>
+    <string name="micloud_activing_account">A activar a conta…</string>
     <string name="micloud_activing_account_delayed">Quase lá…</string>
-    <string name="micloud_activing_account_failed">Falha ao ativar a sua conta</string>
-    <string name="micloud_activating_account_notify_title">Ativando sua conta Xiaomi…</string>
-    <string name="micloud_activate_account_success_notify_title">Ativado com sucesso a sua conta Xiaomi</string>
-    <string name="micloud_activate_account_fail_notify_title">Falha ao ativar sua conta Xiaomi</string>
-    <string name="micloud_activating_account_notify_info">Está a ativar a sua conta Xiaomi</string>
+    <string name="micloud_activing_account_failed">Falha ao activar a sua conta</string>
+    <string name="micloud_activating_account_notify_title">A activar sua conta Xiaomi…</string>
+    <string name="micloud_activate_account_success_notify_title">Activado com sucesso a sua conta Xiaomi</string>
+    <string name="micloud_activate_account_fail_notify_title">Falha ao activar sua conta Xiaomi</string>
+    <string name="micloud_activating_account_notify_info">Está a activar a sua conta Xiaomi</string>
     <string name="micloud_activate_back_btn">Cancelar</string>
     <string name="micloud_activate_retry_btn">Tente novamente</string>
-    <string name="micloud_account_not_actived">A conta não está ativada</string>
+    <string name="micloud_account_not_actived">A conta não está activada</string>
     <string name="micloud_active_email_visit">Verifique sua caixa de entrada em %s</string>
     <string name="micloud_click_email_to_valid">"
 
 Para activar a sua conta,
  siga o link de activação na sua caixa de entrada."</string>
-    <string name="micloud_resend_active_email">Reenviar email de ativação</string>
+    <string name="micloud_resend_active_email">Reenviar email de activação</string>
     <string name="micloud_delete_account">Sair da conta</string>
-    <string name="micloud_active_email_sent_1">Foi enviado um link de ativação para </string>
+    <string name="micloud_active_email_sent_1">Foi enviado um link de activação para </string>
     <string name="micloud_active_email_sent_2" />
     <string name="micloud_click_email">"
 
@@ -94,28 +94,28 @@ Para activar a sua conta,
     <string name="data_sync_notice">Use a sua conta Xiaomi para sincronizar mensagens, contactos e outros dados.</string>
     <string name="cmcc_data_sync_notice">Use sua conta Xiaomi para sincronizar mensagens, contatos e outros dados. Enquanto isso, aproveite os serviços na nuvem.</string>
     <string name="sync_dspt">Activar sincronização</string>
-    <string name="sync_sub_dspt">A mensagem de texto de ativação está sujeita a tarifas de dados da operadora.</string>
-    <string name="sync_sub_int_dspt">A mensagem de texto de ativação está sujeita a taxas de dados internacionais.</string>
+    <string name="sync_sub_dspt">A mensagem de texto de activação está sujeita a tarifas de dados da operadora.</string>
+    <string name="sync_sub_int_dspt">A mensagem de texto de activação está sujeita a taxas de dados internacionais.</string>
     <string name="send_sms_for_sync_title">Enviar mensagem de texto</string>
-    <string name="send_sms_for_sync_notice">A mensagem de texto de ativação está sujeita a tarifas de dados da operadora.</string>
-    <string name="send_int_sms_for_sync_notice">A mensagem de texto de ativação está sujeita a taxas de dados internacionais.</string>
-    <string name="failed_to_send_activate_email">Falha ao enviar e-mail de ativação.</string>
+    <string name="send_sms_for_sync_notice">A mensagem de texto de activação está sujeita a tarifas de dados da operadora.</string>
+    <string name="send_int_sms_for_sync_notice">A mensagem de texto de activação está sujeita a taxas de dados internacionais.</string>
+    <string name="failed_to_send_activate_email">Falha ao enviar e-mail de activação.</string>
     <string name="access_denied">Acesso negado</string>
     <string name="reging">A registar a conta…</string>
     <string name="reg_success">A conta foi criada</string>
     <string name="reg_success_summary">%1$s foi adicionado à sua conta. Você pode usá-lo para entrar ou para recuperar sua senha.</string>
     <string name="sync_on">On</string>
     <string name="sync_off">Off</string>
-    <string name="btn_activate">Ativar</string>
+    <string name="btn_activate">Activar</string>
     <string name="sim_changed_notification_content">O cartão SIM não está activado</string>
     <string name="activating">A activar…</string>
     <string name="check_phone_error_title">Falha ao activar o serviço de sincronização</string>
     <string name="check_phone_io_error">Erro de rede</string>
     <string name="other_settings">Outras definições</string>
     <string name="find_device">Localizar dispositivo</string>
-    <string name="find_device_check_phone_error_title">Falha ao ativar a localização de dispositivo</string>
-    <string name="find_device_enabling">A ativar…</string>
-    <string name="find_device_disabling">A desativar…</string>
+    <string name="find_device_check_phone_error_title">Falha ao activar a localização de dispositivo</string>
+    <string name="find_device_enabling">A activar…</string>
+    <string name="find_device_disabling">A desactivar…</string>
     <string name="enable_find_device_error">Erro: %1$s</string>
     <string name="disable_find_device_error">Erro: %1$s</string>
     <string name="find_device_error_network">Erro de rede</string>
@@ -125,12 +125,12 @@ Para activar a sua conta,
     <string name="find_device_notice_p2">i.xiaomi.com</string>
     <string name="find_device_notice_p3">para encontrar, bloquear, ou eliminar os dados remotamente.</string>
     <string name="i_know">OK</string>
-    <string name="find_device_disabled_title">Localização do dispositivo desativada</string>
+    <string name="find_device_disabled_title">Localização do dispositivo desactivada</string>
     <string name="find_device_disabled_notice">Pode reabri-lo via Definições > Contas > Conta sincronização > Conta Xiaomi</string>
     <string name="activate_phone_send_sms_fail">Falha ao enviar mensagem de activação</string>
     <string name="activate_phone_server_error">Erro do servidor</string>
     <string name="activate_phone_failed_notif_title">Falha ao iniciar o serviço Mi Cloud</string>
-    <string name="activate_phone_send_sms_failed_notif">Não foi possível enviar mensagem de ativação</string>
+    <string name="activate_phone_send_sms_failed_notif">Não foi possível enviar mensagem de activação</string>
     <string name="activate_phone_server_error_notif">Erro do servidor</string>
     <string name="user_agreement_p1">"Ao entrar, concorda com Xiaomi
 "</string>
@@ -142,13 +142,13 @@ Para activar a sua conta,
     <string name="skip_setup_account_title">Ignorar configuração</string>
     <string name="skip_setup_account_msg">Utilizando a sua conta Xiaomi, pode sincronizar e fazer backup de SMS, contactos, fotos, notas, etc. Continuar e configurar mais tarde?</string>
     <string name="account_dspt">A conta Xiaomi pode sincronizar e fazer cópia dos seus SMS, Contactos, fotos e notas</string>
-    <string name="remove_unactivated_account_notice">A conta Xiaomi não está ativada, Eliminar agora?</string>
+    <string name="remove_unactivated_account_notice">A conta Xiaomi não está activada, Eliminar agora?</string>
     <string name="remove_confirm">Terminar sessão</string>
     <string name="find_password_on_web_msg">Visite account.xiaomi.com para receber a password</string>
     <string name="relogin">Voltar a entrar</string>
     <string name="skip_login">Saltar início da sessão</string>
     <string name="skip_login_u"><u>Saltar terminar a sessão</u></string>
-    <string name="removing_account">Terminar asessão…</string>
+    <string name="removing_account">Terminar a sessão…</string>
     <string name="checking_account">A verificar…</string>
     <string name="button_cancel">Cancelar</string>
     <string name="mili_center">MiCredit</string>
@@ -159,13 +159,13 @@ Para activar a sua conta,
     <string name="binded">Binded</string>
     <string name="nobind">"Don't bind"</string>
     <string name="unbind">Unbind</string>
-    <string name="update_contacts">Atualizar livro de endereços</string>
+    <string name="update_contacts">Actualizar livro de endereços</string>
     <string name="update_contacts_description">Sina Weibo usa a sua conta Xiaomi de dados e de seus contatos de sincronização entre plataformas.</string>
-    <string name="updated_contacts">Atualizar %s contactos</string>
+    <string name="updated_contacts">Actualizar %s contactos</string>
     <string name="updated_nothing">Nada para sincronizar</string>
     <string name="process_result">Sincronizar detalhes:</string>
-    <string name="access_token_expired_warning">Conta Weibo expirou: por favor reative-a</string>
-    <string name="access_token_invalid_warning">Conta Weibo expirou: por favor reative-a</string>
+    <string name="access_token_expired_warning">Conta Weibo expirou: por favor reactive-a</string>
+    <string name="access_token_invalid_warning">Conta Weibo expirou: por favor reactive-a</string>
     <string name="service_error">Erro de serviço</string>
     <string name="enable_micloud">Registe-se ou inicie sessão</string>
     <string name="micloud_summary">Entrar na conta Xiaomi para sincronizar contatos, notas, fotos e muito mais através de dispositivos.</string>
@@ -188,13 +188,13 @@ Para activar a sua conta,
     <string name="cmcc_micloud_dspt">Use MiCloud para sincronizar dados, localizar o seu telefone, e partilhar coisas com os amigos.</string>
     <string name="start_micloud">Iniciar</string>
     <string name="micloud_proceed">Continuar</string>
-    <string name="disable_micloud"><u>Desativar Mi Cloud</u></string>
+    <string name="disable_micloud"><u>Desactivar Mi Cloud</u></string>
     <string name="master_alert_notif_title">A última sincronização foi à %s dias</string>
-    <string name="sub_alert_notif_title">Chave do serviço de sincronização não foi ativado</string>
+    <string name="sub_alert_notif_title">Chave do serviço de sincronização não foi activado</string>
     <string name="alert_notif_title_dspt">Restaurar a sincronização para garantir a segurança dos dados</string>
     <string name="noRemind">Não me lembrar novamente</string>
     <string name="restoreSync">Restaurar</string>
-    <string name="enableAll">Ativar todos</string>
+    <string name="enableAll">Activar todos</string>
     <string name="master_alert_notif_dspt" formatted="false">%s contactos, %s mensagens, %s fotos, %s notas e outros dados não foram sincronizados.</string>
     <string name="sub_alert_notif_dspt" formatted="false">%s %s contactos, %s mensagens, %s fotos, %s notas e outros dados não foram sincronizados.</string>
     <string name="wipe_data_dialog_title">Alguns ficheiros não foram sincronizados</string>
@@ -218,10 +218,10 @@ Para activar a sua conta,
     <string name="activate_status_desc_failed_getting_sim_info">Falha ao obter informações do cartão SIM</string>
     <string name="activate_status_desc_getting_gateway">A obter SMS Gateway</string>
     <string name="activate_status_desc_failed_getting_gateway">Falha ao obter SMS Gateway</string>
-    <string name="activate_status_desc_prepare_sending_sms">Prepare-se para enviar uma SMS de ativação</string>
+    <string name="activate_status_desc_prepare_sending_sms">Prepare-se para enviar uma SMS de activação</string>
     <string name="activate_status_desc_sending_sms">A enviar…</string>
-    <string name="activate_status_desc_sms_sent">Foi enviada uma SMS de ativação com sucesso</string>
-    <string name="activate_status_desc_sim_absent">O cartão SIM está desativado</string>
+    <string name="activate_status_desc_sms_sent">Foi enviada uma SMS de activação com sucesso</string>
+    <string name="activate_status_desc_sim_absent">O cartão SIM está desactivado</string>
     <string name="activate_status_desc_acquire_phone_number">Adquirir número de telefone do servidor</string>
     <string name="activate_status_desc_acquire_phone_number_server_error_wait">Erro de servidor, ao obter o número de telefone. Esperar para repetir...</string>
     <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Erro de servidor I/O, ao obter o número de telefone. Esoerar para repetir...</string>
@@ -276,7 +276,8 @@ Desta forma, se perder ou danificar o telefone, os seus dados ainda estão segur
 
 Se ficar sem espaço de armazenamento, os dados antigos não são substituídos. No entanto, qualquer conteúdo novo que adicionar (por exemplo, fotos, vídeos, notas e aplicações) não será feita nenhuma cópia.
 
-Para corrigir isso, você pode eliminar alguns arquivos antigos para dar lugar aos novos, ou pode comprar espaço de armazenamento adicional."</string>
+Para corrigir isso, pode eliminar alguns arquivos antigos para dar lugar aos novos, ou pode comprar espaço de armazenamento adicional."</string>
+    <string name="micloud_upgrade_space">Comprar espaço</string>
     <string name="enable_sync_dspt">A sincronização está desligada</string>
     <string name="enable_sync">Activar sincronização</string>
 </resources>

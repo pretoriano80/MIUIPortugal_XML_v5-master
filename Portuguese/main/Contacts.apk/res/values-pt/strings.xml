@@ -69,7 +69,7 @@
     <string name="resource_share_subject">Partilhar tema: %1$s</string>
     <string name="resource_share_text">Aqui está um tema que pode gostar: %1$s! Link: %2$s</string>
     <string name="resource_delete_all">Eliminar %1$d recursos selecionados?</string>
-    <string name="resource_can_not_selected">%1$s não pode ser seleccionada</string>
+    <string name="resource_can_not_selected">%1$s não pode ser selecionada</string>
     <string name="resource_system_title">Recursos de sistema</string>
     <string name="resource_downloaded_title">Recursos transferidos</string>
     <string name="resource_see_more">Ver mais</string>
@@ -86,7 +86,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_server_alert_dialog_title">Nós estaremos de volta…</string>
     <string name="resource_purchase_getting_order">Recuperando a informação encomenda…</string>
     <string name="resource_purchase_waiting_payment">À espera de informações de pagamento…</string>
-    <string name="resource_purchase_verifying_payment">Verificando informações de pagamento…</string>
+    <string name="resource_purchase_verifying_payment">A verificar informações de pagamento…</string>
     <string name="resource_download_trial">Teste de avaliação</string>
     <string name="resource_apply_trial">Avalie agora</string>
     <string name="resource_on_trial">Avaliando: %1$s</string>
@@ -97,17 +97,16 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_trial_end_purchase">Comprar</string>
     <string name="deleting">A eliminar…</string>
     <string name="resource_title_select_ringtone">Selecionar toque</string>
-    <string name="resource_tip_select_ringtone">Não foi selecionado nenhum toque</string>
-    <string name="loading_resource_detail_info">A carregar...</string>
-    <string name="loading_resource_detail_fail">Falha ao carregar o recurso!</string>
+    <string name="resource_tip_select_ringtone">Nada selecionado</string>
+    <string name="loading_resource_detail_info">A carregar…</string>
+    <string name="loading_resource_detail_fail">Falha ao carregar o recurso</string>
     <string name="resource_expand_full_text">Expandir</string>
     <string name="resource_account_login">Entrar</string>
     <string name="resource_account_switch">Mudar</string>
-    <string name="resource_account_current">Conta: %1$s</string>
-    <string name="resource_account_login_title">Entrar</string>
-    <string name="resource_account_fail_to_add">Falha ao adicionar a conta.</string>
-    <string name="resource_account_abnormal_state">Erro de conta: por favor, tente mais tarde.</string>
-    <string name="resource_account_login_before_action">Tem fazer primeiro login na sua conta Xiaomi.</string>
+    <string name="resource_account_login_title">Iniciar sessão</string>
+    <string name="resource_account_fail_to_add">Falha ao adicionar a conta</string>
+    <string name="resource_account_abnormal_state">Erro de conta: Tente mais tarde.</string>
+    <string name="resource_account_login_before_action">Tem fazer primeiro login na sua conta Xiaomi</string>
     <string name="resource_send">Enviar</string>
     <string name="resource_save_to_note">Guardar em Notas</string>
     <string name="resource_present">Oferta</string>
@@ -119,7 +118,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_exchange_universal_finish">Use este código para transferência de um tema a partir da loja MIUI.</string>
     <string name="resource_exchange_empty_format">Digite o código oferta!</string>
     <string name="resource_exchange_wrong_format_by_local">Está incorreto o formato do código digitado.</string>
-    <string name="resource_exchange_wrong_format_by_server">Código não foi verificado. Certifique-se de que digitou corretamente.</string>
+    <string name="resource_exchange_wrong_format_by_server">O código não foi verificado. Certifique-se de que digitou correctamente.</string>
     <string name="resource_exchange_has_used">O código que digitou já foi usado.</string>
     <string name="resource_exchange_has_expired">O código que digitou já expirou.</string>
     <string name="resource_exchange_unavailable">O tema associado ao código que digitou não está disponível.</string>
@@ -145,12 +144,12 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_comment_current_version">A versão actual</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_upload_hint">O seu comentário será exibido depois de uma breve revisão.</string>
-    <string name="resource_comment_sending">Enviando comentário…</string>
+    <string name="resource_comment_sending">A enviar comentário…</string>
     <string name="resource_comment_upload_failed">Falha ao enviar o comentário.</string>
     <string name="resource_comment_upload_success">Comentário enviado! O seu comentário será exibido depois de uma breve revisão.</string>
-    <string name="resource_comment_upload_data_invalid">Comentário inválido.</string>
-    <string name="resource_comment_upload_not_logined">Por favor, faça login</string>
-    <string name="resource_comment_upload_not_bought">Deve usar o tema antes de fazer comentários.</string>
+    <string name="resource_comment_upload_data_invalid">Comentário inválido</string>
+    <string name="resource_comment_upload_not_logined">Primeiro tem que iniciar a sessão</string>
+    <string name="resource_comment_upload_not_bought">Deve usar o tema antes de fazer comentários</string>
     <string name="resource_comment_invalid">Por favor, tocar as estrelas para avaliar</string>
     <string name="resource_comment_expand_full_text">Expanda todo o texto▼</string>
     <string name="resource_comment_title">Comentários: %1$s</string>
@@ -164,10 +163,10 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_comment_rate">Classificação:</string>
     <string name="resource_comment_entry_tips">Ver comentários</string>
     <string name="fail_to_add_account">Falha ao adicionar conta</string>
-    <string name="account_unactivated">A conta não está ativada</string>
-    <string name="to_activate_the_account">Ative a sua conta Xiaomi agora</string>
-    <string name="resource_menu_refresh">Aualizar</string>
-    <string name="resource_unknow_error">Ocorreu um erro deesconhecido</string>
+    <string name="account_unactivated">A conta não está activada</string>
+    <string name="to_activate_the_account">Active a sua conta Xiaomi agora</string>
+    <string name="resource_menu_refresh">Actualizar</string>
+    <string name="resource_unknow_error">Ocorreu um erro desconhecido</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_hint">Alerta</string>
     <string name="resource_ringtone_volume_mute">O seu toque está silenciado</string>
@@ -186,8 +185,8 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="people">Contactos</string>
     <string name="contactsList">Contactos</string>
     <string name="shortcutContact">Contacto</string>
-    <string name="shortcutDialContact">Marcação direta</string>
-    <string name="shortcutMessageContact">Mensagem direta</string>
+    <string name="shortcutDialContact">Marcação directa</string>
+    <string name="shortcutMessageContact">Mensagem directa</string>
     <string name="shortcutActivityTitle">Selecionar atalho para contacto</string>
     <string name="callShortcutActivityTitle">Escolha um número para ligar</string>
     <string name="messageShortcutActivityTitle">Escolha um número para enviar mensagem</string>
@@ -213,7 +212,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="menu_editContact">Editar</string>
     <string name="menu_deleteContact">Eliminar</string>
     <string name="menu_copy">Copiar</string>
-    <string name="menu_create_contact_shortcut">Pôr no ecrã Principal</string>
+    <string name="menu_create_contact_shortcut">Enviar para o ecrã Principal</string>
     <string name="menu_call">Chamar contacto</string>
     <string name="menu_sendSMS">Texto contacto</string>
     <string name="menu_splitAggregate">Separar</string>
@@ -257,7 +256,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="photoPickerNotFoundText">Não existem fotografias disponíveis no telefone.</string>
     <string name="attach_photo_dialog_title">Imagens de contactos</string>
     <string name="customLabelPickerTitle">Nome de etiqueta personalizado</string>
-    <string name="send_to_voicemail_checkbox">Enviar chamadas diretamente para o correio de voz</string>
+    <string name="send_to_voicemail_checkbox">Enviar chamadas directamente para o correio de voz</string>
     <string name="removePhoto">Eliminar foto</string>
     <string name="noContacts">Sem contactos</string>
     <string name="noGroups">Sem grupos</string>
@@ -275,7 +274,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="listTotalPhoneContactsZero">Não há contactos com números de telefone</string>
     <string name="listTotalAllContactsZero">Sem contactos.</string>
     <string name="listTotalAllContactsZeroCustom">Sem contactos visíveis.</string>
-    <string name="listTotalAllContactsZeroStarred">Sem favoritos.</string>
+    <string name="listTotalAllContactsZeroStarred">Sem favoritos</string>
     <string name="listTotalAllContactsZeroGroup">Sem contactos em %s</string>
     <string name="listSingleContact">Contacto único</string>
     <string name="listCustomView">Contactos no modo de exibição personalizado</string>
@@ -299,7 +298,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="clearCallLogConfirmation">Todos os seus registros de chamadas serão eliminados</string>
     <string name="clearCallLogProgress_title">A eliminar registo de chamadas</string>
     <string name="clearFrequentsConfirmation_title">Eliminar contactos frequentes?</string>
-    <string name="clearFrequentsConfirmation">Vai eliminar a lista de pessoas contatadas frequentemente, aplicações do telefone e forçar aplicações de e-mail a aprender as suas preferências de endereços a partir do zero.</string>
+    <string name="clearFrequentsConfirmation">Vai eliminar a lista de pessoas contactadas frequentemente, aplicações do telefone e forçar aplicações de e-mail.</string>
     <string name="clearFrequentsProgress_title">A eliminar contactos usados frequentemente…</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
@@ -339,11 +338,11 @@ Para adicionar contactos, pressione "<b><font fgcolor="#ffffffff">Menu</font></b
 "</string>
     <string name="noContactsNoSimHelpText">"Não tem nenhum contacto para exibir.
 
-Para adicionar contactos, pressione "<b><font fgcolor="#ffffffff">Menu</font></b>", then touch:
+Para adicionar contactos, pressione "<b><font fgcolor="#ffffffff">Menu</font></b>", em seguida, toque:
  
-"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contactos que você pode sincronizar com o telefone
+"<b><font fgcolor="#ffffffff"><li>"Contas para adicionar ou configurar uma conta com contactos que pode sincronizar com o telefone
 "</li></font></b>" 
-"<b><font fgcolor="#ffffffff"><li>"Novo contacto para criar um novo contacto a partir do in+icio
+"<b><font fgcolor="#ffffffff"><li>"Novo contacto para criar um novo contacto a partir do início
 "</li></font></b>" 
 "<b><font fgcolor="#ffffffff"><li>"Importar / Exportar para importar contactos do seu cartão SD
 "</li></font></b>"
@@ -365,7 +364,7 @@ Para adicionar contactos, precione "<b><font fgcolor="#ffffffff">Menu</font></b>
 
 Para adicionar um contacto à sua lista de favoritos:
 
-"<li>Touch the <b>Contacts</b>" tab
+"<li>Toque em <b>Contactos</b>" tab
 "</li>" 
 "<li>"Pressione no contacto que deseja adicionar aos seus favoritos
 "</li>" 
@@ -378,7 +377,7 @@ Para adicionar um contacto à sua lista de favoritos:
     <string name="callDetailTitle">Registos da chamada</string>
     <string name="toast_call_detail_error">Não podem ser lidos os detalhes da chamada solicitada</string>
     <string name="type_incoming">Chamada recebida</string>
-    <string name="type_outgoing">Chamada efetuada</string>
+    <string name="type_outgoing">Chamada efectuada</string>
     <string name="type_missed">Chamadas perdidas</string>
     <string name="type_voicemail">Mensagens de voz</string>
     <string name="actionIncomingCall">Chamadas recebidas</string>
@@ -418,14 +417,14 @@ Para adicionar um contacto à sua lista de favoritos:
     <string name="import_one_vcard_string">Importar um ficheiro vCard</string>
     <string name="import_multiple_vcard_string">Importar vários ficheiros vCard</string>
     <string name="import_all_vcard_string">Importar todos os ficheiros vCard</string>
-    <string name="searching_vcard_message">A procurar dados vCard no armaz…</string>
+    <string name="searching_vcard_message">A procurar dados vCard no armazenamento</string>
     <string name="scanning_sdcard_failed_title">O armazenamento não pode ser verificado</string>
     <string name="scanning_sdcard_failed_message">Razão: \"%s\".</string>
     <string name="fail_reason_io_error">Erro I/O</string>
     <string name="fail_reason_low_memory_during_import">Memória insuficiente. O ficheiro pode é muito grande</string>
     <string name="fail_reason_vcard_parse_error">Não foi possível analisar vCard por um motivo inesperado.</string>
     <string name="fail_reason_not_supported">Formato não suportado.</string>
-    <string name="vcard_import_failed">Não foi possível importar vCard</string>
+    <string name="vcard_import_failed">Não foi possível importar vCard.</string>
     <string name="import_failure_no_vcard_file">Nenhum ficheiro de vCard encontrado no armazenamento</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">"Não foi possível recolher informações meta de determinado arquivo vCard (s)."</string>
     <string name="fail_reason_failed_to_read_files">Um ou mais arquivos não podem ser importados (%s).</string>
@@ -461,12 +460,12 @@ Motivo: \"%s\""</string>
     <string name="fail_reason_error_occurred_during_export">Ocorreu um erro durante a exportação:\"%s\".</string>
     <string name="composer_failed_to_get_database_infomation">Falha ao obter informações da base de dados.</string>
     <string name="composer_has_no_exportable_contact">Não existem contactos para exportar. Se realmente tem contactos no telefone, o fornecedor de dados pode ter impedido a exportação.</string>
-    <string name="composer_not_initialized">O editor vCard não foi iniciado corretamente.</string>
+    <string name="composer_not_initialized">O editor vCard não foi iniciado correctamente.</string>
     <string name="fail_reason_could_not_open_file" formatted="false">Não foi possível abrir \"%s\": %s</string>
     <string name="exporting_contact_list_progress" formatted="false">%s de %s contactos</string>
     <string name="cancel_import_confirmation_message">Cancelar a importação de %s?</string>
     <string name="cancel_export_confirmation_message">Cancelar a exportação de %s?</string>
-    <string name="cancel_vcard_import_or_export_failed">"Não foi possível cancelar a importação/exportação do vCard"</string>
+    <string name="cancel_vcard_import_or_export_failed">Não foi possível cancelar a importação/exportação do vCard</string>
     <string name="search_settings_description">Nomes dos contactos</string>
     <string name="add_2sec_pause">Adicionar pausa de 2 segundos</string>
     <string name="add_wait">Adicionar, espere</string>
@@ -474,7 +473,7 @@ Motivo: \"%s\""</string>
     <string name="call_settings">Definições</string>
     <string name="sms_disambig_title">Escolha números</string>
     <string name="make_primary">Memorizar esta opção</string>
-    <string name="quickcontact_missing_app">Nenhuma aplicação foi encontrada para efetuar esta ação</string>
+    <string name="quickcontact_missing_app">Nenhuma aplicação foi encontrada para efectuar esta ação</string>
     <string name="missing_name">(Sem nome)</string>
     <string name="menu_accounts">Contas</string>
     <string name="menu_clear_frequents">Eliminar frequentes</string>
@@ -633,8 +632,8 @@ Motivo: \"%s\""</string>
     <string name="aggregation_suggestion_edit_dialog_message">Alterar para a edição do contacto selecionado? As informações inseridas até agora serão copiadas.</string>
     <string name="menu_copyContact">Copiar para os meus contactos</string>
     <string name="add_to_my_contacts">Adicionar aos meus contactos</string>
-    <string name="contact_directory_description">Diretório %1$s</string>
-    <string name="directory_search_label">Diretório</string>
+    <string name="contact_directory_description">Directório %1$s</string>
+    <string name="directory_search_label">Directório</string>
     <string name="local_search_label">Todos os contactos</string>
     <string name="toast_making_personal_copy">A criar uma cópia pessoal…</string>
     <string name="list_filter_all_accounts">Todos os contactos</string>
@@ -707,7 +706,7 @@ Motivo: \"%s\""</string>
     <string name="status_busy">Ocupado</string>
     <string name="description_call_log_play_button">Reproduzir correio de voz</string>
     <string name="description_call_log_incoming_call">Chamada recebida</string>
-    <string name="description_call_log_outgoing_call">Chamada efetuada</string>
+    <string name="description_call_log_outgoing_call">Chamada efectuada</string>
     <string name="description_call_log_missed_call">Chamadas perdidas</string>
     <string name="description_call_log_voicemail">Mensagens de voz</string>
     <string name="description_add_contact">Adicionar contacto</string>
@@ -744,14 +743,14 @@ Motivo: \"%s\""</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d seg</string>
     <string name="callrecordview_item_op_time_only_minutes">%d minutos</string>
     <string name="callrecordview_item_op_time_only_seconds">%d segundos</string>
-    <string name="callrecordview_item_op_time_short_outgoing">"Efetuada: "</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"Efectuada: "</string>
     <string name="callrecordview_item_op_time_short_incoming">"Recebida: "</string>
     <string name="callrecordview_item_op_time_missed">Não atendeu</string>
     <string name="callrecordview_item_op_time_rejected">Rejeitada</string>
     <string name="callrecordview_menu_show_title">Selecione para exibir o registo de chamadas</string>
     <string name="callrecordview_menu_show_all">Todas as chamadas</string>
     <string name="callrecordview_menu_show_missed">Chamadas perdidas</string>
-    <string name="callrecordview_menu_show_called">Chamadas efetuadas</string>
+    <string name="callrecordview_menu_show_called">Chamadas efectuadas</string>
     <string name="callrecordview_menu_show_accepted">Chamadas atendidas</string>
     <string name="callrecordview_menu_show_stranger">Chamadas de números desconhecidos</string>
     <string name="callrecordview_menu_show_new">Novos contactos</string>
@@ -831,7 +830,7 @@ Motivo: \"%s\""</string>
     <string name="frequency_none">Nunca</string>
     <string name="dirty_contacts_notification_title">Sincronizar contactos?</string>
     <string name="dirty_contacts_notification_description">%d alterações não foram sincronizados com sua conta Xiaomi.</string>
-    <string name="dirty_contacts_notification_message">(Pode desativar o lembrete em definições)</string>
+    <string name="dirty_contacts_notification_message">(Pode desactivar o lembrete em definições)</string>
     <string name="remind_btn_sync_now">Sincronizar</string>
     <string name="remind_btn_ignore">Ignorar</string>
     <string name="display_only_phones">Ocultar números incompletos</string>
@@ -1082,7 +1081,7 @@ Clique em Fundir, pode ser necessário esperar um pouco para a conclusão autom�
     <string name="batch_delete_msg">Eliminar %d contactos? Correspondem a dados armazenados na sua conta MiCloud que também serão eliminados.</string>
     <string name="starred_contacts">Favoritos</string>
     <string name="other_contacts">Outros contactos</string>
-    <string name="set_photo_failed_msg">Falha ao adicionar fotografia</string>
+    <string name="set_photo_failed_msg">Falha ao adicionar fotografia.</string>
     <string name="contact_is_readOnly">Não é possível editar contactos só de leitura</string>
     <string name="profile_name">Meu perfil</string>
     <string name="profile_name_photo">I</string>
@@ -1129,7 +1128,7 @@ Clique em Fundir, pode ser necessário esperar um pouco para a conclusão autom�
     <string name="yellowPageNavigationLabel">Directório</string>
     <string name="yellowPageNavigationIconLabel">Directório</string>
     <string name="login_ok">Iniciar sessão em</string>
-    <string name="yellowpage_navigation_search_hint">Localizar</string>
+    <string name="yellowpage_navigation_no_content">Localizar</string>
     <string name="yellowpage_navigation_search_offline_hint">Sem acesso à internet</string>
     <string name="refresh">Actualizar</string>
     <string name="yellowpage_navigation_search_city_name_hint">Cidade</string>
