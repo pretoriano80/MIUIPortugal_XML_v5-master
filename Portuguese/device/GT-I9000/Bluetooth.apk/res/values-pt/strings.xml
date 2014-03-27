@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
-    <string name="alwaysallowed">Sempre permitido?</string>
-    <string name="map_acceptance_dialog_title">%1$s gostaria de acederàs suas pastas do telefone. Dar acesso a %2$s?</string>
-    <string name="map_acceptance_dialog_header">Acesso à pasta Telefone</string>
+    <string name="alwaysallowed">Permitir Sempre?</string>
+    <string name="map_acceptance_dialog_title">%1$s gostaria de aceder às suas pastas do telefone. Permitir acesso a %2$s?</string>
+    <string name="map_acceptance_dialog_header">Acesso à pasta do Telefone</string>
     <string name="map_notif_title">Solicitação de chave de sessão para MAP</string>
-    <string name="map_notif_message">Permitir acesso a pasta root por %1$s</string>
+    <string name="map_notif_message">Permitir acesso à pasta root por %1$s</string>
     <string name="map_alert_conn_failed_message">Falhou a  ligação Bluetooth MAP</string>
     <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências.</string>
     <string name="permdesc_bluetoothShareManager">Permite à aplicação aceder ao gestor BluetoothShare e utilizá-lo para transferir ficheiros.</string>
@@ -30,17 +30,17 @@
     <string name="incoming_file_confirm_cancel">Recusar</string>
     <string name="incoming_file_confirm_ok">Aceitar</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
-    <string name="incoming_file_confirm_timeout_content">Foi excedido o tempo limite durante a aceitação de um ficheiro de \"%1$s\"</string>
+    <string name="incoming_file_confirm_timeout_content">Foi excedido o tempo limite para aceitar um ficheiro de \"%1$s\"</string>
     <string name="incoming_file_confirm_Notification_title">Partilha Bluetooth: ficheiro recebido</string>
     <string name="incoming_file_confirm_Notification_caption">Pretende receber este ficheiro?</string>
     <string name="incoming_file_toast_msg">Recebeu um ficheiro de outro dispositivo. Confirme se deseja receber o ficheiro</string>
     <string name="notification_receiving">Partilha Bluetooth: a receber %1$s</string>
     <string name="notification_received">Partilha Bluetooth: %1$s recebido</string>
-    <string name="notification_received_fail">Partilha Bluetooth: Ficheiro %1$s não recebido</string>
+    <string name="notification_received_fail">Partilha Bluetooth: O ficheiro %1$s não recebido</string>
     <string name="notification_sending">Partilha Bluetooth: a enviar %1$s</string>
     <string name="notification_sent">Partilha Bluetooth: %1$s enviado</string>
     <string name="notification_sent_complete">100% concluído</string>
-    <string name="notification_sent_fail">Partilha Bluetooth: ficheiro %1$s não enviado</string>
+    <string name="notification_sent_fail">Partilha Bluetooth: O ficheiro %1$s não foi enviado</string>
     <string name="download_title">Transferência do ficheiro</string>
     <string name="download_line1">De: \"%1$s\"</string>
     <string name="download_line2">Ficheiro: %1$s</string>
@@ -72,29 +72,29 @@
     <string name="not_exist_file_desc">"O ficheiro não existe. 
 "</string>
     <string name="enabling_progress_title">Aguarde…</string>
-    <string name="enabling_progress_content">A ativar Bluetooth…</string>
-    <string name="bt_toast_1">O ficheiro será recebido. Verifique o andamento no painel de notificações.</string>
+    <string name="enabling_progress_content">A activar Bluetooth…</string>
+    <string name="bt_toast_1">O ficheiro será recebido. Verifique o progresso no painel de notificações.</string>
     <string name="bt_toast_2">O ficheiro não será recebido.</string>
-    <string name="bt_toast_3">Parou de receber o ficheiro de \"%1$s\"</string>
+    <string name="bt_toast_3">A recepção do ficheiro de \"%1$s\" foi cancelada</string>
     <string name="bt_toast_4">A enviar ficheiro para \"%1$s\"</string>
     <string name="bt_toast_5">A enviar %1$s ficheiros para \"%2$s\"</string>
     <string name="bt_toast_6">A transferência de ficheiro para \"%1$s\" foi interrompida</string>
     <string name="bt_sm_2_1">Não há espaço suficiente no cartão SD para guardar o ficheiro de \"%1$s\"</string>
     <string name="bt_sm_2_2">Espaço necessário: %1$s</string>
-    <string name="ErrorTooManyRequests">Há muitas solicitações a serem processadas. Tente novamente mais tarde.</string>
+    <string name="ErrorTooManyRequests">Existem muitas solicitações a serem processadas. Tente novamente mais tarde.</string>
     <string name="status_pending">Transferência de ficheiro não iniciada</string>
     <string name="status_running">A enviar ficheiro…</string>
     <string name="status_success">O ficheiro foi enviado</string>
     <string name="status_not_accept">O telefone não suporta este tipo de conteúdo</string>
-    <string name="status_forbidden">Não é possível de transferir o ficheiro</string>
+    <string name="status_forbidden">Não é possível transferir o ficheiro</string>
     <string name="status_canceled">Envio cancelado</string>
     <string name="status_file_error">Erro no Cartão SD</string>
     <string name="status_no_sd_card">Sem armazenamento USB.</string>
     <string name="status_connection_error">Falha na ligação</string>
-    <string name="status_protocol_error">A solicitação não pode ser tratada corretamente</string>
+    <string name="status_protocol_error">A solicitação não pode ser processada corretamente</string>
     <string name="status_unknown_error">Erro desconhecido</string>
     <string name="btopp_live_folder">Bluetooth recebido</string>
-    <string name="download_success">%1$s Recebimento concluído.</string>
+    <string name="download_success">%1$s Download concluído.</string>
     <string name="upload_success">%1$s Envio concluído.</string>
     <string name="inbound_history_title">Transferências de entrada</string>
     <string name="outbound_history_title">Transferências de saída</string>
@@ -122,18 +122,18 @@
     <string name="auth_notif_ticker">Pedido de autenticação Obex</string>
     <string name="auth_notif_title">Chave de Sessão</string>
     <string name="auth_notif_message">Digite a chave de sessão para %1$s</string>
-    <string name="defaultname">Kit para carro</string>
+    <string name="defaultname">Kit automóvel</string>
     <string name="unknownName">Nome desconhecido</string>
     <string name="localPhoneName">O meu nome</string>
     <string name="defaultnumber">000000</string>
-    <string name="hello">Olá mundo, atividade de teste</string>
+    <string name="hello">Olá mundo, actividade de teste</string>
     <string name="app_name">Partilha Bluetooth</string>
     <string name="insert_record">Inserir registo</string>
-    <string name="update_record">Confirmar registo</string>
+    <string name="update_record">Actualizar registo</string>
     <string name="ack_record">Confirmar registo</string>
     <string name="deleteAll_record">Eliminar todos os registos</string>
     <string name="ok_button">OK</string>
     <string name="delete_record">Eliminar registo</string>
     <string name="start_server">Iniciar servidor TCP</string>
-    <string name="notify_server">Notificar servidor TCP</string>
+    <string name="notify_server">Notificação de servidor TCP</string>
 </resources>
