@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
-    <string name="activate">Ativar</string>
-    <string name="activate_fail_notification_title">Reativar sincronização</string>
+    <string name="activate">Activar</string>
+    <string name="activate_fail_notification_title">Reactivar sincronização</string>
     <string name="activating">A activar…</string>
     <string name="alwaysUsePrompt">Lembrar a minha escolha</string>
     <string name="today">Hoje</string>
@@ -13,9 +13,9 @@
     <string name="autumn_equinox">Equinócio de Outono</string>
     <string name="callNoAnswerTimeFormat">Tocar %s vezes</string>
     <string name="call_record_or">or</string>
-    <string name="call_record_sample_prefix_miui">Gravação de chamada</string>
+    <string name="call_record_sample_prefix_miui">Chamada</string>
     <string name="caller_info_name_delimiter">Ou</string>
-    <string name="check_phone_error_title">Serviço de sincronização não activado</string>
+    <string name="check_phone_error_title">A sincronização não está activada</string>
     <string name="check_phone_io_error">Erro de rede</string>
     <string name="childrens_day">Dia da Criança</string>
     <string name="chinese_youth_day">Dia da Juventude</string>
@@ -324,7 +324,7 @@ Activar via Definições > Sistema > Botão Definições"</string>
     <string name="lunar_yi">一</string>
     <string name="lunar_yue">月</string>
     <string name="lunar_zheng">正</string>
-    <string name="memory_clear_nothing_result">Uso de memória está optimizada.</string>
+    <string name="memory_clear_nothing_result">Memória optimizada.</string>
     <string name="memory_clear_result">"Cache limpa: %1$s
 Memória disponível: %2$s"</string>
     <string name="miui_copyright_title">Copyright</string>
@@ -376,15 +376,15 @@ Memória disponível: %2$s"</string>
     <string name="screen_on_proximity_sensor_summary">Não cubra a parte superior do ecrã</string>
     <string name="screen_on_proximity_sensor_title">Modo de prevenção de operação incorreta</string>
     <string name="sd_not_available">Não foi detectado nenhum cartão SD</string>
-    <string name="sd_not_available_low_internal_storage">Cartão SD indisponível e falta de armazenamento interno</string>
-    <string name="sd_not_available_saved_to_internal_storage">Ficheiro armazenado dentro de uma pasta</string>
-    <string name="sd_not_available_use_internal_storage">Cartão SD indisponível, foi guardado no armazenamento interno</string>
+    <string name="sd_not_available_low_internal_storage">Cartão SD indisponível. Guardado no armazenamento interno.</string>
+    <string name="sd_not_available_saved_to_internal_storage">Guardado no armazenamento interno</string>
+    <string name="sd_not_available_use_internal_storage">Cartão SD indisponível, Guardado no armazenamento interno</string>
     <string name="select">Selecionar</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="send_sms_for_sync_notice">É preciso enviar um SMS de activação, deseja continuar?</string>
-    <string name="send_sms_for_sync_title">Serviço de sincronização não activado</string>
+    <string name="send_sms_for_sync_title">O serviço de sincronização não está activado</string>
     <string name="sim_account_name">SIM</string>
-    <string name="sim_changed_reactivate_notice">O cartão SIM está inactivo. É necessário um sms para activar o serviço, activar agora?</string>
+    <string name="sim_changed_reactivate_notice">O cartão SIM não está activado. Uma mensagem de texto será enviado para o activar. Pode resultar em custos da sua operadora.</string>
     <string name="slight_cold">Frio</string>
     <string name="slight_heat">Quente</string>
     <string name="solar_calendar">Calendário gregoriano</string>
@@ -436,9 +436,9 @@ Memória disponível: %2$s"</string>
     <string name="lockscreen_access_pattern_start">Padrão começou</string>
     <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
     <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
-    <string name="send">Send</string>
-    <string name="share">Share</string>
-    <string name="perm_data_update_lab">Actualização de Data</string>
+    <string name="send">Enviar</string>
+    <string name="share">Partilhar</string>
+    <string name="perm_data_update_lab">Actualização da Data</string>
     <string name="perm_data_update_dspt">Autorizar envio de marca de água</string>
     <string name="provider_sougou">Fornecido por Sogou</string>
     <string name="provider_114">Fornecido por 114</string>
@@ -447,14 +447,14 @@ Memória disponível: %2$s"</string>
     <string name="sim_unavailable">Cartão SIM indisponível</string>
     <string name="sim_locked">Cartão SIM está bloqueado</string>
     <string name="sim_not_ready">Cartão SIM está em uso. Tente mais tarde.</string>
-    <string name="sim_in_airplane_mode">Desactive o modo avião.</string>
-    <string name="sim_changed_reactivate_int_notice">O cartão SIM está inactivo. É necessário um sms internacional para ativar o serviço, ativar agora?</string>
+    <string name="sim_in_airplane_mode">Desactive o modo avião</string>
+    <string name="sim_changed_reactivate_int_notice">O cartão SIM está inactivo. É necessário uma sms internacional para activar o serviço, activar agora?</string>
     <string name="days">%d dias</string>
     <string name="hours">%d horas</string>
     <string name="minutes">%d minutos</string>
     <string name="shutdown_confirm_title">O seu telefone será desligado.</string>
     <string name="reboot_confirm_title">O seu telefone irá reiniciar.</string>
-    <string name="err_resource_leak">Infelizmente, %1$s parou.</string>
+    <string name="err_resource_leak">Infelizmente, %1$s parou</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Barra de estado, Barra de notificação</string>
     <string name="app_no_notification">nada</string>
     <string name="app_notificaiton_on_notificationBar">Bar de notification</string>
@@ -519,5 +519,5 @@ Tente novamente em %d segundos."</string>
     <string name="pin_operation_failed">Operação do PIN falhou.</string>
     <string name="return_to_me_message">Perdido por favor devolva a</string>
     <string name="unlock_string">OK</string>
-    <string name="lock_screen_date">MM/dd EEEE</string>
+    <string name="lock_screen_date">dd/MM EEEE</string>
 </resources>

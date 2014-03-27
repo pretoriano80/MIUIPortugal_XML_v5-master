@@ -21,7 +21,7 @@
     <string name="review_success">Comentário enviado</string>
     <string name="subchannel_all">Todos</string>
     <string name="filter_media">Filtro</string>
-    <string name="clear_history">Apagar histórico</string>
+    <string name="clear_history">Limpar histórico</string>
     <string name="clear_cache">Limpar imagem em cache</string>
     <string name="clear_offline">Limpar cache de média quando desligado</string>
     <string name="xiaomi_user">Utilizador Xiaomi</string>
@@ -215,7 +215,7 @@
     <string name="start_download">Iniciar caching</string>
     <string name="pause_download">Caching pausada</string>
     <string name="finish_download">Caching terminada</string>
-    <string name="in_download">E cache</string>
+    <string name="in_download">Em cache</string>
     <string name="in_waiting">A esperar</string>
     <string name="in_pause">Pausado</string>
     <string name="paused">Pausado</string>
@@ -238,7 +238,7 @@
     <string name="offline_select_better_source">Foi mudado para fonte disponível cache</string>
     <string name="key_back_down_toast">Para terminar, selecione em voltar novamente</string>
     <string name="clear_cache_success">Cache limpa</string>
-    <string name="select_media_source">Selecione a fonte de vídeo</string>
+    <string name="select_media_source">Selecione a fonte do vídeo</string>
     <string name="qiyi">iQiyi</string>
     <string name="souhu">Souhu</string>
     <string name="tencent">Tencent</string>
@@ -277,7 +277,7 @@
     <string name="temp_play_history_button_label">Mostra cronologia</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Desculpe, o formato de vídeo selecionado não pode ser transmitido no seu dispositivo.</string>
     <string name="vp_VideoView_error_text_unknown">Desculpe, o formato de vídeo selecionado não pode ser reproduzido.</string>
-    <string name="vp_VideoView_error_title">Erro na reprodução do vídeo!</string>
+    <string name="vp_VideoView_error_title">Erro na reprodução do vídeo</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="menu_item_media_info_label">Mostrar os detalhes do vídeo</string>
     <string name="menu_item_hide_media_info_label">Não mostrar os detalhes do vídeo</string>
@@ -322,7 +322,7 @@ box ou TV"</string>
     <string name="top_status_local_media">Media local</string>
     <string name="top_status_online_media">Media online</string>
     <string name="loading_video_netplay_label_v5">A carregar, por favor aguarde...</string>
-    <string name="buffering_video_netplay_label_v5">A carregar...</string>
+    <string name="buffering_video_netplay_label_v5">A carregar</string>
     <string name="to_be_play_label_v5">Início da reprodução</string>
     <string name="episode_suffix">O primeiro %d</string>
     <string name="about_version_label">Versão:</string>
@@ -336,7 +336,7 @@ box ou TV"</string>
     <string name="menu_item_disable_audio_enhance">Disactivar acessório de áudio</string>
     <string name="menu_item_enable_3d_mode">Activar 3D</string>
     <string name="menu_item_disable_3d_mode">Desactivar 3D</string>
-    <string name="toast_message_set_misound">Configurar MiAudio</string>
+    <string name="toast_message_set_misound">Configurar MiAudio...</string>
     <string name="vp_select_ci">Seleccionar</string>
     <string name="vp_offline">Offline</string>
     <string name="vp_next_ci">Próximo</string>

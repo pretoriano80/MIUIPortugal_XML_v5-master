@@ -3,7 +3,7 @@
 <resources>
   <string name="app_name">Sincronizar Xiaomi</string>
     <string name="sync_item_sms_title">Sincronizar SMS</string>
-    <string name="sync_item_sms_summary">Sincronização de Mensagens de texto entre dispositivos</string>
+    <string name="sync_item_sms_summary">Sincronização de mensagens de texto entre dispositivos</string>
     <string name="sub_sync_item_sms_title_wifi_only">Sincronizar MMS: Apenas Wi-Fi</string>
     <string name="sub_sync_item_sms_summary">Reduz o uso de dados</string>
     <string name="pref_title_sync_my_profile_title">Sincronizar o meu perfil</string>

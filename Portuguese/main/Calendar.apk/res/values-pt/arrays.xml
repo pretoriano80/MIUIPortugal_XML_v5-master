@@ -337,9 +337,9 @@
         <item>Nunca</item>
     </string-array>
     <string-array name="prefValues_alerts_vibrateWhen">
-        <item>Sempre</item>
-        <item>Silêncio</item>
-        <item>Nunca</item>
+        <item>always</item>
+        <item>silent</item>
+        <item>never</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Preto transparente</item>

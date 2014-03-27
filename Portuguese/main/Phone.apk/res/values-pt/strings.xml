@@ -546,8 +546,8 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="progress_dialog_exiting_ecm">Sair do modo de chamada de emergência</string>
     <string name="alert_dialog_yes">Sim</string>
     <string name="alert_dialog_no">Não</string>
-    <string name="alert_dialog_dismiss">Descartar</string>
-    <string name="absent_num">NÚMERO AUSENTE</string>
+    <string name="alert_dialog_dismiss">Rejeitar</string>
+    <string name="absent_num">ABSENT NUMBER</string>
     <string name="voicemail_provider">Serviço</string>
     <string name="voicemail_settings">Instalação</string>
     <string name="voicemail_number_not_set">&lt;Não definido></string>
@@ -587,8 +587,8 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="alert_dialog_ok">OK</string>
     <string name="close_profile">Fechar</string>
     <string name="primary_account_summary_with">Conta primária. %s</string>
-    <string name="registration_status_checking_status">Verificando estado...</string>
-    <string name="registration_status_registering">Registando…</string>
+    <string name="registration_status_checking_status">A verificar estado...</string>
+    <string name="registration_status_registering">A registar…</string>
     <string name="registration_status_still_trying">Ainda a tentar…</string>
     <string name="registration_status_not_receiving">Sem chamadas recebidas.</string>
     <string name="registration_status_no_data">Registo da conta interrompido porque não há ligação à internet.</string>
@@ -713,7 +713,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="ExportContactScreen">Exportar contactos do telefone para o cartão SIM</string>
     <string name="addSimEntries">Adicionar Contacto ao SIM</string>
     <string name="deleteAllSimEntries">Eliminar todos os caontactos do cartão SIM</string>
-    <string name="deleteSimContacts">Eliminando os contactos do cartão SIM</string>
+    <string name="deleteSimContacts">A eliminar os contactos do cartão SIM</string>
     <string name="editContact">Editar</string>
     <string name="sendSms">Enviar SMS</string>
     <string name="delete">Eliminar</string>
@@ -763,8 +763,8 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="auto_answer_scenario_enteries_headset_only_miui">Ligado a auriculares de ouvido</string>
     <string name="auto_answer_scenario_title_miui">Condições de atendimento automático</string>
     <string name="auto_answer_setting_title_miui">Configurações de resposta automática</string>
-    <string name="auto_country_code_miui">Código do país</string>
-    <string name="auto_country_code_sum_miui">Adiciona automaticamente o código do país antes do número de telefone de contactos conhecidos.</string>
+    <string name="auto_country_code_miui">Adicionar código do país</string>
+    <string name="auto_country_code_sum_miui">Adicionar automaticamente o código do país antes do número de telefone de contactos conhecidos.</string>
     <string name="autoip_miui">Marcação IP automática</string>
     <string name="auto_ip_summary_not_enabled">Não activado</string>
     <string name="auto_ip_setting_miui">Configurações de Marcação IP</string>
@@ -796,7 +796,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="bad_puk2_miui">Tente novamente: o PUK2 inserido está incorrecto.</string>
     <string name="bad_puk_miui">Tente novamente: o PUK inserido está incorrecto.</string>
     <string name="call_assistant_miui">Assistente de marcação</string>
-    <string name="caller_id_sum_miui">Esconder/mostrar meu número ao efectuar ligações (confirme se a sua operadora suporta esta função)</string>
+    <string name="caller_id_sum_miui">Ocultar o meu número ao efectuar ligações (confirme se a sua operadora suporta esta função)</string>
     <string name="caller_id_title_miui">ID de chamada</string>
     <string name="caller_manage_manage_done_text_miui">Retornar à chamada</string>
     <string name="call_forwarding_number_hint_miui">Insira o número para encaminhar a chamada</string>
@@ -837,9 +837,9 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="clir_choices_show_number_miui">Exibir número</string>
     <string name="command_error_fdn_failure_miui">Tem que desligar promeiro o FDN</string>
     <string name="command_error_generic_failure_miui">Operação falhada</string>
-    <string name="command_error_illegal_sim_or_me_miui">Falha na seleção de rede devido a um cartão SIM/ME incorrecto</string>
-    <string name="command_error_invalid_response_miui">Resposta de rede incorrecta, tente novamente mais tarde.</string>
-    <string name="command_error_no_subscription_miui">Falha ao associar-se à operadora CDMA.</string>
+    <string name="command_error_illegal_sim_or_me_miui">Falha ao ligar à rede: SIM errado</string>
+    <string name="command_error_invalid_response_miui">Resposta de rede incorrecta, Tente novamente mais tarde.</string>
+    <string name="command_error_no_subscription_miui">Falha ao associar-se à operadora CDMA</string>
     <string name="command_error_op_denied_before_reg_miui">Esta operação não é permitida antes que o aparelho se registre a uma rede móvel</string>
     <string name="command_error_op_denied_during_call_miui">Esta operação não é permitida durante uma chamada</string>
     <string name="command_error_password_incorrect_miui">Tente novamente: a senha que inseriu está incorrecta</string>

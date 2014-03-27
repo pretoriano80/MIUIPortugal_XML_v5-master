@@ -42,8 +42,8 @@
         <item quantity="one">Mensagem de voz</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d ficheiros selecionados</item>
-        <item quantity="one">%1$d ficheiro selecionado</item>
+        <item quantity="other">%1$d selecionado</item>
+        <item quantity="one">%1$d selecionado</item>
     </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d favoritos</item>
@@ -74,7 +74,7 @@
         <item quantity="one">%1$d contacto recente</item>
     </plurals>
     <plurals name="group_add_success_toast">
-        <item quantity="other">" %1$d adicionados"</item>
+        <item quantity="other">" %1$d contactos adicionados"</item>
         <item quantity="one">%1$d contacto adicionado</item>
     </plurals>
     <plurals name="smart_group_member_count">
@@ -86,8 +86,8 @@
         <item quantity="one">%1$d contacto importado</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d ficheiros selecionados"</item>
-        <item quantity="zero">%1$d ficheiro selecionado</item>
-        <item quantity="one">%1$d ficheiro selecinado</item>
+        <item quantity="other">" %1$d selecionado"</item>
+        <item quantity="zero">%1$d selecionado</item>
+        <item quantity="one">%1$d selecinado</item>
     </plurals>
 </resources>

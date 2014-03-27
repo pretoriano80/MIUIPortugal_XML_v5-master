@@ -14,7 +14,7 @@
     <string name="other_service_permission_manager">Gerir permissões das aplicações</string>
     <string name="other_service_permission_manager_summary">Gerir aplicações para segurança e privacidade</string>
     <string name="other_service_user_experience">Programa de testes de utilização</string>
-    <string name="other_service_user_experience_summary0">Contamos consigo para usar o nosso produto e recursos e esperamos que possa nos ajudar, fornecendo feedback. O seu comentário será assegurado através do nosso</string>
+    <string name="other_service_user_experience_summary0">Contamos consigo para usar o nosso produto e recursos e esperamos que possa nos ajudar, fornecendo feedback. O seu comentário será assegurado através do nosso.</string>
     <string name="other_service_user_experience_summary1">(Política de Privacidade)</string>
     <string name="sim_card_detection_dialog_message">A verificar o cartão SIM…</string>
     <string name="sim_card_detection_label">Cartão SIM</string>
@@ -24,13 +24,4 @@
     <string name="setup_complete_info" />
     <string name="setup_complete_start">Começar a usar a MIUI</string>
     <string name="setup_complete_summary">Configuração concluída! Disfrute :)</string>
-    <string name="traffic_protection_label">Monitor de uso de dados</string>
-    <string name="traffic_protection_summary">Definir alertas para quando atingir o limite mensal de dados do seu plano</string>
-    <string name="traffic_protection_unknown"><u>Inserir mais tarde</u></string>
-    <string name="traffic_protection_text_hint">Insira o pacote de tráfego</string>
-    <string name="data_usage_summary">Se não tem um pacote de dados, é recomendado desligar o uso de dados. Caso contrário, o operador poderá cobrar taxas adicionais.</string>
-    <string name="use_data">Dados activos</string>
-    <string name="default_gprs_sim_name">Insira \"%s\" limite de plano de dados mensal</string>
-    <item type="string" name="APKTOOL_DUMMY_001e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_001f">false</item>
 </resources>

@@ -42,7 +42,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="quick_scan_cleaning_title">A limpar…</string>
     <string name="quick_scan_result_title">%s ficheiros encontrados</string>
     <string name="quick_scan_result_summary">A limpeza inicia em %d segs</string>
-    <string name="optimize_cache_header_left">Ficheiros cache: %d</string>
+    <string name="optimize_cache_header_left">Cache: %d</string>
     <string name="optimize_ad_header_left">Adicionar ficheiros: %d</string>
     <string name="optimize_apk_header_left">Pacotes de instalação: %d</string>
     <string name="optimize_large_file_header_left">Ficheiros grandes: %d</string>
@@ -71,21 +71,22 @@ Tem a certeza que quer desactivar?"</string>
     <string name="deep_clean_title_residual">Residuais</string>
     <string name="deep_clean_title_large_file">Ficheios grandes</string>
     <string name="deep_clean_title_uninstall_apps">Aplicações</string>
-    <string name="deep_clean_summary_install_apps_today">%1$s|usado hoje</string>
-    <string name="deep_clean_summary_install_apps_interval">%1$s|usado %2$d dias</string>
-    <string name="deep_clean_summary_install_apps_new">%s|nunca usado</string>
-    <string name="deep_clean_summary_install_apps_virus">%s|virus detectado</string>
-    <string name="deep_clean_summary_install_apps_risk">%s|risco detectado</string>
+    <string name="deep_clean_summary_install_apps_today">usado hoje</string>
+    <string name="deep_clean_summary_install_apps_interval">usado %d dias</string>
+    <string name="deep_clean_summary_install_apps_new">nunca usado</string>
+    <string name="deep_clean_summary_install_apps_virus">%s|vírus detectado</string>
+    <string name="deep_clean_summary_install_apps_risk">risco detectado</string>
     <string name="system_cache_title">Cache de sistema</string>
     <string name="empty_folder_title">Pasta vazia(%d)</string>
+    <string name="empty_folder_title_hints">Pasta vazia</string>
     <string name="downloaded_rom_title">Actualizar pacotes</string>
     <string name="optimize_large_file_list_empty_content">Não foram encontrados ficheiros grandes</string>
     <string name="optimize_installed_apps_list_empty_content">Não foram encontradas aplicações</string>
     <string name="deep_clean_tips_cache_title">Cache:</string>
     <string name="deep_clean_tips_cache_content">Algumas aplicações usam ficheiros de cache para carregar recursos adicionais (ex. músicas e imagens). Tenha cuidado quando eliminar estes arquivos.</string>
-    <string name="deep_clean_tips_residual_title">Residuais：</string>
+    <string name="deep_clean_tips_residual_title">Residuais:</string>
     <string name="deep_clean_tips_residual_content">Resíduos são arquivos (e.g. vídeos, papéis de parede, música, etc.) que tenham sido transferidos para o cartão SD do seu aparelho por aplicações que já foram desinstalados. Tenha cuidado quando está eliminando, alguns desses arquivos podem ainda ser necessários.</string>
-    <string name="deep_clean_tips_large_file_title">Ficheiros grandes：</string>
+    <string name="deep_clean_tips_large_file_title">Ficheiros grandes:</string>
     <string name="deep_clean_tips_large_file_content">Ficheiros grandes são arquivos com mais de 10MB que estão armazenadas no seu dispositivo. Pode decidir se precisa ou não deles.</string>
     <string name="toast_qucik_scan_list_empty">Parece tudo bem, não há necessidade de limpar!</string>
     <string name="quick_scan_list_loading_hits">Localizando…</string>
@@ -110,23 +111,28 @@ Tem a certeza que quer desactivar?"</string>
     <string name="memory_suffix">GB</string>
     <string name="memory_used_suffix">Usado</string>
     <string name="memory_available_suffix">Disponível</string>
-    <string name="scanning_prefix">A verificar:%s</string>
-    <string name="cleanning_prefix">A limpar:%s</string>
-    <string name="scanning_start_hints">A preparar o mecanismo de verificação</string>
+    <string name="scanning_prefix">A verificar: %s</string>
+    <string name="cleanning_prefix">A limpar: %s</string>
+    <string name="scanning_start_hints">A preparar…</string>
+    <string name="pref_category_title_cleanup_white_list">Limpar o lixo da lista branca</string>
+    <string name="pref_title_cleanup_white_list">Limpar o lixo da lista branca</string>
+    <string name="pref_summary_cleanup_white_list">O lixo na lista branca será ignorado</string>
     <string name="pref_category_title_auto_update_cleanup_db">Definições de actualização de banco de dados Cleanup</string>
     <string name="pref_title_auto_update_cleanup_db">Auto actualizar</string>
-    <string name="pref_summary_auto_update_cleanup_db">Actualizado em：%s</string>
+    <string name="pref_summary_auto_update_cleanup_db">Actualizado em: %s</string>
     <string name="pref_title_manual_check_cleanup_db_update">Actualizar agora</string>
     <string name="pref_category_title_garbage_cleanup_check">Definições de limpeza</string>
-    <string name="pref_title_garbage_cleanup_check_time">Lixeira do alarme</string>
-    <string name="pref_summary_garbage_cleanup_check_time">Notifique-me quando lixeira atinge um determinado tamanho</string>
+    <string name="pref_title_garbage_cleanup_check_time">Reciclagem do alarme</string>
+    <string name="pref_summary_garbage_cleanup_check_size">Notifique-me quando a reciclagem atinge um determinado tamanho</string>
     <string name="pref_title_garbage_cleanup_check_size">Tamanho do lixo do alarme</string>
+    <string name="pref_title_expand_cache_group">Expanda a cache dos grupos</string>
+    <string name="pref_summary_expand_cache_group">Grupos padrão na lista de cache serão expandidos</string>
     <string name="msg_cleanup_db_update_checking">A verificar...</string>
     <string name="msg_update_error_code_success">Actualização com sucesso</string>
     <string name="msg_update_error_code_no_newer_db">As definições são recentes há necessidade de actualizar</string>
     <string name="msg_update_error_code_already_running">A actualizar</string>
-    <string name="msg_update_error_code_network_error">Erro de rede, tente mais tarde!</string>
-    <string name="msg_update_error_code_unknown_error">Erro desconhecido, tente mais tarde!</string>
+    <string name="msg_update_error_code_network_error">Erro de rede. Verifique a ligação.</string>
+    <string name="msg_update_error_code_unknown_error">Erro desconhecido</string>
     <string name="msg_cleanup_db_update_time_unknown">Actualizar em: desconhecido</string>
     <string name="toast_application_no_residual_on_sdcard">A aplicação não tem todos os arquivos armazenados em seu cartão SD</string>
     <string name="applications_sort_type_title">Ordenar</string>
@@ -141,8 +147,8 @@ Tem a certeza que quer desactivar?"</string>
     <string name="toast_backup_is_running">O Backup está agora a decorrer. Espere um minuto ou dois e tente novamente.</string>
     <string name="toast_backup_uninstall_failed">Falha ao fazer obackup %d de aplicações. Espere um minuto ou dois e tente novamente.</string>
     <string name="toast_backup_uninstall_success">Backup e desinstalação completa</string>
-    <string name="notification_title_of_garbage_cleanup">Lixo do alarme</string>
-    <string name="notification_summary_of_garbage_cleanup">Ups! O seu lixo é mais de %s. Considere em esvaziar a lixeira.</string>
+    <string name="notification_title_of_garbage_cleanup">Considere eliminar a reciclagem</string>
+    <string name="notification_summary_of_garbage_cleanup">O tamanho da reciclagem é mais de %s.</string>
     <string name="item_garbage_time_daily">Diáriamente</string>
     <string name="item_garbage_time_3d">A cada 3 dias</string>
     <string name="item_garbage_time_7d">A cada 7 dias</string>
@@ -151,8 +157,58 @@ Tem a certeza que quer desactivar?"</string>
     <string name="item_garbage_size_300m">300M</string>
     <string name="item_garbage_size_500m">500M</string>
     <string name="item_garbage_size_1000m">1G</string>
-    <string name="item_title_garbage_time">Alarm time</string>
-    <string name="item_title_garbage_size">Alarm size</string>
+    <string name="item_title_garbage_time">Hora do Alarme</string>
+    <string name="item_title_garbage_size">Volume do Alarme</string>
+    <string name="tab_title_internal_storage">Armazenamento interno</string>
+    <string name="tab_title_external_storage">Armazenamento externo</string>
+    <string name="tab_title_sdcard_storage">Cartão SD</string>
+    <string name="internal_available_memory_hint">Disponível: A calcular…</string>
+    <string name="internal_available_memory">Disponível: %s</string>
+    <string name="internal_used_memory_hint">Usado: Calculating…</string>
+    <string name="internal_used_memory">Usado: %s</string>
+    <string name="internal_memory_item_cache_hint">Dados em cache: A calcular…</string>
+    <string name="internal_memory_item_cache">Dados em cache: %s</string>
+    <string name="internal_memory_item_app_hint">Aplicações: A calcular…</string>
+    <string name="internal_memory_item_app">Aplicações: %s</string>
+    <string name="internal_memory_item_image_video_hint">Imagens, Vídeo, Audio: A calcular…</string>
+    <string name="internal_memory_item_image_video">Imagens, Vídeo, Audio: %s</string>
+    <string name="internal_memory_item_other_hint">Outros.: A calcular…</string>
+    <string name="internal_memory_item_other">Outros.: %s</string>
+    <string name="internal_memory_low_waring_hint">Desculpe não existe expaço para instalar esta aplicação</string>
+    <string name="item_title_system_cache">Dados em cache</string>
+    <string name="large_file_sort_type_size">Ordenar por tamanho</string>
+    <string name="large_file_sort_type_name">Ordenar por nome</string>
+    <string name="msg_system_cache_hints">Eliminar dados em cache não afecta os arquivos das suas aplicações, configurações, contas, etc.</string>
+    <string name="dialog_title_cleanup_system_cache">Limpar dados em cache?</string>
+    <string name="dialog_msg_cleanup_system_cache">Isto irá limpar os dados em cache em todas as aplicações.</string>
+    <string name="dialog_title_cleanup_apps">Eliminar dados das aplicações?</string>
+    <string name="dialog_title_backup_and_cleanup_apps">Fazer cópias e eliminar dados das aplicações?</string>
+    <string name="dialog_msg_cleanup_apps">Todos os dados desta aplicação vão ser eliminados permanentemente. Inclui todos os arquivos, configurações, contas, etc.</string>
+    <string name="dialog_msg_backup_and_cleanup_apps">Depois de fazer cópias, todas as suas aplicações vão ser eliminadas. Inclui todos os arquivos, configurações, contas, etc.</string>
+    <string name="button_text_cleanup_apps">Limpar dados</string>
+    <string name="button_text_backup_and_cleanup_apps">Primeiro faça cópias</string>
+    <string name="toast_backup_cleanup_success">Dados copiados e eliminado</string>
+    <string name="toast_cleanup_success">dados eliminados</string>
+    <string name="list_sub_view_item_cleanup">Limpar</string>
+    <string name="list_sub_view_item_backup_cleanup">Primeiro faça cópias</string>
+    <string name="white_list_cache_header">Ficheiros em cache: %d</string>
+    <string name="white_list_ad_header">Adicionar ficheiros: %d</string>
+    <string name="white_list_apk_header">Inatalar Install pacotes: %d</string>
+    <string name="white_list_large_file_header">Ficheiros grandes: %d</string>
+    <string name="white_list_residual_header">Residuais: %d</string>
+    <string name="white_list_title">Lista Branca</string>
+    <string name="button_text_delete_from_white_list">Fora da lista branca</string>
+    <string name="toast_add_white_list_success">Foi adicionado à lista branca, verifique as definições</string>
+    <string name="dialog_title_check_all">Selecionar tudo</string>
+    <string name="dialog_msg_check_all">Confirmar ao selecionar %1$s que contenha %2$d ficheiros</string>
+    <string name="toast_removed_from_white_list">Foi removido da lista branca</string>
+    <string name="notification_button_text_of_low_memory">Limpeza</string>
+    <string name="notification_title_of_low_memory">O armazenamento do sistema está a usar %s</string>
+    <string name="notification_summary_of_low_memory">Quando a memória está baixa, não pode instalar aplicações novas</string>
+    <string name="garbage_white_list_empty_content">A lista branca está vazia</string>
+    <string name="toast_garbage_cleanup_success">Limpeza com sucesso</string>
+    <string name="dialog_title_load_cleanup_engine_error">Erro</string>
+    <string name="dialog_msg_load_cleanup_engine_error">O mecanismo de limpeza foi corrompido</string>
     <string name="opt_clean_garbage">Eliminados %d MB</string>
     <string name="opt_killed_process">Terminados %d processos</string>
     <string name="opt_freed_ram">Memória Livre %dMBs</string>
@@ -180,7 +236,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="opt_item_app_perm">Permissões</string>
     <string name="opt_waiting">Espere</string>
     <string name="power_center_title">Bateria</string>
-    <string name="power_center_consume_rank">Consumo de energia</string>
+    <string name="power_center_consume_rank">Consumo</string>
     <string name="power_center_custom_title">Economizar bateria</string>
     <string name="power_center_custom_summary_default">Optimizar as definições, de economizar bateria</string>
     <string name="power_center_low_battery_title">Mudar automaticamente</string>
@@ -241,9 +297,9 @@ Tem a certeza que quer desactivar?"</string>
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_mode_internet">2G/3G</string>
     <string name="power_mode_vibration">Vibrar</string>
-    <string name="power_mode_vibration_yes">Vibrar sempre</string>
-    <string name="power_mode_vibration_no">Nunca vibrar</string>
-    <string name="power_mode_vibration_silence">Vibrar quundo o toque está silenciado</string>
+    <string name="power_mode_vibration_yes">Sempre</string>
+    <string name="power_mode_vibration_no">Nunca</string>
+    <string name="power_mode_vibration_silence">Vibrar quando o toque está silenciado</string>
     <string name="power_mode_bluetooth">Bluetooth</string>
     <string name="power_mode_synchronization">Sincronizar</string>
     <string name="power_mode_gps">GPS</string>
@@ -317,6 +373,17 @@ Tem que alterar as definições da sua bateria antes de poder eliminar esta conf
 Quando a bateria se recupera o dispositivo está definido para mudar para esta configuração. Tem que alterar as definições da bateria antes de poder eliminar esta configuração."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Não é possível eliminar: O dispositivo está definido para mudar para essa configuração quando programado um período. É preciso alterar as definições da bateria antes de poder eliminar esta configuração.</string>
     <string name="power_mode_chooser_button_text">aplicar</string>
+    <string name="power_20s_enter_mode">%1$ds alterar para o modo %2$s</string>
+    <string name="power_notify_lowbattery">a bateria é inferior a %1$d%%</string>
+    <string name="power_recovery_mode">restaurar para o modo %1$s</string>
+    <string name="power_subtitle_lowbattery">economizar automaticamente a energia quando a bateria está fraca</string>
+    <string name="power_subtitle_ontime">economizar de vez em quando</string>
+    <string name="power_exitlowbattery_whencharge">sair quando em carga</string>
+    <string name="power_button_delete">eliminar</string>
+    <string name="power_mode_my_mode">o meu modo</string>
+    <string name="power_mode_my_mode_summary">guardar automaticamente o estado uso diário</string>
+    <string name="power_apply_toast">alterar para o modo %s e guardar automaticamente o estado actual</string>
+    <string name="power_customize_giveup_change">cancelar a alteração?</string>
     <string name="menu_item_force_stop">Forcar a paragem</string>
     <string name="menu_item_uninstall">Desinstalar</string>
     <string name="menu_item_app_details">Detalhes</string>
@@ -386,7 +453,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_hips_send_sms_content">Conteúdo:</string>
     <string name="perm_hips_send_sms_smsc">Centro SMS:</string>
     <string name="perm_hips_send_sms_smsc_default">Centro SMS por defeito</string>
-    <string name="perm_hips_send_sms_port">Desk port:</string>
+    <string name="perm_hips_send_sms_port">Porta da secretária:</string>
     <string name="perm_hips_send_sms_data">Enviar SMS para %1$s:%2$d</string>
     <string name="perm_hips_send_sms_text">Enviar SMS para %1$s</string>
     <string name="perm_hips_call_number">Chamada %1$s</string>
@@ -400,7 +467,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_hips_location_cellinfo">Obter informação móvel</string>
     <string name="perm_hips_location_monitor">Acompanhar a sua posição</string>
     <string name="perm_hips_location_access">Obter a sua posição actual</string>
-    <string name="perm_hips_phoneid_imei">Obter número de IMEI</string>
+    <string name="perm_hips_phoneid_imei">Obter número do IMEI</string>
     <string name="perm_hips_phoneid_imeisn">Obter IMEI/SN</string>
     <string name="perm_hips_phoneid_iccid">Obter SN do Cartão SIM</string>
     <string name="perm_hips_phoneid_number">Obter seu número de telefone</string>
@@ -429,8 +496,8 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_hips_security_prompt_root_step2">Permitir permissão root pode causar instabilidade e destabilizar o seu dispositivo.</string>
     <string name="perm_hips_security_prompt_root_step3">Seus dados de privacidade, como contas, senhas e mensagens podem ficar comprometidas</string>
     <string name="perm_hips_security_prompt_root_step4">Dano permanente de hardware também é possível.</string>
-    <string name="perm_hips_security_prompt_root_step5">Tenha cuidado: Dê permissões root a aplicações que confia.</string>
-    <string name="perm_hips_security_prompt_root_step6">Permitir %1$s permissão ROOT?</string>
+    <string name="perm_hips_security_prompt_root_step5">Tenha cuidado: Dê apenas permissões root a aplicações que confia.</string>
+    <string name="perm_hips_security_prompt_root_step6">Permitir %1$s permissão de ROOT?</string>
     <string name="perm">Permissões</string>
     <string name="perm_app">Aplicações</string>
     <string name="perm_log">Registos</string>
@@ -448,7 +515,7 @@ Faça a transferência do desenvolvedor de construção de MIUI para permitir pe
     <string name="perm_su_disabled_desc">Dar permissão ROOT para aplicações 3-party pode causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos ao hardware.
 Faça a transferência do desenvolvedor de construção de MIUI para permitir permissão ROOT."</string>
     <string name="perm_su_disabled_in_stable_download">Transferir MIUI</string>
-    <string name="perm_hips_switch">Gerir permição</string>
+    <string name="perm_hips_switch">Gestor de permições</string>
     <string name="perm_hips">Gerir permissões das aplicações</string>
     <string name="perm_hips_desc">Gerir %1$d aplicações para segurança e privacidade</string>
     <string name="perm_hips_desc1">Gerir aplicações para segurança e privacidade</string>
@@ -458,7 +525,7 @@ Faça a transferência do desenvolvedor de construção de MIUI para permitir pe
     <string name="perm_auto_start">Gerir aplicações que iniciam automaticamente</string>
     <string name="perm_auto_start_desc">Ligar ou desligar a função de auto-gerir aplicações</string>
     <string name="perm_hips_disable_title">Gerir permissões</string>
-    <string name="perm_hips_disable_content">Desligar vai fazer que a  MIUI pare as solicitações de aplicações de gerênciamento e não vai proteger a sua segurança e privacidade. Continuar?</string>
+    <string name="perm_hips_disable_content">A MIUI vai parar de gerir as solicitações das aplicações e segurança relacionado com o conteúdo dessas aplicações</string>
     <string name="perm_su_enable_title">Permissão root</string>
     <string name="perm_su_enable_summary">Permitir às aplicações obter permissão root</string>
     <string name="perm_su_enable_content">"Permitir aplicações que solicitem permissão root.
@@ -474,7 +541,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="perm_privacy_app_trust_summary_on">MIUI vai confiar nesta Aplicação</string>
     <string name="perm_privacy_app_manage">Detalhes</string>
     <string name="perm_privacy_app_uninstall">Desinstalar</string>
-    <string name="perm_privacy_app_log">Logs</string>
+    <string name="perm_privacy_app_log">Registos</string>
     <string name="perm_privacy_app_installed">Instalação bem-sucedida!</string>
     <string name="perm_privacy_app_finish">Terminar</string>
     <string name="perm_privacy_app_launch">Iniciar</string>
@@ -502,7 +569,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="power_autorun_control_desc">Aumentar o número de programas de inicialização automatica pode aumentar o consumo de energia do telefone"</string>
     <string name="power_usage_sort_title">Ver o consumo de energia</string>
     <string name="power_usage_sort_desc">Ordenar por programas de consumo de energia</string>
-    <string name="power_mode_select_title">Modo energia</string>
+    <string name="power_mode_select_title">Definições de energia</string>
     <string name="power_mode_select_desc">Escolha o modo que atenda às suas necessidades individuais</string>
     <string name="power_used_prefix">Energia utilizada</string>
     <string name="power_used_hours_test">8</string>
@@ -582,7 +649,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="score">Contagem</string>
     <string name="seventy">70</string>
     <string name="valuation">Limpeza recomendada</string>
-    <string name="virus_scan">Verificação de vírus</string>
+    <string name="virus_scan">Anti-Vírus</string>
     <string name="network_assistant">Uso de dados</string>
     <string name="anti_spam">Lista de Bloqueio</string>
     <string name="permission_mgr">Permissões</string>
@@ -592,8 +659,8 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="protection_adb">Depuração USB</string>
     <string name="protection_perm">Definições de permissões</string>
     <string name="protection_sms">Filtro de SMS</string>
-    <string name="start_checking_protection">Iniciar a proteção de verificação em tempo real...</string>
-    <string name="finish_checking_protection">Terminar a proteção de verificação em tempo real...</string>
+    <string name="start_checking_protection">Iniciar a proteção da verificação em tempo real...</string>
+    <string name="finish_checking_protection">Terminar a proteção da verificação em tempo real...</string>
     <string name="start_checking_memory">Iniciar a verificação da condição da memória...</string>
     <string name="finish_checking_memory">Terminar a verificação da condição da memória...</string>
     <string name="start_checking_trash">Iniciar a verificação cache da aplicação...</string>
@@ -606,7 +673,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="start_optimize_trash">Iniciar a optimização de cache da aplicação...</string>
     <string name="finish_optimize_trash">Terminar a optimização de cache da aplicação...</string>
     <string name="optimizing">A optimizar</string>
-    <string name="virus_scanner_title">Verificação de vírus</string>
+    <string name="virus_scanner_title">Anti-Vírus</string>
     <string name="virus_scanner_scanning">A verificar…</string>
     <string name="virus_scanner_scan">Toque para verificar</string>
     <string name="virus_scanner_select_lib">Selecione definições de vírus</string>
@@ -618,7 +685,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="virus_scanner_module">Tencent</string>
     <string name="virus_scanner_auto_update">Actualizar automaticamente</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
-    <string name="virus_scanner_manual_update">Atualizado %s</string>
+    <string name="virus_scanner_manual_update">Actualizado %s</string>
     <string name="virus_scanner_lib_updating">A actualizar definições…</string>
     <string name="virus_scanner_lib_already_latest">Já está a usar as últimas definições. :)</string>
     <string name="virus_scan_app_safe_scanning">A verificar…</string>
@@ -651,7 +718,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="fw_period">Definir hora</string>
     <string name="fw_advanced_settings">Definições avançadas de bloqueio</string>
     <string name="anti_stranger_title">Bloquear chamadas de números desconhecidos</string>
-    <string name="anti_stranger_summary">Bloquear chamadas a partir de qualquer número não listados em Contatos</string>
+    <string name="anti_stranger_summary">Bloquear chamadas de qualquer número não adicionados em Contatos</string>
     <string name="anti_private_title">Bloquear números privados</string>
     <string name="anti_private_summary">Bloquear números privados ou retidos</string>
     <string name="fw_keyword_filter">Filtro de spam palavra-chave</string>
@@ -665,7 +732,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="opt_reject_blacklist_stranger_summary">Chamadas de números bloqueados serão rejeitados automaticamente</string>
     <string name="opt_accept_whitelist">Aceitar chamadas de números na lista de exceções</string>
     <string name="opt_reject_all">Rejeitar todas as chamadas</string>
-    <string name="firewall_action">Ações de bloqueio</string>
+    <string name="firewall_action">Acções de bloqueio</string>
     <string name="act_call">Desviar chamadas imediatamente</string>
     <string name="act_hangup_call">Não registar as chamadas desviadas</string>
     <string name="act_hangup_call_summary">Chamadas desviadas não irão aparecer no seu registo de chamadas</string>
@@ -763,7 +830,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="remove_all_keywords">Eliminar todas as palavras chave?</string>
     <string name="remove_delete">Eliminar</string>
     <string name="blacklist_tab_title">Lista de bloqueios</string>
-    <string name="whitelist_tab_title">Lista de exceções</string>
+    <string name="whitelist_tab_title">Excepções</string>
     <string name="log_count">(%d)</string>
     <string name="new_bw_list_button">Adicionar contacto</string>
     <string name="mark_number_dialog_maintitle">Relatório de bloqueo de número</string>
@@ -773,7 +840,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="turn_on_smart_antispam_hint">Identificar chamadas indesejadas</string>
     <string name="turn_on_smart_antispam_title">Identificar números desconhecidos</string>
     <string name="turn_on_smart_antispam_summary_on">Apenas disponível quando ligado a Wi-Fi ou rede 3G</string>
-    <string name="turn_on_smart_antispam_summary_off">Filtre número usando uma base de dados local</string>
+    <string name="turn_on_smart_antispam_summary_off">Filtre um número usando uma base de dados local</string>
     <string name="button_start_optimize">Verificar</string>
     <string name="percent_mark">%</string>
     <string name="cancel_scan">Cancelar</string>
@@ -781,10 +848,10 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="quick_optimize">Optimizar</string>
     <string name="restore_default_settings">Restaurar as definições padrão</string>
     <string name="quick_clean">Eliminar</string>
-    <string name="realtime_protection">Proteção</string>
-    <string name="free_ram">Memória usada</string>
-    <string name="cache_garbage">Ficheiros cache</string>
-    <string name="optimize_done">Ok, está pronto!</string>
+    <string name="realtime_protection">Protecção</string>
+    <string name="free_ram">Mem. usada</string>
+    <string name="cache_garbage">Cache</string>
+    <string name="optimize_done">Optimização concluída!</string>
     <string name="work_done">Concluído</string>
     <string name="last_checked_date">A verificação mais recente foi à mais de 30 dias</string>
     <string name="last_checked_date_mark">pts</string>
@@ -792,7 +859,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="just_checked">Está tudo bem!</string>
     <string name="need_check">Alguns ficheiros podem ser optimizados…</string>
     <string name="scan_done">Verificação concluída</string>
-    <string name="realtime_protection_title">Proteção</string>
+    <string name="realtime_protection_title">Protecção</string>
     <string name="process_manager_actionbar_title">Memória usada</string>
     <string name="cache_manager_actionbar_title">Cache de sistema</string>
     <string name="enable_adb_debug_summary">Quando ligado via USB, use o comando ADB</string>
@@ -809,16 +876,16 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="cancel">Cancelar</string>
     <string name="mem_lock">Bloquear</string>
     <string name="mem_unlock">Desbloquear</string>
-    <string name="last_check_date_today">Verificação mais recente: Hoje- </string>
-    <string name="last_check_date_yesterday">Verificação mais recente: Ontem- </string>
+    <string name="last_check_date_today">"Verificação mais recente: Hoje- "</string>
+    <string name="last_check_date_yesterday">"Verificação mais recente: Ontem- "</string>
     <string name="last_check_never_checked">Verificação recomendada (primeira vez)</string>
-    <string name="last_check_canceled">Verificação recomendada: Verificação anterior foi cancelada antes de terminar</string>
-    <string name="last_checked_default">Verificação recomendada: Varredura mais recente foi %s atrás</string>
-    <string name="examination_score_100">Não há necessidade de verificar, tudo parece bom!</string>
-    <string name="examination_score_80_100">Alguns ficheiros podem ser optimizados...</string>
-    <string name="examination_score_80_60">Alguns ficheiros podem ser optimizados...</string>
-    <string name="examination_score_60_0">Deve optimizar o seu telefone...</string>
-    <string name="examination_score_has_virus">Detectamos algumas aplicações suspeitas...</string>
+    <string name="last_check_canceled">A verificação anterior foi cancelada</string>
+    <string name="last_checked_default">A varredura mais recente foi %s atrás</string>
+    <string name="examination_score_100">Não foram encontrados vírus!</string>
+    <string name="examination_score_80_100">Alguns ficheiros podem ser optimizados</string>
+    <string name="examination_score_80_60">Alguns ficheiros podem ser optimizados</string>
+    <string name="examination_score_60_0">Deve optimizar o seu telefone</string>
+    <string name="examination_score_has_virus">Detectamos algumas aplicações suspeitas</string>
     <string name="scanning_virus">A verificar…</string>
     <string name="finish_checking_virus">A finalizar…</string>
     <string name="optimizing_virus">A eliminar vírus…</string>
@@ -829,7 +896,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="menu_item_shortcut">Criar atalho</string>
     <string name="menu_item_shortcut_uninstall">Eliminar atalho</string>
     <string name="menu_item_shortcut_title">Gerir atalhos</string>
-    <string name="menu_item_shortcut_summary">Coloque os recursos usados ​​com frequência no seu ecrã Principal</string>
+    <string name="menu_item_shortcut_summary">Coloque os recursos usados com frequência no seu ecrã Principal</string>
     <string name="menu_item_settings_title">Definições</string>
     <string name="activity_title_create_shortcut">Gerir atalhos</string>
     <string name="activity_title_settings">Definições</string>
@@ -843,12 +910,19 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
     <string name="button_text_view_power">Ver energia</string>
     <string name="notification_title_firewall_blocked">Bloqueado</string>
-    <string name="virus_scan_virus_title">%d vírus detetado!</string>
+    <string name="pref_category_title_securitycenter_settings">Definições do Centro de Segurança</string>
+    <string name="pref_category_title_module_settings">Definição de cada módulo funcional</string>
+    <string name="Settings_title_garbage_cleanup">Definições de limpeza da lixeira</string>
+    <string name="Settings_title_network_assistants">Definições assistente de rede</string>
+    <string name="Settings_title_anti_spam">Definições do Antispam</string>
+    <string name="Settings_title_power_center">Definições do gestor de energia</string>
+    <string name="Settings_title_anti_virus">Definições do antiVirus</string>
+    <string name="virus_scan_virus_title">%d vírus detectado!</string>
     <string name="virus_scan_risk_title">%d aplicações suspeitas detectadas</string>
-    <string name="virus_button_clear">Eliminando</string>
+    <string name="virus_button_clear">Limpar</string>
     <string name="virus_activity_title">Vírus</string>
     <string name="virus_single_virusapk_title">Detalhes de vírus</string>
-    <string name="virus_single_virusapk_button_clear">A eliminar</string>
+    <string name="virus_single_virusapk_button_clear">Limpar</string>
     <string name="virus_single_virus_name">Nome:</string>
     <string name="virus_single_app_install_date">Data de instalação:</string>
     <string name="virus_single_app_file_date">Data de criação:</string>
@@ -888,11 +962,11 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="virus_scan_viruslib_version">Versão das definições de vírus: %s</string>
     <string name="virus_scan_settings">Definições</string>
     <string name="virus_scanner_lib_update_success">As definições de vírus foram actualizadas automaticamente. ^_^</string>
-    <string name="virus_scanner_lib_update_failed">Actualização falhada.</string>
+    <string name="virus_scanner_lib_update_failed">Actualização falhada</string>
     <string name="virus_scan_finish_text">A verificação foi concluída!</string>
-    <string name="virus_scan_list_loading_hits">Verificando…</string>
-    <string name="virus_scan_list_empty_content">Não foram detectados ficheiros suspeitos.</string>
-    <string name="virus_scan_guard_provider_missed">Verificador de vírus foi comprometido. Tem que repor a configuração de fábrica.</string>
+    <string name="virus_scan_list_loading_hits">A verificar…</string>
+    <string name="virus_scan_list_empty_content">Não foram detectados ficheiros suspeitos</string>
+    <string name="virus_scan_guard_provider_missed">O verificador de vírus foi comprometido. Tem que repor a configuração de fábrica.</string>
     <string name="virus_scan_lib_update_time">Última Actualização: %s</string>
     <string name="virus_scan_lib_unknow">Última Actualização: desconhecida</string>
     <string name="virus_scan_others_title">Definições relacionadas</string>
@@ -907,8 +981,8 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="virus_scan_package_label_unknown">desconhecido</string>
     <string name="virus_scan_not_found_virus">Não foram encontrados virus</string>
     <string name="virus_scan_not_found_risk">Não foram encontrados riscos</string>
-    <string name="virus_scan_last_scan_today">A verificação mais recente: Hoje </string>
-    <string name="virus_scan_last_scan_yesterday">A verificação mais recente: Ontem </string>
+    <string name="virus_scan_last_scan_today">"A verificação mais recente: Hoje "</string>
+    <string name="virus_scan_last_scan_yesterday">"A verificação mais recente: Ontem "</string>
     <string name="virus_scan_last_scan_date">A verificação mais recente foi %d dias atrás</string>
     <string name="virus_scan_unknown_virus_name">Desconhecido</string>
     <string name="virus_scan_is_cloud_scanning">Localizar em Cloud…</string>
@@ -923,9 +997,9 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="create">Criar</string>
     <string name="device_info_default">Desconhecido</string>
     <string name="header_category_wireless_networks">WI-FI E REDES</string>
-    <string name="header_category_device">DISPOSITIVO</string>
-    <string name="header_category_personal">PESSOAIS</string>
-    <string name="header_category_system">SISTEMA</string>
+    <string name="header_category_device">DEVICE</string>
+    <string name="header_category_personal">PERSONAL</string>
+    <string name="header_category_system">SYSTEM</string>
     <string name="turn_on_radio">Activar o rádio</string>
     <string name="turn_off_radio">Desactivar o rádio</string>
     <string name="sms_over_ims_on">Ligar SMS sobre IMS</string>
@@ -951,7 +1025,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="radioInfo_data_connecting">A Ligar</string>
     <string name="radioInfo_data_connected">Ligado</string>
     <string name="radioInfo_data_suspended">Suspenso</string>
-    <string name="radioInfo_unknown">Desconhecido</string>
+    <string name="radioInfo_unknown">desconhecido</string>
     <string name="radioInfo_display_packets">pacotes</string>
     <string name="radioInfo_display_bytes">bytes</string>
     <string name="radioInfo_display_dbm">dBm</string>
@@ -979,7 +1053,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="battery_info_uptime">Tempo desde a inicialização:</string>
     <string name="battery_info_awake_battery">Tempo da activação da bateria:</string>
     <string name="battery_info_awake_plugged">Tempo de activação quando a carregar:</string>
-    <string name="battery_info_screen_on">Ecrã com horas ON:</string>
+    <string name="battery_info_screen_on">Horas activadas no ecrã:</string>
     <string name="battery_info_status_unknown">Desconhecido</string>
     <string name="battery_info_status_charging">A carregar</string>
     <string name="battery_info_status_charging_ac">(AC)</string>
@@ -1014,24 +1088,24 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="bluetooth_device_name">Nome do dispositivo</string>
     <string name="bluetooth_device_details">Definiçõess do dispositivo</string>
     <string name="bluetooth_profile_details">Definições de perfil</string>
-    <string name="bluetooth_name_not_set">Não há nenhum nome definido, usando o nome da conta.</string>
-    <string name="bluetooth_scan_for_devices">Procurar dispositivos</string>
+    <string name="bluetooth_name_not_set">Não há nenhum nome definido, usar o nome da conta</string>
+    <string name="bluetooth_scan_for_devices">Localizar dispositivos</string>
     <string name="bluetooth_rename_device">Renomear telefone</string>
     <string name="bluetooth_rename_button">Mudar nome</string>
     <string name="bluetooth_disconnect_title">Desligar?</string>
-    <string name="bluetooth_disconnect_all_profiles">Isso vai terminar a ligação com::&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="bluetooth_disconnect_all_profiles">Isto vai terminar a ligação com::&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Desligar o perfil?</string>
     <string name="bluetooth_disable_profile_message">Isto vai desligar:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>From:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connected">Ligado</string>
     <string name="bluetooth_connected_no_headset">Ligado (sem telefone)</string>
     <string name="bluetooth_connected_no_a2dp">Ligado(sem multimédia)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Ligado (nenhum telefone ou multimédia)</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Ligado (nenhum telefone ou média)</string>
     <string name="bluetooth_disconnected">Desligado</string>
     <string name="bluetooth_disconnecting">A desligar…</string>
     <string name="bluetooth_connecting">A ligar…</string>
     <string name="bluetooth_unknown" />
     <string name="bluetooth_pairing">A emparelhar…</string>
-    <string name="bluetooth_device">Dispositivo Bluetooth sem nome</string>
+    <string name="bluetooth_device">Dispositivo Bluetooth desconhecido</string>
     <string name="progress_scanning">A procurar</string>
     <string name="bluetooth_no_devices_found">Não foram encontrados dispositivos Bluetooth nas proximidades.</string>
     <string name="bluetooth_notif_ticker">Solicitação de emparelhamento Bluetooth</string>
@@ -1081,7 +1155,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="display_font_size_label">Tamanho da letra:</string>
     <string name="intent_sender_data_label">Dados:</string>
     <string name="intent_sender_sendbroadcast_text">Enviar transmissão</string>
-    <string name="intent_sender_action_label">Ação:</string>
+    <string name="intent_sender_action_label">Acção:</string>
     <string name="intent_sender_startactivity_text">Iniciar atividade</string>
     <string name="intent_sender_resource_label">Recursos:</string>
     <string name="intent_sender_account_label">Conta:</string>
@@ -1112,7 +1186,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="radio_info_call_redirect_label">Reencaminhamento da chamada:</string>
     <string name="radio_info_ppp_resets_label">Restabelecer o número PPP desde o arranque:</string>
     <string name="radio_info_gsm_disconnects_label">Sem ligações GSM:</string>
-    <string name="radio_info_current_network_label">Rede atual:</string>
+    <string name="radio_info_current_network_label">Rede actual:</string>
     <string name="radio_info_data_successes_label">Sucesso de dados:</string>
     <string name="radio_info_ppp_received_label">PPP recebido:</string>
     <string name="radio_info_gsm_service_label">Serviço GSM:</string>
@@ -1124,7 +1198,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="radio_info_phone_number_label">Número de telefone:</string>
     <string name="radio_info_band_mode_label">Selecione a banda do rádio</string>
     <string name="radio_info_network_type_label">Tipo de rede:</string>
-    <string name="radio_info_set_perferred_label">Defina o tipo de rede preferencial:</string>
+    <string name="radio_info_set_perferred_label">Defina o tipo de rede preferida:</string>
     <string name="radio_info_ping_ipaddr">Aplicar ping em IpAddr:</string>
     <string name="radio_info_ping_hostname">Aplicar ping no nome do host (www.google.com):</string>
     <string name="radio_info_http_client_test">Teste do Cliente HTTP:</string>
@@ -1138,28 +1212,28 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="band_mode_loading">A carregar a lista de frequências…</string>
     <string name="band_mode_set">Definir</string>
     <string name="band_mode_failed">Mal sucedido</string>
-    <string name="band_mode_succeeded">Êxito</string>
+    <string name="band_mode_succeeded">Bem sucedido</string>
     <string name="sdcard_changes_instructions">As alterações entrarão em vigor quando o cabo USB voltar a ser ligado</string>
     <string name="sdcard_settings_screen_mass_storage_text">Ligar armazenamento em massa USB</string>
     <string name="sdcard_settings_total_bytes_label">Total de bytes:</string>
-    <string name="sdcard_settings_not_present_status">Sem cartão SD</string>
+    <string name="sdcard_settings_not_present_status">O armazenamento USB não está montado.</string>
     <string name="sdcard_settings_available_bytes_label">Bytes disponíveis:</string>
     <string name="sdcard_settings_mass_storage_status">O armaz. USB está a ser usado como um dispositivo de armazenamento em massa</string>
     <string name="sdcard_settings_unmounted_status">Agora é seguro remover o armaz. USB</string>
     <string name="sdcard_settings_bad_removal_status">O armaz. USB foi removido enquanto ainda está em uso!</string>
     <string name="sdcard_settings_used_bytes_label">Bytes usados:</string>
-    <string name="sdcard_settings_scanning_status">Verificação do cartão SD para multimédia…</string>
-    <string name="sdcard_settings_read_only_status">Armaz. USB montado, apenas de leitura.</string>
+    <string name="sdcard_settings_scanning_status">Verificação no armazenamento USB por média…</string>
+    <string name="sdcard_settings_read_only_status">Armaz. USB montado apenas de leitura.</string>
     <string name="skip_label">Ignorar</string>
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
     <string name="activity_picker_label">Selecionar atividade</string>
     <string name="debug_intent_sender_label">Tentativa de envio de Código Debug</string>
-    <string name="device_info_label">Informações sobre o dispositivo</string>
+    <string name="device_info_label">Informações do dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
     <string name="phone_info_label">Informações do telefone</string>
-    <string name="sd_card_settings_label">Armaz. USB</string>
+    <string name="sd_card_settings_label">Armazenamento USB</string>
     <string name="proxy_settings_label">Definições Proxy</string>
     <string name="settings_label">Definições</string>
     <string name="settings_label_launcher">Definições</string>
@@ -1169,11 +1243,11 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="wireless_networks_settings_title">Redes e Ligações sem Fios</string>
     <string name="radio_controls_summary">Gerir Wi-Fi, Bluetooth, modo de avião, redes móveis e VPNs</string>
     <string name="roaming">Roaming de dados</string>
-    <string name="roaming_enable">Ligar a serviços de dados quando estiver em roaming</string>
-    <string name="roaming_disable">Ligar a serviços de dados quando estiver em roaming</string>
-    <string name="roaming_reenable_message">Ligação de dados perdida porque o roaming de dados está desligado.</string>
+    <string name="roaming_enable">Ligar aos serviços de dados quando em roaming</string>
+    <string name="roaming_disable">Ligar a serviços de dados quando em roaming</string>
+    <string name="roaming_reenable_message">Ligação de dados foi perdida porque o roaming de dados está desligado.</string>
     <string name="roaming_turn_it_on_button">Ligar</string>
-    <string name="roaming_warning">Permitir roaming de dados? Poderá acarretar custos significativos!</string>
+    <string name="roaming_warning">Quando permite roaming de dados, Poderá acarretar custos significativos!</string>
     <string name="roaming_reenable_title">Permitir ligação de dados em roaming?</string>
     <string name="networks">Selecionar Operador</string>
     <string name="sum_carrier_select">Escolha um operador de rede</string>
@@ -1187,7 +1261,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="zone_auto_summaryOn">Use o fuso horário da rede</string>
     <string name="zone_auto_summaryOff">Use o fuso horário da rede</string>
     <string name="date_time_24hour">Formato de 24 horas</string>
-    <string name="date_time_set_time">Definir data e hora</string>
+    <string name="date_time_set_time">Definir hora</string>
     <string name="date_time_set_timezone">Selecionar o Fuso Horário</string>
     <string name="date_time_set_date">Definir data</string>
     <string name="date_time_date_format">Selecionar Formato da Data</string>
@@ -1195,8 +1269,8 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="zone_list_menu_sort_by_timezone">Classificar por fuso horário</string>
     <string name="date_picker_title">Dados</string>
     <string name="time_picker_title">Tempo</string>
-    <string name="biometric_weak_improve_matching_title">Melhorar biometria</string>
-    <string name="biometric_weak_liveliness_title">Verificação de vivacidade</string>
+    <string name="biometric_weak_improve_matching_title">Melhorar correspondência da face</string>
+    <string name="biometric_weak_liveliness_title">Verificação da vivacidade</string>
     <string name="biometric_weak_liveliness_summary">Exige piscar de olhos ao desbloquear</string>
     <string name="lock_after_timeout">Bloquear automaticamente</string>
     <string name="lock_after_timeout_summary">%1$s depois de desligar</string>
@@ -1295,7 +1369,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="bluetooth_enter_pin_msg">Para emparelhar com &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>É necessário um PIN:</string>
     <string name="bluetooth_enter_pin_msg_hs">"
 Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança Ligada: Necessita de uma chave de 16 caracteres]"</string>
-    <string name="bluetooth_enter_passkey_msg">Para emparelhar com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>É necessário uma chave:</string>
+    <string name="bluetooth_enter_passkey_msg">Para emparelhar com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Digite a senha:"</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN contém letras ou símbolos</string>
     <string name="bluetooth_pin_values_hint">Geralmente 0000 ou 1234</string>
     <string name="bluetooth_enter_pin_other_device">Poderá ter que inserir este PIN no outro dispositivo.</string>
@@ -1435,7 +1509,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança Ligada: Necessita de
     <string name="wifi_eap_method">Método EAP</string>
     <string name="please_select_phase2">Autenticação da Fase 2</string>
     <string name="wifi_eap_ca_cert">Certificado CA</string>
-    <string name="wifi_eap_user_cert">Certificado de utilizador</string>
+    <string name="wifi_eap_user_cert">Certificado do utilizador</string>
     <string name="wifi_eap_identity">Identidade</string>
     <string name="wifi_eap_anonymous">Identidade anónima</string>
     <string name="wifi_password">Senha</string>
@@ -1448,8 +1522,8 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança Ligada: Necessita de
     <string name="wifi_disabled_network_failure">Evitar ligações de Internet fracas</string>
     <string name="wifi_disabled_password_failure">Problema de autenticação</string>
     <string name="wifi_not_in_range">Não está dentro do alcance</string>
-    <string name="wifi_wps_available_first_item">Rede protegida disponível</string>
-    <string name="wifi_wps_available_second_item">(rede disponível protegida)</string>
+    <string name="wifi_wps_available_first_item">WPS disponível</string>
+    <string name="wifi_wps_available_second_item">" (WPS disponível)"</string>
     <string name="wifi_secured_first_item">Protegido por %1$s</string>
     <string name="wifi_secured_second_item">, protegido com %1$s</string>
     <string name="wifi_security_short_wep">WEP</string>
@@ -1533,7 +1607,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança Ligada: Necessita de
     <string name="ssid_label">SSID:</string>
     <string name="hidden_ssid_label">SSID oculto:</string>
     <string name="ipaddr_label">Endereço IP:</string>
-    <string name="macaddr_label">MAC addr:</string>
+    <string name="macaddr_label">Endereço MAC:</string>
     <string name="networkid_label">ID de Rede:</string>
     <string name="link_speed_label">Veloc. do Link:</string>
     <string name="scan_list_label">Res. da verificação:</string>
@@ -1638,11 +1712,10 @@ Possivelmente o PIN está incorreto."</string>
 O PIN possivelmente está incorreto."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancelar</string>
-    <string name="sim_change_failed_enable_sim_lock">Ativar o bloqueio do SIM para alterar o PIN</string>
-    <string name="sim_lock_change_not_supported">"Não é possível alterar Bloqueio do SIM.
- SIM não suportado."</string>
+    <string name="sim_change_failed_enable_sim_lock">Activar o bloqueio do SIM para alterar o PIN</string>
+    <string name="sim_lock_change_not_supported">Não é possível alterar de bloqueio do SIM.</string>
     <string name="sim_pin_attempts">"
-Tentactivas restantes :"</string>
+Tentativas restantes :"</string>
     <string name="sim_pin_enabled">PIN1 Activado!</string>
     <string name="sim_pin_disabled">PIN1 Desactivado!</string>
     <string name="device_info_settings">Estado do telefone</string>
@@ -1682,8 +1755,8 @@ Tentactivas restantes :"</string>
     <string name="status_bt_address">Endereço Bluetooth:</string>
     <string name="status_serial_number">Número de série:</string>
     <string name="status_unavailable">Não disponível</string>
-    <string name="status_up_time">Tempo de atividade:</string>
-    <string name="status_awake_time">Tempo em atividade</string>
+    <string name="status_up_time">Tempo de actividade:</string>
+    <string name="status_awake_time">Tempo em actividade</string>
     <string name="internal_memory">Armaz. Interno</string>
     <string name="sd_memory">Armaz. USB</string>
     <string name="memory_available">Disponível</string>
@@ -1772,7 +1845,7 @@ Tentactivas restantes :"</string>
 "<li>Aplicações transferidas</li></string>
     <string name="master_clear_accounts">"
 
-está actualmente assinado para as seguintes contas:
+Está actualmente assinado para as seguintes contas:
 "</string>
     <string name="master_clear_desc_also_erases_external"><li>Música</li>"
 "<li>Fotos</li>"
@@ -1807,13 +1880,13 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="tether_settings_title_wifi">Ponto de acesso portátil</string>
     <string name="tether_settings_title_bluetooth">Emparelhar Bluetooth</string>
     <string name="tether_settings_title_usb_bluetooth">Emparelhar</string>
-    <string name="tether_settings_title_all">Emparelhar; hotspot portátil</string>
+    <string name="tether_settings_title_all">Emparelhar hotspot portátil</string>
     <string name="usb_title">USB</string>
     <string name="usb_tethering_button_text">Emparelhar USB</string>
     <string name="usb_tethering_available_subtext">USB ligado, selecione para emparelhar</string>
     <string name="usb_tethering_active_subtext">Emparelhado</string>
     <string name="usb_tethering_storage_active_subtext">Não é possível emparelhar quando o armazenamento está em uso</string>
-    <string name="usb_tethering_unavailable_subtext">USB não ligado</string>
+    <string name="usb_tethering_unavailable_subtext">USB não está ligado</string>
     <string name="usb_tethering_errored_subtext">Erro de emparelhamento USB</string>
     <string name="bluetooth_tether_checkbox_text">Emparelhar por Bluetooth</string>
     <string name="bluetooth_tethering_available_subtext">Partilhar ligação de Internet do telefone</string>
@@ -1821,7 +1894,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="bluetooth_tethering_devices_connected_subtext">Partilhar ligação de Internet do telefone para %1$d dispositivos</string>
     <string name="bluetooth_tethering_off_subtext">Não partilhar ligação de Internet do telefone</string>
     <string name="bluetooth_tethering_errored_subtext">Não Emparelhado</string>
-    <string name="bluetooth_tethering_overflow_error">Não pode ligar para mais do que %1$d dispositivos.</string>
+    <string name="bluetooth_tethering_overflow_error">Não pode ligar mais do que %1$d dispositivos.</string>
     <string name="bluetooth_untether_blank">%1$s será desemparelhado.</string>
     <string name="tethering_help_button_text">Ajuda</string>
     <string name="network_settings_title">Redes móveis</string>
@@ -1836,13 +1909,13 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desmarque para melhorar o desempenho do GPS)</string>
     <string name="use_location_title">Localização/Pesquisa Google</string>
     <string name="use_location_summary">Permitir que o Google use a sua localização para melhorar resultados de pesquisa e outros serviços</string>
-    <string name="about_settings">Acerca do telefone:</string>
+    <string name="about_settings">Sobre o telefone:</string>
     <string name="about_settings_summary">Exibir informações legais, estado, versão de software</string>
     <string name="legal_information">Informações legais</string>
     <string name="contributors_title">Colaboradores</string>
     <string name="copyright_title">Direitos de Autor</string>
     <string name="license_title">Licença</string>
-    <string name="terms_title">Termos e Condições</string>
+    <string name="terms_title">Termos e condições</string>
     <string name="settings_license_activity_title">Licenças de código aberto</string>
     <string name="settings_license_activity_unavailable">Há um problema ao carregar as licenças.</string>
     <string name="settings_license_activity_loading">A carregar</string>
@@ -1871,7 +1944,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio</string>
     <string name="lockpattern_recording_intro_footer">Pressione Menu para obter ajuda.</string>
-    <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar.</string>
+    <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
     <string name="lockpattern_recording_incorrect_too_short">Ligue no mínimo %d pontos. Tente novamente:</string>
     <string name="lockpattern_pattern_entered_header">Padrão registado</string>
     <string name="lockpattern_need_to_confirm">Desenhe o padrão novamente para confirmar:</string>
@@ -1913,7 +1986,7 @@ Pronto para começar? Prima Seguinte."</string>
     <string name="screen_compatibility_label">Compatibilidade de ecrã</string>
     <string name="permissions_label">Permissões</string>
     <string name="cache_header_label">Cache</string>
-    <string name="clear_cache_btn_text">Eliminar cache</string>
+    <string name="clear_cache_btn_text">Limpar cache</string>
     <string name="cache_size_label">Cache</string>
     <string name="controls_label">Controlos</string>
     <string name="force_stop">Forçar paragem</string>
@@ -1967,7 +2040,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="app_not_found_dlg_title" />
     <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas.</string>
     <string name="clear_data_failed">Não foi possível eliminar dados da aplicação.</string>
-    <string name="app_factory_reset_dlg_title">Desinstalar atualizações</string>
+    <string name="app_factory_reset_dlg_title">Desinstalar actualizações?</string>
     <string name="app_factory_reset_dlg_text">Todas as actualizações do sistema Android serão desinstaladas.</string>
     <string name="clear_failed_dlg_title">Eliminar dados</string>
     <string name="clear_failed_dlg_text">Falha ao eliminar os dados da aplicação</string>
@@ -1978,7 +2051,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="join_many_items_first">%1$s, %2$s</string>
     <string name="join_many_items_middle">%1$s, %2$s</string>
     <string name="computing_size">A calcular…</string>
-    <string name="invalid_size_value">Não é possível calcular o tamanho do pacote</string>
+    <string name="invalid_size_value">Não é possível calcular o tamanho do pacote.</string>
     <string name="empty_list_msg">Não tem aplicações de terceiros instaladas.</string>
     <string name="move_app">Mover</string>
     <string name="move_app_to_internal">Mover para o telefone</string>
@@ -1988,17 +2061,17 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="does_not_exist">A aplicação não existe.</string>
     <string name="app_forward_locked">A aplicação é protegida contra cópia.</string>
     <string name="invalid_location">O local especificado para instalação não é válido.</string>
-    <string name="system_package">As atualizações do sistema não podem ser instaladas em fontes externas.</string>
+    <string name="system_package">As actualizações do sistema não podem ser instaladas em fontes externas.</string>
     <string name="force_stop_dlg_title">Forçar paragem</string>
-    <string name="force_stop_dlg_text">Esta aplicação será reiniciada imediatamente. Tem certeza de que deseja forçar a paragem?</string>
+    <string name="force_stop_dlg_text">Esta aplicação será reiniciada imediatamente. Tem certeza de que deseja forçar a paragem.</string>
     <string name="move_app_failed_dlg_title" />
     <string name="move_app_failed_dlg_text">Falha ao mover aplicação. %1$s</string>
     <string name="app_install_location_title">Local de instalação preferido</string>
-    <string name="app_install_location_summary">Alterar o local de instalação preferido para novas aplicações.</string>
+    <string name="app_install_location_summary">Alterar o local de instalação preferido para novas aplicações</string>
     <string name="app_disable_dlg_title">Desactivar aplicação de sistema?</string>
     <string name="app_disable_dlg_text">Se desactivar uma aplicação de sistema, outras aplicações podem funcionar mal.</string>
     <string name="app_disable_notifications_dlg_title">Desactivar notificações?</string>
-    <string name="app_disable_notifications_dlg_text">Se desactivar as notificações para esta aplicação, poderá perder as atualizações e alertas importantes.</string>
+    <string name="app_disable_notifications_dlg_text">Se desactivar as notificações para esta aplicação, poderá perder as actualizações e alertas importantes.</string>
     <string name="storageuse_settings_title">Armaz. usado</string>
     <string name="storageuse_settings_summary">Mostrar espaço ocupado pelas aplicações</string>
     <string name="runningservices_settings_title">Serviços em execução</string>
@@ -2017,7 +2090,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="running_processes_item_description_p_s">%1$d processos e %2$d serviços</string>
     <string name="running_processes_item_description_p_p">%1$d processos e %2$d serviços</string>
     <string name="runningservicedetails_settings_title">Aplicação em execução</string>
-    <string name="no_services">Sem serviços ativos</string>
+    <string name="no_services">Sem serviços activos</string>
     <string name="runningservicedetails_services_title">Serviços</string>
     <string name="runningservicedetails_processes_title">Processos</string>
     <string name="service_stop">Parar</string>
@@ -2099,7 +2172,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="input_methods_settings_title">Entrada de texto</string>
     <string name="input_method">Método de entrada</string>
     <string name="current_input_method">Predefinido</string>
-    <string name="input_method_selector">Seleção de modo de entrada</string>
+    <string name="input_method_selector">Selecção do modo de entrada</string>
     <string name="input_method_selector_show_automatically_title">Automático</string>
     <string name="input_method_selector_always_show_title">Mostrar sempre</string>
     <string name="input_method_selector_always_hide_title">Ocultar sempre</string>
@@ -2113,7 +2186,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
     <string name="builtin_keyboard_settings_title">Teclado do dispositivo</string>
     <string name="builtin_keyboard_settings_summary">Definições de teclado físico</string>
-    <string name="development_settings_title">Desenvolvimento</string>
+    <string name="development_settings_title">Opcções do Desenvolvedor</string>
     <string name="development_settings_summary">Define as opções para o desenvolvimento da aplicação</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver ligado</string>
@@ -2127,10 +2200,10 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="dev_settings_warning_message">Estas definições destinam-se apenas a utilização para desenvolvimento. Poderão causar comportamento instável do dispositivo e nas aplicações nele instaladas.</string>
     <string name="enforce_read_external_title">Proteger o cartão SD</string>
     <string name="enforce_read_external_summary">Aplicações devem solicitar permissão para ler o cartão SD</string>
-    <string name="enforce_read_external_confirm_title">Proteger o cartão SD?</string>
-    <string name="enforce_read_external_confirm_message">"Quando o cartão SD está protegido, as aplicaçõess devem solicitar permissão para ler dados de armazenamento externo.
+    <string name="enforce_read_external_confirm_title">Proteger o armazenamento USB?</string>
+    <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicaçõess devem solicitar permissão para ler dados de armazenamento externo.
 
-Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus desenvolvedores."</string>
+Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus desenvolvedores."</string>
     <string name="gadget_picker_title">Escolher gadget</string>
     <string name="widget_picker_title">Escolher widget</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Criar widget e permitir o acesso?</string>
@@ -2192,8 +2265,8 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="bluetooth_on_time">Wi-Fi em tempo</string>
     <string name="usage_name_percent">"%1$s - %2$s%%"</string>
     <string name="history_details_title">Detalhes do histórico</string>
-    <string name="details_title">Detalhes de uso da bateria</string>
-    <string name="details_subtitle">Detalhes de uso da bateria</string>
+    <string name="details_title">Detalhes do uso</string>
+    <string name="details_subtitle">Detalhes de uso</string>
     <string name="controls_subtitle">Ajustar uso de energia</string>
     <string name="packages_subtitle">Pacotes incluídos</string>
     <string name="power_screen">Ecrã</string>
@@ -2239,11 +2312,11 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="menu_stats_last_unplugged">Desligado desde %1$s</string>
     <string name="menu_stats_total">Total de uso</string>
     <string name="menu_stats_refresh">Actualizar</string>
-    <string name="process_kernel_label">Sistema operacional do Android</string>
+    <string name="process_kernel_label">Android OS</string>
     <string name="process_mediaserver_label">Servidor de multimédia</string>
     <string name="voice_input_output_settings">Entrada e saída de voz</string>
     <string name="voice_input_output_settings_title">Definições de entrada e saída de voz</string>
-    <string name="voice_search_settings_title">Pesquisa de voz</string>
+    <string name="voice_search_settings_title">Pesquisa por voz</string>
     <string name="keyboard_settings_title">Teclado Android</string>
     <string name="voice_category">Conversação</string>
     <string name="recognizer_title">Reconhecimento de voz</string>
@@ -2303,7 +2376,7 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="credentials_install_gesture_explanation">Tem que desenhar o seu padrão de desbloqueio para confirmar a instalação de credencial.</string>
     <string name="credentials_unlock" />
     <string name="credentials_unlock_hint">Insira a senha do armazenamento de credenciais.</string>
-    <string name="credentials_old_password">Senha atual:</string>
+    <string name="credentials_old_password">Senha actual:</string>
     <string name="credentials_reset_hint">Tem certeza que deseja eliminar todas as credenciais e redefinir a senha do armazenamento de credenciais?</string>
     <string name="credentials_password_too_short">A senha deve ter no mínimo 8 caracteres.</string>
     <string name="credentials_wrong_password">Senha incorreta.</string>
@@ -2315,9 +2388,9 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="credentials_configure_lock_screen_hint">Tem que definir um PIN para bloqueio de ecrã ou senha antes de efectuar o armazenamento de credenciais.</string>
     <string name="emergency_tone_title">Toque de emergência</string>
     <string name="emergency_tone_summary">Definir comportamento ao fazer uma chamada de emergência</string>
-    <string name="privacy_settings">Privacidade</string>
-    <string name="privacy_settings_title">Privacidade</string>
-    <string name="backup_section_title">Backup e restauro</string>
+    <string name="privacy_settings">Cópia e restauro</string>
+    <string name="privacy_settings_title">Cópia e restauro</string>
+    <string name="backup_section_title">Cópia e restauro</string>
     <string name="personal_data_section_title">Dados pessoais</string>
     <string name="backup_data_title">Cópia dos meus dados</string>
     <string name="backup_data_summary">Fazer cópia das definições actuais e de outros dados da aplicação nos servidores do Google</string>
@@ -2464,18 +2537,18 @@ Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus co
     <string name="enable_traces_summary_all">Todas as buscas activadas</string>
     <string name="debug_layout">Mostrar limites de layout</string>
     <string name="debug_layout_summary">Mostre os limites de clip, margens, etc.</string>
-    <string name="show_cpu_usage">Mostrar utilização do CPU</string>
-    <string name="show_cpu_usage_summary">Sobreposição de ecrã ao mostrar utilização do CPU atual</string>
+    <string name="show_cpu_usage">Mostrar actualização do CPU</string>
+    <string name="show_cpu_usage_summary">Sobreposição de ecrã ao mostrar actualização do CPU actual</string>
     <string name="force_hw_ui">Forçar GPU</string>
-    <string name="force_hw_ui_summary">Utilizar aceleração de hardware 2D em aplicações</string>
+    <string name="force_hw_ui_summary">Forçar o uso do GPU para aplicações 2D</string>
     <string name="track_frame_time">Perfil da renderização da GPU</string>
     <string name="track_frame_time_summary">Medir o tempo de processamento na consola adb</string>
     <string name="window_animation_scale_title">Escala de animação de janela</string>
     <string name="transition_animation_scale_title">Escala de transição de animação</string>
     <string name="animator_duration_scale_title">Escala de duração do Animator</string>
     <string name="debug_applications_category">Aplicações</string>
-    <string name="immediately_destroy_activities">Não manter atividades</string>
-    <string name="immediately_destroy_activities_summary">Fechar todas as atividades, assim que forem abandonadas</string>
+    <string name="immediately_destroy_activities">Não manter actividades</string>
+    <string name="immediately_destroy_activities_summary">Fechar todas as actividades, assim que forem abandonadas</string>
     <string name="app_process_limit_title">Limite de processos</string>
     <string name="show_all_anrs">Mostrar todos os ANRs</string>
     <string name="show_all_anrs_summary">Mostrar diálogo das Aplicaçãos que não respondem para licações em segundo plano</string>
@@ -2525,8 +2598,8 @@ Algumas contas podem copiar também automaticamente as alterações feitas no te
 
 Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas. "</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desligar auto-sincronização de dados?</string>
-    <string name="data_usage_auto_sync_off_dialog">Isso vai economizar no uso de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem atualizações.</string>
-    <string name="data_usage_cycle_editor_title">Redefinir data para ciclo de utilização</string>
+    <string name="data_usage_auto_sync_off_dialog">Isso vai economizar no uso de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações.</string>
+    <string name="data_usage_cycle_editor_title">Repor data para ciclo de utilização</string>
     <string name="data_usage_cycle_editor_subtitle">Data de cada mês:</string>
     <string name="data_usage_cycle_editor_positive">Definir</string>
     <string name="data_usage_warning_editor_title">Definir aviso de utilização de dados</string>
@@ -2549,7 +2622,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes quando estiverem a funcionar em background. As mesmas também podem avisar antes de usar essas redes para downloads grandes.</string>
     <string name="data_usage_metered_mobile">Redes móveis</string>
     <string name="data_usage_metered_wifi">Redes Wi-Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Para selecionar um hotspot, ative o Wi-Fi.</string>
+    <string name="data_usage_metered_wifi_disabled">Para selecionar um hotspot, active o Wi-Fi.</string>
     <string name="cryptkeeper_emergency_call">Chamada de emergência</string>
     <string name="cryptkeeper_return_to_call">Regressar à chamada</string>
     <string name="vpn_name">Nome</string>
@@ -2569,7 +2642,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="vpn_username">Utilizador</string>
     <string name="vpn_password">Senha</string>
     <string name="vpn_save_login">Guardar informações de conta</string>
-    <string name="vpn_not_used">(não utilizado)</string>
+    <string name="vpn_not_used">(não usado)</string>
     <string name="vpn_no_ca_cert">(não verificar servidor)</string>
     <string name="vpn_no_server_cert">(recebido do servidor)</string>
     <string name="vpn_cancel">Cancelar</string>
@@ -2594,7 +2667,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="spellcheckers_settings_title">Correção ortográfica</string>
     <string name="current_backup_pw_prompt">Digite a sua senha actual para cópia de dados completa</string>
     <string name="new_backup_pw_prompt">Digite uma nova senha para cópia de dados completa</string>
-    <string name="confirm_new_backup_pw_prompt">Digite novamente a sua nova senha para cópia de dados completa</string>
+    <string name="confirm_new_backup_pw_prompt">Digite novamente a sua nova senha para uma cópia de dados completa</string>
     <string name="backup_pw_set_button_text">Definir senha de cópia de dados</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
     <string name="percentage">%d%%</string>
@@ -2619,7 +2692,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="subscription_01_summary">Definir opções para defenições de rede SUB1</string>
     <string name="subscription_02_title">SUB 2</string>
     <string name="subscription_02_summary">Definir opções para Sub2 em definições de rede</string>
-    <string name="additional_system_update_settings_list_item_title">Atualizações de sistema adicionais</string>
+    <string name="additional_system_update_settings_list_item_title">Actualizações de sistema adicionais</string>
     <string name="user_settings_title">Utilizadores &amp; restrições</string>
     <string name="user_list_title">Utilizadores</string>
     <string name="user_add_user_menu">Adicionar utilizador</string>
@@ -2728,7 +2801,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="memory_title">Disponível %1$s\u0009\u0009Total %2$s</string>
     <string name="xiaomi_account">Conta Mi</string>
     <string name="sync_settings">Sincronização</string>
-    <string name="sms_received_sound_title">Toque das mensagens</string>
+    <string name="sms_received_sound_title">Toque da mensagem</string>
     <string name="sms_delivered_sound_title">Toque ao entregar SMS</string>
     <string name="sms_received_sound_dialog_title">Escolher toque ao receber SMS</string>
     <string name="sms_delivered_sound_dialog_title">Escolher toque ao entregar SMS</string>
@@ -3005,7 +3078,7 @@ Tente o seguinte:
 2) Crie um diretório \"mkdir\" /media/ mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
 4) Volte a ligar
-5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros, igual ao diretório local
+5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros; igual ao directório local
 6) Desinstalar o dispositivo fusermount -u /media/mtp
  Note: Para ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Instalar driver</string>
@@ -3090,7 +3163,7 @@ Link para transferir http://miui.com/mac"</string>
     <string name="wifi_share_uploading">A partilhar…</string>
     <string name="wifi_share_upload_finish">Partilhado</string>
     <string name="wifi_share_show_network">Mostrar redes</string>
-    <string name="wifi_share_current_network">Rede atual</string>
+    <string name="wifi_share_current_network">Rede actual</string>
     <string name="wifi_share_other_network">Outras redes</string>
     <string name="wifi_share_know">OK</string>
     <string name="wifi_share_summary1">Os utilizadores MIUI podem partilhar redes Wi-Fi públicas (cafés, restaurantes, hotéis, etc.) com outros.</string>
