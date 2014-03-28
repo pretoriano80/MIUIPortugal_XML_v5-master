@@ -754,9 +754,9 @@
         <item>Desligado</item>
     </string-array>
     <string-array name="pref_content_plugins_values">
-        <item>LIGADO</item>
+        <item>ON</item>
         <item>ON_DEMAND</item>
-        <item>DESLIGADO</item>
+        <item>OFF</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Sites mais visitados</item>
