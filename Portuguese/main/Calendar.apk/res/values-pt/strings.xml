@@ -97,7 +97,7 @@
     <string name="discard_label">Cancelar</string>
     <string name="snooze_all_label">Adiar todos</string>
     <string name="dismiss_all_label">Dispensar tudo</string>
-    <string name="snooze_label">Snooze</string>
+    <string name="snooze_label">Descartar</string>
     <string name="does_not_repeat">Evento único</string>
     <string name="daily">Diáriamente</string>
     <string name="every_weekday">Cada dia da semana (Seg-Sex)</string>
