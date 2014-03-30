@@ -73,9 +73,9 @@
         <item>Economia de bateria</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
-        <item>Nunca vibra</item>
-        <item>Vibra quando o toque está desligado</item>
-        <item>Vibra sempre</item>
+        <item>Nunca vibrar</item>
+        <item>Vibrar quando o toque está desligado</item>
+        <item>Vibrar sempre</item>
     </string-array>
     <string-array name="power_dialog_vibration_items_values">
         <item>0</item>
@@ -83,18 +83,18 @@
         <item>2</item>
     </string-array>
     <string-array name="score_descriptions">
-        <item>Bloquear lista está desligado</item>
-        <item>Gerir permissões está desligado</item>
-        <item>O lixo é muito grande</item>
-        <item>As definições de vírus estão desatualizadas</item>
+        <item>Lista Negra desactivada.</item>
+        <item>Gestor de permissões desligado</item>
+        <item>Lixo é muito grande</item>
+        <item>Definições de Virus desactualizadas</item>
         <item>Muitos processos em segundo plano</item>
     </string-array>
     <string-array name="score_suggests">
-        <item>Ativar lista de bloqueio</item>
-        <item>Ativar controles de permissão de aplicações</item>
-        <item>Eliminar lixo</item>
-        <item>Atualizar lista de vírus</item>
-        <item>Estão a correr muitas aplicações em segundo plano…</item>
+        <item>Active a Lista Negra</item>
+        <item>Por favor active o controle de permissões das aplicações</item>
+        <item>Por favor elimine a lixeira</item>
+        <item>Por favor actualize as definições de vírus</item>
+        <item>Por favor verifique o número de aplicações em segundo plano…</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
@@ -242,7 +242,7 @@
     <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>A Localizar…</item>
-        <item>A ligar-se a %1$s…</item>
+        <item>A ligar a %1$s…</item>
         <item>Autenticação com %1$s…</item>
         <item>A obter o endereço IP de %1$s…</item>
         <item>Ligado a %1$s</item>
@@ -251,7 +251,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporariamente ligações fracas</item>
+        <item>Evitar temporáriamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_security">
         <item>@string/wifi_security_none</item>
@@ -403,7 +403,7 @@
         <item>0</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Dispositivo de armazenamento interno</item>
+        <item>Dispositivo de armaz. interno</item>
         <item>Cartão SD removível</item>
         <item>Deixe o sistema decidir</item>
     </string-array>
@@ -672,7 +672,7 @@
         <item>Iniciar painel recente</item>
         <item>Iniciar assistente de Voz</item>
         <item>Iniciar Google agora</item>
-        <item>Fechar aplicação atual</item>
+        <item>Fechar aplicação actual</item>
     </string-array>
     <string-array name="screen_key_long_press_action_value">
         <item>none</item>
@@ -777,7 +777,7 @@ dispositivo 2.MI 2 de armazenamento móvel irá aparecer no seu computador"</ite
         <item>"Para o Windows Vista ou versões mais recentes,
 o leitor de música MI 2 irá aparecer no seu computador"</item>
         <item>"Se instalar este driver
-Computador vai auto abrir e ler dados do telefone"</item>
+O computador vai auto abrir e ler dados do telefone."</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
@@ -850,8 +850,8 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Email</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
-        <item>A Rede é lenta devido ao excesso de tráfego</item>
-        <item>A Rede é lenta devido à intensidade do sinal ser fraca</item>
+        <item>Rede está lenta devido ao excesso de tráfego</item>
+        <item>Rede está lenta devido a intensidade do sinal ser fraco</item>
         <item>A mover…</item>
     </string-array>
 </resources>

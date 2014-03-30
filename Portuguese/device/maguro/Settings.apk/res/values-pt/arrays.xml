@@ -806,7 +806,7 @@
         <item>Sessão falhou.</item>
         <item>Tempo esgotado, repetir…</item>
         <item>Dispositivo ligado</item>
-        </string-array>
+    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP ou versões mais antigas</item>
         <item>Windows Vista ou versões mais recentes</item>
@@ -855,7 +855,7 @@ Computador vai auto abrir e ler dados do telefone"</item>
     <string-array name="screen_saturation_title">
         <item>Brilhante</item>
         <item>Predefinido</item>
-        </string-array>
+    </string-array>
     <string-array name="startup_hips_values">
         <item>2</item>
         <item>0</item>
@@ -937,5 +937,10 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Galeria</item>
         <item>Música</item>
         <item>Email</item>
+    </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>A Rede é lenta devido ao excesso de tráfego</item>
+        <item>A Rede é lenta devido à intensidade do sinal ser fraca</item>
+        <item>A mover…</item>
     </string-array>
 </resources>

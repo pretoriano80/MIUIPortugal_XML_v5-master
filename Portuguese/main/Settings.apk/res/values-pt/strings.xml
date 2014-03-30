@@ -74,7 +74,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="deep_clean_summary_install_apps_today">usado hoje</string>
     <string name="deep_clean_summary_install_apps_interval">usado %d dias</string>
     <string name="deep_clean_summary_install_apps_new">nunca usado</string>
-    <string name="deep_clean_summary_install_apps_virus">%s|vírus detectado</string>
+    <string name="deep_clean_summary_install_apps_virus">vírus detectado</string>
     <string name="deep_clean_summary_install_apps_risk">risco detectado</string>
     <string name="system_cache_title">Cache de sistema</string>
     <string name="empty_folder_title">Pasta vazia(%d)</string>
@@ -114,26 +114,26 @@ Tem a certeza que quer desactivar?"</string>
     <string name="scanning_prefix">A verificar: %s</string>
     <string name="cleanning_prefix">A limpar: %s</string>
     <string name="scanning_start_hints">A preparar…</string>
-    <string name="pref_category_title_cleanup_white_list">Limpar o lixo da lista branca</string>
-    <string name="pref_title_cleanup_white_list">Limpar o lixo da lista branca</string>
+    <string name="pref_category_title_cleanup_white_list">Limpeza da reciclagem da lista branca</string>
+    <string name="pref_title_cleanup_white_list">Limpeza da reciclagem da lista branca</string>
     <string name="pref_summary_cleanup_white_list">O lixo na lista branca será ignorado</string>
-    <string name="pref_category_title_auto_update_cleanup_db">Definições de actualização de banco de dados Cleanup</string>
+    <string name="pref_category_title_auto_update_cleanup_db">Definições de actualização de banco de dados da limpeza</string>
     <string name="pref_title_auto_update_cleanup_db">Auto actualizar</string>
     <string name="pref_summary_auto_update_cleanup_db">Actualizado em: %s</string>
     <string name="pref_title_manual_check_cleanup_db_update">Actualizar agora</string>
     <string name="pref_category_title_garbage_cleanup_check">Definições de limpeza</string>
     <string name="pref_title_garbage_cleanup_check_time">Reciclagem do alarme</string>
     <string name="pref_summary_garbage_cleanup_check_size">Notifique-me quando a reciclagem atinge um determinado tamanho</string>
-    <string name="pref_title_garbage_cleanup_check_size">Tamanho do lixo do alarme</string>
+    <string name="pref_title_garbage_cleanup_check_size">Tamanho da reciclagem do alarme</string>
     <string name="pref_title_expand_cache_group">Expanda a cache dos grupos</string>
     <string name="pref_summary_expand_cache_group">Grupos padrão na lista de cache serão expandidos</string>
-    <string name="msg_cleanup_db_update_checking">A verificar...</string>
+    <string name="msg_cleanup_db_update_checking">A verificar…</string>
     <string name="msg_update_error_code_success">Actualização com sucesso</string>
     <string name="msg_update_error_code_no_newer_db">As definições são recentes há necessidade de actualizar</string>
     <string name="msg_update_error_code_already_running">A actualizar</string>
     <string name="msg_update_error_code_network_error">Erro de rede. Verifique a ligação.</string>
     <string name="msg_update_error_code_unknown_error">Erro desconhecido</string>
-    <string name="msg_cleanup_db_update_time_unknown">Actualizar em: desconhecido</string>
+    <string name="msg_cleanup_db_update_time_unknown">Actualizado em: desconhecido</string>
     <string name="toast_application_no_residual_on_sdcard">A aplicação não tem todos os arquivos armazenados em seu cartão SD</string>
     <string name="applications_sort_type_title">Ordenar</string>
     <string name="applications_sort_type_item_time">Usados frequentemente</string>
@@ -635,6 +635,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
     <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
     <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
+    <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
     <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
     <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
     <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
@@ -642,6 +643,12 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="category_key_power_usage_details">key_power_usage_details</string>
     <string name="category_key_power_usage_packages">key_power_usage_packages</string>
     <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
+    <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
+    <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
+    <string name="preference_key_module_network_assistant">key_network_assistant</string>
+    <string name="preference_key_module_antipam">module_antipam</string>
+    <string name="preference_key_module_power_center">module_power_center</string>
+    <string name="preference_key_module_antivirus">key_module_antivirus</string>
     <string name="app_name">Segurança</string>
     <string name="action_settings">Definições</string>
     <string name="hello_world">Olá mundo!</string>
@@ -684,7 +691,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="virus_scanner_provider">Definições fornecidas por %s</string>
     <string name="virus_scanner_module">Tencent</string>
     <string name="virus_scanner_auto_update">Actualizar automaticamente</string>
-    <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
+    <string name="virus_scanner_date_formater">dd MMM yyyy</string>
     <string name="virus_scanner_manual_update">Actualizado %s</string>
     <string name="virus_scanner_lib_updating">A actualizar definições…</string>
     <string name="virus_scanner_lib_already_latest">Já está a usar as últimas definições. :)</string>
@@ -1317,7 +1324,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Nenhum</string>
     <string name="unlock_set_unlock_none_summary">Desactivar o bloqueio de ecrã</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Desbloquear por rosto</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo, experimental</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
     <string name="unlock_set_unlock_pattern_summary">Defina o padrão para desbloquear o ecrã</string>
@@ -1368,14 +1375,14 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="bluetooth_pairing_request">Solicitação de emparelhamento Bluetooth</string>
     <string name="bluetooth_enter_pin_msg">Para emparelhar com &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>É necessário um PIN:</string>
     <string name="bluetooth_enter_pin_msg_hs">"
-Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança Ligada: Necessita de uma chave de 16 caracteres]"</string>
-    <string name="bluetooth_enter_passkey_msg">Para emparelhar com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Digite a senha:"</string>
+Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita de uma chave de 16 caracteres]"</string>
+    <string name="bluetooth_enter_passkey_msg">Para emparelhar com:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Digite a senha:</string>
     <string name="bluetooth_enable_alphanumeric_pin">PIN contém letras ou símbolos</string>
     <string name="bluetooth_pin_values_hint">Geralmente 0000 ou 1234</string>
     <string name="bluetooth_enter_pin_other_device">Poderá ter que inserir este PIN no outro dispositivo.</string>
     <string name="bluetooth_enter_passkey_other_device">Poderá ter que inserir esta senha no outro dispositivo.</string>
-    <string name="bluetooth_confirm_passkey_msg">Para emparelhar com &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, verifique se a senha está a ser exibida: &lt;br>&lt;b>%2$s&lt;/b>.</string>
-    <string name="bluetooth_incoming_pairing_msg">&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Deseja emparelhar.</string>
+    <string name="bluetooth_confirm_passkey_msg">Para emparelhar com &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Verifique se a senha está a ser exibida: &lt;br>&lt;b>%2$s&lt;/b>.</string>
+    <string name="bluetooth_incoming_pairing_msg">De:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Deseja emparelhar.</string>
     <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> Digite: &lt;br>&lt;b>%2$s&lt;/b>, em seguida, pressione Return ou Enter.</string>
     <string name="bluetooth_pairing_accept">Emparelhar</string>
     <string name="bluetooth_pairing_decline">Cancelar</string>
@@ -1481,7 +1488,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança Ligada: Necessita de
     <string name="wifi_menu_connect">Ligar-se à rede</string>
     <string name="wifi_menu_forget">Desligar da rede</string>
     <string name="wifi_menu_modify">Modificar rede</string>
-    <string name="wifi_empty_list_wifi_off">Para ver redes disponíveis, ative o Wi-Fi</string>
+    <string name="wifi_empty_list_wifi_off">Para ver redes disponíveis, active o Wi-Fi</string>
     <string name="wifi_empty_list_wifi_on">A procurar redes Wi-Fi…</string>
     <string name="wifi_other_network">Outras redes…</string>
     <string name="wifi_more">Mais</string>
@@ -1672,7 +1679,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança Ligada: Necessita de
     <string name="brightness">Brilho</string>
     <string name="brightness_summary">Ajustar o brilho do ecrã</string>
     <string name="screen_timeout">Dormir</string>
-    <string name="screen_timeout_summary">Após %1$s de inatividade</string>
+    <string name="screen_timeout_summary">Após %1$s de inactividade</string>
     <string name="wallpaper_settings_title">Papel de parede</string>
     <string name="wallpaper_settings_fragment_title">Escolher papel de parede a partir de</string>
     <string name="screensaver_settings_title">Papel de parede Candy</string>
@@ -1838,7 +1845,7 @@ Tentativas restantes :"</string>
     <string name="restore_default_apn_completed">Restaurar as definições padrão do APN concluída.</string>
     <string name="master_clear_title">Restaurar configuração de fábrica</string>
     <string name="master_clear_summary">Elimina todos os dados no telefone</string>
-    <string name="master_clear_desc">Isto elimina todos os dados da "<b>memória interna</b>" no seu telefone, incluindo:
+    <string name="master_clear_desc">"Isto elimina todos os dados da "<b>memória interna</b>" no seu telefone, incluindo:
 
 "<li>A sua conta do Google</li>"
 "<li>Sistema, dados de aplicações e definições</li>"
@@ -2172,7 +2179,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="input_methods_settings_title">Entrada de texto</string>
     <string name="input_method">Método de entrada</string>
     <string name="current_input_method">Predefinido</string>
-    <string name="input_method_selector">Selecção do modo de entrada</string>
+    <string name="input_method_selector">Selecção do método de entrada</string>
     <string name="input_method_selector_show_automatically_title">Automático</string>
     <string name="input_method_selector_always_show_title">Mostrar sempre</string>
     <string name="input_method_selector_always_hide_title">Ocultar sempre</string>
@@ -2450,13 +2457,13 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="wifi_setup_description_connecting">A ligação poderá demorar alguns minutos…</string>
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação.
 
-Toque "<b>Anterior</b> para ligar a uma rede Wi-Fi diferente.</string>
+Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
     <string name="time_zone_auto_stub">Selecione fuso horário</string>
-    <string name="accessibility_sync_enabled">Sincronização ligada</string>
-    <string name="accessibility_sync_disabled">Sincronização desligada</string>
+    <string name="accessibility_sync_enabled">Sincronização activada</string>
+    <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
     <string name="sync_failed">Falha na sincronização</string>
-    <string name="sync_active">Sincronização ligada</string>
+    <string name="sync_active">Sincronização activada</string>
     <string name="account_sync_settings_title">Sincronização</string>
     <string name="sync_is_failing">A sincronização de momento está com problemas. Voltará brevemente.</string>
     <string name="add_account_label">Adicionar conta</string>
@@ -3077,18 +3084,18 @@ Tente o seguinte:
 1) Use as ferramentas de instalação \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
 2) Crie um diretório \"mkdir\" /media/ mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
-4) Volte a ligar
-5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros; igual ao directório local
+4) Inicie sessão novamente
+5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros, igual ao diretório local
 6) Desinstalar o dispositivo fusermount -u /media/mtp
  Note: Para ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Instalar driver</string>
     <string name="msd_install_status_done">Driver instalado.</string>
     <string name="msd_driver_download">Transferir driver</string>
     <string name="msd_driver_windows_xp_download">"No PC, faça o download e clique Setup.exe para instalar
-Link para transferir http://miui.com/win"</string>
+Obtenha o driver em http://miui.com/win"</string>
     <string name="msd_driver_mac_download">"No Mac, faça a transferência e clique em AndroidFileTransfer.dmg para instalar
-Link para transferir http://miui.com/mac"</string>
-    <string name="vpn_settings_password">Proteção por senha VPN</string>
+Obtenha o driver em http://miui.com/mac"</string>
+    <string name="vpn_settings_password">Protecção por senha VPN</string>
     <string name="vpn_safe">Segurança</string>
     <string name="vpn_configure">Configuração</string>
     <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
@@ -3128,9 +3135,9 @@ Link para transferir http://miui.com/mac"</string>
     <string name="filter_apps_cached">Armazenada em cache</string>
     <string name="screen">Ecrã</string>
     <string name="system">Sistema</string>
-    <string name="screen_color_temperature">Cor da temperatura</string>
-    <string name="screen_saturation">Cor da saturação</string>
-    <string name="screen_color_temperature_and_saturation">Cor temperatura e saturação</string>
+    <string name="screen_color_temperature">Ajustar a temperatura da cor</string>
+    <string name="screen_saturation">Ajustar a saturação da cor</string>
+    <string name="screen_color_temperature_and_saturation">Cor da temperatura e saturação</string>
     <string name="finish_application">Fim</string>
     <string name="header_category_accounts">Contas</string>
     <string name="wps_category">WPS</string>
@@ -3149,7 +3156,7 @@ Link para transferir http://miui.com/mac"</string>
     <string name="sim_status_title">Estado do SIM</string>
     <string name="slot_status_title">Informação do IMEI</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
-    <string name="xiaomi_money_service">Centro Mi Credit</string>
+    <string name="xiaomi_money_service">Mi Credit</string>
     <string name="lock_settings_common_title">Bloquear definições</string>
     <string name="turn_off_security_lock">Desactivar bloqueio de ecrã</string>
     <string name="change_password">Mudar senha</string>
@@ -3221,6 +3228,6 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="alert_show_screensaver_when_not_charging_msg">A bateria irá descarregar mais rapidamente se mostrar a protecção de ecrã quando não estiver a carregar. Tem certeza que deseja fechar esta opção?</string>
     <string name="preferred_app_settings">Definições padrão das aplicações</string>
     <string name="preferred_app_settings_default">Padrão</string>
-    <string name="preferred_app_settings_reset">Restaurar para padrão</string>
-    <string name="preferred_app_settings_reset_message">Tem certeza que deseja restaurar para as definições padrão da aplicação?</string>
+    <string name="preferred_app_settings_reset">Restaurar aplicações padrão?</string>
+    <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
 </resources>

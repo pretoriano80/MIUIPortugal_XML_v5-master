@@ -40,10 +40,10 @@
     <string name="theme_component_title_all">Tema</string>
     <string name="apply_theme_no_select_message">Selecione a aplicação</string>
     <string name="apply_lockscreen_paper_tips">Esta proteção de ecrã não suporta pepéis de parede diferentes</string>
-    <string name="theme_import_from_sdcard">Importar tema do cartão SD</string>
+    <string name="theme_import_from_sdcard">Importar do cartão SD</string>
     <string name="theme_select_others">Navegar</string>
     <string name="third_party_pickers_activity_title">Definir %1$s</string>
-    <string name="lockstyle_personal_settings">Personalização</string>
+    <string name="lockstyle_personal_settings">Personalizar</string>
     <string name="wallpaper_settings">Definições de Papel de parede</string>
     <string name="desktop_wallpaper">Ecrã inicial</string>
     <string name="live_wallpaper">Papel de parede ao vivo</string>
@@ -142,7 +142,7 @@
     <string name="online_search_hint">Procurar recurso on-line</string>
     <string name="loading">A procurar…</string>
     <string name="download_failed">Transferência falhada</string>
-    <string name="download_preview_failed">Falha ao carregar a pré-visualização.</string>
+    <string name="download_preview_failed">Falha ao carregar a pré-visualização</string>
     <string name="resource_delete_confirm">Eliminar estes recursos?</string>
     <string name="all_resources">Todos</string>
     <string name="resource_default_name">Recurso</string>
@@ -163,7 +163,7 @@
     <string name="resource_system_title">Recursos de sistema</string>
     <string name="resource_downloaded_title">Recursos de transferências</string>
     <string name="resource_see_more">Ver mais</string>
-    <string name="resource_no_result">Sem resultados.</string>
+    <string name="resource_no_result">Sem resultados</string>
     <string name="resource_unable_to_access">"Lamentamos
 o conteúdo que está a procurar não está disponível na sua região."</string>
     <string name="resource_list_title">Última seleção</string>
@@ -189,14 +189,14 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_title_select_ringtone">Selecione toque</string>
     <string name="resource_tip_select_ringtone">Nenhum toque foi selecionado</string>
     <string name="loading_resource_detail_info">A carregar…</string>
-    <string name="loading_resource_detail_fail">Falha ao carregar o recurso.</string>
+    <string name="loading_resource_detail_fail">Falha ao carregar o recurso</string>
     <string name="resource_expand_full_text">Espandir</string>
     <string name="resource_account_login">Iniciar sessão</string>
     <string name="resource_account_switch">Mudar</string>
     <string name="resource_account_login_title">Iniciar sessão</string>
     <string name="resource_account_fail_to_add">Falha ao adicionar conta</string>
     <string name="resource_account_abnormal_state">Erro de conta: Tente mais tarde.</string>
-    <string name="resource_account_login_before_action">Entrar agora na sua conta Xiaomi</string>
+    <string name="resource_account_login_before_action">Iniciar sessão agora na sua conta Xiaomi</string>
     <string name="resource_send">Enviar</string>
     <string name="resource_save_to_note">Guardar em Notas</string>
     <string name="resource_present">Presente</string>
@@ -230,14 +230,14 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_comment_2_star">2 Estrelas</string>
     <string name="resource_comment_1_star">1 Estrela</string>
     <string name="resource_comment_footer">Comentários vazios não são exibidos.</string>
-    <string name="resource_comment_no_comment">Sem comentários.</string>
+    <string name="resource_comment_no_comment">Sem comentários</string>
     <string name="resource_comment_current_version">Versão actual</string>
     <string name="resource_comment_date">%1$02d-%2$02d</string>
     <string name="resource_comment_upload_hint">O seu comentário será exibido depois de uma breve revisão.</string>
     <string name="resource_comment_sending">Enviando comentário…</string>
     <string name="resource_comment_upload_failed">Falha ao enviar comentário</string>
     <string name="resource_comment_upload_success">Comentário enviado! O seu comentário será exibido depois de uma breve revisão.</string>
-    <string name="resource_comment_upload_data_invalid">Comentário inválido.</string>
+    <string name="resource_comment_upload_data_invalid">Comentário inválido</string>
     <string name="resource_comment_upload_not_logined">Por favor, faça login</string>
     <string name="resource_comment_upload_not_bought">Deve usar o tema antes de fazer comentários</string>
     <string name="resource_comment_invalid">Por favor, tocar nas estrelas para avaliar</string>
@@ -249,7 +249,7 @@ o conteúdo que está a procurar não está disponível na sua região."</string
     <string name="resource_comment_edit_text_default">Escrever comentário</string>
     <string name="resource_comment_publish">Submeter</string>
     <string name="resource_comment_name_default">Utilizador %1$s</string>
-    <string name="resource_comment_loading_list">Active sua conta Xiaomi agora.</string>
+    <string name="resource_comment_loading_list">A carregar…</string>
     <string name="resource_comment_rate">Classificação:</string>
     <string name="resource_comment_entry_tips">Ver comentário</string>
     <string name="fail_to_add_account">Falha ao adicionar conta</string>
