@@ -32,11 +32,9 @@
         <item>Personalizado</item>
     </string-array>
     <string-array name="postalAddressTypes">
-    <string-array name="imAddressTypes">
         <item>Casa</item>
         <item>Trabalho</item>
         <item>Outros</item>
         <item>Personalizado</item>
     </string-array>
-    <array name="carrier_properties" />
 </resources>
