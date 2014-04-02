@@ -2,11 +2,11 @@
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string name="alwaysallowed">Permitir Sempre?</string>
-    <string name="map_acceptance_dialog_title">%1$s gostaria de aceder às suas pastas do telefone. Permitir acesso a %2$s?</string>
-    <string name="map_acceptance_dialog_header">Acesso à pasta do Telefone</string>
+    <string name="map_acceptance_dialog_title">%1$s gostaria de aceder às suas pastas do dispositivo. Permitir acesso a %2$s?</string>
+    <string name="map_acceptance_dialog_header">Acesso à pasta do Dispositivo</string>
     <string name="map_notif_title">Solicitação de chave de sessão para MAP</string>
     <string name="map_notif_message">Permitir acesso à pasta root por %1$s</string>
-    <string name="map_alert_conn_failed_message">Falhou a  ligação Bluetooth MAP</string>
+    <string name="map_alert_conn_failed_message">Falhou a ligação Bluetooth MAP</string>
     <string name="permlab_bluetoothShareManager">Aceder ao gestor de transferências.</string>
     <string name="permdesc_bluetoothShareManager">Permite à aplicação aceder ao gestor BluetoothShare e utilizá-lo para transferir ficheiros.</string>
     <string name="permlab_bluetoothWhitelist">Colocar na lista de autorizações o acesso do dispositivo Bluetooth.</string>
@@ -85,7 +85,7 @@
     <string name="status_pending">Transferência de ficheiro não iniciada</string>
     <string name="status_running">A enviar ficheiro…</string>
     <string name="status_success">O ficheiro foi enviado com sucesso.</string>
-    <string name="status_not_accept">O telefone não suporta este tipo de conteúdo.</string>
+    <string name="status_not_accept">O dispositivo não suporta este tipo de conteúdo.</string>
     <string name="status_forbidden">Transferência cancelada pelo dispositivo de destino.</string>
     <string name="status_canceled">Transferência cancelada pelo utilizador.</string>
     <string name="status_file_error">Erro no Cartão SD.</string>
@@ -124,8 +124,8 @@
     <string name="auth_notif_message">Digite a chave de sessão para %1$s</string>
     <string name="defaultname">Kit automóvel</string>
     <string name="unknownName">Nome desconhecido</string>
-    <string name="localPhoneName">O meu nome</string>
-    <string name="defaultnumber">000000</string>
+    <string name="localPhoneName">Nome do dispositivo</string>
+    <string name="defaultnumber">1234</string>
     <string name="hello">Olá mundo, actividade de teste</string>
     <string name="app_name">Partilha Bluetooth</string>
     <string name="insert_record">Inserir registo</string>
