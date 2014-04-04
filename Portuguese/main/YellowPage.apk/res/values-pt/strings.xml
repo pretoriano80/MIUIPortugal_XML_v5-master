@@ -17,7 +17,16 @@
     <string name="locating_fail">Falha ao localizar, por favor, verifique o serviço de localização ou tente novamente</string>
     <string name="no_more_result">Sem mais resultados</string>
     <string name="downloading">A transferir…</string>
-    <string name="download_completed">Transferência concluída!</string>
+    <string name="download_completed">Transferência concluída！Caminho cartão SD: %s</string>
+    <string name="download_failed">Transferência falhada</string>
+    <string name="download_failed_storage">Transferência falhada, por favor verifique o seu cartão SD</string>
+    <string name="download_failed_network">Transferência falhada, por favor verifique a sua ligação de rede</string>
+    <string name="download_failed_gone">Transferência falhada, o ficheiro não existe</string>
+    <string name="download_failed_server">Transferência falhada, por favor tente mais tarde</string>
+    <string name="download_failed_cannot_resume">Transferência falhada, por favor tente mais tarde</string>
+    <string name="download_failed_file_exists">O ficheiro já existe</string>
+    <string name="download_failed_space">Transferência falhada, expaço insuficiente</string>
+    <string name="download_failed_blocked">Transferência falhada, não é possível ligar à rede</string>
     <string name="yellow_page_detail_title">Sobre</string>
     <string name="yellow_page_call_log_title">Registo de chamadas</string>
     <string name="yellow_page_website">Site oficial</string>
@@ -74,7 +83,7 @@
     <string name="payment_unknown_status_title">Não pode confirmar o estado do pagamento</string>
     <string name="payment_unknown_status_summary">Verifique a ligação de rede e tente novamente.</string>
     <string name="recharge_input_phone_title">Entrada de número de telefone (China Mobile, China Unicom, or China Telecom)</string>
-    <string name="recharge_select_money_title">Seleccione valor</string>
+    <string name="recharge_select_money_title">Selecione valor</string>
     <string name="recharge_charge_range">Preço: RMB %1$s-%2$s</string>
     <string name="recharge_charge_value">Preço: RMB %s</string>
     <string name="recharge_pay">Carregue agora</string>

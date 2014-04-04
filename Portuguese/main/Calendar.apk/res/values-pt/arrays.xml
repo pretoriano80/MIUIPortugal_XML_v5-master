@@ -16,37 +16,23 @@
     <string-array name="reminder_minutes_labels">
         <item>Nenhum</item>
         <item>0 minutos</item>
-        <item>1 minuto</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
         <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
         <item>30 minutos</item>
-        <item>45 minutos</item>
         <item>1 hora</item>
-        <item>2 horas</item>
-        <item>3 horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
+        <item>1 dia</item>
         <item>2 dias</item>
         <item>1 semana</item>
     </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
         <item>0</item>
-        <item>1</item>
         <item>5</item>
         <item>10</item>
         <item>15</item>
-        <item>20</item>
-        <item>25</item>
         <item>30</item>
-        <item>45</item>
         <item>60</item>
-        <item>120</item>
-        <item>180</item>
-        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>
@@ -54,37 +40,23 @@
     <string-array name="preferences_default_reminder_labels">
         <item>None</item>
         <item>0 minutos</item>
-        <item>1 minuto</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
         <item>15 minutos</item>
-        <item>20 minutos</item>
-        <item>25 minutos</item>
         <item>30 minutos</item>
-        <item>45 minutos</item>
         <item>1 hora</item>
-        <item>2 horas</item>
-        <item>3 horas</item>
-        <item>12 horas</item>
-        <item>24 horas</item>
+        <item>1 dia</item>
         <item>2 dias</item>
         <item>1 semana</item>
     </string-array>
     <string-array name="preferences_default_reminder_values">
         <item>-1</item>
         <item>0</item>
-        <item>1</item>
         <item>5</item>
         <item>10</item>
         <item>15</item>
-        <item>20</item>
-        <item>25</item>
         <item>30</item>
-        <item>45</item>
         <item>60</item>
-        <item>120</item>
-        <item>180</item>
-        <item>720</item>
         <item>1440</item>
         <item>2880</item>
         <item>10080</item>

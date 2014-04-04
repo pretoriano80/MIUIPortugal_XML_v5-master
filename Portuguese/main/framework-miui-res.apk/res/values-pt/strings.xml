@@ -324,7 +324,7 @@ Activar via Definições > Sistema > Botão Definições"</string>
     <string name="lunar_yi">一</string>
     <string name="lunar_yue">月</string>
     <string name="lunar_zheng">正</string>
-    <string name="memory_clear_nothing_result">Memória optimizada.</string>
+    <string name="memory_clear_nothing_result">Memória optimizada</string>
     <string name="memory_clear_result">"Cache limpa: %1$s
 Memória disponível: %2$s"</string>
     <string name="miui_copyright_title">Copyright</string>
@@ -458,7 +458,7 @@ Memória disponível: %2$s"</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Barra de estado, Barra de notificação</string>
     <string name="app_no_notification">nada</string>
     <string name="app_notificaiton_on_notificationBar">Bar de notification</string>
-    <string name="device_hongmi">Telefone Hongmi</string>
+    <string name="device_hongmi">Xiaomi</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu a senha errada %d vezes. Depois de %d tentativas, para desbloquear o telefone tem que aceder à sua conta.
 
 Tente novamente em %d segundos."</string>

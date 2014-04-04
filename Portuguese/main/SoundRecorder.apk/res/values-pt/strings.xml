@@ -120,4 +120,5 @@
     <string name="button_start_now">Transferir</string>
     <string name="notification_title_all_paused">Transferência em pausa</string>
     <string name="notification_message_all_paused">Pode aumentar o uso de dados móveis.</string>
+    <string name="toast_file_is_downloading">Este ficheiro está a ser tranferido, por favor espere</string>
 </resources>

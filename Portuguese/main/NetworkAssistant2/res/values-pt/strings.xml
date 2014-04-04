@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
+    <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
     <string name="app_name">Uso de dados</string>
     <string name="list_empty_text">Vazio</string>
     <string name="main_button_normal_traffic">Limite</string>
@@ -78,6 +80,7 @@ Faltam"</string>
     <string name="pref_version">Versão %s</string>
     <string name="pref_leisure_no_overlay">Activado</string>
     <string name="pref_leisure_not_opened">Disactivado</string>
+    <string name="pref_new_installed_preconfig_title">Definições padrão para novas aplicações</string>
     <string name="pref_manual_adjust">Defenir o uso de dados manualamente</string>
     <string name="pref_daily_adjust">Defenir o limite de dados</string>
     <string name="pref_free_adjust">Defenir o limite de dados fora do limite</string>
@@ -161,6 +164,8 @@ O uso em excesso do seu limite do plano de dados pode resultar em custos elevado
     <string name="data_usage_no_total_package_title">Uso de dados</string>
     <string name="data_usage_no_total_package_body">Quer definir um limite de uso de dados?</string>
     <string name="data_usage_no_total_package_body_dual">Quer definir um limite de uso de dados para %s?</string>
+    <string name="network_assistant_upgraded_title">Transferência terminada</string>
+    <string name="network_assistant_upgraded_body">Toque para desactivar o uso de dados</string>
     <string name="lock_screen_traffic_warn_title">Cuidado com o uso de dados</string>
     <string name="notification_title">%1$s-%2$s: sobre %3$s usado</string>
     <string name="notification_content_title">Usado %1$s enquanto bloqueado</string>

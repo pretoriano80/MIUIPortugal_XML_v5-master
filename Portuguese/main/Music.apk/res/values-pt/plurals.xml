@@ -50,24 +50,24 @@
         <item quantity="one">Selecionou %d ficheiros</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">Existem %d músicas no cartão SD</item>
-        <item quantity="one">Existe %d música no cartão SD</item>
+        <item quantity="other">%d músicas no cartão SD</item>
+        <item quantity="one">%d música no cartão SD</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d músicas adicionadas à lista de reprodução.</item>
-        <item quantity="one">1 músicas adicionada à lista de reprodução.</item>
+        <item quantity="other">%d músicas adicionadas à lista de reprodução</item>
+        <item quantity="one">1 músicas adicionada à lista de reprodução</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">%d músicas eliminadas da lista de reprodução.</item>
-        <item quantity="one">1 música eliminada da lista de reprodução.</item>
+        <item quantity="other">%d músicas eliminadas da lista de reprodução</item>
+        <item quantity="one">1 música eliminada da lista de reprodução</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d músicas adicionadas na lista de reprodução.</item>
-        <item quantity="one">1 música adicionada na lista de reprodução.</item>
+        <item quantity="other">%d músicas adicionadas na lista de reprodução</item>
+        <item quantity="one">1 música adicionada na lista de reprodução</item>
     </plurals>
     <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">%d músicas eliminadas na lista de reprodução.</item>
-        <item quantity="one">1 música eliminada na lista de reprodução.</item>
+        <item quantity="other">%d músicas eliminadas na lista de reprodução</item>
+        <item quantity="one">1 música eliminada na lista de reprodução</item>
     </plurals>
     <plurals name="Nsearch_results">
         <item quantity="other">%d resultados</item>
@@ -77,16 +77,27 @@
         <item quantity="other">" categorias"</item>
         <item quantity="one">" categoria"</item>
     </plurals>
+    <plurals name="Nexpiration_reminder">
+        <item quantity="other">%d dias para expirar</item>
+        <item quantity="one">%d dia para expirar</item>
+    </plurals>
     <plurals name="album_details_format">
      	<item quantity="other">%1$s, %2$d músicas</item>
         <item quantity="one">%1$s, %2$d música</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d músicas foram eliminadas</item>
+        <item quantity="other">%d músicas forameliminadas</item>
         <item quantity="one">1 música foi eliminadas</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d músicas serão transferidas</item>
-        <item quantity="one">1 música será transferida</item>
+        <item quantity="other">%d mísicas que serão transferidas</item>
+        <item quantity="one">música que será transferida</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d dias restantes</item>
+        <item quantity="one">%d dia restante</item>
+    </plurals>
+    <plurals name="Nvip_expired_remind">
+        <item quantity="other">O seu acesso a música de melhor qualidade está prestes a expirar (%d dias restantes)</item>
     </plurals>
 </resources>

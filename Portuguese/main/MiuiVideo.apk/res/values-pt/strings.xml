@@ -223,6 +223,7 @@
     <string name="offline_media_more">Mais Cache</string>
     <string name="media_source_unavailable">A fonte está indisponível</string>
     <string name="download_add_success">Adicionar a transferência com sucesso</string>
+    <string name="download_delete">remover tarefa</string>
     <string name="download_is_in_tasklist">Foi armazenado na lista de cache</string>
     <string name="download_is_success">Foi armazenado em cache</string>
     <string name="download_file_fail">O acesso ao arquivo local falhou, talvez não haja espaço no armazenamento</string>
@@ -257,6 +258,7 @@
     <string name="lekan">Lekan</string>
     <string name="dianyingwang">M1905</string>
     <string name="letv">Letv</string>
+    <string name="cnlive">cnlive</string>
     <string name="unknown_source">Fonte desconhecida</string>
     <string name="hint_can_not_get_source_info">Não é possível encontrar a informações da fonte do vídeo</string>
     <string name="hint_without_selected_set">Não foi selecionada nenhuma fonte, encontrar fonte automaticamente…</string>
