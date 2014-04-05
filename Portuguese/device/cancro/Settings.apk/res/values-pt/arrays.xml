@@ -24,7 +24,7 @@
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
-        <item>Never</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>Alto desempenho</item>
@@ -33,7 +33,7 @@
     </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Nunca vibrar</item>
-        <item>Vibrar quando o toque está desligado</item>
+        <item>Vibrar quando o toque está desactivado</item>
         <item>Vibrar sempre</item>
     </string-array>
     <string-array name="power_dialog_vibration_items_values">
@@ -42,17 +42,17 @@
         <item>2</item>
     </string-array>
     <string-array name="score_descriptions">
-        <item>Lista Negra desativada</item>
+        <item>Lista Negra desactivada</item>
         <item>Gestor de permissões desligado</item>
         <item>Lixo é muito grande</item>
-        <item>Definições de Virus desatualizadas</item>
+        <item>Definições de Virus desactualizadas</item>
         <item>Muitos processos em segundo plano</item>
     </string-array>
     <string-array name="score_suggests">
         <item>Active a Lista Negra</item>
         <item>Por favor ative o controle de permissões das aplicações</item>
         <item>Por favor elimine a lixeira</item>
-        <item>Por favor atualize as definições de vírus</item>
+        <item>Por favor actualize as definições de vírus</item>
         <item>Por favor verifique o número de aplicações em segundo plano…</item>
     </string-array>
     <string-array name="timezone_filters">
@@ -104,12 +104,12 @@
         <item>Muito lento</item>
         <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Rápido</item>
+        <item>Mais rápido</item>
+        <item>Muito rápido</item>
+        <item>Rápido</item>
+        <item>Muito rápido</item>
+        <item>Muito rápido</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Muito baixo</item>
@@ -144,7 +144,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporáriamente ligações fracas</item>
+        <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione o botão</item>
@@ -398,16 +398,6 @@
         <item>7 segundos</item>
         <item>8 segundos</item>
         <item>9 segundos</item>
-    </string-array>
-    <string-array name="led_freq_values">
-    <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
     </string-array>
     <string-array name="mi1_led_color_entries">
         <item>Azul</item>
