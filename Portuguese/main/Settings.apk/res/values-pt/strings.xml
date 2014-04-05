@@ -254,7 +254,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="power_chooser_check_box_title">Economizar bateria</string>
     <string name="power_chooser_check_box_summary">Escolha um perfil de gestão de energia para prolongar a vida da bateria</string>
     <string name="power_chooser_smart_title">Padrão</string>
-    <string name="power_chooser_smart_summary">Guardar definições actuais, de limpar processos na tela de bloqueio</string>
+    <string name="power_chooser_smart_summary">Limpar os processos em execução em segundo plano no ecrã de bloqueio</string>
     <string name="power_chooser_standby_title">Modo maratona</string>
     <string name="power_chooser_standby_summary">Desactivar ligação Wi-Fi e rede móvel</string>
     <string name="power_chooser_sleep_title">Dormir</string>
@@ -705,7 +705,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="virus_scan_app_solve">Todos os processos</string>
     <string name="virus_scan_app_finish">Verificação concluída</string>
     <string name="virus_scan_app_continue">Continuar a verificar</string>
-    <string name="virus_scan_app_uninstall">Eliminar (% d)</string>
+    <string name="virus_scan_app_uninstall">Eliminar %d</string>
     <string name="virus_scan_app_force_stop">Verificação pausada</string>
     <string name="virus_scan_app_find_risk">% d riscos encontrados</string>
     <string name="virus_scan_app_scan_finish">Verificação concluída</string>
@@ -1381,8 +1381,8 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="bluetooth_pin_values_hint">Geralmente 0000 ou 1234</string>
     <string name="bluetooth_enter_pin_other_device">Poderá ter que inserir este PIN no outro dispositivo.</string>
     <string name="bluetooth_enter_passkey_other_device">Poderá ter que inserir esta senha no outro dispositivo.</string>
-    <string name="bluetooth_confirm_passkey_msg">Para emparelhar com &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Verifique se a senha está a ser exibida: &lt;br>&lt;b>%2$s&lt;/b>.</string>
-    <string name="bluetooth_incoming_pairing_msg">De:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Deseja emparelhar.</string>
+    <string name="bluetooth_confirm_passkey_msg">Para emparelhar com: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Verifique se a senha está a ser exibida: &lt;br>&lt;b>%2$s&lt;/b>.</string>
+    <string name="bluetooth_incoming_pairing_msg">De:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Emparelhar com este dispositivo?</string>
     <string name="bluetooth_display_passkey_pin_msg">Para emparelhar com: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> Digite: &lt;br>&lt;b>%2$s&lt;/b>, em seguida, pressione Return ou Enter.</string>
     <string name="bluetooth_pairing_accept">Emparelhar</string>
     <string name="bluetooth_pairing_decline">Cancelar</string>
@@ -1476,7 +1476,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
     <string name="wifi_poor_network_detection">Evitar ligações fracas</string>
     <string name="wifi_poor_network_detection_summary">Não utilize uma rede WiFi a menos que tenha uma boa ligação com a Internet</string>
-    <string name="wifi_setting_sleep_policy_title">Política de inatividade de Wi-Fi</string>
+    <string name="wifi_setting_sleep_policy_title">Política de inactividade de Wi-Fi</string>
     <string name="wifi_setting_sleep_policy_error">Houve um problema ao configurar</string>
     <string name="wifi_add_network">Adicionar rede Wi-Fi</string>
     <string name="wifi_access_points">Redes Wi-Fi</string>
@@ -1716,7 +1716,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
 Possivelmente o PIN está incorreto."</string>
     <string name="sim_change_succeeded">PIN do SIM alterado</string>
     <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
-O PIN possivelmente está incorreto."</string>
+Possivelmente o PIN está incorreto."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancelar</string>
     <string name="sim_change_failed_enable_sim_lock">Activar o bloqueio do SIM para alterar o PIN</string>
@@ -2157,7 +2157,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
     <string name="user_dict_settings_context_menu_edit_title">Editar</string>
     <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
-    <string name="user_dict_settings_empty_text">"Não possui nenhum dicionário.
+    <string name="user_dict_settings_empty_text">"Não possui nenhum dicionário
 Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="user_dict_settings_all_languages">Para todos os idiomas</string>
     <string name="user_dict_settings_more_languages">Mais idiomas…</string>

@@ -110,7 +110,7 @@
     <string name="custom">Personalizado (não é permitido personalizar no telefone)</string>
     <string name="modify_event">Alterar apenas este evento</string>
     <string name="modify_all">Alterar todos os eventos da série</string>
-    <string name="modify_all_following">Alterar este e todos os eventos futuros.</string>
+    <string name="modify_all_following">Alterar este e todos os eventos futuros</string>
     <string name="new_event_dialog_label">Novo evento</string>
     <string name="new_event_dialog_option">Novo evento</string>
     <string name="delete_this_event_title">Eliminar este evento?</string>
@@ -136,7 +136,7 @@
     <string name="preferences_default_reminder_dialog">Tempo do lembrete</string>
     <string name="preferences_default_reminder_default">10</string>
     <string name="preferences_use_home_tz_title">Usar fuso horário local</string>
-    <string name="preferences_use_home_tz_descrip">Quando viajar, exibe calendários e horários do evento no seu fuso horário</string>
+    <string name="preferences_use_home_tz_descrip">Quando viajar,exibe calendários e horários do evento no seu fuso horário</string>
     <string name="preferences_home_tz_title">Fuso horário local</string>
     <string name="preferences_home_tz_default">Europa/Londres</string>
     <string name="preferences_show_week_num_title">Mostrar número da semana</string>
@@ -202,9 +202,9 @@
     <string name="account_and_calendar_to_display">Conta e calendário a mostrar</string>
     <string name="default_reminder_mode">Modo de lembrete padrão</string>
     <string name="time_zone">Fuso horário</string>
-    <string name="show_all_lunar">Mês</string>
-    <string name="show_almanac">Mostrar almanaque</string>
     <string name="event_lunar_month">Mês</string>
+    <string name="huangli_label">Huang Li</string>
+    <string name="holiday_label">Festival</string>
     <string name="huangli_good_type">Deveria</string>
     <string name="huangli_bad_type">Evitar</string>
     <string name="event_all_day_label">Todos os dias</string>
@@ -240,11 +240,11 @@
     <string name="month_medium_october">Out</string>
     <string name="month_medium_november">Nov</string>
     <string name="month_medium_december">Dez</string>
-    <string name="online_calendar_activity_label">Subscrever calendário</string>
-    <string name="tab_local">Subscrito</string>
+    <string name="online_calendar_activity_label">Actividade no calendário</string>
+    <string name="tab_local">Local</string>
     <string name="tab_online">On-line</string>
-    <string name="add_calendar">Assinatura</string>
-    <string name="exist_calendar">Calendário</string>
+    <string name="add_calendar">Adicionar calendário</string>
+    <string name="exist_calendar">O calendário já existe</string>
     <string name="delete_calendar">Eliminar calendário</string>
     <string name="delete_topic_dialog_title">Confirme que deseja cancelar a inscrição \"%s\"？</string>
     <string name="add_topic_success">Subscrição \"%s\"com sucesso</string>
@@ -261,6 +261,7 @@
     <string name="pref_title_no_remind">Sem lembrete</string>
     <string name="pref_title_notification_remind">Notificação lembrete</string>
     <string name="pref_title_alert_remind">Lembrete pop-up</string>
+    <string name="pref_title_alarm_remind">aviso de alarme</string>
     <string name="more_string">Mais %1$s...</string>
     <string name="copy_email">Copiar endereço de email</string>
     <string name="copy_number">Copiar o número de telefone</string>

@@ -154,7 +154,7 @@ Faltam"</string>
 O uso em excesso do seu limite do plano de dados pode resultar em custos elevados."</string>
     <string name="data_usage_disabled_dialog_enable">Activar dados</string>
     <string name="data_usage_mobile_limit_snoozed_title">O limite de dados foi excedido</string>
-    <string name="data_usage_limit_snoozed_body">Excedeu o seu limite de uso de dados.</string>
+    <string name="data_usage_limit_snoozed_body">Excedeu o seu limite de uso de dados</string>
     <string name="data_usage_restricted_title">Dados em segundo plano estão restringidos</string>
     <string name="data_usage_restricted_body">Selecione para permitir os dados em segundo plano</string>
     <string name="data_usage_leisure_warning_title">Limite de uso de dados fora do plano</string>

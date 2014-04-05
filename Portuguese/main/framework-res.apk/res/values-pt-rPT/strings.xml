@@ -21,8 +21,8 @@
     <string name="VideoView_error_title">Problema com o vídeo</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Atenção</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido ser reproduzido neste dispositivo.</string>
-    <string name="selectTextMode">Selecionar texto...</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido e não pode ser reproduzido neste dispositivo.</string>
+    <string name="selectTextMode">Selecionar texto</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="month_long_standalone_january">Janeiro</string>
     <string name="month_long_standalone_february">Fevereiro</string>
@@ -170,7 +170,7 @@
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="ellipsis">…</string>
     <string name="ellipsis_two_dots">‥</string>
-    <string name="mmiError">Problema de ligação ou código MMI inválido.</string>
+    <string name="mmiError">Existe um problema de ligação ou o código MMI inválido.</string>
     <string name="mmiFdnError">A operação está restrita apenas a números de marcação fixa.</string>
     <string name="stkCcUssdToDial">Pedido de USSD é modificado para inserir o pedido.</string>
     <string name="stkCcUssdToSs">Pedido de USSD é modificado para pedido SS.</string>
@@ -185,8 +185,8 @@
     <string name="serviceErased">Eliminação bem-sucedida.</string>
     <string name="passwordIncorrect">Senha incorreta.</string>
     <string name="mmiComplete">MMI concluído.</string>
-    <string name="badPin">O PIN antigo digitado não está correto.</string>
-    <string name="badPuk">O PUK digitado não está correto.</string>
+    <string name="badPin">O PIN antigo digitado não está correcto.</string>
+    <string name="badPuk">O PUK digitado não está correcto.</string>
     <string name="mismatchPin">Os PINs digitados não correspondem.</string>
     <string name="invalidPin">Digite um PIN com 4 a 8 números.</string>
     <string name="invalidPuk">Digite um PUK que seja 8 ou mais números.</string>
@@ -246,7 +246,7 @@ Faltam tentativas :"</string>
     <string name="roamingText10">Roaming - Funcionalidade de serviço parcial</string>
     <string name="roamingText11">Banner de roaming activado</string>
     <string name="roamingText12">Banner de roaming desactivado</string>
-    <string name="roamingTextSearching">A procurar serviço...</string>
+    <string name="roamingTextSearching">A procurar serviço</string>
     <string name="cfTemplateNotForwarded">{0}: não encaminhado</string>
     <string name="cfTemplateForwarded">{0}: {1}</string>
     <string name="cfTemplateForwardedTime">{0}: {1} após {2} segundos</string>

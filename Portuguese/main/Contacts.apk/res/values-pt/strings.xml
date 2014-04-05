@@ -732,12 +732,12 @@ Motivo: \"%s\""</string>
     <string name="generic_no_account_prompt_title">Adicionar uma conta</string>
     <string name="contact_editor_prompt_zero_accounts">Armazenar no telemóvel ou numa nova conta on-line</string>
     <string name="contact_editor_prompt_one_account">O novo contacto será %1$s Sync</string>
-    <string name="contact_editor_prompt_multiple_accounts">Por favor, seleccione a conta para guardar o contacto</string>
+    <string name="contact_editor_prompt_multiple_accounts">Seleccione a conta para guardar o contacto</string>
     <string name="keep_local">Manter local</string>
     <string name="add_account">Adicionar conta</string>
     <string name="add_new_account">Adicionar uma conta nova</string>
     <string name="dialog_phone_call_prohibited_message">Chamada não enviada</string>
-    <string name="dialog_voicemail_not_ready_message">Para configurar o correio de voz, vá para Menu &gt; configurações.</string>
+    <string name="dialog_voicemail_not_ready_message">Para configurar o correio de voz, selecione Menu > Definições.</string>
     <string name="dialog_voicemail_airplane_mode_message">Para ligar o correio de voz, primeiro desligue o modo de Avião.</string>
     <string name="action_menu_overflow_description">Mais opções</string>
     <string name="summary_kind_title">Resumo</string>
@@ -797,6 +797,7 @@ Motivo: \"%s\""</string>
     <string name="calllog_menu_edit_before_call">Editar</string>
     <string name="calllog_menu_send_sms">Enviar uma mensagem</string>
     <string name="menu_call_ip_number">Marcar chamada IP (marcar %s)</string>
+    <string name="menu_dial_ip_number">Marcar chamada IP</string>
     <string name="delete_contact_calllog_title">Eliminar registos de chamadas?</string>
     <string name="delete_unknown_contact_calllog_title">Eliminar registos de chamadas?</string>
     <string name="callrecordview_menu_batch_delete">Eliminar registos</string>

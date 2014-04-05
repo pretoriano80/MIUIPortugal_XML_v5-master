@@ -46,8 +46,8 @@
         <item quantity="one">" pasta"</item>
     </plurals>
     <plurals name="Nitems_batch_selection">
-        <item quantity="other">Selecionados %d ficheiros</item>
-        <item quantity="one">Selecionou %d ficheiros</item>
+        <item quantity="other">%d selecionados</item>
+        <item quantity="one">%d selecionado</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
         <item quantity="other">%d músicas no cartão SD</item>
@@ -90,7 +90,7 @@
         <item quantity="one">1 música foi eliminadas</item>
     </plurals>
     <plurals name="NTrackstoDownload">
-        <item quantity="other">%d mísicas que serão transferidas</item>
+        <item quantity="other">%d músicas que serão transferidas</item>
         <item quantity="one">música que será transferida</item>
     </plurals>
     <plurals name="Nexpired_remind">

@@ -91,10 +91,10 @@
     </string-array>
     <string-array name="score_suggests">
         <item>Active a Lista Negra</item>
-        <item>Por favor active o controle de permissões das aplicações</item>
-        <item>Por favor elimine a lixeira</item>
-        <item>Por favor actualize as definições de vírus</item>
-        <item>Por favor verifique o número de aplicações em segundo plano…</item>
+        <item>Active o controle de permissões das aplicações</item>
+        <item>Elimine o lixo</item>
+        <item>Actualize as definições de vírus</item>
+        <item>Estão a correr muitas aplicações em segundo plano…</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
@@ -705,7 +705,7 @@
     <string-array name="screen_key_long_press_action">
         <item>Nenhum</item>
         <item>Iniciar painel recente</item>
-        <item>Iniciar assistente de Voz</item>
+        <item>Iniciar assistente</item>
         <item>Iniciar Google agora</item>
         <item>Fechar aplicação actual</item>
     </string-array>

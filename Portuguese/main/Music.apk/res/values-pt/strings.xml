@@ -193,9 +193,9 @@
     <string name="new_equalizer_name_template">Novo perfil do EQ %d</string>
     <string name="custom">Personalizar</string>
     <string name="id3_modify_confirm_text">Guardar</string>
-    <string name="id3_modify_confirm_check">Confirmar alterações na Tag ID3?</string>
-    <string name="modify_id3_for_list">As músicas na atual lista de informações da Tag ID3 serão editadas</string>
-    <string name="modify_id3_for_selected">As músicas selecionadas terão suas Tags ID3  editadas</string>
+    <string name="id3_modify_confirm_check">Confirmar alterações</string>
+    <string name="modify_id3_for_list">A informação das músicas selecionadas serão alterados.</string>
+    <string name="modify_id3_for_selected">A informação das músicas selecionadas serão alterados.</string>
     <string name="track_edit">Música</string>
     <string name="artist_edit">Artista</string>
     <string name="album_edit">Álbum</string>
@@ -205,7 +205,7 @@
     <string name="play_all">Reproduzir tudo</string>
     <string name="click_to_shuffle">Toque para reproduzir aleatoriamente</string>
     <string name="streamloadingtext">Ligar a %s</string>
-    <string name="playback_failed">Desculpe, o player não suporta este tipo de arquivo.</string>
+    <string name="playback_failed">Desculpe, o player não suporta este tipo de arquivo</string>
     <string name="playback_failed_by_bad_file">%s não pode ser executada</string>
     <string name="playback_failed_by_network">%s não pode ser executada, verifique suas definições de rede</string>
     <string name="playback_failed_no_title_by_bad_file">A música não pode ser executada. O player não suporta este tipo de arquivo ou o arquivo não existe.</string>
@@ -297,8 +297,8 @@
     <string name="high_quality">Alta qualidade</string>
     <string name="normal_quality">Boa qualidade</string>
     <string name="login_first">Primeiros tem que iniciar sessão na sua conta Xiaomi</string>
-    <string name="login">Entrar em</string>
-    <string name="payment_success">Pagamento efetuado</string>
+    <string name="login">Iniciar sessão</string>
+    <string name="payment_success">Pagamento efectuado</string>
     <string name="payment_fail">Pagamento falhado</string>
     <string name="pay_service_guide_new">Música de qualidade superior já está disponível</string>
     <string name="pay_service_guide_listen">Qualidade de fluxo</string>

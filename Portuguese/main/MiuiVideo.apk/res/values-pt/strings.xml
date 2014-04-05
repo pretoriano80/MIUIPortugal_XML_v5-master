@@ -23,7 +23,7 @@
     <string name="filter_media">Filtro</string>
     <string name="clear_history">Limpar histórico</string>
     <string name="clear_cache">Limpar imagem em cache</string>
-    <string name="clear_offline">Limpar cache de média quando desligado</string>
+    <string name="clear_offline">Limpar cache de média ao desligar</string>
     <string name="xiaomi_user">Utilizador Xiaomi</string>
     <string name="all">Todos</string>
     <string name="brief_intro">Sumário</string>
@@ -127,7 +127,7 @@
     <string name="updatedalready">Actualizado</string>
     <string name="mediaset">Séries</string>
     <string name="select_all">Selecionar tudo</string>
-    <string name="cancel_select_all">Cancelar selecionar tudo</string>
+    <string name="cancel_select_all">Cancelar tudo</string>
     <string name="login_tip_title">Iniciar sessão</string>
     <string name="login_tip_content">Tem que iniciar sessão na sua conta Xiaomi para sincronizar e actualizar tudo o que segue.</string>
     <string name="nologin_no_waitfornewset">Tem que iniciar sessão para ver tudo o que segue.</string>
@@ -156,7 +156,7 @@
     <string name="cant_connecting">Falha ao ligar ao servidor</string>
     <string name="live_loading_symbol"><CDATA>A carregar </CDATA></string>
     <string name="live_loading_to_be_play">A carregar…</string>
-    <string name="live_title">Livre</string>
+    <string name="live_title">Live</string>
     <string name="live_tabs_hot">Popular</string>
     <string name="live_tabs_all">Ver tudo</string>
     <string name="live_tabs_choice">Mão escolhida</string>
@@ -168,11 +168,11 @@
     <string name="button_show">Variedades</string>
     <string name="button_sport">Desportos</string>
     <string name="button_information">Informação</string>
-    <string name="be_living_status">Livre</string>
-    <string name="forecast_living_status">Transmissão em direto</string>
+    <string name="be_living_status">Live</string>
+    <string name="forecast_living_status">Transmissão em directo</string>
     <string name="start_time">hora de início</string>
     <string name="to_live_status">À espera que a transmissão inicie</string>
-    <string name="will_live_status">Livee</string>
+    <string name="will_live_status">Em directo</string>
     <string name="end_live_status">A tranamissão terminou</string>
     <string name="quarter_bell_alert_message">Após a reserva, receberá um lembrete antes do início do programa</string>
     <string name="quarter_bell_alert_message_cancel">Após o levantamento da reserva, não receberá um lembrete antes do início do programa</string>
