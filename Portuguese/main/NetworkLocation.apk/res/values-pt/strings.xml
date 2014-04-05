@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string name="app_label">Localização de Rede</string>
+    <string name="location_warning_title">Autorização de localização</string>
+    <string name="location_warning_message">"Permitir que o Serviço de localização Google recolha dados de localização anónimos."</string>
+    <string name="agree">Concordo</string>
+    <string name="disagree">Discordo</string>
+</resources>
