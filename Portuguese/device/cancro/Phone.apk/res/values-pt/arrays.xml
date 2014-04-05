@@ -11,6 +11,7 @@
         <item>@string/sip_call_options_entry_1</item>
         <item>@string/sip_call_options_entry_2</item>
         <item>@string/sip_call_options_entry_3</item>
+	</string-array>
         <item>@string/sip_call_options_wifi_only_entry_1</item>
         <item>@string/sip_call_options_entry_2</item>
         <item>@string/sip_call_options_entry_3</item>
