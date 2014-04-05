@@ -713,7 +713,6 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;amp;language={language}</item>
     </string-array>
-    <array name="bookmark_preloads">
         <item>@raw/favicon_google</item>
         <item>@raw/thumb_google</item>
         <item>@raw/favicon_picasa</item>
@@ -824,7 +823,6 @@
         <item>Só em Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    <string-array name="pref_data_preload_values">
         <item>@string/pref_data_preload_value_never</item>
         <item>@string/pref_data_preload_value_wifi_only</item>
         <item>@string/pref_data_preload_value_always</item>
@@ -834,7 +832,6 @@
         <item>Só em Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    <string-array name="pref_link_prefetch_values">
         <item>@string/pref_link_prefetch_value_never</item>
         <item>@string/pref_link_prefetch_value_wifi_only</item>
         <item>@string/pref_link_prefetch_value_always</item>
@@ -844,7 +841,6 @@
         <item>Só em Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    <string-array name="pref_video_preload_values">
         <item>@string/pref_video_preload_value_never</item>
         <item>@string/pref_video_preload_value_wifi_only</item>
         <item>@string/pref_video_preload_value_always</item>
@@ -943,7 +939,6 @@
         <item>UTF-8</item>
         <item>http://suggestion.baidu.com/su?p=3&amp;amp;wd={searchTerms}</item>
     </string-array>
-    <array name="bookmark_preloads_zh">
         <item>@raw/zh_favicon_xiaomi_bbs</item>
         <item>@raw/zh_thumb_xiaomi_bbs</item>
         <item>@raw/zh_favicon_baidu</item>
@@ -1173,7 +1168,6 @@
         <item>0</item>
         <item>1</item>
     </string-array>
-    <string-array name="pref_images_preload_values">
         <item>@string/pref_images_preload_value_never</item>
         <item>@string/pref_images_preload_value_wifi_only</item>
         <item>@string/pref_images_preload_value_always</item>
