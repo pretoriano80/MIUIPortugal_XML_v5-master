@@ -202,7 +202,6 @@
         <item>CHAP</item>
         <item>PAP or CHAP</item>
     </string-array>
-    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
