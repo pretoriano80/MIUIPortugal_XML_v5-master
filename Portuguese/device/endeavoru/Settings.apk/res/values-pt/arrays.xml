@@ -335,6 +335,7 @@
         <item>Ciano</item>
         <item>Branco</item>
         <item>Roxo</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nenhum</item>
         <item>Iniciar painel recente</item>
