@@ -101,9 +101,6 @@
     <string name="transfer_menu_open">Abrir</string>
     <string name="transfer_menu_clear">Limpar da lista</string>
     <string name="transfer_clear_dlg_title">Limpar</string>
-    <string name="bluetooth_share_file_name">Nome do ficheiro</string>
-    <string name="sharedUserId" />
-    <string name="process" />
     <string name="miui_transfer_history_title">Transferências Bluetooth</string>
     <string name="miui_transfer_inbound_title">Entrada</string>
     <string name="miui_transfer_outbound_title">Saída</string>
