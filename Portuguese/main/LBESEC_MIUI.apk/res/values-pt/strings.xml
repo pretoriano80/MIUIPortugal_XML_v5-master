@@ -19,7 +19,7 @@
     <string name="HIPS_Perm_SendSMS_Hint">%1$s aplicações podem enviar SMS</string>
     <string name="HIPS_Perm_SendMMS">Enviar MMS</string>
     <string name="HIPS_Perm_SendMMS_Desc">Enviar directamente MMS</string>
-    <string name="HIPS_Perm_SendMMS_Hint">%1$ Deve ter o software correto para enviar MMS</string>
+    <string name="HIPS_Perm_SendMMS_Hint">%1$s Deve ter o software correto para enviar MMS</string>
     <string name="HIPS_Perm_Call">Chamadas telefónicas</string>
     <string name="HIPS_Perm_Call_Desc">Fazer, responder ou desligar chamadas directamente</string>
     <string name="HIPS_Perm_Call_Hint">%1$s aplicações que podem fazer, atender ou desligar chamadas</string>
