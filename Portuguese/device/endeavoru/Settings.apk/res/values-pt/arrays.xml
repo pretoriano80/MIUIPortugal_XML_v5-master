@@ -133,7 +133,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporariamente ligações fracas</item>
+        <item>Evitar temporáriamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -180,7 +180,7 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
-        <item>Só quando ligado a</item>
+        <item>Só quando ligado na tomada</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
@@ -265,7 +265,7 @@
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predifinido</item>
-        <item>Nenhum processo em fundo</item>
+        <item>Não há processos em segundo plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
         <item>No máximo 3 processos</item>
