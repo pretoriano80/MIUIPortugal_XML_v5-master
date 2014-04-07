@@ -57,12 +57,6 @@
     <string name="notification_to_account">para %1$s</string>
     <string name="notification_multiple_new_messages_fmt">%1$d novas mensagens</string>
     <string name="account_name_display_all">Todas as contas</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_trash">Trash</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_junk">Spam</string>
     <string name="mailbox_name_display_inbox">Caixa de entrada</string>
     <string name="mailbox_name_display_outbox">Caixa de saída</string>
     <string name="mailbox_name_display_drafts">Rascunhos</string>

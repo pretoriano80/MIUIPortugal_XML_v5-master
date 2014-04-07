@@ -147,7 +147,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Evitar temporáriamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione o botão</item>
@@ -402,7 +402,7 @@ dispositivo 2.MI 2 de armazenamento móvel irá aparecer no seu computador"</ite
         <item>"Para o Windows Vista ou versões mais recentes,
 o leitor de música MI 2 irá aparecer no seu computador"</item>
         <item>"Se instalar este driver
-Computador vai auto abrir e ler dados do telefone"</item>
+O computador vai auto abrir e ler dados do telefone."</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
