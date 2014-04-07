@@ -101,9 +101,6 @@
     <string name="transfer_menu_open">Abrir</string>
     <string name="transfer_menu_clear">Limpar da lista</string>
     <string name="transfer_clear_dlg_title">Limpar</string>
-    <string name="bluetooth_share_file_name">Nome do ficheiro</string>
-    <string name="sharedUserId" />
-    <string name="process" />
     <string name="map_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
     <string name="map_acceptance_dialog_header">Phone folder access</string>
     <string name="map_session_key_dialog_title">@string/pbap_session_key_dialog_title</string>
