@@ -154,7 +154,6 @@
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
     </string-array>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione o botão</item>
         <item>PIN de dispositivo ponto a ponto</item>
