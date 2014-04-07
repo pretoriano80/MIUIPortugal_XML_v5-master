@@ -101,9 +101,6 @@
     <string name="transfer_menu_open">Abrir</string>
     <string name="transfer_menu_clear">Limpar da lista</string>
     <string name="transfer_clear_dlg_title">Limpar</string>
-    <string name="bluetooth_share_file_name">Nome do ficheiro</string>
-    <string name="sharedUserId" />
-    <string name="process" />
     <string name="pbap_session_key_dialog_title">Type session key for %1$s</string>
     <string name="pbap_session_key_dialog_header">Bluetooth session key required</string>
     <string name="pbap_acceptance_timeout_message">There was time out to accept connection with %1$s</string>
