@@ -7,12 +7,6 @@
         <item>Mensagem de texto</item>
         <item>Alarme</item>
     </string-array>
-    <integer-array name="reminder_methods_values">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-    </integer-array>
     <string-array name="reminder_minutes_labels">
         <item>Nenhum</item>
         <item>0 minutos</item>
@@ -25,18 +19,6 @@
         <item>2 dias</item>
         <item>1 semana</item>
     </string-array>
-    <integer-array name="reminder_minutes_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </integer-array>
     <string-array name="preferences_default_reminder_labels">
         <item>None</item>
         <item>0 minutos</item>
@@ -49,29 +31,11 @@
         <item>2 dias</item>
         <item>1 semana</item>
     </string-array>
-    <string-array name="preferences_default_reminder_values">
-        <item>-1</item>
-        <item>0</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>30</item>
-        <item>60</item>
-        <item>1440</item>
-        <item>2880</item>
-        <item>10080</item>
-    </string-array>
     <string-array name="preferences_week_start_day_labels">
         <item>Localidade padrão</item>
         <item>Sábado</item>
         <item>Domingo</item>
         <item>Segunda</item>
-    </string-array>
-    <string-array name="preferences_week_start_day_values">
-        <item>-1</item>
-        <item>7</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="timezone_labels">
         <item>Ilhas Marshall</item>
@@ -250,11 +214,6 @@
         <item>Disponível</item>
         <item>Tentativa</item>
     </string-array>
-    <integer-array name="availability_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="visibility">
         <item>Padrão</item>
         <item>Privado</item>
@@ -278,11 +237,6 @@
         <item>Este e eventos futuros</item>
         <item>Todos os eventos</item>
     </string-array>
-    <integer-array name="delete_repeating_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </integer-array>
     <string-array name="delete_repeating_labels_no_selected">
         <item>Este &amp;amp; eventos futuros</item>
         <item>Todos os eventos</item>
@@ -307,11 +261,6 @@
         <item>Sempre</item>
         <item>Apenas quando silêncio</item>
         <item>Nunca</item>
-    </string-array>
-    <string-array name="prefValues_alerts_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
     </string-array>
     <string-array name="widget_style_list">
         <item>Preto transparente</item>
