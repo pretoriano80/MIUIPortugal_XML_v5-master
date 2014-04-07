@@ -427,7 +427,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>sRGB</item>
         <item>Nativo</item>
     </string-array>
-    </string-array>
     <string-array name="change_security_lock_picker_key">
         <item>facial</item>
         <item>pattern</item>
