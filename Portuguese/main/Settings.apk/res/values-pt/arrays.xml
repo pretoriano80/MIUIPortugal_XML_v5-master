@@ -114,7 +114,6 @@
         <item>Alto</item>
         <item>Muito alto</item>
     </string-array>
-    </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
         <item>Voici un échantillon de synthèse vocale en français.</item>

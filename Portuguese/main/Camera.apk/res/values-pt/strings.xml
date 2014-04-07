@@ -184,7 +184,6 @@
     <string name="pref_camera_preview_value_2000">2000</string>
     <string name="pref_camera_preview_value_5000">5000</string>
     <string name="pref_camera_antibanding_title">Anti-banding</string>
-    <string name="pref_camera_antibanding_default">50hz</string>
     <string name="pref_camera_antibanding_entry_0">Off</string>
     <string name="pref_camera_antibanding_entry_2">60 Hz</string>
     <string name="pref_camera_antibanding_entry_3">Auto</string>
@@ -328,7 +327,6 @@ Saia da vista por um momento"</string>
     <string name="pref_camera_movie_solid_title">Filme solido</string>
     <string name="pref_camera_movie_solid_entry_off">Off</string>
     <string name="pref_camera_movie_solid_entry_on">On</string>
-    <string name="pref_camera_movie_solid_value_off">off</string>
     <string name="share">Partilhar</string>
     <string name="send">Enviar</string>
     <string name="Import">Importar</string>
