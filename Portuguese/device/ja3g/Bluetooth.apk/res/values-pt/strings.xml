@@ -104,9 +104,6 @@
     <string name="transfer_menu_open">Abrir</string>
     <string name="transfer_menu_clear">Eliminar da lista</string>
     <string name="transfer_clear_dlg_title">Eliminar</string>
-    <string name="bluetooth_share_file_name">Nome do ficheiro</string>
-    <string name="sharedUserId" />
-    <string name="process" />
     <string name="bluetooth_security_mode_disable">A política de segurança limita o uso de ligação Bluetooth</string>
     <string name="authdlg_service_sap">%1$s está a solicitar permissão para se ligar para aceder ao cartão SIM</string>
     <string name="bluetooth_yes">Sim</string>

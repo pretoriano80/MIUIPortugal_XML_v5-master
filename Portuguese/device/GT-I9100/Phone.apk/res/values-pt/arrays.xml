@@ -12,7 +12,7 @@
         <item>CDMA w/o EvDo</item>
         <item>CDMA/EvDo auto</item>
         <item>GSM/WCDMA auto</item>
-        <item>WCDMA only</item>
+        <item>Apenas WCDMA</item>
         <item>Apenas GSM</item>
         <item>GSM/WCDMA preferida</item>
     </string-array>
