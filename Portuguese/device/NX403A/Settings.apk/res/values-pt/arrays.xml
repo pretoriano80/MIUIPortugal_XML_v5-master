@@ -429,8 +429,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>PIN</item>
         <item>Senha</item>
     </string-array>
-
-    </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Ligar automáticamente</item>
         <item>Ligar manual</item>
