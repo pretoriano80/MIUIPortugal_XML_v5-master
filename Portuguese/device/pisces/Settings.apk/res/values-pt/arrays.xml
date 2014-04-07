@@ -147,7 +147,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione o botão</item>
