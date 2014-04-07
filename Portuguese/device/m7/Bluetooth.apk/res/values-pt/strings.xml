@@ -105,12 +105,6 @@
     <string name="transfer_menu_open">@com.htc:string/va_open</string>
     <string name="transfer_menu_clear">Eliminar da lista</string>
     <string name="transfer_clear_dlg_title">@com.htc:string/va_clear</string>
-    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
-    <string name="sharedUserId" />
-    <string name="process" />
-    <string name="pbap_session_key_dialog_title">Digite a chave de sessão para %1$s</string>
-    <string name="pbap_session_key_dialog_header">Chave de sessão de Bluetooth necessária</string>
-    <string name="pbap_acceptance_timeout_message">Houve um tempo limite para aceitar a conexão com %1$s</string>
     <string name="pbap_authentication_timeout_message">Havia um tempo limite para a entrada da chave de sessão com %1$s</string>
     <string name="auth_notif_ticker">Solicitação de autenticação de OBEX</string>
     <string name="auth_notif_title">Chave de sessão</string>
