@@ -19,7 +19,7 @@
     <string name="now">Reiniciar agora</string>
     <string name="later">Reiniciar mais tarde</string>
     <string name="start_update">Iniciar a actualizar</string>
-    <string name="applying_update">A actualização%s</string>
+    <string name="applying_update">A actualizar %s</string>
     <string name="apply_update_fail">A actualização falhou</string>
     <string name="view_install_log">Ver registo de erro</string>
     <string name="send_install_log">Enviar registo de ​​erro</string>
@@ -39,7 +39,7 @@
     <string name="sdcard_has_no_space_dialog_body">Não há espaço suficiente no seu cartão SD.</string>
     <string name="sdcard_has_no_space_dialog_title">Não há espaço suficiente</string>
     <string name="current_version_text">Versão actual:</string>
-    <string name="current_version_update_monthly_build">Versão atual (Actualizar para versão mensal)</string>
+    <string name="current_version_update_monthly_build">Versão actual (Actualizar para a versão mensal)</string>
     <string name="apply_update_dialog_update_button">Actualizar</string>
     <string name="apply_update_dialog_cancel_button">Cancelar</string>
     <string name="cancel_download_buton_text">Cancelar</string>
@@ -53,7 +53,7 @@
     <string name="file_not_found_error_message">Ficheiro solicitado não encontrado no servidor Xiaomi.</string>
     <string name="apply_upload_info_message_manually">Depoia de reiniciar, pode entrar em modo de recuperação e aplicar a actualização (%s) manualmente. Se deseja fazer backup, deve fazê-lo antes de aplicar a actualização.</string>
     <string name="apply_upload_info_message">Para aplicar a actualização e reiniciar o telefone, toque de actualização.</string>
-    <string name="apply_buddy_update_info_message">Quando toca em actualização, o seu telefone irá iniciar a actualização imediatamente.</string>
+    <string name="apply_buddy_update_info_message">Quando seleciona em actualização, o seu telefone irá iniciar imediatamente a actualização.</string>
     <string name="system_backup_button_text">Fazer backup</string>
     <string name="system_backup_cancel_text">Iniciar a actualização</string>
     <string name="system_backup_ok_text">Backup</string>
@@ -94,7 +94,7 @@
     <string name="boot_recovery">Reiniciar em Recovery</string>
     <string name="applying_rom_message">A aplicar a actualização…</string>
     <string name="loading">A ligar à OTA MIUI Portugal…</string>
-    <string name="install_rom_from_sd">Instalar do cartão SD</string>
+    <string name="install_rom_from_sd">Instalar do armazenamento interno</string>
     <string name="download_current_rom">Transferir ROM mais recente</string>
     <string name="no_proper_updates">Não foram encontradas actualizações para a versão actualmente instalada</string>
     <string name="sign_in_info">"Estado da actualização é %1$s
@@ -105,8 +105,8 @@ Depois de %2$s utilizadores terem aderido ao MIUI %3$s"</string>
 Depois de %2$s utilizadores terem aderido ao MIUI %3$s"</string>
     <string name="sign_in_add_account">Active a conta Xiaomi</string>
     <string name="sign_in_add_account_helper">Se este telefone não tiver uma conta activa MIUI, adicione um utilizador para receber pontos (não aplicável em PT)</string>
-    <string name="my_rank">Classificação de atualização:</string>
-    <string name="check_update">Verificar atualização</string>
+    <string name="my_rank">Classificação de actualização:</string>
+    <string name="check_update">Verificar actualização</string>
     <string name="move_data_to_sdcard_title">Mover dados para o cartão SD</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Não há espaço suficiente no cartão SD para mover DMB% dos dados</string>
     <string name="moving_data_to_sdcard_message">Dados estão a ser transferidos para o cartão SD</string>
@@ -114,19 +114,19 @@ Depois de %2$s utilizadores terem aderido ao MIUI %3$s"</string>
     <string name="finish_download">Transferência completa</string>
     <string name="updater_finish_download">A transferência da ROM foi concluída</string>
     <string name="install_whole_rom">É recomendada a transferência da ROM completa</string>
-    <string name="check_update_policy">Verifique as configurações de atualização</string>
-    <string name="check_update_when_wifi_available">Atualizar só com Wi-Fi</string>
-    <string name="update_monthly_build_only">Atualizar só versão mensal</string>
+    <string name="check_update_policy">Verifique as configurações de actualização</string>
+    <string name="check_update_when_wifi_available">Actualizar só com Wi-Fi</string>
+    <string name="update_monthly_build_only">Actualizar só versão mensal</string>
     <string name="install_file_explorer">Instale o explorador de ficheiros sff</string>
-    <string name="share_update">Partilhar informações de atualização do sistema</string>
+    <string name="share_update">Partilhar informações de actualização do sistema</string>
     <string name="share">Partilhar</string>
-    <string name="share_update_content_unsign">Eu atualizei a MIUI para a versão %1$s! Para alterações detalhadas por favor visite %2$s</string>
-    <string name="share_update_content_sign">Eu atualizei a MIUI para a versão %1$s! A minha classificação de atualização é de %2$s. Para alterações detalhadas por favor visite %3$s</string>
+    <string name="share_update_content_unsign">Eu actualizei a MIUI para a versão %1$s! Para alterações detalhadas por favor visite %2$s</string>
+    <string name="share_update_content_sign">Eu actualizei a MIUI para a versão %1$s! A minha classificação de actualização é de %2$s. Para alterações detalhadas por favor visite %3$s</string>
     <string name="share_sina">Publicar via Sina Weibo</string>
     <string name="share_qq">Publicar via Tencent weibo</string>
     <string name="install_qq">Instalar Tencent weibo</string>
-    <string name="upgrade_kernel">Versão do kernel atual precisa de atualização</string>
-    <string name="upgrade_kernel_msg">"Versão do kernel atual não coincide com a ROM MIUI.Precisa de atualizar o kernel manualmente. Consulte o tutorial de atualização:
+    <string name="upgrade_kernel">Versão do kernel actual precisa de actualização</string>
+    <string name="upgrade_kernel_msg">"Versão do kernel actual não coincide com a ROM MIUI.Precisa de actualizar o kernel manualmente. Consulte o tutorial de actualização:
 "</string>
     <string name="view_upgrade_tutorial">Ver tutorial</string>
     <string name="upgrade_close">Fechar</string>
@@ -151,8 +151,8 @@ Depois de %2$s utilizadores terem aderido ao MIUI %3$s"</string>
     <string name="worst_update">Pior actualização</string>
     <string name="expect">Expectativas</string>
     <string name="my_update_feel">O que é que eu acho</string>
-    <string name="my_best_update">Melhor atualização que eu escolhi</string>
-    <string name="my_worst_update">Pior atualização</string>
+    <string name="my_best_update">Melhor actualização que eu escolhi</string>
+    <string name="my_worst_update">Pior actualização</string>
     <string name="my_expect_update">Expectativas</string>
     <string name="get_update_error">Falha ao obter informações de actualização</string>
     <string name="active_xiaomi_account_title">Conta Xiaomi ativa</string>

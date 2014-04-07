@@ -416,7 +416,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Ligar manualmente</item>
         <item>Perguntar sempre</item>
     </string-array>
-    </array>
     <string-array name="network_use_entry">
         <item>Only Home</item>
         <item>Home + Roaming</item>
