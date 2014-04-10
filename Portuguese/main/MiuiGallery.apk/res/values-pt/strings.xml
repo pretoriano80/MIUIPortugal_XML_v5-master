@@ -238,7 +238,7 @@ albúm em qualquer lugar.
     <string name="cloud_owner_album_share_guide">Pode partilhar este álbum com os amigos</string>
     <string name="view_sharers">Ver partilhas</string>
     <string name="open_single_image_failure">Falha ao carregar a imagem.</string>
-    <string name="damaged_file">O arquivo corrompido</string>
+    <string name="damaged_file">O arquivo está corrompido</string>
     <string name="must_pick_file">Selecione uma imagem</string>
     <string name="set_lock_or_wallpaper">Definir como Papel de Parede</string>
     <string name="set_lock_and_wallpaper">Definir papel de parede…</string>
