@@ -145,9 +145,9 @@
     <string name="autofill_profile_editor_company_name">Nome da empresa:</string>
     <string name="autofill_profile_editor_address_line_1">Morada linha 1</string>
     <string name="autofill_profile_editor_address_line_1_hint">Rua, Código Postal</string>
-    <string name="autofill_profile_editor_address_line_2">Morada linha 2:</string>
+    <string name="autofill_profile_editor_address_line_2">Morada linha 2</string>
     <string name="autofill_profile_editor_address_line_2_hint">Apartamento, suíte, empresa, edifício, andar, etc.</string>
-    <string name="autofill_profile_editor_city">Cidade:</string>
+    <string name="autofill_profile_editor_city">Cidade/Município</string>
     <string name="autofill_profile_editor_state">Estado/Concelho/Região</string>
     <string name="autofill_profile_editor_zip_code">Código Postal</string>
     <string name="autofill_profile_editor_country">País</string>
@@ -550,14 +550,6 @@
     <string name="download_video_menu_dialog_summary">Tem que instalar a aplicação de vídeo antes de utilizar esta função</string>
     <string name="download_video_menu_dialog_positive_txt">A instalar</string>
     <string name="download_video_menu_video_version_low">Tem que actualizar a aplicação de vídeo</string>
-    <string name="common_use_phrase_bottom_bar_www_txt">www.</string>
-    <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
-    <string name="common_use_phrase_bottom_bar_cn_txt">.pt</string>
-    <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
-    <string name="common_use_phrase_bottom_bar_point_txt">.</string>
-    <string name="common_use_phrase_bottom_bar_slash_txt">/</string>
-    <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
-    <string name="common_use_phrase_bottom_bar_org_txt">.org</string>
     <string name="common_use_phrase_bottom_bar_paste_txt">Colar</string>
     <string name="pref_accessibility_url_shortcut_enter_title">Entrada rápida de URL</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">Podem ser inseridas combinações de letras na barra de endereços</string>
@@ -593,7 +585,7 @@
     <string name="quicklinks_group_default_subtitle">Vazio</string>
     <string name="add_quicklink_to_popular">Adicionar à página inicial</string>
     <string name="quicklink_saved_before">Este site foi adicionado</string>
-    <string name="network_alert_message">A rede Wi-Fi não está disponível,quer usar a rede móvel?</string>
+    <string name="network_alert_message">A rede Wi-Fi não está disponível, usar a rede móvel?</string>
     <string name="yes">Sim</string>
     <string name="no">Não</string>
     <string name="webapp_app_name">Light Web Apps Store</string>

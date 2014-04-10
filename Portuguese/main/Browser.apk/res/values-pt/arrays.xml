@@ -4,11 +4,10 @@
     <string-array name="pref_content_plugins_choices">
         <item>Sempre ligado</item>
         <item>Pergunte-me primeiro</item>
-        <item>Desligado</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>O navegador vai abrir nesta página</item>
-        <item>Personalizado</item>
+        <item>Página de início padrão</item>
+        <item>Personalizar</item>
     </string-array>
     <string-array name="pref_text_size_choices">
         <item>Muito pequeno</item>

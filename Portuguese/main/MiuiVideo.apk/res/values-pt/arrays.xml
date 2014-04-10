@@ -16,7 +16,7 @@
         <item>Local</item>
     </string-array>
     <string-array name="series_detail_tabs">
-        <item>Drama</item>
+        <item>Episódio</item>
         <item>Introdução</item>
     </string-array>
 </resources>
