@@ -72,9 +72,9 @@ Tentativa feita: %s."</string>
     <string name="service_message_not_found">Mensagem expirou ou não está disponível</string>
     <string name="service_network_problem">Não foi possível enviar devido a um problema de rede</string>
     <string name="invalid_recipient_message">Corrija os destinatários ou eles não receberão a mensagem.</string>
-    <string name="cannot_send_message">Impossível enviar a mensagem</string>
+    <string name="cannot_send_message">É impossível enviar a mensagem</string>
     <string name="cannot_send_message_reason">A sua mensagem não tem destinatários válidos.</string>
-    <string name="cannot_forward_drm_obj">O objeto DRM incluído na mensagem não pode ser reencaminhado.</string>
+    <string name="cannot_forward_drm_obj">O objecto DRM incluído na mensagem não pode ser reencaminhado.</string>
     <string name="converting_to_picture_message">A converter para mensagem multimédia…</string>
     <string name="converting_to_text_message">A converter para mensagem de texto…</string>
     <string name="cannot_add_slide_anymore">Impossível adicionar mais slides.</string>
@@ -95,7 +95,7 @@ Tentativa feita: %s."</string>
     <string name="duration_zero">A duração deve ser maior que 0 segundos</string>
     <string name="secs">secs</string>
     <string name="menu_view_contact">Ver contacto</string>
-    <string name="hidden_sender_address">Esconder endereço do remetente</string>
+    <string name="hidden_sender_address">Ocultar endereço do remetente</string>
     <string name="yes">OK</string>
     <string name="no">Cancelar</string>
     <string name="set">Definir</string>
@@ -111,9 +111,6 @@ Tentativa feita: %s."</string>
     <string name="pref_title_sms_delete">Limite de texto da mensagem</string>
     <string name="pref_title_mms_delete">Limite de texto da MMS</string>
     <string name="pref_messages_to_save">Defenir o número de mensagens a guardar</string>
-    <string name="prefDefault_vibrateWhen">nunca</string>
-    <string name="prefDefault_vibrate_true">sempre</string>
-    <string name="prefDefault_vibrate_false">nunca</string>
     <string name="pref_title_mms_auto_retrieval">Auto receber MMS</string>
     <string name="pref_summary_mms_auto_retrieval">Receber automaticamente MMS</string>
     <string name="pref_title_mms_retrieval_during_roaming">Receber automaticamente em roaming</string>
@@ -247,7 +244,7 @@ Tentativa feita: %s."</string>
     <string name="conversation">Mensagens</string>
     <string name="bookmark">Favoritos</string>
     <string name="festival">Respostas rápidas</string>
-    <string name="add_smiley">Sorrir</string>
+    <string name="add_smiley">Adicionar sorrisos</string>
     <string name="add_bookmark">Favoritos</string>
     <string name="add_contact">Contacto</string>
     <string name="add_nickname">Apelido</string>
@@ -310,7 +307,7 @@ Tentativa feita: %s."</string>
     <string name="pref_title_new_message_popup">Notificações pop-up</string>
     <string name="pref_summary_new_message_popup">Mostrar pop-ups quando recebe uma nova mensagem</string>
     <string name="pref_summary_new_message_popup_when_secure">Não há notificações pop-up no modo Convidado</string>
-    <string name="pref_title_wake_up_screen">Despertar ecrã</string>
+    <string name="pref_title_wake_up_screen">Despertar o ecrã</string>
     <string name="pref_summary_wake_up_screen">Ligar ecrã quando é recebida uma nova mensagem</string>
     <string name="pref_title_delivery_reports">Relatórios de entrega</string>
     <string name="pref_summary_delivery_reports">Pedir relatório de entrega por cada mensagem enviada</string>
@@ -461,7 +458,7 @@ Tentativa feita: %s."</string>
     <string name="invalid_private_contact">Contacto privado inválido</string>
     <string name="sp_conversation_title">Notificação de mensagens</string>
     <string name="title_collapse_sp_messages">Mensagens do aperador de rede</string>
-    <string name="pref_collapse_sp_messages_summary">Mensagem do operador de rede na mesma conversa</string>
+    <string name="pref_collapse_sp_messages_summary">Mensagem do operador da rede na mesma conversa</string>
     <string name="sp_mark_as_read_title">Marcar todas as mensagens como lidas</string>
     <string name="sp_mark_as_read">Marcar todas as mensagens como lidas?</string>
     <string name="sp_mark_as_read_progress">A marcar todas as mensagens como lidas…</string>
@@ -471,8 +468,8 @@ Tentativa feita: %s."</string>
     <string name="toast_feedback_max">Só pode enviar 3 relatórios por dia</string>
     <string name="toast_description_required">Não pode enviar uma mensagem em branco</string>
     <string name="pref_key_mx_feedback">Enviar comentário</string>
-    <string name="pref_summary_mx_feedback">Enviar bugs e enviar comentários directamente à Xiaomi</string>
-    <string name="feedback_description_hint">Escreva seu comentário aqui</string>
+    <string name="pref_summary_mx_feedback">Enviar erros e enviar comentários directamente à Xiaomi</string>
+    <string name="feedback_description_hint">Escreva aqui o seu comentário</string>
     <string name="feedback_submit">Enviar comentário</string>
-    <string name="confirm_send_mms">Um dos seus destinatários inclui um endereço de e-mail. Esta mensagem será enviada como uma mensagem MMS, o que pode resultar em custos adicionais nasua operadora.</string>
+    <string name="confirm_send_mms">Um dos seus destinatários inclui um endereço de e-mail. Esta mensagem será enviada como uma mensagem MMS, o que pode resultar em custos adicionais na sua operadora.</string>
 </resources>
