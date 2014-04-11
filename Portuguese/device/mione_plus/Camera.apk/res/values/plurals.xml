@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <plurals name="delete_selection">
+        <item quantity="other">Eliminar arquivos selecionados?</item>
+        <item quantity="one">Eliminar arquivo selecionado?</item>
+    </plurals>
+</resources>

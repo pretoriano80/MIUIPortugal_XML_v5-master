@@ -106,58 +106,58 @@
     <string name="yesterday">Ontem</string>
     <string name="today">Hoje</string>
     <string name="tomorrow">Amanhã</string>
-    <string name="hour_minute_24" formatted="false">%-kh%M</string>
-    <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
-    <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %^p</string>
+    <string name="hour_minute_24" formatted="false">%H:%M</string>
+    <string name="hour_minute_ampm" formatted="false">%-l:%M%p</string>
+    <string name="hour_minute_cap_ampm" formatted="false">%-l:%M%^p</string>
     <string name="twelve_hour_time_format">h:mm a</string>
-    <string name="twenty_four_hour_time_format">"H'h'mm"</string>
-    <string name="numeric_date" formatted="false">%d/%m/%Y</string>
-    <string name="numeric_date_format">dd/MM/yyyy</string>
+    <string name="twenty_four_hour_time_format">HH:mm</string>
+    <string name="numeric_date" formatted="false">%-m/%-e/%Y</string>
+    <string name="numeric_date_format">d/M/yyyy</string>
     <string name="numeric_date_template" formatted="false">%s/%s/%s</string>
-    <string name="month_day_year" formatted="false">%-e de %B de %Y</string>
-    <string name="time_of_day" formatted="false">%H:%M:%S</string>
-    <string name="date_and_time" formatted="false">%H:%M:%S %-e de %b de %Y</string>
-    <string name="date_time">%2$s %1$s</string>
-    <string name="time_date">%1$s %3$s</string>
-    <string name="abbrev_month_day_year" formatted="false">%-e de %b de %Y</string>
-    <string name="month_day" formatted="false">%-e de %B</string>
+    <string name="month_day_year" formatted="false">%B %-e, %Y</string>
+    <string name="time_of_day" formatted="false">%-l:%M:%S %p</string>
+    <string name="date_and_time" formatted="false">%b %-e, %Y, %-l:%M:%S %p</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="time_date">%1$s, %3$s</string>
+    <string name="abbrev_month_day_year" formatted="false">%b %-e, %Y</string>
+    <string name="month_day" formatted="false">%B %-e</string>
     <string name="month">%-B</string>
-    <string name="month_year" formatted="false">%B de %Y</string>
-    <string name="abbrev_month_day" formatted="false">%-e de %b</string>
-    <string name="abbrev_month">%b</string>
-    <string name="abbrev_month_year" formatted="false">%b de %Y</string>
-    <string name="time1_time2">%1$s - %2$s</string>
-    <string name="date1_date2">%2$s - %5$s</string>
-    <string name="numeric_md1_md2">%3$s/%2$s - %8$s/%7$s</string>
-    <string name="numeric_wday1_md1_wday2_md2">%1$s, %3$s/%2$s - %6$s, %8$s/%7$s</string>
-    <string name="numeric_mdy1_mdy2">%3$s/%2$s/%4$s - %8$s/%7$s/%9$s</string>
-    <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %3$s/%2$s/%4$s - %6$s, %8$s/%7$s/%9$s</string>
-    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s, %3$s/%2$s/%4$s - %10$s %6$s, %8$s/%7$s/%9$s</string>
-    <string name="numeric_md1_time1_md2_time2">%5$s %3$s/%2$s - %10$s %8$s/%7$s</string>
-    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%5$s %1$s, %3$s/%2$s - %10$s %6$s, %8$s/%7$s</string>
-    <string name="numeric_mdy1_time1_mdy2_time2">%5$s %3$s/%2$s/%4$s - %10$s %8$s/%7$s/%9$s</string>
-    <string name="wday1_date1_time1_wday2_date2_time2">%3$s %1$s, %2$s - %6$s %4$s, %5$s</string>
-    <string name="wday1_date1_wday2_date2">%1$s, %2$s - %4$s, %5$s</string>
-    <string name="date1_time1_date2_time2">%3$s %2$s - %6$s %5$s</string>
-    <string name="time_wday_date">%1$s %2$s, %3$s</string>
+    <string name="month_year" formatted="false">%B %Y</string>
+    <string name="abbrev_month_day" formatted="false">%b %-e</string>
+    <string name="abbrev_month">%-b</string>
+    <string name="abbrev_month_year" formatted="false">%b %Y</string>
+    <string name="time1_time2">%1$s – %2$s</string>
+    <string name="date1_date2">%2$s – %5$s</string>
+    <string name="numeric_md1_md2">%2$s/%3$s – %7$s/%8$s</string>
+    <string name="numeric_wday1_md1_wday2_md2">%1$s, %2$s/%3$s – %6$s, %7$s/%8$s</string>
+    <string name="numeric_mdy1_mdy2">%2$s/%3$s/%4$s – %7$s/%8$s/%9$s</string>
+    <string name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %2$s/%3$s/%4$s – %6$s, %7$s/%8$s/%9$s</string>
+    <string name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s/%3$s/%4$s, %5$s – %6$s, %7$s/%8$s/%9$s, %10$s</string>
+    <string name="numeric_md1_time1_md2_time2">%2$s/%3$s, %5$s – %7$s/%8$s, %10$s</string>
+    <string name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s/%3$s, %5$s – %6$s, %7$s/%8$s, %10$s</string>
+    <string name="numeric_mdy1_time1_mdy2_time2">%2$s/%3$s/%4$s, %5$s – %7$s/%8$s/%9$s, %10$s</string>
+    <string name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s, %3$s – %4$s, %5$s, %6$s</string>
+    <string name="wday1_date1_wday2_date2">%1$s, %2$s – %4$s, %5$s</string>
+    <string name="date1_time1_date2_time2">%2$s, %3$s – %5$s, %6$s</string>
+    <string name="time_wday_date">%1$s, %2$s, %3$s</string>
     <string name="wday_date">%2$s, %3$s</string>
-    <string name="time_wday">%1$s %2$s</string>
-    <string name="same_year_md1_md2">%3$s de %2$s - %8$s de %7$s</string>
-    <string name="same_year_wday1_md1_wday2_md2">%1$s, %3$s de %2$s - %6$s, %8$s de %7$s</string>
-    <string name="same_year_md1_time1_md2_time2">%5$s %3$s de %2$s - %10$s %8$s de %7$s</string>
-    <string name="same_month_md1_time1_md2_time2">%5$s %3$s de %2$s - %10$s %8$s de %7$s</string>
-    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%5$s %1$s, %3$s de %2$s - %10$s %6$s, %8$s de %7$s</string>
-    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%5$s %1$s, %3$s de %2$s - %10$s %6$s, %8$s de %7$s</string>
-    <string name="same_year_mdy1_time1_mdy2_time2">%5$s %3$s de %2$s de %4$s - %10$s %8$s de %7$s de %9$s</string>
-    <string name="same_month_mdy1_time1_mdy2_time2">%5$s %3$s de %2$s de %4$s - %10$s %8$s de %7$s de %9$s</string>
-    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s, %3$s de %2$s de %4$s - %10$s %6$s, %8$s de %7$s de %9$s</string>
-    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%5$s %1$s, %3$s de %2$s de %4$s - %10$s %6$s, %8$s de %7$s de %9$s</string>
-    <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s de %2$s de %4$s - %6$s, %8$s de %7$s de %9$s</string>
-    <string name="same_month_md1_md2">%3$s-%8$s de %2$s</string>
-    <string name="same_month_wday1_md1_wday2_md2">%1$s, %3$s de %2$s - %6$s, %8$s de %7$s</string>
-    <string name="same_year_mdy1_mdy2">%3$s de %2$s - %8$s de %7$s de %9$s</string>
-    <string name="same_month_mdy1_mdy2">%3$s-%8$s de %2$s de %9$s</string>
-    <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %3$s de %2$s - %6$s, %8$s de %7$s de %9$s</string>
+    <string name="time_wday">%1$s, %2$s</string>
+    <string name="same_year_md1_md2">%2$s %3$s – %7$s %8$s</string>
+    <string name="same_year_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+    <string name="same_year_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+    <string name="same_month_md1_time1_md2_time2">%2$s %3$s, %5$s – %7$s %8$s, %10$s</string>
+    <string name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+    <string name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %2$s %3$s, %5$s – %6$s, %7$s %8$s, %10$s</string>
+    <string name="same_year_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+    <string name="same_month_mdy1_time1_mdy2_time2">%2$s %3$s, %4$s, %5$s – %7$s %8$s, %9$s, %10$s</string>
+    <string name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+    <string name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %2$s %3$s, %4$s, %5$s – %6$s, %7$s %8$s, %9$s, %10$s</string>
+    <string name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s, %4$s – %6$s, %7$s %8$s, %9$s</string>
+    <string name="same_month_md1_md2">%2$s %3$s – %8$s</string>
+    <string name="same_month_wday1_md1_wday2_md2">%1$s, %2$s %3$s – %6$s, %7$s %8$s</string>
+    <string name="same_year_mdy1_mdy2">%2$s %3$s – %7$s %8$s, %9$s</string>
+    <string name="same_month_mdy1_mdy2">%2$s %3$s – %8$s, %9$s</string>
+    <string name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %2$s %3$s – %6$s, %7$s %8$s, %9$s</string>
     <string name="short_format_month">%b</string>
     <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
     <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
@@ -285,10 +285,12 @@ Faltam tentativas :"</string>
     <string name="silent_mode_vibrate">Toque vibrar</string>
     <string name="silent_mode_ring">Toque ligado</string>
     <string name="shutdown_progress">A encerrar…</string>
+    <string name="reboot_progress">A reiniciar…</string>
     <string name="shutdown_confirm">O seu telefone será desligado.</string>
     <string name="shutdown_confirm_question">Deseja desligar?</string>
     <string name="reboot_safemode_title">Reiniciar em modo de segurança</string>
-    <string name="reboot_safemode_confirm">Quer reiniciar em modo de segurança? Isso irá desactivar todas as aplicações de terceiros que instalou. Estas serão restauradas quando reiniciar novamente.</string>
+    <string name="reboot_safemode_confirm">Quer reiniciar em modo de segurança? Isso irá desactivar todas as aplicações de terceiros que instalou. Elas serão restauradas quando reiniciar novamente.</string>
+    <string name="reboot_confirm">O telefone vai reiniciar.</string>
     <string name="recent_tasks_title">Recente</string>
     <string name="no_recent_tasks">Sem aplicações recentes.</string>
     <string name="global_actions">Opções do telefone</string>
@@ -395,7 +397,7 @@ Faltam tentativas :"</string>
     <string name="permlab_setAlwaysFinish">Fechar todos as aplicações em segundo plano</string>
     <string name="permdesc_setAlwaysFinish">Permite que uma aplicação controle se as actividades são sempre concluídas assim que vão para o segundo plano. Aplicações normais não precisam disso em momento algum.</string>
     <string name="permlab_batteryStats">Modificar estatísticas da bateria</string>
-    <string name="permdesc_updateBatteryStats">Permite a modificação das estatísticas de bateria recolhidas. Não deve ser usado por aplicações normais.</string>
+    <string name="permdesc_batteryStats">Permite a modificação das estatísticas de bateria coletadas. Não deve ser usado por aplicações normais.</string>
     <string name="permlab_backup">Controlar backup e restauro do sistema</string>
     <string name="permdesc_backup">Permite que a aplicação controle o mecanismo de backup e restauro do sistema. Não deve ser usado por aplicações normais.</string>
     <string name="permlab_confirm_full_backup">confirmar um backup completo ou operação de restauro</string>
@@ -834,7 +836,7 @@ Visite "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_reboot">Reiniciar</string>
     <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
     <string name="web_user_agent_target_content">"Móvel "</string>
-    <string name="js_dialog_title">A página em \"%s" mostra:</string>
+    <string name="js_dialog_title">A página em \"%s\" mostra:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Navegar para outra página?
 
@@ -1152,11 +1154,9 @@ para a conta %s."</string>
     <string name="no_matches">Sem resultados</string>
     <string name="find_on_page">Localizar na página</string>
     <string name="action_mode_done">Concluído</string>
-    <string name="progress_unmounting_internal">Desmontando armazenamento interno…</string>
     <string name="progress_unmounting">A desmontar cartão SD...</string>
-    <string name="progress_erasing_internal">Apagar memória interna…</string>
-    <string name="progress_erasing">Formatar o armazenamento USB…</string>
-    <string name="format_error">Falha ao eliminar cartão SD.</string>
+    <string name="progress_erasing">Formatar cartão USB…</string>
+    <string name="format_error">Falha ao formatar cartão SD.</string>
     <string name="media_bad_removal">Cartão SD foi removido antes de ser desmontado.</string>
     <string name="media_checking">O cartão SD está actualmente a ser analisado.</string>
     <string name="media_removed">O cartão SD foi removido.</string>

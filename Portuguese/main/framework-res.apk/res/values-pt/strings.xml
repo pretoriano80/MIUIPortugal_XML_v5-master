@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string name="cancel">Cancelar</string>
     <string name="copy">Copiar</string>
@@ -13,7 +14,7 @@
     <string name="ok">OK</string>
     <string name="paste">Colar</string>
     <string name="search_go">Pesquisar</string>
-    <string name="selectAll">Seleccionar tudo</string>
+    <string name="selectAll">Selecionar tudo</string>
     <string name="unknownName">(Desconhecido)</string>
     <string name="untitled">&lt;Sem tílulo></string>
     <string name="VideoView_error_button">OK</string>
@@ -207,9 +208,9 @@ Faltam tentativas :"</string>
     <string name="CnipMmi">A chamar número atual</string>
     <string name="CnirMmi">A chamar número restrito</string>
     <string name="ThreeWCMmi">Chamada com três participantes</string>
-    <string name="RuacMmi">Rejeição das chamadas indesejadas</string>
+    <string name="RuacMmi">Não atender chamadas indesejadas</string>
     <string name="CndMmi">A chamar número de entrega</string>
-    <string name="DndMmi">Não perturbe</string>
+    <string name="DndMmi">Não perturbar</string>
     <string name="CLIRDefaultOnNextCallOn">O ID do remetente assume o padrão de restrito. Próxima chamada: restrita</string>
     <string name="CLIRDefaultOnNextCallOff">O ID do remetente assume o padrão de restrito. Próxima chamada: não restrita</string>
     <string name="CLIRDefaultOffNextCallOn">O ID do remetente assume o padrão de não restrito. Próxima chamada: restrita</string>
@@ -271,13 +272,13 @@ Faltam tentativas :"</string>
     <string name="notification_title">Erro de início de sessão para %1$s</string>
     <string name="contentServiceSync">Sincronizar</string>
     <string name="contentServiceSyncNotificationTitle">Sincronizar</string>
-    <string name="contentServiceTooManyDeletesNotificationDesc">Muitas exclusões de %s.</string>
-    <string name="low_memory">O armazenamento do telefone está cheio! Elimine alguns ficheiros para libertar espaço.</string>
+    <string name="contentServiceTooManyDeletesNotificationDesc">Muitas eliminações de %s.</string>
+    <string name="low_memory">O armazenamento do telefone está cheio. Elimine alguns ficheiros para libertar espaço.</string>
     <string name="me">Eu</string>
     <string name="power_dialog">Opções do telefone</string>
     <string name="silent_mode">Modo silencioso</string>
-    <string name="turn_on_radio">Activar sem fios</string>
-    <string name="turn_off_radio">Desactivar sem fios</string>
+    <string name="turn_on_radio">Activar Wi-Fi</string>
+    <string name="turn_off_radio">Desactivar Wi-Fi</string>
     <string name="screen_lock">Bloquear ecrã</string>
     <string name="power_off">Desligar</string>
     <string name="silent_mode_silent">Toque desligado</string>
@@ -352,11 +353,11 @@ Faltam tentativas :"</string>
     <string name="permlab_getTasks">Recuperar aplicações em execução</string>
     <string name="permdesc_getTasks">Permite que a aplicação recupere as informações sobre tarefas em execução no momento ou recentemente. Pode permitir que aplicações maliciosas descubram informações particulares sobre outras aplicações.</string>
     <string name="permlab_getDetailedTasks">recuperar detalhes de aplicações em execução</string>
-    <string name="permdesc_getDetailedTasks">Permite que a aplicação recupere informações detalhadas sobre tarefas recentes e atuais. Aplicações maliciosas podem descobrir informações privadas sobre outras aplicações.</string>
+    <string name="permdesc_getDetailedTasks">Permite que a aplicação recupere informações detalhadas sobre tarefas recentes e actuais. Aplicações maliciosas podem descobrir informações privadas sobre outras aplicações.</string>
     <string name="permlab_reorderTasks">Reordenar as aplicações em uso</string>
     <string name="permdesc_reorderTasks">Permite que a aplicação mova as tarefas para o primeiro plano e para o plano de fundo. Esta aplicação pode fazer isso sem o seu contributo.</string>
     <string name="permlab_removeTasks">parar a execução das aplicações</string>
-    <string name="permdesc_removeTasks">Permite a uma aplicação remover tarefas e terminar as suas aplicações. Aplicações mal-intencionadas podem prejudicar o comportamento de outras.</string>
+    <string name="permdesc_removeTasks">Permite a uma aplicação eliminar tarefas e terminar as suas aplicações. Aplicações mal-intencionadas podem prejudicar o comportamento de outras.</string>
     <string name="permlab_startAnyActivity">iniciar qualquer actividade</string>
     <string name="permdesc_startAnyActivity">Permite que a aplicação inicie qualquer actividade, independentemente da proteção de permissão ou do estado da mesma.</string>
     <string name="permlab_setScreenCompatibility">Configurar compatibilidade do ecrã</string>
@@ -411,17 +412,17 @@ Faltam tentativas :"</string>
     <string name="permdesc_injectEvents">Permite que uma aplicação use seus próprios eventos de entrada (pressionamentos de teclas, etc.) noutras aplicações. Aplicações maliciosas podem servir-se disso para assumir o controlo do telefone.</string>
     <string name="permlab_readInputState">Registar o que digita e as ações que realiza</string>
     <string name="permdesc_readInputState">Permite que as aplicações vejam as teclas que pressiona, mesmo quando estiver interagindo com outra aplicação (como ao digitar uma senha). Aplicações normais não devem precisar disso em momento algum.</string>
-    <string name="permlab_bindInputMethod">Vincular a um método de entrada</string>
+    <string name="permlab_bindInputMethod">Registar a um método de entrada</string>
     <string name="permdesc_bindInputMethod">Permite que o detentor se sujeite à interface de nível superior de um método de entrada. Aplicações normais não devem precisar disso em momento algum.</string>
-    <string name="permlab_bindAccessibilityService">vincular a um serviço de acessibilidade</string>
-    <string name="permdesc_bindAccessibilityService">Permite que o utilizador se vincule a uma interface de nível superior de um serviço de acessibilidade. Nunca deve ser necessária para aplicações normais.</string>
+    <string name="permlab_bindAccessibilityService">registar a um serviço de acessibilidade</string>
+    <string name="permdesc_bindAccessibilityService">Permite que o utilizador se registe a uma interface de nível superior de um serviço de acessibilidade. Nunca deve ser necessária para aplicações normais.</string>
     <string name="permlab_bindTextService">associar a um serviço de texto</string>
     <string name="permdesc_bindTextService">Permite que o portador se associe à interface de alto nível de um serviço de texto (por exemplo, SpellCheckerService). Nunca deve ser necessário para aplicações normais.</string>
     <string name="permlab_bindVpnService">associar a um serviço VPN</string>
     <string name="permdesc_bindVpnService">Permite que o portador se associe à interface de alto nível de um serviço de Vpn. Nunca deve ser necessário para aplicações normais.</string>
     <string name="permlab_bindWallpaper">Sujeitar-se a um Wallpaper</string>
     <string name="permdesc_bindWallpaper">Permite que o detentor se sujeite à interface de nível superior de um Wallpaper. Aplicações normais não devem precisar disso em momento algum.</string>
-    <string name="permlab_bindRemoteViews">vincular a um serviço de widget</string>
+    <string name="permlab_bindRemoteViews">registar-se a um serviço de widget</string>
     <string name="permdesc_bindRemoteViews">Permite que o portador se ligue á interface de nível superior de um serviço de widget. Nunca deve ser necessário para aplicações normais.</string>
     <string name="permlab_bindDeviceAdmin">Interagir com o administrador de um dispositivo</string>
     <string name="permdesc_bindDeviceAdmin">Permite que o detentor envie tentativas ao administrador de um dispositivo. Não é necessário para aplicações normais.</string>
@@ -436,17 +437,17 @@ Faltam tentativas :"</string>
     <string name="permlab_persistentActivity">Executar sempre a aplicação</string>
     <string name="permdesc_persistentActivity">Permite que uma aplicação torne partes de si mesmo persistentes, de modo que o sistema não possa usar essas partes para outras aplicações.</string>
     <string name="permlab_deletePackages">Eliminar aplicações</string>
-    <string name="permdesc_deletePackages">Permite que uma aplicação exclua pacotes do Android. Aplicações maliciosas podem servir-se disso para eliminar aplicações importantes.</string>
+    <string name="permdesc_deletePackages">Permite que uma aplicação elimine pacotes do Android. Aplicações maliciosas podem servir-se disso para eliminar aplicações importantes.</string>
     <string name="permlab_clearAppUserData">Eliminar dados de outras aplicações</string>
     <string name="permdesc_clearAppUserData">Permite que uma aplicação limpe os dados do utilizador.</string>
     <string name="permlab_deleteCacheFiles">Eliminar caches de outras aplicações</string>
-    <string name="permdesc_deleteCacheFiles">Permite que uma aplicação exclua os ficheiros da cache.</string>
+    <string name="permdesc_deleteCacheFiles">Permite que uma aplicação elimine os ficheiros da cache.</string>
     <string name="permlab_getPackageSize">Medir espaço de armazenamento da aplicação</string>
     <string name="permdesc_getPackageSize">Permite que uma aplicação recupere o seu código, dados e tamanhos de cache.</string>
-    <string name="permlab_installPackages">Instalar diretamente as aplicações</string>
-    <string name="permdesc_installPackages">Permite que uma aplicação instale pacotes novos ou atualizados do Android. Aplicações maliciosas podem servir-se disso para adicionar novas aplicações com permissões arbitrariamente avançadas.</string>
+    <string name="permlab_installPackages">Instalar directamente as aplicações</string>
+    <string name="permdesc_installPackages">Permite que uma aplicação instale pacotes novos ou actualizados do Android. Aplicações maliciosas podem servir-se disso para adicionar novas aplicações com permissões arbitrariamente avançadas.</string>
     <string name="permlab_clearAppCache">Eliminar todos os dados de cache da aplicação</string>
-    <string name="permdesc_clearAppCache">Permite que uma aplicação liberte espaço de armazenamento no telefone ao eliminar ficheiros no diretório de cache da aplicação. O acesso é normalmente muito restrito para o processo do sistema.</string>
+    <string name="permdesc_clearAppCache">Permite que uma aplicação liberte espaço de armazenamento no telefone ao eliminar ficheiros no directório de cache da aplicação. O acesso é normalmente muito restrito para o processo do sistema.</string>
     <string name="permlab_movePackage">Mover recursos da aplicação</string>
     <string name="permdesc_movePackage">Permite que uma aplicação mova os recursos da aplicação de média interna para a externa e vice-versa.</string>
     <string name="permlab_readLogs">Ler ficheiros de registo do sistema</string>
@@ -484,9 +485,9 @@ Faltam tentativas :"</string>
     <string name="permlab_writeProfile">gravar os dados de perfil</string>
     <string name="permdesc_writeProfile">Permite que a aplicação altere ou adicione informação de perfil pessoal armazenada no dispositivo, tais como, nome e informações de contacto. Isso significa que outras aplicações podem identificá-lo e enviar informações de perfil para outros.</string>
     <string name="permlab_readSocialStream">ler o seu fluxo social</string>
-    <string name="permdesc_readSocialStream">Permite que a aplicação aceda e sincronize atualizações sociais de suas e de amigos. Aplicações mal-intencionadas podem usar isso para ler comunicações privadas entre si e seus amigos em redes sociais.</string>
+    <string name="permdesc_readSocialStream">Permite que a aplicação aceda e sincronize actualizações sociais de suas e de amigos. Aplicações mal-intencionadas podem usar isso para ler comunicações privadas entre si e seus amigos em redes sociais.</string>
     <string name="permlab_writeSocialStream">gravar seu fluxo social</string>
-    <string name="permdesc_writeSocialStream">Permite que a aplicação exiba atualizações dos seus amigos. Aplicações mal-intencionadas podem usar isso para fingir ser um amigo e induzi-lo a revelar senhas ou outras informações confidenciais.</string>
+    <string name="permdesc_writeSocialStream">Permite que a aplicação exiba actualizações dos seus amigos. Aplicações mal-intencionadas podem usar isso para fingir ser um amigo e induzi-lo a revelar senhas ou outras informações confidenciais.</string>
     <string name="permlab_readCalendar">Ler eventos da agenda</string>
     <string name="permdesc_readCalendar">Permite que uma aplicação leia todos os eventos da agenda armazenados neste telefone. Aplicações maliciosas podem servir-se disso para enviar eventos da sua agenda para outras pessoas.</string>
     <string name="permlab_writeCalendar">Adicionar ou modificar eventos da agenda e enviar email aos convidados</string>
@@ -510,19 +511,19 @@ Faltam tentativas :"</string>
     <string name="permlab_recordAudio">Gravar áudio</string>
     <string name="permdesc_recordAudio">Permite que uma aplicação aceda ao caminho de gravação do áudio.</string>
     <string name="permlab_camera">Tirar fotos</string>
-    <string name="permdesc_camera">Permite que a aplicação tire fotos com a câmara. Isso permite que a aplicação colete imagens vistas pela câmara a qualquer momento.</string>
+    <string name="permdesc_camera">Permite que a aplicação tire fotos com a câmera. Isso permite que a aplicação recolha imagens vistas pela câmera a qualquer momento.</string>
     <string name="permlab_brick">Desactivar permanentemente o telefone</string>
-    <string name="permdesc_brick">Permite que a aplicação desactive o telefone permanentemente. Isso é muito perigoso.</string>
-    <string name="permlab_reboot">Forçar reinicialização do telefone</string>
+    <string name="permdesc_brick">Permite que a aplicação desactive o telefone permanentemente.</string>
+    <string name="permlab_reboot">Forçar a reinicialização do telefone</string>
     <string name="permdesc_reboot">Permite que a aplicação force a reinicialização do telefone.</string>
     <string name="permlab_mount_unmount_filesystems">Montar e desmontar sistemas de ficheiros</string>
     <string name="permdesc_mount_unmount_filesystems">Permite que a aplicação monte e desmonte ficheiros de sistema para armazenamento removível.</string>
     <string name="permlab_mount_format_filesystems">Formatar armazenamento externo</string>
     <string name="permdesc_mount_format_filesystems">Permite que a aplicação formate o armazenamento removível.</string>
-    <string name="permlab_asec_access">Obter informações sobre o armazenamento seguro</string>
-    <string name="permdesc_asec_access">Permite que a aplicação obtenha informações sobre armazenamento seguro.</string>
-    <string name="permlab_asec_create">Criar armazenamento seguro</string>
-    <string name="permdesc_asec_create">Permite que a aplicação crie um armazenamento seguro.</string>
+    <string name="permlab_asec_access">Obter informações sobre o armazenamento interno</string>
+    <string name="permdesc_asec_access">Permite que a aplicação obtenha informações sobre armazenamento interno.</string>
+    <string name="permlab_asec_create">Criar armazenamento interno</string>
+    <string name="permdesc_asec_create">Permite que a aplicação crie um armazenamento interno.</string>
     <string name="permlab_asec_destroy">Destrói o armazenamento seguro</string>
     <string name="permdesc_asec_destroy">Permite que a aplicação destrua o armazenamento seguro.</string>
     <string name="permlab_asec_mount_unmount">Ligar/desligar armazenamento seguro</string>
@@ -539,13 +540,13 @@ Faltam tentativas :"</string>
     <string name="permdesc_accessMtp">Permite acesso ao driver da MTP kernel para implementar o protocolo MTP USB.</string>
     <string name="permlab_hardware_test">Testar hardware</string>
     <string name="permdesc_hardware_test">Permite que a aplicação controle diversos periféricos para teste do hardware.</string>
-    <string name="permlab_callPhone">Chamar diretamente os números de telefone</string>
+    <string name="permlab_callPhone">Chamar directamente os números de telefone</string>
     <string name="permdesc_callPhone">Permite que a aplicação ligue para números de telefones sem a sua intervenção. Aplicações maliciosas podem causar chamadas inesperadas na conta deste telefone. Observe que isso não permite que a aplicação ligue para números de emergência.</string>
-    <string name="permlab_callPrivileged">Chamar diretamente quaisquer números de telefone</string>
+    <string name="permlab_callPrivileged">Chamar directamente quaisquer números de telefone</string>
     <string name="permdesc_callPrivileged">Permite que a aplicação ligue para qualquer número de telefone, sem a sua intervenção. Aplicações maliciosas podem fazer chamadas desnecessárias e ilegais para serviços de emergência.</string>
-    <string name="permlab_performCdmaProvisioning">Iniciar a definição do telefone CDMA diretamente</string>
+    <string name="permlab_performCdmaProvisioning">Iniciar a definição do telefone CDMA directamente</string>
     <string name="permdesc_performCdmaProvisioning">Permite que a aplicação inicie o provisionamento CDMA. Aplicações maliciosas podem iniciar o provisionamento CDMA desnecessariamente</string>
-    <string name="permlab_locationUpdates">Controlar as notificações de atualização do local</string>
+    <string name="permlab_locationUpdates">Controlar as notificações de actualização do local</string>
     <string name="permdesc_locationUpdates">Permite a activação/desactivação de notificações de actualização do local a partir do rádio. Não deve ser usado por aplicações normais.</string>
     <string name="permlab_checkinProperties">Aceder às propriedades de verificação</string>
     <string name="permdesc_checkinProperties">Permite o acesso de leitura/gravação às propriedades enviadas pelo serviço de verificação. Não deve ser usado por aplicações normais.</string>
@@ -561,9 +562,9 @@ Faltam tentativas :"</string>
     <string name="permdesc_devicePower">Permite que a aplicação active ou desactive o telefone.</string>
     <string name="permlab_factoryTest">Executar no modo de teste de fábrica</string>
     <string name="permdesc_factoryTest">Executa como um teste do fabricante de nível inferior, permitindo o acesso completo ao hardware do telefone. Disponível apenas quando um telefone está em execução no modo de teste do fabricante.</string>
-    <string name="permlab_setWallpaper">Definir Wallpaper</string>
-    <string name="permdesc_setWallpaper">Permite que a aplicação defina o Wallpaper do sistema.</string>
-    <string name="permlab_setWallpaperHints">Definir sugestões de tamanho do Wallpaper</string>
+    <string name="permlab_setWallpaper">Definir papel de parede</string>
+    <string name="permdesc_setWallpaper">Permite que a aplicação defina o papel de parede do sistema.</string>
+    <string name="permlab_setWallpaperHints">Definir sugestões de tamanho do papel de parede</string>
     <string name="permdesc_setWallpaperHints">Permite que a aplicação defina as dimensões do tamanho do Wallpaper do sistema.</string>
     <string name="permlab_masterClear">Redefinir o sistema para os padrões de fábrica</string>
     <string name="permdesc_masterClear">Permite que uma aplicação redefina completamente o sistema para as definições de fábrica, eliminando todos os dados, definições e aplicações instaladas.</string>
@@ -580,7 +581,7 @@ Faltam tentativas :"</string>
     <string name="permlab_manageAccounts">Gerir a lista de contas</string>
     <string name="permdesc_manageAccounts">Permite que uma aplicação execute operações como adição e remoção de contas e exclusão de senhas.</string>
     <string name="permlab_useCredentials">Usar as credenciais de autenticação de uma conta</string>
-    <string name="permdesc_useCredentials">Permite que uma aplicação solicite tokens de autenticação.</string>
+    <string name="permdesc_useCredentials">Permite que uma aplicação solicite toques de autenticação.</string>
     <string name="permlab_accessNetworkState">Ver estado da rede</string>
     <string name="permdesc_accessNetworkState">Permite que uma aplicação veja o estado de todas as redes.</string>
     <string name="permlab_createNetworkSockets">Acesso total da internet</string>
@@ -598,7 +599,7 @@ Faltam tentativas :"</string>
     <string name="permlab_changeWifiState">Alterar o estado de Wi-Fi</string>
     <string name="permdesc_changeWifiState">Permite que uma aplicação se ligue e desligue dos pontos de acesso Wi-Fi e faça alterações nas redes Wi-Fi configuradas.</string>
     <string name="permlab_changeWifiMulticastState">permitir recebimento de multicast Wi-Fi</string>
-    <string name="permdesc_changeWifiMulticastState">Permite que uma aplicação receba pacotes não endereçados diretamente para este telefone. Isso pode ser útil ao detectar os serviços oferecidos nas proximidades. Ele consome mais energia do que o modo não-multicast.</string>
+    <string name="permdesc_changeWifiMulticastState">Permite que uma aplicação receba pacotes não endereçados directamente para este telefone. Isso pode ser útil ao detectar os serviços oferecidos nas proximidades. Ele consome mais energia do que o modo não-multicast.</string>
     <string name="permlab_bluetoothAdmin">acesso às configurações de Bluetooth</string>
     <string name="permdesc_bluetoothAdmin">Permite que a aplicação configure o telefone Bluetooth, procure e emparelhe com dispositivos remotos.</string>
     <string name="permlab_accessWimaxState">Exibir ligações de WiMAX</string>
@@ -607,8 +608,8 @@ Faltam tentativas :"</string>
     <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue de redes WiMAX.</string>
     <string name="permlab_bluetooth">Criar ligações Bluetooth</string>
     <string name="permdesc_bluetooth">Permite que uma aplicação veja a definição do telefone Bluetooth local e que possa fazer e aceitar ligações com dispositivos emparelhados.</string>
-    <string name="permlab_nfc">control Near Field Communication</string>
-    <string name="permdesc_nfc">Allows an application to communicate with Near Field Communication (NFC) tags, cards, and readers</string>
+    <string name="permlab_nfc">Control Near Field Communication</string>
+    <string name="permdesc_nfc">Permite a uma aplicação comunicar com Field Communication (NFC), etiquetas, cartões e leitores</string>
     <string name="permlab_disableKeyguard">Desactivar o bloqueio de teclas</string>
     <string name="permdesc_disableKeyguard">Permite que uma aplicação desactive o bloqueio de teclas e qualquer segurança por senha associada. Um exemplo legítimo disso é a desactivação do bloqueio de teclas pelo telefone ao receber uma chamada e a reactivação do bloqueio quando a chamada é finalizada.</string>
     <string name="permlab_readSyncSettings">Ler as definições de sincronização</string>
@@ -620,7 +621,7 @@ Faltam tentativas :"</string>
     <string name="permlab_subscribedFeedsRead">Ler feeds inscritos</string>
     <string name="permdesc_subscribedFeedsRead">Permite que uma aplicação obtenha detalhes sobre os feeds sincronizados no momento.</string>
     <string name="permlab_subscribedFeedsWrite">Gravar feeds inscritos</string>
-    <string name="permdesc_subscribedFeedsWrite">Permite que uma aplicação modifique os seus feeds atualmente sincronizados. Isso pode permitir que uma aplicação malicioso altere os seus feeds sincronizados.</string>
+    <string name="permdesc_subscribedFeedsWrite">Permite que uma aplicação modifique os seus feeds actualmente sincronizados. Isso pode permitir que uma aplicação malicioso altere os seus feeds sincronizados.</string>
     <string name="permlab_readDictionary">Ler dicionário definido pelo utilizador</string>
     <string name="permdesc_readDictionary">Permite que uma aplicação leia quaisquer palavras, nomes e frases particulares armazenados pelo utilizador no dicionário do utilizador.</string>
     <string name="permlab_writeDictionary">Gravar no dicionário definido pelo utilizador</string>
@@ -633,8 +634,8 @@ Faltam tentativas :"</string>
     <string name="permdesc_mediaStorageWrite">Permite que uma aplicação modifique o conteúdo de armazenamento de mídia interna.</string>
     <string name="permlab_cache_filesystem">Aceder ao sistema de ficheiros de cache</string>
     <string name="permdesc_cache_filesystem">Permite que uma aplicação leia e grave no sistema de ficheiros de cache.</string>
-    <string name="permlab_use_sip">Fazer/Receber chamadas pela Internet</string>
-    <string name="permdesc_use_sip">Permite uma aplicação usar o serviço SIP para receber chamadas pela internet</string>
+    <string name="permlab_use_sip">fazer/receber chamadas pela Internet</string>
+    <string name="permdesc_use_sip">Permite que uma aplicação use o serviço SIP para fazer e receber chamadas pela Internet</string>
     <string name="permlab_readNetworkUsageHistory">Leia o uso da historia de rede</string>
     <string name="permdesc_readNetworkUsageHistory">Permite que uma aplicação leia o histórico de rede  para redes específicas e aplicações.</string>
     <string name="permlab_manageNetworkPolicy">gerir a directiva de rede</string>
@@ -644,7 +645,7 @@ Faltam tentativas :"</string>
     <string name="policylab_limitPassword">Limitar senha</string>
     <string name="policydesc_limitPassword">Restringe os tipos de senha que tem permissão de usar.</string>
     <string name="policylab_watchLogin">Mostrar tentactivas de login</string>
-    <string name="policydesc_watchLogin">Vigia as tentativas mal sucedidas de login no aparelho para executar alguma ação.</string>
+    <string name="policydesc_watchLogin">Vigia as tentativas mal sucedidas de login no aparelho para executar alguma acção.</string>
     <string name="policylab_resetPassword">Redefinir senha</string>
     <string name="policydesc_resetPassword">Redefinir senha</string>
     <string name="policylab_forceLock">Forçar bloqueio</string>
@@ -652,13 +653,13 @@ Faltam tentativas :"</string>
     <string name="policylab_wipeData">Eliminar todos os dados</string>
     <string name="policydesc_wipeData">Executar uma redefinição de fábrica ao eliminar todos os dados sem qualquer confirmação.</string>
     <string name="policylab_setGlobalProxy">Defina o proxy global do dispositivo</string>
-    <string name="policydesc_setGlobalProxy">Defina o proxy global do dispositivo a ser usado quando a diretiva é activada. Somente o primeiro dispositivo admin define o proxy global eficaz.</string>
+    <string name="policydesc_setGlobalProxy">Defina o proxy global do dispositivo a ser usado quando a directiva é activada. Apenas o primeiro dispositivo admin define o proxy global eficaz.</string>
     <string name="policylab_expirePassword">Definir a expiração de senha de lock-screen</string>
     <string name="policydesc_expirePassword">Controlar a frequência com a senha de lock-screen deve ser alterada</string>
     <string name="policylab_encryptedStorage">Definir encriptação do armazenamento</string>
     <string name="policydesc_encryptedStorage">Requerer que os dados da aplicação armazenada sejam encriptados</string>
-    <string name="policylab_disableCamera">Desligar câmaras</string>
-    <string name="policydesc_disableCamera">Prevenir a utilização de todas as câmaras do dispositivo</string>
+    <string name="policylab_disableCamera">Desligar câmeras</string>
+    <string name="policydesc_disableCamera">Prevenir a utilização de todas as câmeras do dispositivo</string>
     <string name="phoneTypeCustom">Personalizar</string>
     <string name="phoneTypeHome">Casa</string>
     <string name="phoneTypeMobile">Telemóvel</string>
@@ -724,7 +725,7 @@ Faltam tentativas :"</string>
     <string name="relationTypeReferredBy">Referida por</string>
     <string name="relationTypeRelative">Parente</string>
     <string name="relationTypeSister">Irmã</string>
-    <string name="relationTypeSpouse">Cônjuge</string>
+    <string name="relationTypeSpouse">Esposa</string>
     <string name="sipAddressTypeCustom">Personalizar</string>
     <string name="sipAddressTypeHome">Casa</string>
     <string name="sipAddressTypeWork">Trabalho</string>
@@ -741,9 +742,9 @@ Faltam tentativas :"</string>
     <string name="keyguard_password_wrong_pin_code">Código PIN incorreto!</string>
     <string name="keyguard_password_wrong_puk_code">Código PUK incorreto!</string>
     <string name="keyguard_password_pin_failed">Operação PIN falhou!</string>
-    <string name="keyguard_password_puk_failed">PUK operação falhou!</string>
+    <string name="keyguard_password_puk_failed">Operação PUK falhou!</string>
     <string name="keyguard_pin_accepted">Código aceite!</string>
-    <string name="keyguard_label_text">Para desbloquear, pressione Menu e em seguida, 0.</string>
+    <string name="keyguard_label_text">Para desbloquear, pressione Menu e depois 0.</string>
     <string name="emergency_call_dialog_number_for_display">Número de emergência</string>
     <string name="lockscreen_carrier_default">Sem serviço</string>
     <string name="lockscreen_screen_locked">Ecrã bloqueado</string>
@@ -767,22 +768,22 @@ Faltam tentativas :"</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Cartão SIM inutilizável.</string>
     <string name="lockscreen_permanent_disabled_sim_instructions">"Cartão SIM está permanentemente desactivado.
 Contacte seu fornecedor de serviços para obter outro cartão SIM."</string>
-    <string name="lockscreen_transport_prev_description">Botão de faixa anterior</string>
-    <string name="lockscreen_transport_next_description">Botão faixa seguinte</string>
+    <string name="lockscreen_transport_prev_description">Botão da faixa anterior</string>
+    <string name="lockscreen_transport_next_description">Botão da faixa seguinte</string>
     <string name="lockscreen_transport_pause_description">Botão de pausa</string>
-    <string name="lockscreen_transport_play_description">Botão Reproduzir</string>
-    <string name="lockscreen_transport_stop_description">Botão parar</string>
+    <string name="lockscreen_transport_play_description">Botão de Reproduzir</string>
+    <string name="lockscreen_transport_stop_description">Botão de parar</string>
     <string name="emergency_calls_only">Apenas chamadas de emergência</string>
     <string name="lockscreen_sim_error_message_short">Cartão Inválido.</string>
     <string name="lockscreen_sim_error_message">Cartão SIM é inválido.</string>
     <string name="lockscreen_network_locked_message">Rede bloqueada</string>
     <string name="lockscreen_perso_locked_message">O cartão SIM está bloqueado pelo PUK.</string>
     <string name="lockscreen_sim_puk_locked_message">Cartão SIM está bloqueado pelo PUK.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">"PIN1 Bloqueado. insira PUK1.
+    <string name="lockscreen_sim_puk_locked_instructions">"PIN1 Bloqueado. Digite PUK1.
 ou
 Por favor, consulte o Guia / contacto do utilizador de Atendimento ao Cliente."</string>
-    <string name="lockscreen_sim_locked_message">SIM/RUIM cartão está bloqueado.</string>
-    <string name="lockscreen_sim_unlock_progress_dialog_message">A desbloquear cartão SIM...</string>
+    <string name="lockscreen_sim_locked_message">Cartão SIM está bloqueado.</string>
+    <string name="lockscreen_sim_unlock_progress_dialog_message">A desbloquear cartão SIM…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Desenhou incorretamente o seu padrão de desbloqueio %d vezes. 
 
 Tente novamente em %d segundos."</string>
@@ -790,7 +791,7 @@ Tente novamente em %d segundos."</string>
 
 Tente novamente em %d segundos."</string>
     <string name="lockscreen_sim_pin_blocked">PIN1 Bloqueado! Insira PUK1 para desbloquear PIN1.</string>
-    <string name="lockscreen_ruim_pin_blocked">PIN1 Blocked! Enter PUK1 to unblock PIN1.</string>
+    <string name="lockscreen_ruim_pin_blocked">PIN1 Bloqueado! Digite PUK1 para desbloquear PIN1.</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Digitou incorretamente seu PIN %d vezes. 
 
 Tente novamente em %d segundos."</string>
@@ -802,9 +803,9 @@ Tente novamente em %d segundos."</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente em %d segundos.</string>
     <string name="lockscreen_forgot_pattern_button_text">Esqueceu o padrão?</string>
     <string name="lockscreen_glogin_forgot_pattern">Desbloqueio de conta</string>
-    <string name="lockscreen_glogin_too_many_attempts">Muitas tentactivas de padrão!</string>
+    <string name="lockscreen_glogin_too_many_attempts">Muitas tentativas de padrão!</string>
     <string name="lockscreen_glogin_instructions">Para desbloquear, inicie sessão com a sua Conta do Google.</string>
-    <string name="lockscreen_glogin_username_hint">Nome de utilizador (correio eletrónico)</string>
+    <string name="lockscreen_glogin_username_hint">Nome de utilizador (email)</string>
     <string name="lockscreen_glogin_password_hint">Senha</string>
     <string name="lockscreen_glogin_submit_button">Fazer login</string>
     <string name="lockscreen_glogin_invalid_input">Nome de utilizador ou senha inválidos.</string>
@@ -880,7 +881,7 @@ Toque em OK para continuar ou Cancelar para permanecer na página actual."</stri
     <string name="permdesc_accessContentProvidersExternally">Permite que o titular tenha acesso aos conteúdos através da consola. Isto não é necessário para as aplicações normais.</string>
     <string name="permlab_updateLock">desactivar actualizações automáticas</string>
     <string name="permdesc_updateLock">Permite que o titular ofereça informações ao sistema sobre o momento oportuno para uma reinicialização não interactiva para atualizar o dispositivo.</string>
-    <string name="save_password_message">Quer que o browser memorize esta palavra-passe?</string>
+    <string name="save_password_message">Deseja que o browser memorize esta palavra-passe?</string>
     <string name="save_password_notnow">Agora não</string>
     <string name="save_password_remember">Lembrar</string>
     <string name="save_password_never">Nunca</string>
@@ -893,7 +894,7 @@ Toque em OK para continuar ou Cancelar para permanecer na página actual."</stri
     <string name="menu_delete_shortcut_label">delete</string>
     <string name="searchview_description_search">Pesquisar</string>
     <string name="searchview_description_query">Consulta de pesquisa</string>
-    <string name="searchview_description_clear">Limpar consulta</string>
+    <string name="searchview_description_clear">Eliminar consulta</string>
     <string name="searchview_description_submit">Submeter consulta</string>
     <string name="searchview_description_voice">Pesquisa de voz</string>
     <string name="enable_explore_by_touch_warning_title">Activar Explorar por toque?</string>
@@ -975,14 +976,14 @@ Quer fechá-la?"</string>
     <string name="android_upgrading_starting_apps">A iniciar aplicações.</string>
     <string name="android_upgrading_complete">A finalizar boot.</string>
     <string name="heavy_weight_notification">%1$s em execução</string>
-    <string name="heavy_weight_notification_detail">Seleccione para alternar para aplicação</string>
+    <string name="heavy_weight_notification_detail">Selecione para alternar para aplicação</string>
     <string name="heavy_weight_switcher_title">Alternar programas?</string>
     <string name="heavy_weight_switcher_text">Outra aplicação já está em execução. Deverá ser parada antes de iniciar uma nova.</string>
     <string name="old_app_action">Regressar para %1$s</string>
     <string name="old_app_description">Não iniciar a nova aplicação</string>
     <string name="new_app_action">Iniciar %1$s</string>
     <string name="new_app_description">Parar a aplicação antiga sem guardar</string>
-    <string name="sendText">Seleccione uma ação para o texto</string>
+    <string name="sendText">Selecione uma ação para o texto</string>
     <string name="volume_ringtone">Volume do toque</string>
     <string name="volume_music">Volume de multimédia</string>
     <string name="volume_music_hint_playing_through_bluetooth">A reproduzir por Bluetooth</string>
@@ -1008,7 +1009,7 @@ Quer fechá-la?"</string>
     <string name="wifi_watchdog_network_disabled_detailed">Tem uma ligação de internet fraca</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Directo</string>
-    <string name="wifi_p2p_turnon_message">Inicie operação direta de Wi-Fi. Isso desactivará a operação do cliente/ponto de acesso Wi-Fi.</string>
+    <string name="wifi_p2p_turnon_message">Inicie operação directa de Wi-Fi. Isso desactivará a operação do cliente/ponto de acesso Wi-Fi.</string>
     <string name="wifi_p2p_failed_message">Não foi possível iniciar o Wi-Fi</string>
     <string name="wifi_p2p_enabled_notification_title">Wi-Fi Directo ligado</string>
     <string name="wifi_p2p_enabled_notification_message">Toque para configurar</string>
@@ -1020,7 +1021,7 @@ Quer fechá-la?"</string>
     <string name="wifi_p2p_to_message">Para:</string>
     <string name="wifi_p2p_enter_pin_message">Digite o PIN:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="select_character">Inserir caracter</string>
+    <string name="select_character">Inserir caractere</string>
     <string name="sms_control_title">A enviar mensagens SMS</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> Muitas mensagens SMS estão a ser enviadas. Permite esta aplicação continue a enviar mensagens?</string>
     <string name="sms_control_yes">Permitir</string>
@@ -1054,7 +1055,7 @@ Quer fechá-la?"</string>
     <string name="usb_storage_stop_title">Armazenamento USB em uso</string>
     <string name="usb_storage_stop_message">Antes de desactivar o armazenamento USB, verifique se desligou (ejectou) o cartão SD do Android do computador.</string>
     <string name="usb_storage_stop_button_mount">Desactivar o armazenamento USB</string>
-    <string name="usb_storage_stop_error_message">Houve um problema ao desactivar o armazenamento USB. Verifique se desconectou o host USB e tente novamente.</string>
+    <string name="usb_storage_stop_error_message">Houve um problema ao desactivar o armazenamento USB. Verifique se desligou o host USB e tente novamente.</string>
     <string name="dlg_confirm_kill_storage_users_title">Activar o armazenamento USB</string>
     <string name="dlg_confirm_kill_storage_users_text">Se activar o armazenamento USB, algumas aplicações que estão em uso serão interrompidos e poderão não estar disponíveis até desactivar o armazenamento USB.</string>
     <string name="dlg_error_title">Falha de operação de USB</string>
@@ -1064,7 +1065,7 @@ Quer fechá-la?"</string>
     <string name="usb_cd_installer_notification_title">Ligado como um instalador</string>
     <string name="usb_accessory_notification_title">Ligado a um acessório USB</string>
     <string name="usb_notification_message">Toque para outras opções USB</string>
-    <string name="extmedia_format_title">Formatar cartão SD</string>
+    <string name="extmedia_format_title">Formatar o armazenamento USB?</string>
     <string name="extmedia_format_message">Tem certeza que deseja formatar o cartão SD? Todos os dados no cartão serão perdidos.</string>
     <string name="extmedia_format_button_format">Formatar</string>
     <string name="adb_active_notification_title">Depuração USB activa</string>
@@ -1083,11 +1084,11 @@ Quer fechá-la?"</string>
     <string name="ext_media_checking_notification_message">A procura de erros.</string>
     <string name="ext_media_nofs_notification_title">Armaz USB vazio</string>
     <string name="ext_media_nofs_notification_message">Armaz. USB vazio ou com sistema de ficheiros incompatível.</string>
-    <string name="ext_media_unmountable_notification_title">Armaz. USB danificado</string>
+    <string name="ext_media_unmountable_notification_title">Armazenamento USB danificado</string>
     <string name="ext_media_unmountable_notification_message">O cartão SD está danificado. Talvez seja necessário reformatá-lo.</string>
     <string name="ext_media_badremoval_notification_title">Armaz. USB removido inesperadamente.</string>
     <string name="ext_media_badremoval_notification_message">Desmonte o armaz. USB antes da remoção para evitar a perda de dados.</string>
-    <string name="ext_media_safe_unmount_notification_title">O armaz. USB pode ser removido com segurança</string>
+    <string name="ext_media_safe_unmount_notification_title">Armazenamento USB pode ser removido com segurança</string>
     <string name="ext_media_safe_unmount_notification_message">Pode remover o armaz. USB.</string>
     <string name="ext_media_nomedia_notification_title">Armaz. USB foi removido</string>
     <string name="ext_media_nomedia_notification_message">O armazenamento USB foi removido. Insira um novo.</string>
@@ -1107,11 +1108,11 @@ Quer fechá-la?"</string>
     <string name="ime_action_done">Concluído</string>
     <string name="ime_action_previous">Anterior</string>
     <string name="ime_action_default">Executar</string>
-    <string name="managed_roaming_title">Managed Roaming</string>
-    <string name="managed_roaming_dialog_content">Rede de Serviço Limitada encontrado. Você quer iniciar uma rede de pesquisa?</string>
+    <string name="managed_roaming_title">Gerir Roaming</string>
+    <string name="managed_roaming_dialog_content">Foi encontrado um Serviço de rede Limitada. Quer iniciar perquisa na rede?</string>
     <string name="managed_roaming_dialog_ok_button">Sim</string>
     <string name="managed_roaming_dialog_cancel_button">Não</string>
-    <string name="dial_number_using">"Marcar número
+    <string name="dial_number_using">"Marcação de número
 usando %s"</string>
     <string name="create_contact_using">"Criar contacto
 usando %s"</string>
@@ -1154,12 +1155,12 @@ para a conta %s."</string>
     <string name="progress_unmounting_internal">Desmontando armazenamento interno…</string>
     <string name="progress_unmounting">A desmontar cartão SD...</string>
     <string name="progress_erasing_internal">Apagar memória interna…</string>
-    <string name="progress_erasing">A eliminar cartão SD...</string>
+    <string name="progress_erasing">Formatar o armazenamento USB…</string>
     <string name="format_error">Falha ao eliminar cartão SD.</string>
-    <string name="media_bad_removal">Cartão SD foi removido antes de ser eliminado.</string>
-    <string name="media_checking">O cartão SD está atualmente a ser analisado.</string>
+    <string name="media_bad_removal">Cartão SD foi removido antes de ser desmontado.</string>
+    <string name="media_checking">O cartão SD está actualmente a ser analisado.</string>
     <string name="media_removed">O cartão SD foi removido.</string>
-    <string name="media_shared">O cartão SD está atualmente em uso por um computador.</string>
+    <string name="media_shared">O cartão SD está actualmente em uso por um computador.</string>
     <string name="media_unknown_state">Média externa em estado desconhecido.</string>
     <string name="share">Partilhar</string>
     <string name="find">Localizar</string>
@@ -1215,8 +1216,8 @@ para a conta %s."</string>
     <string name="description_target_search">Pesquisar</string>
     <string name="description_target_unlock_tablet">Deslize para desbloquear.</string>
     <string name="keyboard_headset_required_to_hear_password">Ligue os auriculares para ouvir as senhas em voz alta.</string>
-    <string name="keyboard_password_character_no_headset">ponto.</string>
-    <string name="action_bar_home_description">Navegar página inicial</string>
+    <string name="keyboard_password_character_no_headset">Ponto.</string>
+    <string name="action_bar_home_description">Navegar para a página inicial</string>
     <string name="action_bar_up_description">Navegue até</string>
     <string name="action_menu_overflow_description">Mais opções</string>
     <string name="storage_internal">Armazenamento interno</string>
@@ -1233,10 +1234,10 @@ para a conta %s."</string>
     <string name="data_usage_3g_limit_snoozed_title">Limite de dados 2G-3G excedido</string>
     <string name="data_usage_4g_limit_snoozed_title">Limite de dados 4G excedido</string>
     <string name="data_usage_mobile_limit_snoozed_title">Excedido o limite de dados móveis</string>
-    <string name="data_usage_wifi_limit_snoozed_title">Limite de dados Wi-Fi excedido</string>
+    <string name="data_usage_wifi_limit_snoozed_title">Limite de dados Wi-Fi foi excedido</string>
     <string name="data_usage_limit_snoozed_body">%s acima do limite especificado</string>
     <string name="data_usage_restricted_title">Dados de fundo restringidos</string>
-    <string name="data_usage_restricted_body">Toque para remover a restrição</string>
+    <string name="data_usage_restricted_body">Toque para cancelar a restrição</string>
     <string name="ssl_certificate">Certificado de segurança</string>
     <string name="ssl_certificate_is_valid">Este certificado é válido.</string>
     <string name="issued_to">Emitido para:</string>

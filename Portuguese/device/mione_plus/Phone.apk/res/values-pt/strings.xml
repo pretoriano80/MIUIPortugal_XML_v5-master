@@ -520,7 +520,7 @@ Tentativas restantes :"</string>
 
 Depois de pressionar “ Activar”, ouça as instruções fornecidas para activar este telefone."</string>
     <string name="ota_skip_activation_dialog_title">Ignorar activação?</string>
-    <string name="ota_skip_activation_dialog_message">Se ignorar a ativação não poderá fazer chamadas ou ligar-se a redes móveis de dados (embora possa ligar-se a redes Wi-Fi). Até que este telefone seja activado, receberá solicitações de ativação sempre que o ligar.</string>
+    <string name="ota_skip_activation_dialog_message">Se ignorar a activação não poderá fazer chamadas ou ligar-se a redes móveis de dados (embora possa ligar-se a redes Wi-Fi). Até que este telefone seja activado, receberá solicitações de ativação sempre que o ligar.</string>
     <string name="ota_skip_activation_dialog_skip_label">Ignorar</string>
     <string name="ota_activate">Activar</string>
     <string name="ota_title_activate_success">O telefone está activado.</string>
@@ -1083,7 +1083,8 @@ O cartão SIM será inutilizado após outra tentativa falhada"</string>
     <string name="network_work_query_failed_message_miui">"Consulta de rede falhou, pressione 'cancelar' para selecionar rede preferida automaticamente ou pressione 'ok' para repetir"</string>
     <string name="sum_select_automatically_option_miui">Selecionar automaticamente a rede preferencial, %s</string>
     <string name="register_network_failed_title_miui">Não foi possível ligar à rede</string>
-    <string name="register_network_failed_message_miui">Não é possível ligar à rede que selecionou, ligar à sua rede preferida em vez?</string>
+    <string name="register_network_failed_message_miui">"Não é possível ligar à rede que selecionou.
+Ligar à sua rede preferida em vez."</string>
     <string name="next_miui">Avançar</string>
     <string name="turn_off_miui">Desligar</string>
     <string name="back_miui">Voltar</string>

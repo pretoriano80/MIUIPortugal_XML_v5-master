@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Residencia</item>
+        <item>Casa</item>
         <item>Trabalho</item>
-        <item>Outros</item>
+        <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="imProtocols">
@@ -18,29 +19,29 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Trabalho</item>
-        <item>Outros</item>
+        <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Residencia</item>
-        <item>telemóvel</item>
+        <item>Casa</item>
+        <item>Telemóvel</item>
         <item>Trabalho</item>
-        <item>Fax do trabalho</item>
-        <item>Fax de casa</item>
+        <item>Fax do Emprego</item>
+        <item>Fax Pessoal</item>
         <item>Pager</item>
-        <item>Outros</item>
+        <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Residência</item>
+        <item>Casa</item>
         <item>Trabalho</item>
-        <item>Outros</item>
+        <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Residência</item>
+        <item>Casa</item>
         <item>Trabalho</item>
-        <item>Outros</item>
+        <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
 </resources>
