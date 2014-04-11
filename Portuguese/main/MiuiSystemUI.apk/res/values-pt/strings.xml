@@ -154,7 +154,7 @@ d.M.yyyy"</string>
     <string name="filter_item_preview_image">Preview</string>
     <string name="filter_item_description">Para configurar notificações, vá a Definições Gerais > Notificações > Personalizar notificações</string>
     <string name="settings_notification_bar">Barra de notificação</string>
-    <string name="settings_toggle_position">Gerir controloss</string>
+    <string name="settings_toggle_position">Gerir controlos</string>
     <string name="settings_toggle_collapse_after_clicked">Colapso após tocar</string>
     <string name="settings_show_screenshot_notification">Mostrar notificação de captura da imagem</string>
     <string name="settings_status_bar">Barra de estado</string>
