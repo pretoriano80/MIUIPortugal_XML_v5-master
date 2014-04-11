@@ -22,7 +22,7 @@
     <string name="launch">Abrir</string>
     <string name="unknown_apps_dlg_title">Instalação bloqueada</string>
     <string name="unknown_apps_dlg_text">"Por razões de segurança, este telefone foi definido para proibir a instalação de aplicações não-oficiais. Pode levantar a proibição de instalar aplicações a partir de qualquer canal, mas este telefone e dados pessoais podem ser atacados por aplicações de fontes desconhecidas e deve assumir total responsabilidade pela escolha.
-  
+
 Pode modificar através de Configurações->Segurança->Fontes desconhecidas."</string>
     <string name="ok">OK</string>
     <string name="settings">Definições</string>
@@ -35,7 +35,7 @@ Permitir isso agora e no futuro?"</string>
     <string name="dlg_app_replacement_statement">"A aplicação que está a instalar irá substituir outra aplicação.
 
 Todos os dados de utilizador anteriores serão guardados."</string>
-    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) irá substituir a versão atualmente instalada (%3$s). O conteúdo do utilizador será mantido.
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) irá substituir a versão actualmente instalada (%3$s). O conteúdo do utilizador será mantido.
 Tem a certeza que quer instalar?"</string>
     <string name="dlg_sys_app_replacement_statement">"Esta é uma aplicação do sistema. Ainda deseja substituí-la?
 
@@ -47,7 +47,7 @@ Todos os dados de utilizador anteriores serão guardados."</string>
     <string name="app_not_found_dlg_title">Aplicação não encontrada</string>
     <string name="app_not_found_dlg_text">A aplicação não foi encontrada na lista de aplicações instaladas.</string>
     <string name="uninstall_application_title">Desinstalar a aplicação</string>
-    <string name="uninstall_update_title">Desinstalar atualização</string>
+    <string name="uninstall_update_title">Desinstalar actualização</string>
     <string name="uninstall_activity_text">%1$s é parte da seguinte aplicação:</string>
     <string name="uninstall_confirm_question">Deseja desinstalar a aplicação?</string>
     <string name="uninstall_application_text">Esta aplicação será desinstalada.</string>
@@ -67,10 +67,8 @@ Todos os dados de utilizador anteriores serão guardados."</string>
     <string name="privacy_relative">Permissões relativas privadas</string>
     <string name="other_relative">outras pemissões</string>
     <string name="perm_notice">Alerta de segurança</string>
-    <string name="trust_switch_dialog_msg">"MIUI não irá pedir confirmação de qualquer segurança ou operações afins de privacidade a partir deste aplicação. Por favor, certifique-se que é segura.
-Confiar nesta aplicação？"</string>
-    <string name="auto_startup_dialog_msg">"MIUI vai permitir que a aplicação inicie automaticamente sem perguntar. Pode 
-permitir auto iniciar？"</string>
+    <string name="trust_switch_dialog_msg">MIUI não irá pedir confirmação de qualquer segurança ou operações afins de privacidade a partir deste aplicação.</string>
+    <string name="auto_startup_dialog_msg">MIUI vai permitir que a aplicação inicie automaticamente a sua permissão.</string>
     <string name="low_risk_perms">Permissões de baixo risco</string>
     <string name="high_risk_perms">Permissões de alto risco</string>
     <string name="perm_privacy_app_finish">Terminar</string>
@@ -84,9 +82,10 @@ permitir auto iniciar？"</string>
     <string name="perm_action_prompt">Perguntar</string>
     <string name="perm_action_reject">Negar</string>
     <string name="unknown_installer">Indefinido</string>
-    <string name="install_failed_system_incompatible">Esta aplicação não é compatível com o sistema MIUI.</string>
+    <string name="install_failed_system_incompatible">Esta aplicação não é compatível com o sistema MIUI</string>
     <string name="virus_scan_install"><u>Continue a instalação</u></string>
-    <string name="virus_scan_is_virus">Esta aplicação é um vírus, é recomendado que cancele imediatamente！</string>
-    <string name="virus_scan_is_risk">A aplicação de risco, quer para continuar a instalação！</string>
+    <string name="virus_scan_is_virus">Esta aplicação é um vírus, é recomendado que cancele imediatamente.</string>
+    <string name="virus_scan_is_risk">A aplicação de risco, quer para continuar a instalação.</string>
     <string name="virus_scan_clear">Eliminar</string>
+    <string name="virus_scan_caller_unknown">Desconhecido</string>
 </resources>

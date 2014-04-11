@@ -4,6 +4,7 @@
     <string-array name="pref_content_plugins_choices">
         <item>Sempre ligado</item>
         <item>Pergunte-me primeiro</item>
+        <item>Desactivado</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Página de início padrão</item>
