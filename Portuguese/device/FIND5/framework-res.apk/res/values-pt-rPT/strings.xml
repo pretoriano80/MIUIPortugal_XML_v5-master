@@ -166,8 +166,7 @@
     <string name="permgroupdesc_messages">Ler e escrever SMS, e-mail e outras mensagens.</string>
     <string name="permgrouplab_personalInfo">Os seus dados pessoais</string>
     <string name="permgroupdesc_personalInfo">Acesso directo aos seus contactos e calendário armazenados no telefone.</string>
-    <string name="permgrouplab_socialInfo">Your social information</string>
-    <string name="permgroupdesc_personalInfo">Acessa diretamente os seus contatos e agenda armazenados no telefone.</string>
+    <string name="permgrouplab_socialInfo">A sua informação social</string>
     <string name="permgrouplab_location">A sua localização</string>
     <string name="permgroupdesc_location">Monitorizar a sua localização física.</string>
     <string name="permgrouplab_network">Comunicação de rede</string>
