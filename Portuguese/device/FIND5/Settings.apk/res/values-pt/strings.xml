@@ -53,7 +53,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="optimize_apk_list_empty_content">Não foram encontrados pacotes instalados</string>
     <string name="optimize_residual_list_empty_content">Não foram encontrados ficheiros residuais</string>
     <string name="optimize_tips_title">Ajuda</string>
-    <string name="optimize_tips_ad_title">Adicionar ficheiros：</string>
+    <string name="optimize_tips_ad_title">Adicionar ficheiros:</string>
     <string name="optimize_tips_ad_content">Imagens, textos e outros conteúdos relacionados com a propaganda que de terceiros prestadores de serviços loja no seu telefone.</string>
     <string name="optimize_tips_apk_title">Pacotes：</string>
     <string name="optimize_tips_apk_content">Usado para instalar aplicações no dispositivo, no entanto, não foram instalados por já terem sido instalados</string>
@@ -71,13 +71,14 @@ Tem a certeza que quer desactivar?"</string>
     <string name="deep_clean_title_residual">Residuais</string>
     <string name="deep_clean_title_large_file">Ficheios grandes</string>
     <string name="deep_clean_title_uninstall_apps">Aplicações</string>
-    <string name="deep_clean_summary_install_apps_today">%1$s|usado hoje</string>
-    <string name="deep_clean_summary_install_apps_interval">%1$s|usado %2$d dias</string>
-    <string name="deep_clean_summary_install_apps_new">%s|nunca usado</string>
-    <string name="deep_clean_summary_install_apps_virus">%s|virus detectado</string>
-    <string name="deep_clean_summary_install_apps_risk">%s|risco detectado</string>
+    <string name="deep_clean_summary_install_apps_today">usado hoje</string>
+    <string name="deep_clean_summary_install_apps_interval">usado %2$d dias</string>
+    <string name="deep_clean_summary_install_apps_new">nunca usado</string>
+    <string name="deep_clean_summary_install_apps_virus">virus detectado</string>
+    <string name="deep_clean_summary_install_apps_risk">risco detectado</string>
     <string name="system_cache_title">Cache de sistema</string>
     <string name="empty_folder_title">Pasta vazia(%d)</string>
+    <string name="empty_folder_title_hints">Empty folder</string>
     <string name="downloaded_rom_title">Actualizar pacotes</string>
     <string name="optimize_large_file_list_empty_content">Não foram encontrados ficheiros grandes</string>
     <string name="optimize_installed_apps_list_empty_content">Não foram encontradas aplicações</string>
@@ -85,7 +86,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="deep_clean_tips_cache_content">Algumas aplicações usam ficheiros de cache para carregar recursos adicionais (ex. músicas e imagens). Tenha cuidado quando eliminar estes arquivos.</string>
     <string name="deep_clean_tips_residual_title">Residuais：</string>
     <string name="deep_clean_tips_residual_content">Resíduos são arquivos (e.g. vídeos, papéis de parede, música, etc.) que tenham sido transferidos para o cartão SD do seu aparelho por aplicações que já foram desinstalados. Tenha cuidado quando está eliminando, alguns desses arquivos podem ainda ser necessários.</string>
-    <string name="deep_clean_tips_large_file_title">Ficheiros grandes：</string>
+    <string name="deep_clean_tips_large_file_title">Ficheiros grandes:</string>
     <string name="deep_clean_tips_large_file_content">Ficheiros grandes são arquivos com mais de 10MB que estão armazenadas no seu dispositivo. Pode decidir se precisa ou não deles.</string>
     <string name="toast_qucik_scan_list_empty">Parece tudo bem, não há necessidade de limpar!</string>
     <string name="quick_scan_list_loading_hits">Localizando…</string>
@@ -112,7 +113,10 @@ Tem a certeza que quer desactivar?"</string>
     <string name="memory_available_suffix">Disponível</string>
     <string name="scanning_prefix">A verificar:%s</string>
     <string name="cleanning_prefix">A limpar:%s</string>
-    <string name="scanning_start_hints">A preparar o mecanismo de verificação</string>
+    <string name="scanning_start_hints">Getting ready…</string>
+    <string name="pref_category_title_cleanup_white_list">Trash clean-up white list</string>
+    <string name="pref_title_cleanup_white_list">Trash clean-up white list</string>
+    <string name="pref_summary_cleanup_white_list">Trash in white list will be ignore</string>
     <string name="pref_category_title_auto_update_cleanup_db">Definições de actualização de banco de dados Cleanup</string>
     <string name="pref_title_auto_update_cleanup_db">Auto actualizar</string>
     <string name="pref_summary_auto_update_cleanup_db">Actualizado em：%s</string>
@@ -121,6 +125,8 @@ Tem a certeza que quer desactivar?"</string>
     <string name="pref_title_garbage_cleanup_check_time">Lixeira do alarme</string>
     <string name="pref_summary_garbage_cleanup_check_time">Notifique-me quando lixeira atinge um determinado tamanho</string>
     <string name="pref_title_garbage_cleanup_check_size">Tamanho do lixo do alarme</string>
+    <string name="pref_title_expand_cache_group">Expand the cache groups</string>
+    <string name="pref_summary_expand_cache_group">Groups in the cache list will default expand</string>
     <string name="msg_cleanup_db_update_checking">A verificar...</string>
     <string name="msg_update_error_code_success">Actualização com sucesso</string>
     <string name="msg_update_error_code_no_newer_db">As definições são recentes há necessidade de actualizar</string>
@@ -153,6 +159,56 @@ Tem a certeza que quer desactivar?"</string>
     <string name="item_garbage_size_1000m">1G</string>
     <string name="item_title_garbage_time">Alarm time</string>
     <string name="item_title_garbage_size">Alarm size</string>
+    <string name="tab_title_internal_storage">Internal storage</string>
+    <string name="tab_title_external_storage">External storage</string>
+    <string name="tab_title_sdcard_storage">SD card</string>
+    <string name="internal_available_memory_hint">Available: Calculating…</string>
+    <string name="internal_available_memory">Available: %s</string>
+    <string name="internal_used_memory_hint">Used: Calculating…</string>
+    <string name="internal_used_memory">Used: %s</string>
+    <string name="internal_memory_item_cache_hint">Cached data: Calculating…</string>
+    <string name="internal_memory_item_cache">Cached data: %s</string>
+    <string name="internal_memory_item_app_hint">Apps: Calculating…</string>
+    <string name="internal_memory_item_app">Apps: %s</string>
+    <string name="internal_memory_item_image_video_hint">Pictures, Video, Audio: Calculating…</string>
+    <string name="internal_memory_item_image_video">Pictures, Video, Audio: %s</string>
+    <string name="internal_memory_item_other_hint">Misc.: Calculating…</string>
+    <string name="internal_memory_item_other">Misc.: %s</string>
+    <string name="internal_memory_low_waring_hint">"Sorry, there's not enough space to install this app"</string>
+    <string name="item_title_system_cache">Cached data</string>
+    <string name="large_file_sort_type_size">Sort by size</string>
+    <string name="large_file_sort_type_name">Sort by name</string>
+    <string name="msg_system_cache_hints">"Clearing cached data will not affect your apps' files, settings, accounts, databases, etc."</string>
+    <string name="dialog_title_cleanup_system_cache">Clear cached data?</string>
+    <string name="dialog_msg_cleanup_system_cache">This will clear cached data for all apps.</string>
+    <string name="dialog_title_cleanup_apps">Delete app data?</string>
+    <string name="dialog_title_backup_and_cleanup_apps">Backup and delete app data?</string>
+    <string name="dialog_msg_cleanup_apps">"All this app's data will be deleted permanently. This includes all files, settings, accounts, databases, etc."</string>
+    <string name="dialog_msg_backup_and_cleanup_apps">After backup is complete, all app data will be deleted. This includes all files, settings, accounts, databases, etc.</string>
+    <string name="button_text_cleanup_apps">Clear data</string>
+    <string name="button_text_backup_and_cleanup_apps">Back up first</string>
+    <string name="toast_backup_cleanup_success">Data backed up and deleted</string>
+    <string name="toast_cleanup_success">Data cleared</string>
+    <string name="list_sub_view_item_cleanup">Clear</string>
+    <string name="list_sub_view_item_backup_cleanup">Back up first</string>
+    <string name="white_list_cache_header">Cache files: %d</string>
+    <string name="white_list_ad_header">Ad files: %d</string>
+    <string name="white_list_apk_header">Install packages: %d</string>
+    <string name="white_list_large_file_header">Large files: %d</string>
+    <string name="white_list_residual_header">Residuals: %d</string>
+    <string name="white_list_title">White List</string>
+    <string name="button_text_delete_from_white_list">Out whitelist</string>
+    <string name="toast_add_white_list_success">Has been added to the white list, see the settings</string>
+    <string name="dialog_title_check_all">Select all</string>
+    <string name="dialog_msg_check_all">Confirm to select %1$s that contains %2$d items</string>
+    <string name="toast_removed_from_white_list">Has bean removed from white list</string>
+    <string name="notification_button_text_of_low_memory">Clean-up</string>
+    <string name="notification_title_of_low_memory">The system stroage has used %s</string>
+    <string name="notification_summary_of_low_memory">When low memory,will not install new apps</string>
+    <string name="garbage_white_list_empty_content">White list is empty</string>
+    <string name="toast_garbage_cleanup_success">Clean up success</string>
+    <string name="dialog_title_load_cleanup_engine_error">Error</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Garbage clean engine has been corrupted, the whole amount of the package or re-brush brush!</string>
     <string name="opt_clean_garbage">Eliminados %d MB</string>
     <string name="opt_killed_process">Terminados %d processos</string>
     <string name="opt_freed_ram">Memória Livre %dMBs</string>
@@ -317,6 +373,17 @@ Tem que alterar as definições da sua bateria antes de poder eliminar esta conf
 Quando a bateria se recupera o dispositivo está definido para mudar para esta configuração. Tem que alterar as definições da bateria antes de poder eliminar esta configuração."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_out_time">Não é possível eliminar: O dispositivo está definido para mudar para essa configuração quando programado um período. É preciso alterar as definições da bateria antes de poder eliminar esta configuração.</string>
     <string name="power_mode_chooser_button_text">aplicar</string>
+    <string name="power_20s_enter_mode">%1$ds switch to mode %2$s</string>
+    <string name="power_notify_lowbattery">power is lower than %1$d%%</string>
+    <string name="power_recovery_mode">recovery to %1$s mode</string>
+    <string name="power_subtitle_lowbattery">auto power save when low battery</string>
+    <string name="power_subtitle_ontime">power save when on time</string>
+    <string name="power_exitlowbattery_whencharge">exit when charging</string>
+    <string name="power_button_delete">delete</string>
+    <string name="power_mode_my_mode">my mode</string>
+    <string name="power_mode_my_mode_summary">auto save your daily use status</string>
+    <string name="power_apply_toast">switch to %s mode and auto save your current status</string>
+    <string name="power_customize_giveup_change">give up change?</string>
     <string name="menu_item_force_stop">Forçar paragem</string>
     <string name="menu_item_uninstall">Desinstalar</string>
     <string name="menu_item_app_details">Detalhes</string>
@@ -558,23 +625,6 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="item_mms">Filtro de mensagens indesejadas</string>
     <string name="score_good_state">Telefone está optimizado</string>
     <string name="score_need_optimize">Varrer recomendado</string>
-    <string name="preference_key_create_shortcut">key_create_shortcut</string>
-    <string name="preference_key_about_version">key_about_version</string>
-    <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
-    <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
-    <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
-    <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
-    <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
-    <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
-    <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
-    <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
-    <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
-    <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-    <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
-    <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
-    <string name="category_key_power_usage_details">key_power_usage_details</string>
-    <string name="category_key_power_usage_packages">key_power_usage_packages</string>
-    <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
     <string name="app_name">Segurança</string>
     <string name="action_settings">Definições</string>
     <string name="hello_world">Olá mundo!</string>
@@ -843,6 +893,13 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="menu_item_notification_antispam_text_avail">Spam</string>
     <string name="button_text_view_power">Ver energia</string>
     <string name="notification_title_firewall_blocked">Bloqueado</string>
+    <string name="pref_category_title_securitycenter_settings">Security Center settings</string>
+    <string name="pref_category_title_module_settings">Each functional module settings</string>
+    <string name="Settings_title_garbage_cleanup">Garbage cleanup settings</string>
+    <string name="Settings_title_network_assistants">Network assistant settings</string>
+    <string name="Settings_title_anti_spam">Antispam settings</string>
+    <string name="Settings_title_power_center">Power manager settings</string>
+    <string name="Settings_title_anti_virus">AntiVirus settings</string>
     <string name="virus_scan_virus_title">%d vírus detetado!</string>
     <string name="virus_scan_risk_title">%d aplicações suspeitas detetadas</string>
     <string name="virus_button_clear">Eliminando</string>
@@ -908,7 +965,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="virus_scan_not_found_virus">Não foram encontrados virus</string>
     <string name="virus_scan_not_found_risk">Não foram encontrados riscos</string>
     <string name="virus_scan_last_scan_today">Verificação mais recente: Hoje </string>
-    <string name="virus_scan_last_scan_yesterday">Verificação mais recente: Ontem </string>
+    <string name="virus_scan_last_scan_yesterday">"Verificação mais recente: Ontem "</string>
     <string name="virus_scan_last_scan_date">Verificação mais recente foi %d dias atrás</string>
     <string name="virus_scan_unknown_virus_name">Desconhecido</string>
     <string name="virus_scan_is_cloud_scanning">Localizar em Cloud…</string>
@@ -1144,7 +1201,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
     <string name="phone_info_label">Informações do telefone</string>
-    <string name="sd_card_settings_label">Armazenamento USB</string>
+    <string name="sd_card_settings_label">Cartão SD</string>
     <string name="proxy_settings_label">Definições Proxy</string>
     <string name="settings_label">Definições</string>
     <string name="settings_label_launcher">Definições</string>
@@ -2730,9 +2787,9 @@ Qualquer utilizador pode aceitar as permissões de aplicações atualizados em n
     <string name="config_ptp_function_name">ptp</string>
     <string name="config_mass_storage_function_name">mass_storage</string>
     <string name="do_not_disturb_mode">Não perturbar</string>
-    <string name="dndm_notification">Não perturbar ativo.</string>
+    <string name="dndm_notification">Não perturbar activo</string>
     <string name="dndm_open">Não perturbar</string>
-    <string name="dndm_summary">Quando o modo não perturbar está ativado as chamadas e notificações que chegam enquanto o telefone está bloqueado são silenciadas.</string>
+    <string name="dndm_summary">Quando o modo não perturbar está activado as chamadas e notificações que chegam enquanto o telefone está bloqueado são silenciadas.</string>
     <string name="dndm_auto_setting_group">Agenda</string>
     <string name="dndm_auto_button_title">Hora</string>
     <string name="dndm_auto_time_setting">Definições das horas</string>
@@ -2935,8 +2992,7 @@ Qualquer utilizador pode aceitar as permissões de aplicações atualizados em n
     <string name="headset_no_contected">Não há auriculares ligados</string>
     <string name="headset_calibrate_wrong_key">Botão errado</string>
     <string name="sim_change_failed_enable_sim_lock">Ativar Bloqueio do SIM para mudar o PIN.</string>
-    <string name="sim_lock_change_not_supported">"Não é possível alterar Bloqueio do SIM.
- SIM não suportado."</string>
+    <string name="sim_lock_change_not_supported">Não é possível alterar o bloqueio do SIM</string>
     <string name="apn_new">Novo ponto de acesso</string>
     <string name="apn_save">Guardar?</string>
     <string name="apn_save_msg">Guardar alterações do APN?</string>
@@ -3087,11 +3143,11 @@ Tente o seguinte:
 Tente ligar novamente o cabo USB."</string>
     <string name="msd_install_retry_mac">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
-"<li>"Faça uma busca por
+"<li>1) Faça uma busca por
 Transferência de Ficheiros Android,
 e executar o software."</li>"
-"<li>Volte a ligar o cabo USB.</li>"
-"<li>Reinstalar o driver.</li>" "</string>
+"<li>2) Volte a ligar o cabo USB.</li>"
+"<li>3) Reinstalar o driver.</li>" "</string>
     <string name="msd_install_retry_linux">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
 1) Use as ferramentas de instalação \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
@@ -3194,8 +3250,8 @@ Link para transferir http://miui.com/mac"</string>
     <string name="wifi_configured_ap_list">Lembrar lista de pontos de acesso</string>
     <string name="wifi_priority_label">Prioridade</string>
     <string name="wifi_available_title">Ligar a Wi-Fi</string>
-    <string name="msg_wlan_signal_found">Encontrado Wi-Fi %s, gostaria de usar esta rede Wi-FI? Usando essa rede irá interromper o serviço de dados parcialmente.</string>
-    <string name="wifi_signal_found_msg">Encontrado disponível Wi-Fi, ligar agora？</string>
+    <string name="msg_wlan_signal_found">Ligar a %s?</string>
+    <string name="wifi_signal_found_msg">Ligar a Wi-Fi AP?</string>
     <string name="nfc_category_title">NFC</string>
     <string name="android_beam_tips">Certifique-se que os dois dispositivos estão perto um do outro para transferir o ficheiro.</string>
     <string name="bt_hci_snoop_log">Ativar registo do Bluetooth HCI</string>
@@ -3276,6 +3332,22 @@ pode usar redes de outros utilizadores"</string>
     <string name="current_use_ese">Usando o elemento seguro incorporado</string>
     <string name="open_wifi_connect_title">Ligar a uma rede aberta %1$s</string>
     <string name="open_wifi_connect_summary">Toque para gerir</string>
+    <string name="free_wifi_summary">Tap to connect to %1$s.</string>
+    <string name="free_wifi_connect_title">WLAN available</string>
+    <string name="free_wifi_connect_summary">Tap to connect to %1$s.</string>
+    <string name="free_wifi_connect_dialog_title">WLAN available</string>
+    <string name="free_wifi_connect_dialog_summary">%1$s provided by %2$s.</string>
+    <string name="free_wifi_wiwide_provider">WiWide</string>
+    <string name="free_wifi_connect">Connect</string>
+    <string name="free_wifi_connecting">Connecting…</string>
+    <string name="free_wifi_connected">Connected to free WLAN</string>
+    <string name="free_wifi_connect_fail">"Can't connect to the network. Check your data connection and try again."</string>
+    <string name="free_wifi_connect_fail2">"Can't sign in. Wait a minute or two and try again."</string>
+    <string name="free_wifi_login_again">Sign in again</string>
+    <string name="free_wifi_connected_count">%1$s users connected</string>
+    <string name="free_wifi_speed_title">Slow connection?</string>
+    <string name="free_wifi_connected_time">Duration: %1$s</string>
+    <string name="free_wifi_confirm">I know</string>
     <string name="restrict_background_data_title">Dados em segundo plano restritos</string>
     <string name="restrict_background_data_dialog_summary">Executar aplicações em segundo plano não podem receber a mensagem, tem certeza para restringir os dados de fundo?</string>
     <string name="restrict_background_data_notification_summary">Aplicações não ligam à rede, se os dados em segundo plano são restritos</string>

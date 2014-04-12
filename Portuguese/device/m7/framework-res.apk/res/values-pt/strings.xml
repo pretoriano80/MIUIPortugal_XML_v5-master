@@ -23,7 +23,7 @@
     <string name="dialog_alert_title">Atenção</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão neste dispositivo.</string>
     <string name="selectTextMode">Selecionar texto</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="month_long_standalone_january">janeiro</string>
     <string name="month_long_standalone_february">fevereiro</string>
     <string name="month_long_standalone_march">março</string>
@@ -162,7 +162,7 @@
     <string name="abbrev_wday_month_day_no_year">"EEE, d 'de' MMMM"</string>
     <string name="abbrev_wday_month_day_year">"EEE, d 'de' MMM 'de' yyyy"</string>
     <string name="byteShort">B</string>
-    <string name="kilobyteShort">Kb</string>
+    <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
@@ -170,7 +170,7 @@
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="ellipsis">…</string>
     <string name="ellipsis_two_dots">..</string>
-    <string name="mmiError">Problema de conexão ou código MMI inválido.</string>
+    <string name="mmiError">Problema de ligação ou código MMI inválido.</string>
     <string name="mmiFdnError">A operação é limitada somente a números de chamadas fixas.</string>
     <string name="serviceEnabled">O serviço foi ativado.</string>
     <string name="serviceEnabledFor">O serviço foi ativado para:</string>
@@ -253,7 +253,7 @@
     <string name="httpErrorProxyAuth">Falha na autenticação por meio do servidor proxy.</string>
     <string name="httpErrorConnect">Não foi possível se conectar ao servidor.</string>
     <string name="httpErrorIO">Não foi possível estabelecer comunicação com o servidor. Tente novamente mais tarde.</string>
-    <string name="httpErrorTimeout">O tempo limite de conexão com o servidor esgotou.</string>
+    <string name="httpErrorTimeout">O tempo limite de ligação com o servidor esgotou.</string>
     <string name="httpErrorRedirectLoop">A página contém muitos redirecionamentos do servidor.</string>
     <string name="httpErrorFailedSslHandshake">Não foi possível estabelecer uma conexão segura.</string>
     <string name="httpErrorFile">Não foi possível acessar o arquivo.</string>
@@ -262,7 +262,7 @@
     <string name="notification_title">Erro de login para %1$s</string>
     <string name="contentServiceSync">Sincronizar</string>
     <string name="contentServiceSyncNotificationTitle">Sincronizar</string>
-    <string name="contentServiceTooManyDeletesNotificationDesc">Muitas exclusões de %s.</string>
+    <string name="contentServiceTooManyDeletesNotificationDesc">Muitas eliminações de %s.</string>
     <string name="low_memory">O armazenamento do telefone está cheio. Exclua alguns arquivos para liberar espaço.</string>
     <string name="me">Eu</string>
     <string name="power_dialog">Opções do telefone</string>

@@ -99,15 +99,15 @@
         <item>Muito lento</item>
         <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Very fast</item>
+        <item>Rápido</item>
+        <item>Muito rápido</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Muito baixo</item>
         <item>Baixo</item>
         <item>Normal</item>
-        <item>High</item>
-        <item>Very high</item>
+        <item>Alto</item>
+        <item>Muito alto</item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -307,37 +307,22 @@
      <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
         <item>Médio</item>
-        <item>Light</item>
+        <item>Leve</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Forte</item>
         <item>Médio</item>
         <item>Leve</item>
     </string-array>
-    <string-array name="media_feedback_level_values">
-        <item>15</item>
-        <item>7</item>
-        <item>0</item>
-    </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráficos</item>
         <item>Percentagem</item>
         <item>Barra no topo</item>
     </string-array>
-    <string-array name="battery_indicator_style_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Perguntar ao ligar</item>
         <item>Carregar apenas</item>
         <item>Montar o cartão SD</item>
-    </string-array>
-    <string-array name="usb_connection_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 segundos</item>
@@ -468,7 +453,7 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Desbloquear com o rosto</item>
         <item>Padrão</item>
         <item>PIN</item>
-        <item>Password</item>
+        <item>Senha</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
         <item>Ligar automaticamente</item>
@@ -485,11 +470,11 @@ Computador vai auto abrir e ler dados do telefone"</item>
     <string-array name="preferred_app_entries">
         <item>Launcher</item>
         <item>Dial</item>
-        <item>Messaging</item>
-        <item>Browser</item>
-        <item>Camera</item>
-        <item>Gallery</item>
-        <item>Music</item>
+        <item>Mensageiro</item>
+        <item>Navegador</item>
+        <item>Câmera</item>
+        <item>Galeria</item>
+        <item>Música</item>
         <item>Email</item>
     </string-array>
 </resources>

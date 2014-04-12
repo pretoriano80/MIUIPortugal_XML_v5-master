@@ -32,19 +32,11 @@
         <item>Personalizar</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Home</item>
-        <item>Work</item>
-        <item>Other</item>
-        <item>Custom</item>
+        <item>Casa</item>
+        <item>Trabalho</item>
+        <item>Outro</item>
+        <item>Personalizar</item>
     </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>36149777</item>
-        <item>-95993398</item>
-    </integer-array>
-    <integer-array name="maps_starting_zoom">
-        <item>3</item>
-    </integer-array>
-    <array name="common_nicknames" />
     <string-array name="imAddressTypes">
         <item>Casa</item>
         <item>Trabalho</item>

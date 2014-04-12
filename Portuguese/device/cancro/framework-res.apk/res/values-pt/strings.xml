@@ -21,7 +21,7 @@
     <string name="VideoView_error_title">Problema com o vídeo</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Atenção</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão em fluxo contínuo neste aparelho.</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão neste dispositivo.</string>
     <string name="selectTextMode">Selecionar texto</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="config_ethernet_iface_regex">eth\\d</string>
@@ -144,16 +144,16 @@
     <string name="invalidPuk">Introduza um PUK que tenha 8 ou mais algarismos.</string>
     <string name="needPuk">O seu cartão SIM está bloqueado com PUK. Introduza o código PUK para desbloqueá-lo.</string>
     <string name="needPuk2">Introduza o PUK2 para desbloquear o cartão SIM.</string>
-    <string name="enablePin">Unsuccessful. Enable SIM/RUIM Lock.</string>
+    <string name="enablePin">Sem sucesso. Activar o bloqueio do SIM.</string>
     <string name="imei">IMEI</string>
     <string name="meid">MEID</string>
-    <string name="ClipMmi">ID do Autor da Chamada</string>
-    <string name="ClirMmi">ID do autor da chamada efetuada</string>
+    <string name="ClipMmi">ID do autor da Chamada</string>
+    <string name="ClirMmi">ID do autor da chamada ecfetuada</string>
     <string name="CfMmi">Encaminhamento de chamadas</string>
     <string name="CwMmi">Chamada em espera</string>
     <string name="BaMmi">Barramento de chamadas</string>
-    <string name="PwdMmi">Alteração de palavra-passe</string>
-    <string name="PinMmi">Alteração de PIN</string>
+    <string name="PwdMmi">Alteração da palavra-passe</string>
+    <string name="PinMmi">Alteração da PIN</string>
     <string name="CnipMmi">Apresentação do número chamador</string>
     <string name="CnirMmi">Número chamador restringido</string>
     <string name="ThreeWCMmi">Chamada de conferência entre três interlocutores</string>
@@ -230,9 +230,9 @@
     <string name="turn_off_radio">Desactivar sem fios</string>
     <string name="screen_lock">Bloqueio de ecrã</string>
     <string name="power_off">Desligar</string>
-    <string name="silent_mode_silent">Campainha desativada</string>
+    <string name="silent_mode_silent">Campainha desactivada</string>
     <string name="silent_mode_vibrate">Campainha em vibração.</string>
-    <string name="silent_mode_ring">Campainha ativada</string>
+    <string name="silent_mode_ring">Campainha activada</string>
     <string name="shutdown_progress">A encerrar...</string>
     <string name="shutdown_confirm">O seu telefone irá encerrar.</string>
     <string name="shutdown_confirm_question">Pretende encerrar?</string>
@@ -255,7 +255,7 @@
     <string name="safeMode">Modo seguro</string>
     <string name="android_system_label">Sistema Android</string>
     <string name="permgrouplab_costMoney">Serviços que implicam pagamento</string>
-    <string name="permgroupdesc_costMoney">Efetuar ações que implicam pagamento.</string>
+    <string name="permgroupdesc_costMoney">Efectuar ações que implicam pagamento.</string>
     <string name="permgrouplab_messages">As suas mensagens</string>
     <string name="permgroupdesc_messages">Ler e escrever SMS, e-mail e outras mensagens.</string>
     <string name="permgrouplab_personalInfo">Os seus dados pessoais</string>
@@ -265,7 +265,7 @@
     <string name="permgrouplab_location">A sua localização</string>
     <string name="permgroupdesc_location">Monitorizar a sua localização física.</string>
     <string name="permgrouplab_network">Comunicação de rede</string>
-    <string name="permgroupdesc_network">Access various network features.</string>
+    <string name="permgroupdesc_network">Acesse diversos recursos de rede.</string>
     <string name="permgrouplab_bluetoothNetwork">Bluetooth</string>
     <string name="permgroupdesc_bluetoothNetwork">Access devices and networks through Bluetooth.</string>
     <string name="permgrouplab_audioSettings">Audio Settings</string>
@@ -309,7 +309,7 @@
     <string name="permgrouplab_systemTools">Ferramentas do sistema</string>
     <string name="permgroupdesc_systemTools">Acesso e controlo de nível inferior do sistema.</string>
     <string name="permgrouplab_developmentTools">Ferramentas de desenvolvimento</string>
-    <string name="permgroupdesc_developmentTools">Funcionalidades apenas necessárias para programadores de aplicações.</string>
+    <string name="permgroupdesc_developmentTools">Funcionalidades apenas necessárias para desenvolvedores de aplicações.</string>
     <string name="permgrouplab_display">Other Application UI</string>
     <string name="permgroupdesc_display">Effect the UI of other applications.</string>
     <string name="permgrouplab_storage">Armazenamento</string>
@@ -411,7 +411,7 @@
     <string name="permlab_setAlwaysFinish">forçar as aplicações em segundo plano a fechar</string>
     <string name="permdesc_setAlwaysFinish">Permite que uma aplicação controle se as atividades são sempre terminadas assim que passam para segundo plano. Nunca é necessário para aplicações normais.</string>
     <string name="permlab_batteryStats">modificar estatísticas da bateria</string>
-    <string name="permdesc_batteryStats">Allows an application to read the current low-level battery use data. May allow the application to find out detailed information about which apps you use.</string>
+    <string name="permdesc_batteryStats">Permite que a aplicação modifique as estatísticas coletadas da bateria. Não deve ser usado em aplicativos normais.</string>
     <string name="permlab_updateBatteryStats">modify battery statistics</string>
     <string name="permdesc_updateBatteryStats">Allows the app to modify collected battery statistics. Not for use by normal apps.</string>
     <string name="permlab_getAppOpsStats">retrieve app ops statistics</string>
@@ -754,10 +754,10 @@
     <string name="relationTypeCustom">Personalizado</string>
     <string name="relationTypeAssistant">Assistente</string>
     <string name="relationTypeBrother">Irmão</string>
-    <string name="relationTypeChild">Filho</string>
-    <string name="relationTypeDomesticPartner">Companheiro(a)</string>
+    <string name="relationTypeChild">Filho(a)</string>
+    <string name="relationTypeDomesticPartner">Parceiro doméstico</string>
     <string name="relationTypeFather">Pai</string>
-    <string name="relationTypeFriend">Amigo</string>
+    <string name="relationTypeFriend">Amigo</string> 
     <string name="relationTypeManager">Director</string>
     <string name="relationTypeMother">Mãe</string>
     <string name="relationTypeParent">Pais</string>
@@ -891,7 +891,7 @@ Visite "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_reboot">Reiniciar</string>
     <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
     <string name="web_user_agent_target_content">"Mobile "</string>
-    <string name="js_dialog_title">The page at \"%s\" says:</string>
+    <string name="js_dialog_title">A página em \"%s\" diz:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload_title">Confirm Navigation</string>
     <string name="js_dialog_before_unload_positive_button">Leave this Page</string>
@@ -899,7 +899,7 @@ Visite "<b>google.com/accounts/recovery</b>.</string>
     <string name="js_dialog_before_unload">"%s
 
 Are you sure you want to navigate away from this page?"</string>
-    <string name="save_password_label">Confirm</string>
+    <string name="save_password_label">Confirmar</string>
     <string name="double_tap_toast">Sugestão: toque duas vezes para aumentar ou diminuir o zoom.</string>
     <string name="autofill_this_form">Preenchimento Automático</string>
     <string name="setup_autofill">Configurar Preenchimento Automático</string>
@@ -1041,9 +1041,9 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="whichApplication">Concluir acção utilizando</string>
     <string name="alwaysUse">Utilizar por predefinição para esta acção.</string>
     <string name="clearDefaultHintMsg">Limpar a predefinição nas Definições do Sistema > Aplicações > Transferidas.</string>
-    <string name="chooseActivity">Escolha uma ação</string>
+    <string name="chooseActivity">Escolha uma acção</string>
     <string name="chooseUsbActivity">Escolher uma aplicação para o dispositivo USB</string>
-    <string name="noApplications">Nenhuma aplicação pode efetuar esta ação.</string>
+    <string name="noApplications">Nenhuma aplicação pode ecfetuar esta ação.</string>
     <string name="aerr_title" />
     <string name="aerr_application">Lamentamos, o %1$s foi interrompido.</string>
     <string name="aerr_process">Lamentamos, o processo %1$s foi interrompido.</string>
@@ -1107,7 +1107,7 @@ Pretende fechá-la?"</string>
     <string name="wifi_available_sign_in">Iniciar sessão na rede Wi-Fi</string>
     <string name="network_available_sign_in">Sign into network</string>
     <string name="network_available_sign_in_detailed">%1$s</string>
-    <string name="wifi_watchdog_network_disabled">"Couldn't connect to WLAN"</string>
+    <string name="wifi_watchdog_network_disabled">Não foi possível ligar a redes Wi-Fi</string>
     <string name="wifi_watchdog_network_disabled_detailed">" tem uma ligação à internet fraca."</string>
     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
@@ -1150,7 +1150,7 @@ Pretende fechá-la?"</string>
     <string name="date_time_done">Concluído</string>
     <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff33b5e5">NEW: </font></string>
     <string name="perms_description_app">Provided by %1$s.</string>
-    <string name="no_permissions">No permissions required</string>
+    <string name="no_permissions">Nenhuma permissão necessária</string>
     <string name="perm_costs_money">this may cost you money</string>
     <string name="usb_storage_activity_title">Armazenamento em massa USB</string>
     <string name="usb_storage_title">Ligado através de USB</string>
@@ -1301,13 +1301,13 @@ para a conta %s."</string>
     <string name="time_picker_decrement_set_am_button">Definir AM</string>
     <string name="date_picker_increment_month_button">Aumentar mês</string>
     <string name="date_picker_decrement_month_button">Diminuir mês</string>
-    <string name="date_picker_increment_day_button">Aumentar o dia</string>
+    <string name="date_picker_increment_day_button">Aumentar dia</string>
     <string name="date_picker_decrement_day_button">Diminuir dia</string>
     <string name="date_picker_increment_year_button">Aumentar ano</string>
     <string name="date_picker_decrement_year_button">Diminuir ano</string>
     <string name="keyboardview_keycode_alt">Alt</string>
     <string name="keyboardview_keycode_cancel">Cancelar</string>
-    <string name="keyboardview_keycode_delete">Delete</string>
+    <string name="keyboardview_keycode_delete">Eliminar</string>
     <string name="keyboardview_keycode_done">Concluído</string>
     <string name="keyboardview_keycode_mode_change">Alteração do modo</string>
     <string name="keyboardview_keycode_shift">Shift</string>
@@ -1321,7 +1321,7 @@ para a conta %s."</string>
     <string name="description_direction_left">Deslize para a esquerda para %s .</string>
     <string name="description_direction_right">Deslize para a direita para %s .</string>
     <string name="description_target_unlock">Desbloquear</string>
-    <string name="description_target_camera">Câmara</string>
+    <string name="description_target_camera">Câmera</string>
     <string name="description_target_silent">Silencioso</string>
     <string name="description_target_soundon">Som ativado</string>
     <string name="description_target_search">Pesquisar</string>
@@ -1333,7 +1333,7 @@ para a conta %s."</string>
     <string name="action_menu_overflow_description">Mais opções</string>
     <string name="action_bar_home_description_format">%1$s, %2$s</string>
     <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
-    <string name="storage_internal">memória de armazenamento interno</string>
+    <string name="storage_internal">Memória de arma. interno</string>
     <string name="storage_sd_card">Cartão SD</string>
     <string name="storage_usb">Armazenamento USB</string>
     <string name="extract_edit_menu_button">Editar</string>
@@ -1366,9 +1366,9 @@ para a conta %s."</string>
     <string name="sha256_fingerprint">Impressão digital SHA-256:</string>
     <string name="sha1_fingerprint">Impressão digital SHA-1:</string>
     <string name="activity_chooser_view_see_all">Ver tudo</string>
-    <string name="activity_chooser_view_dialog_title_default">Escolher atividade</string>
+    <string name="activity_chooser_view_dialog_title_default">Escolher actividade</string>
     <string name="share_action_provider_share_with">Partilhar com</string>
-    <string name="status_bar_device_locked">Aparelho bloqueado.</string>
+    <string name="status_bar_device_locked">Dispositivo bloqueado.</string>
     <string name="list_delimeter">", "</string>
     <string name="sending">A enviar...</string>
     <string name="launchBrowserDefault">Iniciar Navegador?</string>
@@ -1381,7 +1381,7 @@ para a conta %s."</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_category_name">Sistema</string>
     <string name="bluetooth_a2dp_audio_route_name">Áudio Bluetooth</string>
-    <string name="wireless_display_route_description">Wireless display</string>
+    <string name="wireless_display_route_description">Mostrar Wi-Fi</string>
     <string name="media_route_chooser_grouping_done">Concluído</string>
     <string name="media_route_button_content_description">Media output</string>
     <string name="media_route_status_scanning">Scanning...</string>
@@ -1438,7 +1438,7 @@ Try again in %d seconds."</string>
 
  Try again in %d seconds."</string>
     <string name="kg_text_message_separator">" — "</string>
-    <string name="kg_reordering_delete_drop_target_text">Remove</string>
+    <string name="kg_reordering_delete_drop_target_text">Eliminar</string>
     <string name="safe_media_volume_warning">"Raise volume above recommended level?
 Listening at high volume for long periods may damage your hearing."</string>
     <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
