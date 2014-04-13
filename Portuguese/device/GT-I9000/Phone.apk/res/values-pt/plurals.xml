@@ -6,16 +6,16 @@
         <item quantity="one">Sem ligação de dados por %s minuto</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
-        <item quantity="other">O telefone estará no modo de chamada de emergência por alguns minutos %s. Neste modo não existem aplicações a usar uma ligação de dados. Gostaria de sair agora?</item>
-        <item quantity="one">O telefone estará no modo de chamada de emergência por algum minuto %s. Neste modo não existem aplicações a usar uma ligação de dados. Gostaria de sair agora?</item>
+        <item quantity="other">O dispositivo vai estar em modo de chamada de emergência por %s minutos. Neste modo não vão existir aplicações a usar uma ligação de dados. Gostaria de sair agora?</item>
+        <item quantity="one">O dispositivo vai estar em modo de chamada de emergência por %s minuto. Neste modo não vão existir aplicações a usar uma ligação de dados. Gostaria de sair agora?</item>
     </plurals>
     <plurals name="alert_dialog_not_avaialble_in_ecm">
-        <item quantity="other">O recurso selecionado não está disponível no modo de chamada de emergência. O telefone estará neste modo %s por minutos. Gostaria de sair agora?</item>
-        <item quantity="one">O recurso selecionado não está disponível no modo de chamada de emergência. O telefone estará neste modo %s por minuto. Gostaria de sair agora?</item>
+        <item quantity="other">O recurso seleccionado não está disponível em modo de chamada de emergência. O dispositivo estará neste modo por %s minutos. Gostaria de sair agora?</item>
+        <item quantity="one">O recurso seleccionado não está disponível em modo de chamada de emergência. O dispositivo estará neste modo por %s minuto. Gostaria de sair agora?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d selecionados"</item>
-        <item quantity="zero">%1$d selecionado</item>
-        <item quantity="one">%1$d selecionado</item>
+        <item quantity="other">" %1$d seleccionados"</item>
+        <item quantity="zero">%1$d seleccionado</item>
+        <item quantity="one">%1$d seleccionado</item>
     </plurals>
 </resources>
