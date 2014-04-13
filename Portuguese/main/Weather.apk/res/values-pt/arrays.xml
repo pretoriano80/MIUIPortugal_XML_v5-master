@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
+<resources>
+    <string-array name="send_item">
+        <item>Mensagem de texto</item>
+        <item>Email</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Velc. do vento:</item>
+        <item>Indice UV:　</item>
+        <item>Vestuário:</item>
+        <item>Comfortável:</item>
+        <item>Lavagem do carro:</item>
+        <item>Índice de secagem:</item>
+        <item>Exercício da manhã:</item>
+        <item>tempo livre:</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Claro</item>
+        <item>Nebuloso</item>
+        <item>Obscuro</item>
+        <item>Nevoeiro</item>
+        <item>Tempestades severas</item>
+        <item>Tempestade da chuva</item>
+        <item>Chuvas Fortes</item>
+        <item>Tempestade</item>
+        <item>Chuviscos</item>
+        <item>Chuvas Fortes</item>
+        <item>Chuva</item>
+        <item>Chuviscos</item>
+        <item>Chuva e neve</item>
+        <item>Nevão</item>
+        <item>Manchas de queda de neve</item>
+        <item>Queda de neve forte</item>
+        <item>queda de neve</item>
+        <item>Queda de neve leve</item>
+        <item>Forte tempestade de areia</item>
+        <item>Tempestade de areia</item>
+        <item>Tempestades de areia leves</item>
+        <item>Tempestade de areia</item>
+        <item>Granizo</item>
+        <item>Poeira</item>
+        <item>Neblina</item>
+    </string-array>
+    <string-array name="weather_details_key">
+        <item>Indisponível</item>
+        <item>Adequado</item>
+        <item>Bom</item>
+        <item>Evite, se possível</item>
+        <item>Não recomendado</item>
+        <item>Ideal</item>
+        <item>Moderado</item>
+        <item>Fraco</item>
+        <item>Médio</item>
+        <item>Forte</item>
+        <item>Muito forte</item>
+        <item>Frio</item>
+        <item>Comfortável</item>
+        <item>Nuito quente</item>
+        <item>Quente</item>
+        <item>Ameno</item>
+        <item>Frio</item>
+        <item>Fresco</item>
+        <item>Frio</item>
+        <item>Congelado</item>
+        <item>Alto</item>
+        <item>Médio</item>
+        <item>Baixo</item>
+        <item>Poucas nuvens</item>
+        <item>Enublado</item>
+        <item>Chuva</item>
+        <item>Muita areia</item>
+        <item>Neve</item>
+        <item>Relativamente adequado</item>
+        <item>Condições adequadas</item>
+        <item>Enublado</item>
+        <item>Menos do que o ideal</item>
+        <item>Condições ideais</item>
+        <item>Condições más</item>
+        <item>Condições médias</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de se agasalhar!</item>
+        <item>Lembre-se de se agasalhar!</item>
+        <item>Lembre-se de se agasalhar!</item>
+        <item>Lembre-se de se agasalhar!</item>
+        <item>Lembre-se de se agasalhar!</item>
+        <item>Tenha cuidado lá fora!</item>
+        <item>Tenha cuidado lá fora!</item>
+        <item>Tenha cuidado lá fora!</item>
+        <item>Tenha cuidado lá fora!</item>
+        <item>Tenha cuidado! As estradas estão escorregadias.</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Lembre-se de colocar protetor solar.</item>
+        <item>Hoje o dia será nublado.</item>
+        <item>Tente ficar em casa.</item>
+        <item>Conduza com segurança</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>A temperatura tem realmente vindo descer lá fora!</item>
+        <item>Lembre-se de usar um chapéu e cachecol.</item>
+        <item>Agasalhar-se!</item>
+        <item>Lembre-se de usar um chapéu e cachecol!</item>
+        <item>Lembre-se de usar um chapéu e cachecol!</item>
+        <item>Lembre-se de usar uma máscara.</item>
+        <item>Lembre-se de usar uma máscara.</item>
+        <item>Lembre-se de usar uma máscara.</item>
+        <item>Lembre-se de usar uma máscara.</item>
+        <item>A temperatura tem realmente vindo descer lá fora!"</item>
+        <item>Lembre-se de usar uma máscara.</item>
+        <item>Tente ficar em casa.</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>Estão $ em @."</item>
+        <item>Temperatura: % graus.</item>
+        <item>Lembre-se de trazer um guarda-chuva!</item>
+        <item>Tente ficar seco! :)</item>
+        <item>Se você está a secar roupas lá fora, lembre-se de apanhá-las mais tarde!</item>
+        <item>Se possível evite conduzir.</item>
+        <item>Conduza com segurança!</item>
+        <item>Tenha cuidado lá fora, está escorregadio.</item>
+        <item>Fique à vontade. Tenha cuidado lá fora.</item>
+        <item>Tenha cuidado lá fora.</item>
+        <item>Tente não estar ao ar livre.</item>
+        <item>Traga os seus óculos de sol.</item>
+        <item>Usar protetor solar e trazer óculos de sol.</item>
+        <item>Está ventoso lá fora. Lembre-se de usar um casaco.</item>
+        <item>Lembre-se de usar uma máscara.</item>
+        <item>Lembre-se de levar um casaco.</item>
+        <item>Lembre-se de usar uma máscara.</item>
+        <item>Lembre-se de trazer luvas e um chapéu.</item>
+        <item>Está quente lá fora!"</item>
+        <item>Tente manter a calma!</item>
+        <item>Agasalhar-se!</item>
+        <item>A temperatura pode descer…</item>
+        <item>Tente manter-se aquecido!</item>
+        <item>Usar aquecedores de orelha, se os tiver!</item>
+        <item>Vá lá fora para desfrutar do clima.</item>
+        <item>Fazer uma corrida e apanhar sol!</item>
+        <item>Está um bom dia para secar roupa!</item>
+        <item>Lembre-se de usar um casaco!</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Indisponível</item>
+        <item>6</item>
+        <item>Não se esqueça de usar protetor solar.</item>
+        <item>7</item>
+        <item>Não se esqueça de usar protetor solar.</item>
+        <item>8</item>
+        <item>Não se esqueça de usar protetor solar.</item>
+        <item>9</item>
+        <item>Use protector solar se vai sair!</item>
+        <item>10</item>
+        <item>Use protector solar se vai sair!</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Indisponível</item>
+        <item>11</item>
+        <item>Casaco leve</item>
+        <item>12</item>
+        <item>Casaco leve</item>
+        <item>13</item>
+        <item>Vestuário de Verão</item>
+        <item>14</item>
+        <item>Vestuário de Verão</item>
+        <item>15</item>
+        <item>Casaco leve</item>
+        <item>16</item>
+        <item>Lembre-se de trazer camisolas adicionais!</item>
+        <item>17</item>
+        <item>Leve um casaco!</item>
+        <item>18</item>
+        <item>Agasalhar-se!</item>
+        <item>19</item>
+        <item>Agasalhar-se!</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Indisponível</item>
+        <item>1</item>
+        <item>É um bom dia para exercícios matinais</item>
+        <item>2</item>
+        <item>Traga camisola!</item>
+        <item>3</item>
+        <item>Traga camisola!</item>
+        <item>4</item>
+        <item>Exercício dentro de casa!</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Indisponível</item>
+        <item>20</item>
+        <item>A temperatura vai ser estável</item>
+        <item>21</item>
+        <item>Fresco e confortável</item>
+        <item>22</item>
+        <item>A temperatura vai ser instável</item>
+        <item>23</item>
+        <item>Céu limpo e temperaturas desconfortáveis</item>
+        <item>24</item>
+        <item>Quente e húmido!</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Indisponível</item>
+        <item>1</item>
+        <item>Está um bom dia para lavar o carro!</item>
+        <item>2</item>
+        <item>Está um bom dia para lavar o carro!</item>
+        <item>3</item>
+        <item>Vai chover! Deve adiar a lavagem do seu carro.</item>
+        <item>25</item>
+        <item>Vai chover! Deve adiar a lavagem do seu carro.</item>
+        <item>26</item>
+        <item>Na previsão há uma tempestade de areia! Deve adiar a lavagem do seu carro."</item>
+        <item>27</item>
+        <item>Vai cair neve. Deve adiar a lavagem do seu carro."</item>
+        <item>4</item>
+        <item>Adiar a lavagem do seu carro.</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Indisponível</item>
+        <item>28</item>
+        <item>Pendure sua roupa para secar durante a tarde.</item>
+        <item>29</item>
+        <item>Pendure as suas roupas para secar a qualquer momento.</item>
+        <item>30</item>
+        <item>É um dia muito nublado, mas com as altas temperaturas a sua roupa ainda seca.</item>
+        <item>1</item>
+        <item>Hoje é um grande dia para secar roupa.</item>
+        <item>3</item>
+        <item>Períodos de chuva ao longo do dia.</item>
+        <item>5</item>
+        <item>Boas condições de secagem.</item>
+        <item>4</item>
+        <item>Seque a roupa dentro de casa.</item>
+        <item>31</item>
+        <item>Seque a roupa dentro de casa.</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Indisponível</item>
+        <item>32</item>
+        <item>Limpo e sol, com boas temperaturas.</item>
+        <item>2</item>
+        <item>Comfortável e temperaturas estáveis.</item>
+        <item>1</item>
+        <item>Comfortável e temperaturas estáveis.</item>
+        <item>3</item>
+        <item>O tempo de hoje vai ser instável</item>
+        <item>33</item>
+        <item>O tempo de hoje vai ser instável.</item>
+        <item>34</item>
+        <item>Poucas nuvens e ventos moderados.</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Agasalhar-se!</item>
+        <item>Brisa</item>
+        <item>Comfortável</item>
+        <item>N</item>
+        <item>Indisponível</item>
+    </string-array>
+</resources>
