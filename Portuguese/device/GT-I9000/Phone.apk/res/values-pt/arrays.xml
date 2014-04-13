@@ -2,9 +2,9 @@
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string-array name="clir_display_values">
-        <item>Rede predefenida</item>
+        <item>Rede predefinida</item>
         <item>Ocultar número</item>
-        <item>Mostrar número</item>
+        <item>Exibir número</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/CDMA</item>
@@ -13,7 +13,7 @@
         <item>CDMA/EvDo auto</item>
         <item>GSM/WCDMA auto</item>
         <item>WCDMA apenas</item>
-        <item>GSM only</item>
+        <item>GSM apenas</item>
         <item>GSM/WCDMA preferida</item>
     </string-array>
     <string-array name="preferred_network_mode_values_lte">
@@ -34,7 +34,7 @@
         <item>Automático</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY Desativado</item>
+        <item>TTY Desactivado</item>
         <item>TTY Completo</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
@@ -45,7 +45,7 @@
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Sempre</item>
-        <item>Apenas quando em silêncio</item>
-        <item>Nunnca</item>
+        <item>Apenas em silêncio</item>
+        <item>Nunca</item>
     </string-array>
 </resources>
