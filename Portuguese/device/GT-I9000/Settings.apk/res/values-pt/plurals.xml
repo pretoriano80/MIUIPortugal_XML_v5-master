@@ -2,8 +2,8 @@
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">Está agora %1$d a dois passos de ser um desenvolvedor.</item>
-        <item quantity="one">Está agora %1$d a dois passos de ser um desenvolvedor.</item>
+        <item quantity="other">Está agora a %1$d passos de ser um desenvolvedor.</item>
+        <item quantity="one">Está agora a %1$d passo de ser um desenvolvedor.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">A senha tem de ter pelo menos %d letras</item>
