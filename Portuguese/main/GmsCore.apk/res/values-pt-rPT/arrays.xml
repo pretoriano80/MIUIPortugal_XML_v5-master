@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auth_gls_security_questions">
+        <item>Escolha uma pergunta de segurança</item>
+        <item>Número do seu telemóvel?</item>
+        <item>Nome da sua esposa?</item>
+        <item>Nome da sua mãe?</item>
+        <item>Nome do seu pai?</item>
+        <item>Número da matrícula do seu automóvel?</item>
+    </string-array>
+    <string-array name="auth_gender_array">
+        <item>Masculino</item>
+        <item>Feminino</item>
+        <item>Outro</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>fraco</item>
+        <item>razoável</item>
+        <item>bom</item>
+        <item>forte</item>
+    </string-array>
+</resources>

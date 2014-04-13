@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="games_select_players_current_count_format">
+        <item quantity="other">%1$d jogadores</item>
+        <item quantity="one">Jogadores</item>
+    </plurals>
+    <plurals name="games_select_players_slots_remaining_format">
+        <item quantity="other">Convide até mais %1$d pessoas</item>
+        <item quantity="one">Convide até mais %1$d pessoas</item>
+    </plurals>
+    <plurals name="games_notification_new_match_activity">
+        <item quantity="other">%1$d novos convites para jogo</item>
+        <item quantity="one">%1$d novo convite para jogo</item>
+    </plurals>
+    <plurals name="games_notification_new_player_text">
+        <item quantity="other">Ver convites</item>
+        <item quantity="one">Ver convite</item>
+    </plurals>
+    <plurals name="games_leaderboard_player_count_format">
+        <item quantity="other">%1$s jogadores</item>
+        <item quantity="one">%1$s jogador</item>
+    </plurals>
+</resources>
