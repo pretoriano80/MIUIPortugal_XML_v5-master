@@ -8,7 +8,7 @@
         <item>Ásia</item>
         <item>Austrália</item>
         <item>Pacífico</item>
-        <item>All</item>
+        <item>Todos</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 segundos</item>
@@ -50,8 +50,8 @@
         <item>Muito lento</item>
         <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Very fast</item>
+        <item>rápido</item>
+        <item>Muito rápido</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Muito baixo</item>
@@ -72,7 +72,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporáriamente ligações fracas</item>
+        <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -86,7 +86,7 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporáriamente ligações fracas</item>
+        <item>Evitar temporariamente ligações fracas</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione o botão</item>
@@ -114,18 +114,18 @@
     </string-array>
     <string-array name="wifi_sleep_policy_entries">
         <item>Sempre</item>
-        <item>Só quando a carregar</item>
+        <item>Apenas em carregamento</item>
         <item>Nunca (aumenta tráfego)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
-        <item>Só quando ligado na tomada</item>
+        <item>Apenas quando ligado à tomada</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
-        <item>Só 5 GHz</item>
-        <item>Só 2.4 GHz</item>
+        <item>Apenas 5 GHz</item>
+        <item>Apenas 2.4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo de utilização</item>
@@ -149,7 +149,7 @@
         <item>Nenhum</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP ou CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -168,7 +168,7 @@
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nunca verificar</item>
-        <item>Verificar só o conteúdo DRM</item>
+        <item>Verificar apenas o conteúdo DRM</item>
         <item>Verificar sempre</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
@@ -210,8 +210,8 @@
         <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Limite predifinido</item>
-        <item>Nenhum processo em fundo</item>
+        <item>Limite predefinido</item>
+        <item>Nenhum processo de fundo</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
         <item>No máximo 3 processos</item>
@@ -234,13 +234,13 @@
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Perguntar</item>
-        <item>Nunca permitir</item>
+        <item>Não permitir</item>
         <item>Permitir sempre</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
         <item>Médio</item>
-        <item>Light</item>
+        <item>Claro</item>
     </string-array>
     <string-array name="haptic_feedback_level_values">
         <item>2</item>
@@ -341,10 +341,10 @@ o driver precisa ser instalado manualmente"</item>
     <string-array name="msd_pc_system_install_step_1_summary">
         <item>"(Por favor, ignore o Assistente de Configuração)
 o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
-Abra e selecione Setup.exe para instalação"</item>
+Abra e seleccione Setup.exe para a instalação"</item>
         <item></item>
         <item>"o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
-Abra e selecione AndroidFileTransfer.dmg para instalação"</item>
+Abra e seleccione AndroidFileTransfer.dmg para a instalação"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
@@ -360,7 +360,7 @@ dispositivo 2.MI 2 de armazenamento móvel irá aparecer no seu computador"</ite
         <item>"Para o Windows Vista ou versões mais recentes,
 o leitor de música MI 2 irá aparecer no seu computador"</item>
         <item>"Se instalar este driver
-Computador vai auto abrir e ler dados do telefone"</item>
+Computador vai abrir automaticamente e ler os dados do telefone"</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
@@ -388,7 +388,7 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Senha</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>Desbloquear com a cara</item>
+        <item>Desbloquear com o rosto</item>
         <item>Personalizar</item>
         <item>PIN</item>
         <item>Senha</item>
