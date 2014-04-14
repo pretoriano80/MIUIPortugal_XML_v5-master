@@ -6,7 +6,7 @@
     </string-array>
     <string-array name="act_weather_main_listview_key">
         <item>Velc. do vento:</item>
-        <item>Indice UV:　</item>
+        <item>Indice UV:</item>
         <item>Vestuário:</item>
         <item>Comfortável:</item>
         <item>Lavagem do carro:</item>
@@ -79,10 +79,6 @@
         <item>Condições médias</item>
     </string-array>
     <string-array name="weather_image_tips">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
@@ -192,9 +188,9 @@
         <item>17</item>
         <item>Leve um casaco!</item>
         <item>18</item>
-        <item>Agasalhar-se!</item>
+        <item>Agasalhe-se!</item>
         <item>19</item>
-        <item>Agasalhar-se!</item>
+        <item>Agasalhe-se!</item>
     </string-array>
     <string-array name="weather_info_msport">
         <item>0</item>
@@ -234,9 +230,9 @@
         <item>25</item>
         <item>Vai chover! Deve adiar a lavagem do seu carro.</item>
         <item>26</item>
-        <item>Na previsão há uma tempestade de areia! Deve adiar a lavagem do seu carro."</item>
+        <item>Na previsão há uma tempestade de areia! Deve adiar a lavagem do seu carro.</item>
         <item>27</item>
-        <item>Vai cair neve. Deve adiar a lavagem do seu carro."</item>
+        <item>Vai cair neve. Deve adiar a lavagem do seu carro.</item>
         <item>4</item>
         <item>Adiar a lavagem do seu carro.</item>
     </string-array>
@@ -278,7 +274,7 @@
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Agasalhar-se!</item>
+        <item>Agasalhe-se!</item>
         <item>Brisa</item>
         <item>Comfortável</item>
         <item>N</item>

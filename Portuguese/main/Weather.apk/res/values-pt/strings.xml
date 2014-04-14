@@ -13,7 +13,7 @@
     <string name="enable_notification_city">Notificações metereológicas activadas para %s</string>
     <string name="sms_notification">Partilhar</string>
     <string name="send_sms_notification">Notificações metereológicas</string>
-    <string name="send_sms_notification_summary">Enviar dados meteorológicos de hoje para os seus contactos por mensagem de texto"</string>
+    <string name="send_sms_notification_summary">Enviar dados meteorológicos de hoje para os seus contactos por mensagem de texto</string>
     <string name="location_management">Localizações</string>
     <string name="enable_gps">GPS</string>
     <string name="add_city">Adicionar localização</string>
@@ -43,7 +43,7 @@
     <string name="act_weather_range_title">Previsão do tempo local</string>
     <string name="act_weather_range_select">Escolha uma cidade</string>
     <string name="menu_around">Perto de</string>
-    <string name="menu_location">Locatizações</string>
+    <string name="menu_location">Localizações</string>
     <string name="menu_notification">Notificações</string>
     <string name="menu_reload">Refrescar</string>
     <string name="menu_reloading">Actualizar…</string>
@@ -56,7 +56,7 @@
     <string name="share_button_text">Partilhar</string>
     <string name="share_choice_titile">Completar acção usando</string>
     <string name="share_content">Tempo MIUI</string>
-    <string name="share_weather_content">Está %2$s em %1$s, %3$s graus, %4$s. %5$s."</string>
+    <string name="share_weather_content">Está %2$s em %1$s, %3$s graus, %4$s. %5$s.</string>
     <string name="share_aqi_content">O índice de qualidade do ar em %1$s é %2$s (%3$s). %4$s %5$s.</string>
     <string name="save_screen_shot_failed">Não é possível capturar ecrã</string>
     <string name="trend_weather_today">Hoje</string>
@@ -78,7 +78,7 @@
     <string name="tip_weather">Notificações do tempo</string>
     <string name="tip_weather_info_title_1">Gama de temp. de %2$d graus em %1$s</string>
     <string name="tip_weather_info_content_1">Lembre-se de trazer camisolas!</string>
-    <string name="tip_weather_info_title_2">Está %2$s em %1$s"</string>
+    <string name="tip_weather_info_title_2">Está %2$s em %1$s</string>
     <string name="alert_provider_title">Notificação da localização</string>
     <string name="alert_provider_message">Para permitir o acesso ao local, entre em contacto com a sua operadora.</string>
     <string name="button_allow">Permitir</string>
@@ -109,7 +109,7 @@
     <string name="act_aqi_so2_title">SO2</string>
     <string name="act_aqi_no2_title">NO2</string>
     <string name="first_start_network_toast_text">Para obter informações weather, ligue a Internet.</string>
-    <string name="act_weather_find_city_search_online">"Toque para localizar "</string>
+    <string name="act_weather_find_city_search_online">Toque para localizar</string>
     <string name="act_weather_find_city_connect_net">Verifique a sua ligação de dados e ligue novamente.</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
@@ -117,7 +117,7 @@
     <string name="act_weather_find_city_searching">Pesquisar…</string>
     <string name="act_init_dialog_finish">Informações adicionadas de Global weather.</string>
     <string name="loading_weather">A carregar…</string>
-    <string name="act_weather_cycle_link_china">Weather China</string>
+    <string name="act_weather_cycle_link_china">Tempo China</string>
     <string name="menu_add">Adicionar localização</string>
     <string name="menu_more">Detalhes</string>
     <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
