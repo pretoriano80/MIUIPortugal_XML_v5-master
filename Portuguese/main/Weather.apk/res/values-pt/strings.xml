@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string name="sina_share_pendding">A enviar…</string>
     <string name="sina_share_success">Enviado</string>
@@ -46,7 +45,7 @@
     <string name="menu_around">Perto de</string>
     <string name="menu_location">Locatizações</string>
     <string name="menu_notification">Notificações</string>
-    <string name="menu_reload">Refrecar</string>
+    <string name="menu_reload">Refrescar</string>
     <string name="menu_reloading">Actualizar…</string>
     <string name="menu_share">Partilhar</string>
     <string name="menu_main">Índice</string>
@@ -115,10 +114,10 @@
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">℃</string>
-    <string name="act_weather_find_city_searching">Perquisar…</string>
+    <string name="act_weather_find_city_searching">Pesquisar…</string>
     <string name="act_init_dialog_finish">Informações adicionadas de Global weather.</string>
     <string name="loading_weather">A carregar…</string>
-    <string name="act_weather_cycle_link_china">WeatherChina</string>
+    <string name="act_weather_cycle_link_china">Weather China</string>
     <string name="menu_add">Adicionar localização</string>
     <string name="menu_more">Detalhes</string>
     <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
