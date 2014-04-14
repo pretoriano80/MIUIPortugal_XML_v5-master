@@ -108,7 +108,7 @@
     <string name="act_aqi_pm10_title">PM10</string>
     <string name="act_aqi_so2_title">SO2</string>
     <string name="act_aqi_no2_title">NO2</string>
-    <string name="first_start_network_toast_text">Para obter informações weather, ligue a Internet.</string>
+    <string name="first_start_network_toast_text">Para obter informações do tempo, ligue a Internet.</string>
     <string name="act_weather_find_city_search_online">Toque para localizar</string>
     <string name="act_weather_find_city_connect_net">Verifique a sua ligação de dados e ligue novamente.</string>
     <string name="weather_unit">°</string>
@@ -117,7 +117,7 @@
     <string name="act_weather_find_city_searching">Pesquisar…</string>
     <string name="act_init_dialog_finish">Informações adicionadas de Global weather.</string>
     <string name="loading_weather">A carregar…</string>
-    <string name="act_weather_cycle_link_china">Tempo China</string>
+    <string name="act_weather_cycle_link_china">Tempo MIUI</string>
     <string name="menu_add">Adicionar localização</string>
     <string name="menu_more">Detalhes</string>
     <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>

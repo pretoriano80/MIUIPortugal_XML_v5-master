@@ -55,12 +55,12 @@
         <item>Muito forte</item>
         <item>Frio</item>
         <item>Comfortável</item>
-        <item>Nuito quente</item>
+        <item>Muito quente</item>
         <item>Quente</item>
         <item>Ameno</item>
         <item>Frio</item>
         <item>Fresco</item>
-        <item>Frio</item>
+        <item>Gelado</item>
         <item>Congelado</item>
         <item>Alto</item>
         <item>Médio</item>
@@ -113,25 +113,25 @@
         <item>Lembre-se de trazer um guarda-chuva!</item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
-        <item>A temperatura tem realmente vindo descer lá fora!</item>
+        <item>Está a chover muito lá fora.</item>
         <item>Lembre-se de usar um chapéu e cachecol.</item>
-        <item>Agasalhar-se!</item>
+        <item>Agasalhe-se!</item>
         <item>Lembre-se de usar um chapéu e cachecol!</item>
         <item>Lembre-se de usar um chapéu e cachecol!</item>
         <item>Lembre-se de usar uma máscara.</item>
         <item>Lembre-se de usar uma máscara.</item>
         <item>Lembre-se de usar uma máscara.</item>
         <item>Lembre-se de usar uma máscara.</item>
-        <item>A temperatura tem realmente vindo descer lá fora!"</item>
+        <item>Está a chuver muito lá fora.</item>
         <item>Lembre-se de usar uma máscara.</item>
         <item>Tente ficar em casa.</item>
     </string-array>
     <string-array name="weather_sms_addons">
-        <item>Estão $ em @."</item>
+        <item>Está $ em @.</item>
         <item>Temperatura: % graus.</item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
         <item>Tente ficar seco! :)</item>
-        <item>Se você está a secar roupas lá fora, lembre-se de apanhá-las mais tarde!</item>
+        <item>Se está a secar roupas lá fora, lembre-se de apanhá-las mais tarde!</item>
         <item>Se possível evite conduzir.</item>
         <item>Conduza com segurança!</item>
         <item>Tenha cuidado lá fora, está escorregadio.</item>
@@ -145,7 +145,7 @@
         <item>Lembre-se de levar um casaco.</item>
         <item>Lembre-se de usar uma máscara.</item>
         <item>Lembre-se de trazer luvas e um chapéu.</item>
-        <item>Está quente lá fora!"</item>
+        <item>Está quente lá fora!</item>
         <item>Tente manter a calma!</item>
         <item>Agasalhar-se!</item>
         <item>A temperatura pode descer…</item>
@@ -270,13 +270,13 @@
         <item>33</item>
         <item>O tempo de hoje vai ser instável.</item>
         <item>34</item>
-        <item>Poucas nuvens e ventos moderados.</item>
+        <item>Céu claro e ventos moderados.</item>
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
         <item>Agasalhe-se!</item>
-        <item>Brisa</item>
-        <item>Comfortável</item>
+        <item>Brisa leve</item>
+        <item>Vento suave</item>
         <item>N</item>
         <item>Indisponível</item>
     </string-array>
