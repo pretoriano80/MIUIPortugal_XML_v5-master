@@ -79,6 +79,10 @@
         <item>Condições médias</item>
     </string-array>
     <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
         <item>Lembre-se de trazer um guarda-chuva!</item>
