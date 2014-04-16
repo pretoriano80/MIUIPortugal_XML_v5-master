@@ -107,7 +107,7 @@ O uso adicional de dados poderá envolver custos."</string>
     <string name="data_usage_disabled_dialog_enable">Reactivar dados</string>
     <string name="status_bar_settings_signal_meter_disconnected">Sem ligação à Internet</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi ligado</string>
-    <string name="gps_notification_searching_text">Procurando por GPS</string>
+    <string name="gps_notification_searching_text">A procurar por GPS</string>
     <string name="gps_notification_found_text">Local definido por GPS</string>
     <string name="accessibility_clear_all">Eliminar todas as notificações.</string>
     <string name="status_bar_notification_inspect_item_title">Informações da aplicação</string>
