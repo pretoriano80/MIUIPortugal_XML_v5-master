@@ -39,7 +39,7 @@
         <item>Uso total</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Obter modelo de mensagem automaticamente</item>
-        <item>Definir modelo de mensagem manualmente</item>
+        <item>Obter automaticamente o modelo de mensagem</item>
+        <item>Definir manualmente o modelo de mensagem</item>
     </string-array>
 </resources>

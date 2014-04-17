@@ -21,6 +21,8 @@ Faltam"</string>
     <string name="main_traffic_used_only">Usado: %s</string>
     <string name="main_alert_message_no_mobile_package">O limite de dados móveis não foi definido</string>
     <string name="main_alert_message_no_imsi">Não foi detectado nenhum cartão SD</string>
+    <string name="main_alert_message_slot_no_data_connection">"A ranhura do cartão SIM não suporta
+uma ligação de dados móveis"</string>
     <string name="firewall_activity_lable">Restringir o uso de dados por aplicação</string>
     <string name="firewall_applist">Aplicações</string>
     <string name="firewall_rule_group_title_mobile">Dados</string>
@@ -127,11 +129,11 @@ Faltam"</string>
     <string name="declaration_dialog_msg">Este recurso pode ajudar a controlar o uso de dados, mas não garante evitar encargos adicionais. Para melhores resultados, definir um limite.</string>
     <string name="input_used_hint">Digite o uso de dados</string>
     <string name="text_day" />
-    <string name="settings">Configurações de uso de dados</string>
+    <string name="settings">Definições de uso de dados</string>
     <string name="adjust_traffic_data">Definir o uso de dados</string>
     <string name="per_month_pkg_traffic_settings">Definir um limite de dados</string>
-    <string name="free_time_traffic_settings">Configurações de limite de dados fora do horário</string>
-    <string name="traffic_setting_fragment_title">Configurações de consulta de uso de dados</string>
+    <string name="free_time_traffic_settings">Definições de limite de dados fora do horário</string>
+    <string name="traffic_setting_fragment_title">Definições de consulta de uso de dados</string>
     <string name="traffic_setting_fragment_button2_text">Guardar</string>
     <string name="traffic_setting_fragment_area">Local</string>
     <string name="traffic_setting_fragment_operator">Operadora</string>

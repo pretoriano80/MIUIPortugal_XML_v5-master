@@ -7,7 +7,7 @@
         <item>Desactivado</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Página de início padrão</item>
+        <item>Página de início</item>
         <item>Personalizar</item>
     </string-array>
     <string-array name="pref_text_size_choices">

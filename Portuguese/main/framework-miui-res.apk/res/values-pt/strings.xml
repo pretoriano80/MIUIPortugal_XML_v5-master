@@ -275,9 +275,9 @@ Por favor, insira o cartão SIM."</string>
     <string name="find_device_turn_off_flight_mode_instructions">"O seu dispositivo foi bloqueado.
 Por favor, desligue o modo avião."</string>
     <string name="firewall_setting">AntiSpam</string>
-    <string name="first_back_long_press_message">"Quer ativar a função pressionar-longo a tecla voltar para terminar todos os processos em excução? 
+    <string name="first_back_long_press_message">"Quer activar a função pressionar-longo a tecla voltar para terminar todos os processos em excução? 
 
-Activar via Definições > Sistema > Botão Definições"</string>
+Para activa esta função, vá a Definições > Sistema > Botões"</string>
     <string name="fm_record_smaple_prefix_miui">Gravação FM</string>
     <string name="fools_day">Dia da mentira</string>
     <string name="force_exit_message">Fechado \"%1$s\"</string>
@@ -324,14 +324,14 @@ Activar via Definições > Sistema > Botão Definições"</string>
     <string name="lunar_yi">一</string>
     <string name="lunar_yue">月</string>
     <string name="lunar_zheng">正</string>
-    <string name="memory_clear_nothing_result">Memória optimizada</string>
+    <string name="memory_clear_nothing_result">O uso da memória está optimizada</string>
     <string name="memory_clear_result">"Cache limpa: %1$s
 Memória disponível: %2$s"</string>
     <string name="miui_copyright_title">Copyright</string>
-    <string name="miui_mibi_license_title">Acordo de utilização de crédito Mi</string>
+    <string name="miui_mibi_license_title">Contrato de crédito MI do utilizador</string>
     <string name="miui_privacy_policy_title">Política de privacidade</string>
-    <string name="miui_user_agreement_title">Acordo de utilização</string>
-    <string name="miui_user_manual_title">Manual </string>
+    <string name="miui_user_agreement_title">Contrato de utilização</string>
+    <string name="miui_user_manual_title">Manual de utilizador </string>
     <string name="month_of_april">Abr</string>
     <string name="month_of_august">Ago</string>
     <string name="month_of_december">Dez</string>
@@ -366,7 +366,7 @@ Memória disponível: %2$s"</string>
     <string name="private_num">Número privado</string>
     <string name="reboot_confirm">O telefone será reiniciado</string>
     <string name="reboot_progress">A reiniciar…</string>
-    <string name="reverse_all">Reverter tudo</string>
+    <string name="reverse_all">Limpar tudo</string>
     <string name="safetylegal_activity_unreachable">O telefone não está ligado ao serviço de dados. Para ver estas informações, aceda %s em qualquer computador ligado à internet.</string>
     <string name="deprecated_46" />
     <string name="deprecated_47" />
@@ -381,7 +381,7 @@ Memória disponível: %2$s"</string>
     <string name="sd_not_available_use_internal_storage">Cartão SD indisponível, Guardado no armazenamento interno</string>
     <string name="select">Selecionar</string>
     <string name="select_all">Selecionar tudo</string>
-    <string name="send_sms_for_sync_notice">É preciso enviar um SMS de activação, deseja continuar?</string>
+    <string name="send_sms_for_sync_notice">Uma mensagem de texto será enviada para activar. Pode resultar em custos da operadora</string>
     <string name="send_sms_for_sync_title">O serviço de sincronização não está activado</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_changed_reactivate_notice">O cartão SIM não está activado. Uma mensagem de texto será enviado para o activar. Pode resultar em custos da sua operadora.</string>
@@ -413,7 +413,7 @@ Memória disponível: %2$s"</string>
     <string name="v5_date_picker_label_day" />
     <string name="v5_date_picker_label_month" />
     <string name="v5_date_picker_label_year" />
-    <string name="v5_deselect_all">Desmarcar tudo</string>
+    <string name="v5_deselect_all">Desselecionar tudo</string>
     <string name="v5_edit_mode_title_empty">0 Selecionado</string>
     <string name="v5_icon_menu_bar_more_item_label">Mais</string>
     <string name="v5_select_all">Selecionar tudo</string>
@@ -433,7 +433,7 @@ Memória disponível: %2$s"</string>
     <string name="winter_solstice">Solstício de inverno</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="lockscreen_access_pattern_cleared">Padrão limpo</string>
-    <string name="lockscreen_access_pattern_start">Padrão começou</string>
+    <string name="lockscreen_access_pattern_start">Padrão iniciou</string>
     <string name="lockscreen_access_pattern_cell_added">Célula adicionada</string>
     <string name="lockscreen_access_pattern_detected">Padrão concluído</string>
     <string name="send">Enviar</string>
@@ -444,11 +444,11 @@ Memória disponível: %2$s"</string>
     <string name="provider_114">Fornecido por 114</string>
     <string name="device_xiaomi">Xiaomi</string>
     <string name="miui_device_name">Android</string>
-    <string name="sim_unavailable">Cartão SIM indisponível</string>
-    <string name="sim_locked">Cartão SIM está bloqueado</string>
-    <string name="sim_not_ready">Cartão SIM está em uso. Tente mais tarde.</string>
+    <string name="sim_unavailable">O cartão SIM está indisponível</string>
+    <string name="sim_locked">O cartão SIM está bloqueado</string>
+    <string name="sim_not_ready">O cartão SIM está em uso. Tente mais tarde.</string>
     <string name="sim_in_airplane_mode">Desactive o modo avião</string>
-    <string name="sim_changed_reactivate_int_notice">O cartão SIM está inactivo. É necessário uma sms internacional para activar o serviço, activar agora?</string>
+    <string name="sim_changed_reactivate_int_notice">O cartão SIM que está a usar está inactivo. Uma mensagem vai ser enviada para activar o serviço. Pode resultar em custos de sua operadora.</string>
     <string name="days">%d dias</string>
     <string name="hours">%d horas</string>
     <string name="minutes">%d minutos</string>
@@ -456,8 +456,8 @@ Memória disponível: %2$s"</string>
     <string name="reboot_confirm_title">O seu telefone irá reiniciar.</string>
     <string name="err_resource_leak">Infelizmente, %1$s parou</string>
     <string name="app_notificaiton_on_statusBar_and_notificationBar">Barra de estado, Barra de notificação</string>
-    <string name="app_no_notification">nada</string>
-    <string name="app_notificaiton_on_notificationBar">Bar de notification</string>
+    <string name="app_no_notification">Ocultar notificações</string>
+    <string name="app_notificaiton_on_notificationBar">Notification sombra</string>
     <string name="device_hongmi">Xiaomi</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu a senha errada %d vezes. Depois de %d tentativas, para desbloquear o telefone tem que aceder à sua conta.
 

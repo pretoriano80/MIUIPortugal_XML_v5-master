@@ -98,6 +98,7 @@
     <string name="aqi_quality_index_unhealthy">doentio</string>
     <string name="aqi_quality_index_dangerous">perigoso</string>
     <string name="aqi_quality_index_hazardous">arriscado</string>
+    <string name="aqi_quality_index_break">Credo!</string>
     <string name="aqi_details_good">Está um grande dia para estar ao ar livre.</string>
     <string name="aqi_details_fine">Pessoas com condições médicas crónicas devem reduzir o esforço prolongado ou intenso.</string>
     <string name="aqi_details_light_pollution">Pessoas com doenças cardíacas ou pulmonares, adultos mais velhos, e as crianças devem reduzir o esforço prolongado ou intenso.</string>

@@ -3,7 +3,7 @@
 <resources>
     <string name="app_name">Gravador</string>
     <string name="recording">Começar a falar</string>
-    <string name="recording_stopped">Gravação interrompida</string>
+    <string name="recording_stopped">A gravação parou</string>
     <string name="storage_is_full">O armazenamento está cheio</string>
     <string name="max_length_reached">Tamanho máximo atingido</string>
     <string name="insert_sd_card">Insira o cartão SD</string>
