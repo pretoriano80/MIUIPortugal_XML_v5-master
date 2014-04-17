@@ -2191,7 +2191,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
     <string name="builtin_keyboard_settings_title">Teclado do dispositivo</string>
     <string name="builtin_keyboard_settings_summary">Definições de teclado físico</string>
-    <string name="development_settings_title">Opcções do Desenvolvedor</string>
+    <string name="development_settings_title">Opções do Desenvolvedor</string>
     <string name="development_settings_summary">Define as opções para o desenvolvimento da aplicação</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver ligado</string>
