@@ -38,10 +38,10 @@
     <string name="others">Outro</string>
     <string name="music">Música</string>
     <string name="variety">Variedade</string>
-    <string name="comment">Comentário</string>
+    <string name="comment">Comentários</string>
     <string name="livetv">Live</string>
     <string name="online_video">Vídeo Online</string>
-    <string name="comment_hint">(limite de 300 letras)</string>
+    <string name="comment_hint">(Limite de 300 letras)</string>
     <string name="comment_hint_tip">O seu comentário vais ser mostrado depois de uma breve revisão.</string>
     <string name="comment_max_error">O seu comentário não pode exceder as 300 letras</string>
     <string name="comment_can_input_prefix" />
@@ -276,6 +276,7 @@
     <string name="no_video">Sem vídeos</string>
     <string name="dlna_name">Partilhar dispositivo</string>
     <string name="dlna_list_name">Dispositivo DLNA</string>
+    <string name="check_network">não é possível ligar à rede, verifique a rede</string>
     <string name="temp_play_history_button_label">Mostra cronologia</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Desculpe, o formato de vídeo selecionado não pode ser transmitido no seu dispositivo.</string>
     <string name="vp_VideoView_error_text_unknown">Desculpe, o formato de vídeo selecionado não pode ser reproduzido.</string>

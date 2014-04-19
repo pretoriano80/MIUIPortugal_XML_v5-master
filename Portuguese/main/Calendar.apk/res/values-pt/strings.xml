@@ -97,7 +97,7 @@
     <string name="discard_label">Cancelar</string>
     <string name="snooze_all_label">Adiar todos</string>
     <string name="dismiss_all_label">Dispensar tudo</string>
-    <string name="snooze_label">Descartar</string>
+    <string name="snooze_label">Dispensar</string>
     <string name="does_not_repeat">Evento único</string>
     <string name="daily">Diáriamente</string>
     <string name="every_weekday">Cada dia da semana (Seg-Sex)</string>
@@ -182,8 +182,8 @@
     <string name="birthday_event_description">Hoje é o aniversário de %1$s</string>
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
-    <string name="jump_date">Ir</string>
-    <string name="jump_date_full">Ir para data</string>
+    <string name="jump_date">Saltar</string>
+    <string name="jump_date_full">Saltar para data</string>
     <string name="miui_chinese_week_range_single" />
     <string name="miui_chinese_week_range_double" />
     <string name="miui_menu_create_event">Novo</string>
@@ -198,7 +198,7 @@
     <string name="account_and_calendar_to_display">Conta e calendário a mostrar</string>
     <string name="default_reminder_mode">Modo de lembrete padrão</string>
     <string name="time_zone">Fuso horário</string>
-    <string name="event_all_day_label">Todos os dias</string>
+    <string name="event_all_day_label">Todo o dia</string>
     <string name="today_no_events">Sem agenda para hoje</string>
     <string name="event_account">Conta do Calendário</string>
     <string name="event_show_more">Mostrar</string>

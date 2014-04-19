@@ -415,7 +415,7 @@ Tentativa feita: %s."</string>
     <string name="private_protect">Senhas</string>
     <string name="private_new_notification">Notificações da mensagem</string>
     <string name="enable_password_protect">Requer uma senha</string>
-    <string name="enable_visible_pattern_title">Fazer padrão vísivel</string>
+    <string name="enable_visible_pattern_title">Activar o padrão vísivel</string>
     <string name="importing_progress_private_message">Importar mensagens…</string>
     <string name="exporting_progress_private_message">Exportar mensagens…</string>
     <string name="confirm_export_dialog_title">Eliminar de contactos privados</string>

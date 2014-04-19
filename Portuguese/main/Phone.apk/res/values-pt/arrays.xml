@@ -7,8 +7,8 @@
         <item>Mostrar número</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>CDMA / EvDo/GSM/WCDMA</item>
-        <item>CDMA/ EvDo auto</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA / EvDo auto</item>
         <item>Apenas WCDMA</item>
         <item>Apenas GSM</item>
         <item>Padrão GSM/WCDMA</item>
@@ -23,7 +23,7 @@
         <item>Hebraico</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Apenas doméstica</item>
+        <item>Apenas em casa</item>
         <item>Automático</item>
     </string-array>
     <string-array name="tty_mode_entries">

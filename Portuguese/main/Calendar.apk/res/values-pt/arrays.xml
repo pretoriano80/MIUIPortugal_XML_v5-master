@@ -152,7 +152,7 @@
         <item>Todos os eventos</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Este &amp;amp; eventos futuros</item>
+        <item>Este &amp; eventos futuros</item>
         <item>Todos os eventos</item>
     </string-array>
     <string-array name="change_response_labels">

@@ -1689,7 +1689,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="screensaver_timeout_zero_summary">Nunca</string>
     <string name="screensaver_test">Experimente!</string>
     <string name="screensaver_activate_on_dock_title">Começar quando docked</string>
-    <string name="automatic_brightness">Luz automática</string>
+    <string name="automatic_brightness">Brilho automático</string>
     <string name="title_font_size">Tamanho da letra</string>
     <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Tamanho da letra</string>
@@ -1910,8 +1910,8 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="location_gps">Satélites GPS</string>
     <string name="location_street_level">Deixar as aplicações usar o GPS para identificar a sua localização</string>
     <string name="assisted_gps">Utilizar GPS assistido</string>
-    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desmarque para reduzir o uso de rede)</string>
-    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desmarque para melhorar o desempenho do GPS)</string>
+    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desactive para reduzir o uso de rede)</string>
+    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desactive para melhorar o desempenho do GPS)</string>
     <string name="use_location_title">Localização/Pesquisa Google</string>
     <string name="use_location_summary">Permitir que o Google use a sua localização para melhorar resultados de pesquisa e outros serviços</string>
     <string name="about_settings">Sobre o telefone:</string>
@@ -1967,7 +1967,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
     <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
     <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Muitas tentactivas incorretas!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Muitas tentativas incorretas!</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos.</string>
     <string name="skip_button_label">Cancelar</string>
     <string name="next_button_label">Seguinte</string>
@@ -2203,10 +2203,10 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="adb_warning_message">A depuração USB serve apenas para fins de desenvolvimento. Ela pode ser utilizada para copiar dados entre o computador e o aparelho, instalar aplicações neste telefone sem notificação e ler dados de registo.</string>
     <string name="dev_settings_warning_title">Permitir definições de desenvolvimento?</string>
     <string name="dev_settings_warning_message">Estas definições destinam-se apenas a utilização para desenvolvimento. Poderão causar comportamento instável do dispositivo e nas aplicações nele instaladas.</string>
-    <string name="enforce_read_external_title">Proteger o cartão SD</string>
-    <string name="enforce_read_external_summary">Aplicações devem solicitar permissão para ler o cartão SD</string>
+    <string name="enforce_read_external_title">Proteger armazenamento USB</string>
+    <string name="enforce_read_external_summary">Aplicações devem solicitar permissão para ler o armazenamento USB</string>
     <string name="enforce_read_external_confirm_title">Proteger o armazenamento USB?</string>
-    <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicaçõess devem solicitar permissão para ler dados de armazenamento externo.
+    <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicações devem solicitar permissão para ler dados de armazenamento externo.
 
 Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus desenvolvedores."</string>
     <string name="gadget_picker_title">Escolher gadget</string>
@@ -2600,7 +2600,7 @@ Poderá encontrar controlos de uso de dados mais adequados nas definições disp
 
 Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta do Google funciona dessa maneira.
 
-Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas. "</string>
+Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desligar auto-sincronização de dados?</string>
     <string name="data_usage_auto_sync_off_dialog">Isso vai economizar no uso de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações.</string>
     <string name="data_usage_cycle_editor_title">Repor data para ciclo de utilização</string>
@@ -2620,7 +2620,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
 "<font size="12">limit</font></string>
     <string name="data_usage_uninstalled_apps">Aplicações eliminadas</string>
     <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-    <string name="data_usage_total_during_range">%2$s: cerca de %1$s utilizado</string>
+    <string name="data_usage_total_during_range">%2$s: cerca de %1$s usado.</string>
     <string name="data_usage_total_during_range_mobile">%2$s: de %1$s usado, conforme medido pelo seu telefone. A medição de dados da sua operadora podem ser diferentes.</string>
     <string name="data_usage_metered_title">Pontos de acesso móveis</string>
     <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes quando estiverem a funcionar em background. As mesmas também podem avisar antes de usar essas redes para downloads grandes.</string>
@@ -2653,7 +2653,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="vpn_save">Guardar</string>
     <string name="vpn_connect">Ligar</string>
     <string name="vpn_edit">Editar perfil VPN</string>
-    <string name="vpn_connect_to">Ligar-se a %s</string>
+    <string name="vpn_connect_to">Ligar a %s</string>
     <string name="vpn_title">Definições de VPN</string>
     <string name="vpn_create">Adicionar rede VPN</string>
     <string name="vpn_menu_edit">Editar perfil</string>

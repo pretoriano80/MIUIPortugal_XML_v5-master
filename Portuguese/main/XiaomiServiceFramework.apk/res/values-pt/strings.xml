@@ -59,7 +59,7 @@ Para activar a sua conta,
 
 Para activar a sua conta,
  siga o link de activação na sua caixa de entrada."</string>
-    <string name="completed">Terminar</string>
+    <string name="completed">Terminado</string>
     <string name="header_data_and_synchronization">Dados e sincronização</string>
     <string name="title_reg">Iniciar sessão em</string>
     <string name="micloud_account_label">Conta: %1$s</string>
@@ -103,7 +103,7 @@ Para activar a sua conta,
     <string name="access_denied">Acesso negado</string>
     <string name="reging">A registar a conta…</string>
     <string name="reg_success">A conta foi criada</string>
-    <string name="reg_success_summary">%1$s foi adicionado à sua conta. Você pode usá-lo para entrar ou para recuperar sua senha.</string>
+    <string name="reg_success_summary">%1$s foi adicionado à sua conta. Pode usá-lo para entrar ou para recuperar sua senha.</string>
     <string name="sync_on">On</string>
     <string name="sync_off">Off</string>
     <string name="btn_activate">Activar</string>
@@ -192,7 +192,7 @@ Para activar a sua conta,
     <string name="master_alert_notif_title">A última sincronização foi à %s dias</string>
     <string name="sub_alert_notif_title">Chave do serviço de sincronização não foi activado</string>
     <string name="alert_notif_title_dspt">Restaurar a sincronização para garantir a segurança dos dados</string>
-    <string name="noRemind">Não me lembrar novamente</string>
+    <string name="noRemind">Não lembrar novamente</string>
     <string name="restoreSync">Restaurar</string>
     <string name="enableAll">Activar todos</string>
     <string name="master_alert_notif_dspt" formatted="false">%s contactos, %s mensagens, %s fotos, %s notas e outros dados não foram sincronizados.</string>
@@ -279,5 +279,5 @@ Se ficar sem espaço de armazenamento, os dados antigos não são substituídos.
 Para corrigir isso, pode eliminar alguns arquivos antigos para dar lugar aos novos, ou pode comprar espaço de armazenamento adicional."</string>
     <string name="micloud_upgrade_space">Comprar espaço</string>
     <string name="enable_sync_dspt">A sincronização está desligada</string>
-    <string name="enable_sync">Activar sincronização</string>
+    <string name="enable_sync">Activar</string>
 </resources>

@@ -6,10 +6,6 @@
         <item>Pergunte-me primeiro</item>
         <item>Desactivado</item>
     </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Página de início</item>
-        <item>Personalizar</item>
-    </string-array>
     <string-array name="pref_text_size_choices">
         <item>Muito pequeno</item>
         <item>Pequeno</item>
@@ -17,14 +13,9 @@
         <item>Grande</item>
         <item>Enorme</item>
     </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Pequeno</item>
-        <item>Médio</item>
-        <item>Grande</item>
-    </string-array>
     <string-array name="pref_development_ua_choices">
         <item>Android</item>
-        <item>Desktop</item>
+        <item>Área de Trabalho</item>
         <item>iPhone</item>
         <item>iPad</item>
         <item>Froyo-N1</item>
@@ -32,13 +23,13 @@
     </string-array>
     <string-array name="pref_default_text_encoding_choices">
         <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>Korean (EUC-KR)</item>
+        <item>Código único (UTF-8)</item>
+        <item>Chinês (GBK)</item>
+        <item>Chinês (Big5)</item>
+        <item>Japonês (ISO-2022-JP)</item>
+        <item>Japonês (SHIFT_JIS)</item>
+        <item>Japonês (EUC-JP)</item>
+        <item>Koreano (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Nunca</item>
@@ -55,18 +46,13 @@
         <item>Apenas em Wi-Fi</item>
         <item>Sempre</item>
     </string-array>
-    <string-array name="menu_theme_setting">
-        <item>Branco</item>
-        <item>Amarelo</item>
-        <item>Cinzento</item>
-        <item>Castanho</item>
-        <item>Verde</item>
-        <item>Azul</item>
-        <item>Escuro</item>
+    <string-array name="pref_homepage_choices">
+        <item>Página de início</item>
+        <item>Personalizado</item>
     </string-array>
     <string-array name="pref_ua_choices">
         <item>Android</item>
-        <item>Desktop</item>
+        <item>Área de Trabalho</item>
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
@@ -75,8 +61,13 @@
         <item>Janela anterior/Próxima janela</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
-        <item>Avançar Página/voltar</item>
+        <item>Avançar página/voltar atrás</item>
         <item>Mudar janela</item>
+    </string-array>
+    <string-array name="pref_default_zoom_choices">
+        <item>Pequena</item>
+        <item>Média</item>
+        <item>Grande</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Nunca</item>

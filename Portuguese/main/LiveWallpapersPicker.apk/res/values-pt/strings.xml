@@ -10,6 +10,6 @@
     <string name="live_wallpaper_empty">Nenhum Wallpaper animado disponível.</string>
     <string name="set_live_wallpaper">Definir Wallpaper</string>
     <string name="wallpaper_title_and_author">%1$s por %2$s</string>
-    <string name="live_wallpaper_loading">A carregar Wallpaper animado...</string>
+    <string name="live_wallpaper_loading">A carregar Wallpaper animado…</string>
     <string name="wallpaper_cancel">Cancelar</string>
 </resources>
