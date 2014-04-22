@@ -52,7 +52,7 @@
     <string name="status_network_error">Problema de ligação.</string>
     <string name="error_loading_message_body">Não foi possível carregar o texto da mensagem. A mensagem pode ser muito grande para ver.</string>
     <string name="cannot_move_protocol_not_supported_toast">Mover não é suportado entre contas POP3.</string>
-    <string name="cannot_move_multiple_accounts_toast">Impossível mover porque a seleção contém várias contas.</string>
+    <string name="cannot_move_multiple_accounts_toast">É impossível mover porque a seleção contém várias contas.</string>
     <string name="cannot_move_special_mailboxes_toast">Mensagens em Rascunhos, Caixa de Saída e Enviados não podem ser movidas.</string>
     <string name="notification_to_account">para %1$s</string>
     <string name="notification_multiple_new_messages_fmt">%1$d novas mensagens</string>
