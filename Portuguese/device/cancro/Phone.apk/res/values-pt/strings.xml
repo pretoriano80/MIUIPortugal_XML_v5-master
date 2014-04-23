@@ -671,7 +671,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="sip_system_decide">Automatico</string>
     <string name="sip_always_send_keepalive">Enviar sempre</string>
     <string name="set_primary">SetPrimary</string>
-    <string name="advanced_settings_container">advanced settings container</string>
     <string name="ims_edit_title">IMS account details</string>
     <string name="ims_accounts_title">IMS Account</string>
     <string name="ims_domain_address_title">IMS Server</string>
