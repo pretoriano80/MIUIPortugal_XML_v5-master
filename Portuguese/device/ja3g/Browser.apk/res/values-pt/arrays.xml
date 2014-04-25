@@ -985,6 +985,7 @@
         <item>Avançar Página/voltar</item>
         <item>Mudar janela</item>
     </string-array>
+    <string-array name="pref_images_preload_choices">
         <item>Nunca</item>
         <item>Apenas ligado a Wi-Fi</item>
         <item>Sempre</item>
