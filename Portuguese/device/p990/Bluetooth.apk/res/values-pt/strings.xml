@@ -103,11 +103,6 @@
     <string name="transfer_clear_dlg_title">Limpar</string>
     <string name="map_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
     <string name="map_acceptance_dialog_header">Phone folder access</string>
-    <string name="map_session_key_dialog_title">@string/pbap_session_key_dialog_title</string>
-    <string name="map_session_key_dialog_header">@string/pbap_session_key_dialog_header</string>
-    <string name="map_acceptance_timeout_message">@string/pbap_acceptance_timeout_message</string>
-    <string name="map_authentication_timeout_message">@string/pbap_authentication_timeout_message</string>
-    <string name="map_notif_ticker">@string/auth_notif_ticker</string>
     <string name="map_notif_title">Chave de sessão MAP</string>
     <string name="map_notif_message">Permitir o acesso de pasta de raiz por %1$ s</string>
     <string name="map_alert_conn_failed_message">Falhou a conexão com o Bluetooth MAP.</string>

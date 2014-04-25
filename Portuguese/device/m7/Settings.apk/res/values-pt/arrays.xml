@@ -408,10 +408,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Brilhante</item>
         <item>Padrão</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Native</item>
-    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single mic noise_suppression</item>
         <item>Dual mic noise_suppression</item>

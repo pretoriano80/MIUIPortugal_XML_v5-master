@@ -437,14 +437,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Permitir</item>
         <item>Negar</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativo</item>
-    </string-array>
-    <string-array name="values_color_calibration">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single-mic noise suppression</item>
         <item>Dual-mic noise suppression</item>
