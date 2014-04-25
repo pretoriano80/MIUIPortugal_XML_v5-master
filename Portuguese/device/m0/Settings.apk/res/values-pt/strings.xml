@@ -255,7 +255,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="power_chooser_check_box_title">Economizar bateria</string>
     <string name="power_chooser_check_box_summary">Escolha um perfil de gestão de energia para prolongar a vida da bateria</string>
     <string name="power_chooser_smart_title">Padrão</string>
-    <string name="power_chooser_smart_summary">Guardar definições actuais, de limpar processos na tela de bloqueio</string>
+    <string name="power_chooser_smart_summary">Limpar os processos em execução em segundo plano no ecrã de bloqueio</string>
     <string name="power_chooser_standby_title">Modo maratona</string>
     <string name="power_chooser_standby_summary">Desactivar ligação Wi-Fi e rede móvel</string>
     <string name="power_chooser_sleep_title">Dormir</string>
@@ -706,7 +706,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="virus_scan_app_solve">Todos os processos</string>
     <string name="virus_scan_app_finish">Verificação concluída</string>
     <string name="virus_scan_app_continue">Continuar a verificar</string>
-    <string name="virus_scan_app_uninstall">Eliminar (% d)</string>
+    <string name="virus_scan_app_uninstall">Eliminar %d</string>
     <string name="virus_scan_app_force_stop">Verificação pausada</string>
     <string name="virus_scan_app_find_risk">% d riscos encontrados</string>
     <string name="virus_scan_app_scan_finish">Verificação concluída</string>
@@ -1061,7 +1061,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="battery_info_uptime">Tempo desde a inicialização:</string>
     <string name="battery_info_awake_battery">Tempo da activação da bateria:</string>
     <string name="battery_info_awake_plugged">Tempo de activação quando a carregar:</string>
-    <string name="battery_info_screen_on">Horas no ecrã activado:</string>
+    <string name="battery_info_screen_on">Horas activadas no ecrã:</string>
     <string name="battery_info_status_unknown">Desconhecido</string>
     <string name="battery_info_status_charging">A carregar</string>
     <string name="battery_info_status_charging_ac">(AC)</string>
@@ -1308,7 +1308,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Nenhum</string>
     <string name="unlock_set_unlock_none_summary">Desactivar o bloqueio de ecrã</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com rosto</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo, experimental</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
     <string name="unlock_set_unlock_pattern_summary">Defina o padrão para desbloquear o ecrã</string>
@@ -1450,7 +1450,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
     <string name="wifi_poor_network_detection">Evitar ligações fracas</string>
     <string name="wifi_poor_network_detection_summary">Não utilize uma rede WiFi a menos que tenha uma boa ligação com a Internet</string>
-    <string name="wifi_setting_sleep_policy_title">Política de inatividade de Wi-Fi</string>
+    <string name="wifi_setting_sleep_policy_title">Política de inactividade de Wi-Fi</string>
     <string name="wifi_setting_sleep_policy_error">Houve um problema ao configurar</string>
     <string name="wifi_add_network">Adicionar rede Wi-Fi</string>
     <string name="wifi_access_points">Redes Wi-Fi</string>
@@ -1651,7 +1651,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="screen_timeout_summary">Após %1$s de inactividade</string>
     <string name="wallpaper_settings_title">Papel de parede</string>
     <string name="wallpaper_settings_fragment_title">Escolher papel de parede a partir de</string>
-    <string name="screensaver_settings_title">Papel de parede Candy</string>
+    <string name="screensaver_settings_title">Papel de parede</string>
     <string name="screensaver_settings_summary_on">Entrar em modo dormir se estiver ligado à energia</string>
     <string name="screensaver_settings_summary_off">Desligado</string>
     <string name="screensaver_component_title">Selecionado</string>
@@ -1660,7 +1660,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="screensaver_timeout_zero_summary">Nunca</string>
     <string name="screensaver_test">Experimente!</string>
     <string name="screensaver_activate_on_dock_title">Começar quando docked</string>
-    <string name="automatic_brightness">Luz automática</string>
+    <string name="automatic_brightness">Brilho automático</string>
     <string name="title_font_size">Tamanho da letra</string>
     <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Tamanho da letra</string>
@@ -1811,7 +1811,7 @@ O PIN possivelmente está incorreto."</string>
 "<li>Aplicações transferidas</li>" "</string>
     <string name="master_clear_accounts">"
 
-Está atualmente assinado para as seguintes contas:
+Está actualmente assinado para as seguintes contas:
 "</string>
     <string name="master_clear_desc_also_erases_external">" "<li>Música</li>"
 "<li>Fotos</li>"
@@ -1871,9 +1871,9 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Cartão SD</
     <string name="location_gps">Satélites GPS</string>
     <string name="location_street_level">Deixar as aplicações usar o GPS para identificar a sua localização</string>
     <string name="assisted_gps">Utilizar GPS assistido</string>
-    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desmarque para reduzir o uso de rede)</string>
-    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desmarque para melhorar o desempenho do GPS)</string>
-    <string name="use_location_title">Localização/Pesquisa Google</string>
+    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desactive para reduzir o uso de rede)</string>
+    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desactive para melhorar o desempenho do GPS)</string>
+    <string name="use_location_title">Localização e Pesquisa Google</string>
     <string name="use_location_summary">Permitir que o Google use a sua localização para melhorar resultados de pesquisa e outros serviços</string>
     <string name="about_settings">Sobre o telefone:</string>
     <string name="about_settings_summary">Exibir informações legais, estado, versão de software</string>
@@ -1928,7 +1928,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Cartão SD</
     <string name="lockpattern_settings_choose_lock_pattern">Definir padrão de desbloqueio</string>
     <string name="lockpattern_settings_change_lock_pattern">Alterar padrão de desbloqueio</string>
     <string name="lockpattern_settings_help_how_to_record">Como desenhar um padrão de desbloqueio</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Muitas tentactivas incorretas!</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">Muitas tentativas incorretas!</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Tente novamente em %d segundos.</string>
     <string name="skip_button_label">Cancelar</string>
     <string name="next_button_label">Seguinte</string>
@@ -2116,7 +2116,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
     <string name="user_dict_settings_context_menu_edit_title">Editar</string>
     <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
-    <string name="user_dict_settings_empty_text">"Não possui nenhum dicionário.
+    <string name="user_dict_settings_empty_text">"Não possui nenhum dicionário
 Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="user_dict_settings_all_languages">Para todos os idiomas</string>
     <string name="user_dict_settings_more_languages">Mais idiomas…</string>
@@ -2156,7 +2156,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="development_settings_summary">Define as opções para o desenvolvimento da aplicação</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver ligado</string>
-    <string name="keep_screen_on">Permanecer ativo</string>
+    <string name="keep_screen_on">Permanecer activo</string>
     <string name="keep_screen_on_summary">O ecrã nunca entrará em inatividade enquanto estiver carregando.</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
@@ -2167,7 +2167,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="enforce_read_external_title">Proteger o cartão SD</string>
     <string name="enforce_read_external_summary">Aplicações devem solicitar permissão para ler o cartão SD</string>
     <string name="enforce_read_external_confirm_title">Proteger o armazenamento USB?</string>
-    <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicaçõess devem solicitar permissão para ler dados de armazenamento externo.
+    <string name="enforce_read_external_confirm_message">"Quando o armazenamento USB está protegido, as aplicações devem solicitar permissão para ler dados de armazenamento externo.
 
 Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus desenvolvedores."</string>
     <string name="gadget_picker_title">Escolher gadget</string>
@@ -2561,7 +2561,7 @@ Poderá encontrar controlos de uso de dados mais adequados nas definições disp
 
 Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta do Google funciona dessa maneira.
 
-Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas. "</string>
+Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desligar auto-sincronização de dados?</string>
     <string name="data_usage_auto_sync_off_dialog">Isso vai economizar no uso de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações.</string>
     <string name="data_usage_cycle_editor_title">Repor data para ciclo de utilização</string>
@@ -2581,7 +2581,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
 "<font size="12">limit</font>" "</string>
     <string name="data_usage_uninstalled_apps">Aplicações eliminadas</string>
     <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-    <string name="data_usage_total_during_range">%2$s: cerca de %1$s utilizado</string>
+    <string name="data_usage_total_during_range">%2$s: cerca de %1$s usado.</string>
     <string name="data_usage_total_during_range_mobile">%2$s: de %1$s usado, conforme medido pelo seu telefone. A medição de dados da sua operadora podem ser diferentes.</string>
     <string name="data_usage_metered_title">Pontos de acesso móveis</string>
     <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes quando estiverem a funcionar em background. As mesmas também podem avisar antes de usar essas redes para downloads grandes.</string>
@@ -2614,7 +2614,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="vpn_save">Guardar</string>
     <string name="vpn_connect">Ligar</string>
     <string name="vpn_edit">Editar perfil VPN</string>
-    <string name="vpn_connect_to">Ligar-se a %s</string>
+    <string name="vpn_connect_to">Ligar a %s</string>
     <string name="vpn_title">Definições de VPN</string>
     <string name="vpn_create">Adicionar rede VPN</string>
     <string name="vpn_menu_edit">Editar perfil</string>
@@ -2834,13 +2834,15 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="manually_add_network">Adicionar rede manualmente</string>
     <string name="network_detail">%s Detalhe de rede</string>
     <string name="connected_wifi">Ligado a Wi-Fi</string>
-    <string name="incoming_call_vibrate_abbreviation">"Chamadas "</string>
-    <string name="notification_vibrate_abbreviation">"Notificações "</string>
-    <string name="mms_vibrate_abbreviation">"Mensagens "</string>
-    <string name="breathing_light_color_title">Cor do LED</string>
-    <string name="breathing_light_color_menu_title">Cor da luz</string>
-    <string name="breathing_light_color_summary">Cor do LED quando recebe uma notificação nova</string>
-    <string name="breathing_light_freq_title">Frequência de intermitência do LED</string>
+    <string name="incoming_call_breathing_light_color_title">Cor da luz nas chamadas</string>
+    <string name="notification_breathing_light_color_title">Cor da luz nas notificações</string>
+    <string name="mms_breathing_light_color_title">Cor da luz nas mensagens</string>
+    <string name="breathing_light_color_menu_title">Cor da luzLight color</string>
+    <string name="breathing_light_color_summary">Cor do LED ao receber uma notificação nova</string>
+    <string name="breathing_light_freq_title">Frequência da luz do LED</string>
+    <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED nas chamadas</string>
+    <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
+    <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas messagens</string>
     <string name="breathing_light_freq_summary">Pausa do LED entre intermitências</string>
     <string name="led_settings">Notificação da luz</string>
     <string name="led_colors_summary">Notificações</string>
@@ -3021,7 +3023,7 @@ e executar o software."</li>"
     <string name="msd_install_retry_linux">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
 1) Use as ferramentas de instalação \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Crie um diretório \"mkdir\" /media/ mtp
+2) Crie um directório \"mkdir\" /media/ mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
 4) Inicie sessão novamente
 5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros, igual ao diretório local
@@ -3131,7 +3133,7 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="wifi_share_connect">Ligar</string>
     <string name="wifi_auto_connect">Auto-ligar</string>
     <string name="wifi_share_qrcode_title">Partilhar Wi-Fi</string>
-    <string name="wifi_share_qrcode_summary">Use a câmera MIUI para ler Codigo QR</string>
+    <string name="wifi_share_qrcode_summary">Use a câmera MIUI para ler Códigos QR</string>
     <string name="wifi_share_qrcode_finish">Terminar</string>
     <string name="noise_suppression">Supressão de ruído ambiente</string>
     <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>
@@ -3168,5 +3170,5 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="preferred_app_settings">Definições padrão das aplicações</string>
     <string name="preferred_app_settings_default">Padrão</string>
     <string name="preferred_app_settings_reset">Restaurar aplicações padrão?</string>
-    <string name="preferred_app_settings_reset_message">Todos os apps padrão serão restauradas para as predefinições MIUI.</string>
+    <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
 </resources>

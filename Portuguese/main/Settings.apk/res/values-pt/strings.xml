@@ -384,7 +384,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="power_mode_my_mode_summary">guardar automaticamente o estado uso diário</string>
     <string name="power_apply_toast">alterar para o modo %s e guardar automaticamente o estado actual</string>
     <string name="power_customize_giveup_change">cancelar a alteração?</string>
-    <string name="menu_item_force_stop">Forcar a paragem</string>
+    <string name="menu_item_force_stop">Forçar paragem</string>
     <string name="menu_item_uninstall">Desinstalar</string>
     <string name="menu_item_app_details">Detalhes</string>
     <string name="application_info_label">Aplicações</string>
@@ -1680,7 +1680,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="screen_timeout_summary">Após %1$s de inactividade</string>
     <string name="wallpaper_settings_title">Papel de parede</string>
     <string name="wallpaper_settings_fragment_title">Escolher papel de parede a partir de</string>
-    <string name="screensaver_settings_title">Papel de parede Candy</string>
+    <string name="screensaver_settings_title">Papel de parede</string>
     <string name="screensaver_settings_summary_on">Entrar em modo dormir se estiver ligado à energia</string>
     <string name="screensaver_settings_summary_off">Desligado</string>
     <string name="screensaver_component_title">Selecionado</string>
@@ -1787,9 +1787,9 @@ Tentativas restantes :"</string>
     <string name="dlg_confirm_unmount_text">Se desmontar armaz. USB, algumas aplicações que estão em uso serão interrompidas e podem não estar disponíveis até ligar o cartão SD novamente.</string>
     <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">Não é possível desmontar o armaz. USB. Tente novamente mais tarde.</string>
-    <string name="unmount_inform_text">O cartão armaz. USB será desmontado.</string>
+    <string name="unmount_inform_text">O armaz. USB será desmontado.</string>
     <string name="sd_ejecting_title">Desmontar</string>
-    <string name="sd_ejecting_summary">A desmontar</string>
+    <string name="sd_ejecting_summary">A desmontar…</string>
     <string name="storage_low_title">O espaço de armazenamento está a esgotar-se</string>
     <string name="storage_low_summary">Algumas funções do sistema, como a sincronização, poderão não funcionar correctamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdo multimédia ou aplicações.</string>
     <string name="storage_menu_usb">Ligação USB ao computador</string>
@@ -1878,7 +1878,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="media_format_final_desc">Eliminar o armaz. USB, eliminar todos os ficheiros armazenados? A ação não pode ser revertida!</string>
     <string name="media_format_final_button_text">Eliminar tudo</string>
     <string name="media_format_gesture_prompt">Desenhe o seu padrão de desbloqueio</string>
-    <string name="media_format_gesture_explanation">Deve desenhar o seu padrão de desbloqueio para confirmar a eleminação do armazenamento USB.</string>
+    <string name="media_format_gesture_explanation">Deve desenhar o seu padrão de desbloqueio para confirmar a eliminação do armazenamento USB.</string>
     <string name="call_settings_title">Definições de chamadas</string>
     <string name="call_settings_summary">Configurar o correio de voz, encaminhamento de chamadas, chamada em espera, ID de quem lhe liga</string>
     <string name="tether_settings_title_usb">Emparelhar USB</string>
@@ -1912,7 +1912,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="assisted_gps">Utilizar GPS assistido</string>
     <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desactive para reduzir o uso de rede)</string>
     <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desactive para melhorar o desempenho do GPS)</string>
-    <string name="use_location_title">Localização/Pesquisa Google</string>
+    <string name="use_location_title">Localização e Pesquisa Google</string>
     <string name="use_location_summary">Permitir que o Google use a sua localização para melhorar resultados de pesquisa e outros serviços</string>
     <string name="about_settings">Sobre o telefone:</string>
     <string name="about_settings_summary">Exibir informações legais, estado, versão de software</string>
@@ -2034,7 +2034,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="filter_apps_all">Todos</string>
     <string name="filter_apps_third_party">Transferido</string>
     <string name="filter_apps_running">Executar</string>
-    <string name="filter_apps_onsdcard">Armazenamento USB</string>
+    <string name="filter_apps_onsdcard">Aplicações no Armaz. USB</string>
     <string name="disabled">Desactivado</string>
     <string name="no_applications">Sem aplicações.</string>
     <string name="internal_storage">Armazenamento do sistema</string>
@@ -2195,7 +2195,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="development_settings_summary">Define as opções para o desenvolvimento da aplicação</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver ligado</string>
-    <string name="keep_screen_on">Permanecer ativo</string>
+    <string name="keep_screen_on">Permanecer activo</string>
     <string name="keep_screen_on_summary">O ecrã nunca entrará em inatividade enquanto estiver carregando.</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
@@ -2894,13 +2894,15 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="manually_add_network">Adicionar rede manualmente</string>
     <string name="network_detail">%s Detalhe de rede</string>
     <string name="connected_wifi">Ligado a Wi-Fi</string>
-    <string name="incoming_call_vibrate_abbreviation">"Chamadas "</string>
-    <string name="notification_vibrate_abbreviation">"Notificações "</string>
-    <string name="mms_vibrate_abbreviation">"Mensagens "</string>
-    <string name="breathing_light_color_title">Cor do LED</string>
-    <string name="breathing_light_color_menu_title">Cor da luz</string>
-    <string name="breathing_light_color_summary">Cor do LED quando recebe uma notificação nova</string>
-    <string name="breathing_light_freq_title">Frequência de intermitência do LED</string>
+    <string name="incoming_call_breathing_light_color_title">Cor da luz nas chamadas</string>
+    <string name="notification_breathing_light_color_title">Cor da luz nas notificações</string>
+    <string name="mms_breathing_light_color_title">Cor da luz nas mensagens</string>
+    <string name="breathing_light_color_menu_title">Cor da luzLight color</string>
+    <string name="breathing_light_color_summary">Cor do LED ao receber uma notificação nova</string>
+    <string name="breathing_light_freq_title">Frequência da luz do LED</string>
+    <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED nas chamadas</string>
+    <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
+    <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas messagens</string>
     <string name="breathing_light_freq_summary">Pausa do LED entre intermitências</string>
     <string name="led_settings">Notificação da luz</string>
     <string name="led_colors_summary">Notificações</string>
@@ -3071,15 +3073,15 @@ Tente o seguinte:
 Tente ligar novamente o cabo USB."</string>
     <string name="msd_install_retry_mac">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
-"<li>"Faça uma busca por
+"<li>"1) Faça uma busca por
 Transferência de Ficheiros Android,
 e executar o software."</li>"
-"<li>Volte a ligar o cabo USB.</li>"
-"<li>Reinstalar o driver.</li></string>
+"<li>2) Volte a ligar o cabo USB.</li>"
+"<li>3) Reinstalar o driver.</li></string>
     <string name="msd_install_retry_linux">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
 1) Use as ferramentas de instalação \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Crie um diretório \"mkdir\" /media/ mtp
+2) Crie um directório \"mkdir\" /media/ mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
 4) Inicie sessão novamente
 5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros, igual ao diretório local
@@ -3189,7 +3191,7 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="wifi_share_connect">Ligar</string>
     <string name="wifi_auto_connect">Auto-ligar</string>
     <string name="wifi_share_qrcode_title">Partilhar Wi-Fi</string>
-    <string name="wifi_share_qrcode_summary">Use a câmera MIUI para ler Codigo QR</string>
+    <string name="wifi_share_qrcode_summary">Use a câmera MIUI para ler Códigos QR</string>
     <string name="wifi_share_qrcode_finish">Terminar</string>
     <string name="noise_suppression">Supressão de ruído ambiente</string>
     <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>

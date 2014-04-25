@@ -2560,7 +2560,7 @@ Poderá encontrar controlos de uso de dados mais adequados nas definições disp
 
 Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta do Google funciona dessa maneira.
 
-Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas. "</string>
+Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desligar auto-sincronização de dados?</string>
     <string name="data_usage_auto_sync_off_dialog">Isso vai economizar no uso de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações.</string>
     <string name="data_usage_cycle_editor_title">Repor data para ciclo de utilização</string>
@@ -2574,13 +2574,13 @@ Para escolher quais tipos de informações, a sincronização dentro de cada con
 Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador poderá reportar valores diferentes, considere utilizar um limite restrito."</string>
     <string name="data_usage_restrict_background_title">Restringir dados em segundo plano?</string>
     <string name="data_usage_restrict_background">Se restringir dados móveis em segundo plano, algumas aplicações e serviços não funcionarão a menos que esteja ligado a uma rede Wi-Fi.</string>
-    <string name="data_usage_sweep_warning">" "<font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">cuidado</font>" "</string>
-    <string name="data_usage_sweep_limit">" "<font size="21">^1</font> <font size="9">^2</font>"
-"<font size="12">limit</font>" "</string>
+    <string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">cuidado</font></string>
+    <string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>"
+"<font size="12">limit</font></string>
     <string name="data_usage_uninstalled_apps">Aplicações eliminadas</string>
     <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-    <string name="data_usage_total_during_range">%2$s: cerca de %1$s utilizado</string>
+    <string name="data_usage_total_during_range">%2$s: cerca de %1$s usado.</string>
     <string name="data_usage_total_during_range_mobile">%2$s: de %1$s usado, conforme medido pelo seu telefone. A medição de dados da sua operadora podem ser diferentes.</string>
     <string name="data_usage_metered_title">Pontos de acesso móveis</string>
     <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes quando estiverem a funcionar em background. As mesmas também podem avisar antes de usar essas redes para downloads grandes.</string>
@@ -2613,7 +2613,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="vpn_save">Guardar</string>
     <string name="vpn_connect">Ligar</string>
     <string name="vpn_edit">Editar perfil VPN</string>
-    <string name="vpn_connect_to">Ligar-se a %s</string>
+    <string name="vpn_connect_to">Ligar a %s</string>
     <string name="vpn_title">Definições de VPN</string>
     <string name="vpn_create">Adicionar rede VPN</string>
     <string name="vpn_menu_edit">Editar perfil</string>
@@ -2833,13 +2833,15 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="manually_add_network">Adicionar rede manualmente</string>
     <string name="network_detail">%s Detalhe de rede</string>
     <string name="connected_wifi">Ligado a Wi-Fi</string>
-    <string name="incoming_call_vibrate_abbreviation">"Chamadas "</string>
-    <string name="notification_vibrate_abbreviation">"Notificações "</string>
-    <string name="mms_vibrate_abbreviation">"Mensagens "</string>
-    <string name="breathing_light_color_title">Cor do LED</string>
-    <string name="breathing_light_color_menu_title">Cor da luz</string>
-    <string name="breathing_light_color_summary">Cor do LED quando recebe uma notificação nova</string>
-    <string name="breathing_light_freq_title">Frequência de intermitência do LED</string>
+    <string name="incoming_call_breathing_light_color_title">Cor da luz nas chamadas</string>
+    <string name="notification_breathing_light_color_title">Cor da luz nas notificações</string>
+    <string name="mms_breathing_light_color_title">Cor da luz nas mensagens</string>
+    <string name="breathing_light_color_menu_title">Cor da luzLight color</string>
+    <string name="breathing_light_color_summary">Cor do LED ao receber uma notificação nova</string>
+    <string name="breathing_light_freq_title">Frequência da luz do LED</string>
+    <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED nas chamadas</string>
+    <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
+    <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas messagens</string>
     <string name="breathing_light_freq_summary">Pausa do LED entre intermitências</string>
     <string name="led_settings">Notificação da luz</string>
     <string name="led_colors_summary">Notificações</string>

@@ -276,8 +276,8 @@
     <string name="accessibility_button_clear">Eliminar entrada</string>
     <string name="pref_content_block_float_popups">Bloquear flutuador de pop-ups</string>
     <string name="local_bookmarks">Xiaomi</string>
-    <string name="google_bookmarks">Google:</string>
-    <string name="bookmarks_management">Favoritos</string>
+    <string name="google_bookmarks">Google</string>
+    <string name="bookmarks_management">Gerir favoritos</string>
     <string name="bookmarks_root_folder">Pasta Root</string>
     <string name="bookmarks_content_is_null">Sem favoritos</string>
     <string name="history_browsed">Histórico de navegação</string>

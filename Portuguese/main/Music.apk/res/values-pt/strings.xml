@@ -111,7 +111,7 @@
     <string name="sdcard_error_message_nosdcard">Ocorreu um erro ao aceder o armazenamento USB</string>
     <string name="no_music_to_play">Sem música para tocar</string>
     <string name="ringtone_menu">Usar o toque do telefone</string>
-    <string name="ringtone_set">\"%s\" Usar como toque</string>
+    <string name="ringtone_set">\"%s\" defenir como toque</string>
     <string name="ringtone_not_support">Este formato não é suportado</string>
     <string name="play_selection">Reproduzir</string>
     <string name="add_to">Adicionar à</string>
@@ -148,14 +148,10 @@
     <string name="load_channel_failed">Falha ao carregar lista</string>
     <string name="load_bill_in_process">A carregar lista billboard…</string>
     <string name="load_bill_failed">Falha ao carregar lista</string>
-    <string name="load_artist_in_process">A carregar…</string>
-    <string name="load_artist_failed">Falha ao carregar lista</string>
-    <string name="load_album_in_process">A carregar…</string>
-    <string name="load_album_failed">Falha ao carregar lista</string>
+    <string name="load_recommend_in_process">A carregar…</string>
+    <string name="load_recommend_failed">Falha ao carregar lista</string>
     <string name="load_audio_in_process">A carregar…</string>
     <string name="load_audio_failed">Falha ao carregar lista</string>
-    <string name="load_album_artist_in_process">A carregar…</string>
-    <string name="load_album_artist_failed">Falha ao carregar lista</string>
     <string name="retry">Tentar novamente</string>
     <string name="lrc_search_failed">A letra não foi encontrada</string>
     <string name="lrc_searching">A procurar letra da música…</string>
@@ -163,8 +159,6 @@
     <string name="music_open_other_connect">Transferir músicas utilizando a rede de dados móveis</string>
     <string name="impunity_declaration_title">Declaração</string>
     <string name="impunity_declaration">A música online que está prestes a usar é do serviço de música online Baidu. Toque em Confirmar para aceitar a <a href="http://music.baidu.com/doc/agreement">termos de utilização</a></string>
-    <string name="synchronize_to_baidu_cloud">Faça backup de músicas on-line em suas listas de reprodução com Núvem Baidu</string>
-    <string name="synchronize_guide_toast">Para activar a sincronização, vá a Definições > Sincronizar listas de reprodução</string>
     <string name="music_filter_helper">Um filtro tem impedido que esses arquivos sejam exibidos</string>
     <string name="modify_meta">Editar informações da música</string>
     <string name="id3_edit">Editar manualmente informações da música</string>
@@ -324,6 +318,11 @@
     <string name="data_usage_warning">Uso de dados</string>
     <string name="data_usage_warning_summary">Ao usar a sua ligação de dados móveis para transmitir música de maior qualidade e pode aumentar os seus custos de uso de dados.</string>
     <string name="source_from">Fonte de : %1$s</string>
+    <string name="click_to_play_all">Selecione para tocar todas</string>
+    <string name="collect_topic_success">Album adicionado aos favoritos</string>
+    <string name="collect_bill_success">Música adicionada aos favoritos</string>
+    <string name="collect_fm_success">Adicionado aos favoritos</string>
+    <string name="uncollect_success">Eliminado dos favoritos</string>
     <string name="albumsongseparator">"
 "</string>
     <string name="notification_artist_album">"%2$s
@@ -343,4 +342,5 @@
     <string name="album_artist_format" formatted="false">%s , %s</string>
     <string name="channel_postfix">MHZ</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
+    <string name="number_format" formatted="false">%s.%s</string>
 </resources>

@@ -1450,7 +1450,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
     <string name="wifi_poor_network_detection">Evitar ligações fracas</string>
     <string name="wifi_poor_network_detection_summary">Não utilize uma rede WiFi a menos que tenha uma boa ligação com a Internet</string>
-    <string name="wifi_setting_sleep_policy_title">Política de inatividade de Wi-Fi</string>
+    <string name="wifi_setting_sleep_policy_title">Política de inactividade de Wi-Fi</string>
     <string name="wifi_setting_sleep_policy_error">Houve um problema ao configurar</string>
     <string name="wifi_add_network">Adicionar rede Wi-Fi</string>
     <string name="wifi_access_points">Redes Wi-Fi</string>
@@ -1648,19 +1648,19 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="brightness">Brilho</string>
     <string name="brightness_summary">Ajustar o brilho do ecrã</string>
     <string name="screen_timeout">Dormir</string>
-    <string name="screen_timeout_summary">Após %1$s de inatividade</string>
+    <string name="screen_timeout_summary">Após %1$s de inactividade</string>
     <string name="wallpaper_settings_title">Papel de parede</string>
     <string name="wallpaper_settings_fragment_title">Escolher papel de parede a partir de</string>
     <string name="screensaver_settings_title">Papel de parede</string>
     <string name="screensaver_settings_summary_on">Entrar em modo dormir se estiver ligado à energia</string>
     <string name="screensaver_settings_summary_off">Desligado</string>
     <string name="screensaver_component_title">Selecionado</string>
-    <string name="screensaver_timeout_title">Quando ativar</string>
-    <string name="screensaver_timeout_summary">Após %1$s inativo</string>
+    <string name="screensaver_timeout_title">Quando activar</string>
+    <string name="screensaver_timeout_summary">Após %1$s inactivo</string>
     <string name="screensaver_timeout_zero_summary">Nunca</string>
     <string name="screensaver_test">Experimente!</string>
     <string name="screensaver_activate_on_dock_title">Começar quando docked</string>
-    <string name="automatic_brightness">Luz automática</string>
+    <string name="automatic_brightness">Brilho automático</string>
     <string name="title_font_size">Tamanho da letra</string>
     <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Tamanho da letra</string>
@@ -1684,7 +1684,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
 Possivelmente o PIN está incorreto."</string>
     <string name="sim_change_succeeded">PIN do SIM alterado</string>
     <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
-O PIN possivelmente está incorreto."</string>
+Possivelmente o PIN está incorreto."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancelar</string>
     <string name="device_info_settings">Estado do telefone</string>
@@ -1702,7 +1702,7 @@ O PIN possivelmente está incorreto."</string>
     <string name="device_status_summary">Número de telefone, sinal, etc.</string>
     <string name="storage_settings">Armazenamento</string>
     <string name="storage_settings_title">Definições de armazenamento</string>
-    <string name="storage_settings_summary">Desmontar armaz. USB, ver armazenamento disponível</string>
+    <string name="storage_settings_summary">Desmontar armaz USB, ver armazenamento disponível</string>
     <string name="status_imei">IMEI:</string>
     <string name="status_imei_sv">IMEI SV:</string>
     <string name="status_number">O meu número de telefone:</string>
@@ -1747,8 +1747,8 @@ O PIN possivelmente está incorreto."</string>
     <string name="dlg_confirm_unmount_title">Desmontar cartão SD?</string>
     <string name="dlg_confirm_unmount_text">Se desmontar o cartão SD, algumas aplicações que estão em uso serão interrompidas e podem não estar disponíveis até ligar o cartão SD novamente.</string>
     <string name="dlg_error_unmount_title" />
-    <string name="dlg_error_unmount_text">Não é possível desmontar o cartão SD. Tente novamente mais tarde.</string>
-    <string name="unmount_inform_text">O cartão SD será desmontado.</string>
+    <string name="dlg_error_unmount_text">Não é possível desmontar o armaz. USB. Tente novamente mais tarde.</string>
+    <string name="unmount_inform_text">O armaz. USB será desmontado.</string>
     <string name="sd_ejecting_title">Desmontar</string>
     <string name="sd_ejecting_summary">A desmontar…</string>
     <string name="storage_low_title">O espaço de armazenamento está a esgotar-se</string>
@@ -1804,7 +1804,7 @@ O PIN possivelmente está incorreto."</string>
     <string name="restore_default_apn_completed">Restaurar as definições padrão do APN concluída.</string>
     <string name="master_clear_title">Restaurar configuração de fábrica</string>
     <string name="master_clear_summary">Elimina todos os dados no telefone</string>
-    <string name="master_clear_desc">"Isto irá eliminar todos os dados de <b>memória interna</b>" no seu telefone , incluindo:
+    <string name="master_clear_desc">"Isto elimina todos os dados da "<b>memória interna</b>" no seu telefone, incluindo:
 
 "<li>A sua conta do Google</li>"
 "<li>Sistema, dados de aplicações e definições</li>"
@@ -1813,14 +1813,14 @@ O PIN possivelmente está incorreto."</string>
 
 Está actualmente assinado para as seguintes contas:
 "</string>
-    <string name="master_clear_desc_also_erases_external">" "<li>Música</li>"
+    <string name="master_clear_desc_also_erases_external"><li>Música</li>"
 "<li>Fotos</li>"
-"<li>Outros dados de utilizador</li>" "</string>
+"<li>Outros dados de utilizador</li></string>
     <string name="master_clear_desc_erase_external_storage">"
 
-Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Cartão SD</b> precisa ser eliminado.</string>
-    <string name="erase_external_storage">Eliminar o cartão SD</string>
-    <string name="erase_external_storage_description">Eliminar todos os dados no cartão SD, tais como música ou fotos</string>
+Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</b> tem de ser eliminado.</string>
+    <string name="erase_external_storage">Eliminar o armaz. USB</string>
+    <string name="erase_external_storage_description">Eliminar todos os dados armazenamento USB, tais como música ou fotos</string>
     <string name="master_clear_button_text">Restaurar telefone</string>
     <string name="master_clear_final_desc">Deseja eliminar todas as suas informações pessoais e quaisquer aplicações instalados? É impossível reverter esta ação!</string>
     <string name="master_clear_final_button_text">Eliminar tudo</string>
@@ -1829,17 +1829,17 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Cartão SD</
     <string name="master_clear_failed">Nenhuma restauração foi realizada porque o serviço System Clear não está disponível.</string>
     <string name="master_clear_confirm_title">Restaurar?</string>
     <string name="internal_media_format_title">Eliminar o armazenamento interno</string>
-    <string name="internal_media_format_desc">Eliminar todo o armazenamento interno? Vai perder <b>todos</b> os dados armazenados e depois telefone irá reiniciar!</string>
+    <string name="internal_media_format_desc">Eliminar todo o armazenamento interno? Vai perder <b>todos</b> os dados armazenados, e o telefone irá reiniciar!</string>
     <string name="internal_media_format_button_text">Eliminar o armazenamento interno</string>
     <string name="internal_media_format_final_desc">Eliminar o armazenamento interno e arquivos aí armazenados? Não poderá reverter esta ação! O telefone irá reiniciar após o armazenamento Interno ter sido eliminado!</string>
     <string name="media_format_title">Eliminar armazenamento USB</string>
-    <string name="media_format_summary">Elimina todos os dados no dispositivo de armazenamento USB</string>
-    <string name="media_format_desc">Esta ação irá formatar o cartão SD no telefone. Perderá TODOS os dados do cartão!</string>
-    <string name="media_format_button_text">Formatar o cartão SD</string>
-    <string name="media_format_final_desc">Formatar o cartão SD, eliminando toda a multimédia? A ação não pode ser revertida!</string>
+    <string name="media_format_summary">Elimina todos os dados no armazenamento USB</string>
+    <string name="media_format_desc">Eliminar todos os armaz. USB? Perderá <b>todos</b> dados armazenados!</string>
+    <string name="media_format_button_text">Eliminar armaz. USB</string>
+    <string name="media_format_final_desc">Eliminar o armaz. USB, eliminar todos os ficheiros armazenados? A ação não pode ser revertida!</string>
     <string name="media_format_final_button_text">Eliminar tudo</string>
     <string name="media_format_gesture_prompt">Desenhe o seu padrão de desbloqueio</string>
-    <string name="media_format_gesture_explanation">Deve desenhar o seu padrão de desbloqueio para confirmar a formatação de um cartão SD.</string>
+    <string name="media_format_gesture_explanation">Deve desenhar o seu padrão de desbloqueio para confirmar a eliminação do armazenamento USB.</string>
     <string name="call_settings_title">Definições de chamadas</string>
     <string name="call_settings_summary">Configurar o correio de voz, encaminhamento de chamadas, chamada em espera, ID de quem lhe liga</string>
     <string name="tether_settings_title_usb">Emparelhar USB</string>
@@ -1871,8 +1871,8 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Cartão SD</
     <string name="location_gps">Satélites GPS</string>
     <string name="location_street_level">Deixar as aplicações usar o GPS para identificar a sua localização</string>
     <string name="assisted_gps">Utilizar GPS assistido</string>
-    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desmarque para reduzir o uso de rede)</string>
-    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desmarque para melhorar o desempenho do GPS)</string>
+    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desactive para reduzir o uso de rede)</string>
+    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desactive para melhorar o desempenho do GPS)</string>
     <string name="use_location_title">Localização e Pesquisa Google</string>
     <string name="use_location_summary">Permitir que o Google use a sua localização para melhorar resultados de pesquisa e outros serviços</string>
     <string name="about_settings">Sobre o telefone:</string>
@@ -1960,10 +1960,10 @@ Pronto para começar? Prima Seguinte."</string>
     <string name="application_size_label">Aplicação</string>
     <string name="external_code_size_label">Aplicações no armaz. USB</string>
     <string name="data_size_label">Dados</string>
-    <string name="external_data_size_label">Cartão SD</string>
+    <string name="external_data_size_label">Armaz. de dados USB</string>
     <string name="uninstall_text">Desinstalar</string>
-    <string name="disable_text">Desativar</string>
-    <string name="enable_text">Ativar</string>
+    <string name="disable_text">Desactivar</string>
+    <string name="enable_text">Activar</string>
     <string name="clear_user_data_text">Eliminar dados</string>
     <string name="app_factory_reset">Desinstalar actualizações</string>
     <string name="auto_launch_enable_text">Escolheu a inicialização padrão desta aplicação para algumas ações.</string>
@@ -2112,11 +2112,11 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="user_dict_settings_add_dialog_confirm">OK</string>
     <string name="user_dict_settings_add_word_option_name">Palavra:</string>
     <string name="user_dict_settings_add_shortcut_option_name">Atalho:</string>
-    <string name="user_dict_settings_add_locale_option_name">Idioma:</string>
+    <string name="user_dict_settings_add_locale_option_name">Linguagem:</string>
     <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
     <string name="user_dict_settings_context_menu_edit_title">Editar</string>
     <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
-    <string name="user_dict_settings_empty_text">"Não possui nenhum dicionário.
+    <string name="user_dict_settings_empty_text">"Não possui nenhum dicionário
 Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="user_dict_settings_all_languages">Para todos os idiomas</string>
     <string name="user_dict_settings_more_languages">Mais idiomas…</string>
@@ -2169,7 +2169,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="enforce_read_external_confirm_title">Proteger o cartão SD?</string>
     <string name="enforce_read_external_confirm_message">"Quando o cartão SD está protegido, as aplicaçõess devem solicitar permissão para ler dados de armazenamento externo.
 
-Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus desenvolvedores."</string>
+Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus desenvolvedores."</string>
     <string name="gadget_picker_title">Escolher gadget</string>
     <string name="widget_picker_title">Escolher widget</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Criar widget e permitir o acesso?</string>
@@ -2230,7 +2230,7 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="bluetooth_on_time">Wi-Fi em tempo</string>
     <string name="usage_name_percent">"%1$s - %2$s%%"</string>
     <string name="history_details_title">Detalhes do histórico</string>
-    <string name="details_title">Detalhes de uso</string>
+    <string name="details_title">Detalhes do uso</string>
     <string name="details_subtitle">Detalhes de uso</string>
     <string name="controls_subtitle">Ajustar uso de energia</string>
     <string name="packages_subtitle">Pacotes incluídos</string>
@@ -2331,8 +2331,8 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="gadget_toggle_bluetooth">A actualizar a definições de Bluetooth</string>
     <string name="vpn_settings_title">Definições de VPN</string>
     <string name="credentials_title">Armazenamento de credenciais</string>
-    <string name="credentials_install">Instalar através do armazenamento</string>
-    <string name="credentials_install_summary">Instalar certificados a partir do armazenamento</string>
+    <string name="credentials_install">Instalar a partir do cartão SD</string>
+    <string name="credentials_install_summary">Instalar certificados a partir do cartão SD</string>
     <string name="credentials_reset">Eliminar credenciais</string>
     <string name="credentials_reset_summary">Eliminar todos os certificados</string>
     <string name="trusted_credentials">Credenciais confiáveis</string>
@@ -2415,13 +2415,13 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="wifi_setup_description_connecting">A ligação poderá demorar alguns minutos…</string>
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação
 
-Toque "<b>Anterior</b> para ligar a uma rede Wi-Fi diferente.</string>
+Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
     <string name="time_zone_auto_stub">Selecione fuso horário</string>
-    <string name="accessibility_sync_enabled">Sincronização ligada</string>
-    <string name="accessibility_sync_disabled">Sincronização desligada</string>
+    <string name="accessibility_sync_enabled">Sincronização activada</string>
+    <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
     <string name="sync_failed">Falha na sincronização</string>
-    <string name="sync_active">Sincronização ligada</string>
+    <string name="sync_active">Sincronização activada</string>
     <string name="account_sync_settings_title">Sincronização</string>
     <string name="sync_is_failing">A sincronização de momento está com problemas. Voltará brevemente.</string>
     <string name="add_account_label">Adicionar conta</string>
@@ -2444,7 +2444,7 @@ Toque "<b>Anterior</b> para ligar a uma rede Wi-Fi diferente.</string>
     <string name="sync_gmail">Gmail</string>
     <string name="sync_calendar">Calendário</string>
     <string name="sync_contacts">Contactos</string>
-    <string name="sync_plug">" "<font fgcolor="#ffffffff">Bem-vindo ao Google sync!</font>" 
+    <string name="sync_plug"><font fgcolor="#ffffffff">Bem-vindo ao Google sync!</font>" 
 Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus contactos, compromissos e mais onde quer que esteja. "</string>
     <string name="header_application_sync_settings">Definições de sincronização de aplicações</string>
     <string name="header_data_and_synchronization">Dados e sincronização</string>
@@ -2455,7 +2455,7 @@ Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus co
     <string name="finish_button_label">Terminar</string>
     <string name="really_remove_account_title">Eliminar conta?</string>
     <string name="really_remove_account_message">Eliminar esta conta eliminará todas as suas mensagens, contactos e outros dados a partir do telefone!</string>
-    <string name="remove_account_failed">Esta conta é exigida por alguns aplicações. Apenas poderá removê-la redefinindo o telefone para padrões de fábrica (que exclui todos os seus dados pessoais) em Configurações &gt; Backup e Redefinir.</string>
+    <string name="remove_account_failed">Esta conta é exigida por alguns aplicações. Apenas poderá removê-la restaurando o telefone para padrões de fábrica (que elimina todos os dados pessoais) em Definições > Backup e Restaurar.</string>
     <string name="provider_label">Carregar subscrições</string>
     <string name="sync_item_title">%s</string>
     <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
@@ -2493,7 +2493,7 @@ Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus co
     <string name="show_screen_updates_summary">Intermitências de ecrã ao actualizarem</string>
     <string name="show_hw_screen_updates">Mostrar actualizações da GPU</string>
     <string name="show_hw_screen_updates_summary">Mostrar vistas dentro da janela quando desenhado com a GPU</string>
-    <string name="disable_overlays">Desativar HW overlays</string>
+    <string name="disable_overlays">Desactivar HW overlays</string>
     <string name="disable_overlays_summary">Usar sempre a GPU para a composição do ecrã</string>
     <string name="enable_traces_title">Activar buscas</string>
     <string name="enable_traces_dialog_title">Escolher buscas activadas</string>
@@ -2561,7 +2561,7 @@ Poderá encontrar controlos de uso de dados mais adequados nas definições disp
 
 Algumas contas podem copiar também automaticamente as alterações feitas no telefone para a web. Uma conta do Google funciona dessa maneira.
 
-Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas. "</string>
+Para escolher quais tipos de informações, a sincronização dentro de cada conta, vá para Definições > Contas."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Desligar auto-sincronização de dados?</string>
     <string name="data_usage_auto_sync_off_dialog">Isso vai economizar no uso de dados e bateria, mas precisará sincronizar cada conta manualmente para obter informações recentes e não vai receber notificações quando ocorrerem actualizações.</string>
     <string name="data_usage_cycle_editor_title">Repor data para ciclo de utilização</string>
@@ -2581,7 +2581,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
 "<font size="12">limit</font>" "</string>
     <string name="data_usage_uninstalled_apps">Aplicações eliminadas</string>
     <string name="data_usage_received_sent">%1$s recebido, %2$s enviado</string>
-    <string name="data_usage_total_during_range">%2$s: cerca de %1$s utilizado</string>
+    <string name="data_usage_total_during_range">%2$s: cerca de %1$s usado.</string>
     <string name="data_usage_total_during_range_mobile">%2$s: de %1$s usado, conforme medido pelo seu telefone. A medição de dados da sua operadora podem ser diferentes.</string>
     <string name="data_usage_metered_title">Pontos de acesso móveis</string>
     <string name="data_usage_metered_body">Selecione as redes Wi-Fi que são pontos de acesso móveis. As aplicações podem ser impedidas de utilizar essas redes quando estiverem a funcionar em background. As mesmas também podem avisar antes de usar essas redes para downloads grandes.</string>
@@ -2608,13 +2608,13 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="vpn_password">Senha</string>
     <string name="vpn_save_login">Guardar informações de conta</string>
     <string name="vpn_not_used">(não usado)</string>
-    <string name="vpn_no_ca_cert">"(não verificar servidor)"</string>
+    <string name="vpn_no_ca_cert">(não verificar servidor)</string>
     <string name="vpn_no_server_cert">(recebido do servidor)</string>
     <string name="vpn_cancel">Cancelar</string>
     <string name="vpn_save">Guardar</string>
     <string name="vpn_connect">Ligar</string>
     <string name="vpn_edit">Editar perfil VPN</string>
-    <string name="vpn_connect_to">Ligar-se a %s</string>
+    <string name="vpn_connect_to">Ligar a %s</string>
     <string name="vpn_title">Definições de VPN</string>
     <string name="vpn_create">Adicionar rede VPN</string>
     <string name="vpn_menu_edit">Editar perfil</string>
@@ -2636,8 +2636,8 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="backup_pw_set_button_text">Definir senha de cópia de dados</string>
     <string name="backup_pw_cancel_button_text">Cancelar</string>
     <string name="percentage">%d%%</string>
-    <string name="additional_system_update_settings_list_item_title">Atualizações de sistema adicionais</string>
-    <string name="user_settings_title">Utilizadores</string>
+    <string name="additional_system_update_settings_list_item_title">Actualizações de sistema adicionais</string>
+    <string name="user_settings_title">Utilizadores &amp; restrições</string>
     <string name="user_list_title">Utilizadores</string>
     <string name="user_add_user_menu">Adicionar utilizador</string>
     <string name="user_details_title">Editar detalhes</string>
@@ -2834,13 +2834,15 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="manually_add_network">Adicionar rede manualmente</string>
     <string name="network_detail">%s Detalhe de rede</string>
     <string name="connected_wifi">Ligado a Wi-Fi</string>
-    <string name="incoming_call_vibrate_abbreviation">"Chamadas "</string>
-    <string name="notification_vibrate_abbreviation">"Notificações "</string>
-    <string name="mms_vibrate_abbreviation">"Mensagens "</string>
-    <string name="breathing_light_color_title">Cor do LED</string>
-    <string name="breathing_light_color_menu_title">Cor da luz</string>
-    <string name="breathing_light_color_summary">Cor do LED quando recebe uma notificação nova</string>
-    <string name="breathing_light_freq_title">Frequência de intermitência do LED</string>
+    <string name="incoming_call_breathing_light_color_title">Cor da luz nas chamadas</string>
+    <string name="notification_breathing_light_color_title">Cor da luz nas notificações</string>
+    <string name="mms_breathing_light_color_title">Cor da luz nas mensagens</string>
+    <string name="breathing_light_color_menu_title">Cor da luzLight color</string>
+    <string name="breathing_light_color_summary">Cor do LED ao receber uma notificação nova</string>
+    <string name="breathing_light_freq_title">Frequência da luz do LED</string>
+    <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED nas chamadas</string>
+    <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
+    <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas messagens</string>
     <string name="breathing_light_freq_summary">Pausa do LED entre intermitências</string>
     <string name="led_settings">Notificação da luz</string>
     <string name="led_colors_summary">Notificações</string>
@@ -2965,20 +2967,20 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="dolby_mode_music">Música</string>
     <string name="dolby_mode_movie">Vídeo</string>
     <string name="dolby_effects">Efeitos Dolby</string>
-    <string name="dolby_ieq_flat">Fechado</string>
+    <string name="dolby_ieq_flat">Desligado</string>
     <string name="dolby_ieq_open">Abrir</string>
     <string name="dolby_ieq_rich">Rico</string>
     <string name="dolby_ieq_focused">Focado</string>
     <string name="dolby_preset_select">Escolha uma predefinição</string>
     <string name="dolby_eq_enter_alert_title">Ligue música Dolby</string>
-    <string name="dolby_eq_enter_alert_msg">Só pode usar o equalizador no modo Dolby música. Ligar agora?</string>
+    <string name="dolby_eq_enter_alert_msg">Só pode usar o equalizador em modo Dolby música. Activar agora?</string>
     <string name="dolby_volume_leveler">Nivel de Volume</string>
     <string name="dolby_dialogue_enhancer">Diálogo realce</string>
-    <string name="dolby_surround_virtualizer">Surround Virtualizado</string>
+    <string name="dolby_surround_virtualizer">Som Surround</string>
     <string name="dirac_mode_off">Dirac Desligado</string>
-    <string name="dirac_mode_in_ear">Xiaomi em auriculares</string>
-    <string name="dirac_mode_earbuds">Xiaomi Earbud auriculares</string>
-    <string name="dirac_mode_piston_100">Xiaomi piston auriculares</string>
+    <string name="dirac_mode_in_ear">Auriculares Mi</string>
+    <string name="dirac_mode_earbuds">Auriculares Mi</string>
+    <string name="dirac_mode_piston_100">Auriculares Mi piston</string>
     <string name="dirac_mode_general">Geral</string>
     <string name="equalizer">Equalizador</string>
     <string name="wifi_menu_wfd">Mostrar Wi-Fi</string>
@@ -3008,7 +3010,7 @@ Selecione o sistema operativo do seu computador:"</string>
     <string name="msd_install_retry_windows_xp">"Se o seu computador não detectar correctamente o seu telemóvel,
 Tente o seguinte:
 "<li>1) Volte a ligar o cabo USB.</li>"
-"<li>2) Reinstale o driver.</li>" "</string>
+"<li>2) Reinstale o driver.</li></string>
     <string name="msd_install_retry_windows_vista">"Se o computador não conseguiu detectar o seu telefone,
 Tente ligar novamente o cabo USB."</string>
     <string name="msd_install_retry_mac">"Se o computador não conseguiu detectar o seu telefone,
@@ -3017,13 +3019,13 @@ Tente o seguinte:
 Transferência de Ficheiros Android,
 e executar o software."</li>"
 "<li>2) Volte a ligar o cabo USB.</li>"
-"<li>3) Reinstalar o driver.</li>" "</string>
+"<li>3) Reinstalar o driver.</li></string>
     <string name="msd_install_retry_linux">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
 1) Use as ferramentas de instalação \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Crie um diretório \"mkdir\" /media/mtp
+2) Crie um directório \"mkdir\" /media/ mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
-4) Volte a ligar
+4) Inicie sessão novamente
 5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros, igual ao diretório local
 6) Desinstalar o dispositivo fusermount -u /media/mtp
  Note: Para ambiente ubuntu 8.04"</string>
@@ -3031,10 +3033,10 @@ Tente o seguinte:
     <string name="msd_install_status_done">Driver instalado.</string>
     <string name="msd_driver_download">Transferir driver</string>
     <string name="msd_driver_windows_xp_download">"No PC, faça o download e clique Setup.exe para instalar
-Link para transferir http://miui.com/win"</string>
+Obtenha o driver em http://miui.com/win"</string>
     <string name="msd_driver_mac_download">"No Mac, faça a transferência e clique em AndroidFileTransfer.dmg para instalar
-Link para transferir http://miui.com/mac"</string>
-    <string name="vpn_settings_password">Proteção por senha VPN</string>
+Obtenha o driver em http://miui.com/mac"</string>
+    <string name="vpn_settings_password">Protecção por senha VPN</string>
     <string name="vpn_safe">Segurança</string>
     <string name="vpn_configure">Configuração</string>
     <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
@@ -3074,8 +3076,8 @@ Link para transferir http://miui.com/mac"</string>
     <string name="filter_apps_cached">Armazenada em cache</string>
     <string name="screen">Ecrã</string>
     <string name="system">Sistema</string>
-    <string name="screen_color_temperature">Cor da temperatura</string>
-    <string name="screen_saturation">Cor da saturação</string>
+    <string name="screen_color_temperature">Ajustar a temperatura da cor</string>
+    <string name="screen_saturation">Ajustar a saturação da cor</string>
     <string name="screen_color_temperature_and_saturation">Cor da temperatura e saturação</string>
     <string name="finish_application">Fim</string>
     <string name="header_category_accounts">Contas</string>
@@ -3096,8 +3098,8 @@ Link para transferir http://miui.com/mac"</string>
     <string name="slot_status_title">Informação do IMEI</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
     <string name="xiaomi_money_service">Mi Credit</string>
-    <string name="lock_settings_common_title">Bloquear configurações</string>
-    <string name="turn_off_security_lock">Desativar bloqueio de ecrã</string>
+    <string name="lock_settings_common_title">Bloquear definições</string>
+    <string name="turn_off_security_lock">Desactivar bloqueio de ecrã</string>
     <string name="change_password">Mudar senha</string>
     <string name="change_security_lock">Mais bloqueios de ecrã</string>
     <string name="nfc_category_title">NFC</string>
@@ -3131,7 +3133,7 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="wifi_share_connect">Ligar</string>
     <string name="wifi_auto_connect">Auto-ligar</string>
     <string name="wifi_share_qrcode_title">Partilhar Wi-Fi</string>
-    <string name="wifi_share_qrcode_summary">Use a câmera MIUI para ler Código QR</string>
+    <string name="wifi_share_qrcode_summary">Use a câmera MIUI para ler Códigos QR</string>
     <string name="wifi_share_qrcode_finish">Terminar</string>
     <string name="noise_suppression">Supressão de ruído ambiente</string>
     <string name="phone_call_noise_suppression">Suprimir o ruído durante as chamadas</string>
@@ -3167,6 +3169,6 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="alert_show_screensaver_when_not_charging_msg">A bateria irá descarregar mais rapidamente se mostrar a protecção de ecrã quando não estiver a carregar. Tem certeza que deseja fechar esta opção?</string>
     <string name="preferred_app_settings">Definições padrão das aplicações</string>
     <string name="preferred_app_settings_default">Padrão</string>
-    <string name="preferred_app_settings_reset">Restaurar para padrão</string>
-    <string name="preferred_app_settings_reset_message">Tem certeza que deseja restaurar para as definições padrão da aplicação?</string>
+    <string name="preferred_app_settings_reset">Restaurar aplicações padrão?</string>
+    <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
 </resources>

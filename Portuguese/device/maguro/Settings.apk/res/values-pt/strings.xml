@@ -79,7 +79,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="system_cache_title">Cache de sistema</string>
     <string name="empty_folder_title">Pasta vazia(%d)</string>
     <string name="empty_folder_title_hints">Pasta vazia</string>
-    <string name="downloaded_rom_title">Acctualizar pacotes</string>
+    <string name="downloaded_rom_title">Actualizar pacotes</string>
     <string name="optimize_large_file_list_empty_content">Não foram encontrados ficheiros grandes</string>
     <string name="optimize_installed_apps_list_empty_content">Não foram encontradas aplicações</string>
     <string name="deep_clean_tips_cache_title">Cache:</string>
@@ -118,9 +118,9 @@ Tem a certeza que quer desactivar?"</string>
     <string name="pref_title_cleanup_white_list">Limpeza da reciclagem da lista branca</string>
     <string name="pref_summary_cleanup_white_list">O lixo na lista branca será ignorado</string>
     <string name="pref_category_title_auto_update_cleanup_db">Definições de actualização de banco de dados da limpeza</string>
-    <string name="pref_title_auto_update_cleanup_db">Auto acctualizar</string>
+    <string name="pref_title_auto_update_cleanup_db">Auto actualizar</string>
     <string name="pref_summary_auto_update_cleanup_db">Actualizado em: %s</string>
-    <string name="pref_title_manual_check_cleanup_db_update">Acctualizar agora</string>
+    <string name="pref_title_manual_check_cleanup_db_update">Actualizar agora</string>
     <string name="pref_category_title_garbage_cleanup_check">Definições de limpeza</string>
     <string name="pref_title_garbage_cleanup_check_time">Reciclagem do alarme</string>
     <string name="pref_summary_garbage_cleanup_check_size">Notifique-me quando a reciclagem atinge um determinado tamanho</string>
@@ -129,8 +129,8 @@ Tem a certeza que quer desactivar?"</string>
     <string name="pref_summary_expand_cache_group">Grupos padrão na lista de cache serão expandidos</string>
     <string name="msg_cleanup_db_update_checking">A verificar…</string>
     <string name="msg_update_error_code_success">Actualização com sucesso</string>
-    <string name="msg_update_error_code_no_newer_db">As definições são recentes há necessidade de acctualizar</string>
-    <string name="msg_update_error_code_already_running">A acctualizar</string>
+    <string name="msg_update_error_code_no_newer_db">As definições são recentes há necessidade de actualizar</string>
+    <string name="msg_update_error_code_already_running">A actualizar</string>
     <string name="msg_update_error_code_network_error">Erro de rede. Verifique a ligação.</string>
     <string name="msg_update_error_code_unknown_error">Erro desconhecido</string>
     <string name="msg_cleanup_db_update_time_unknown">Actualizado em: desconhecido</string>
@@ -254,7 +254,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="power_chooser_check_box_title">Economizar bateria</string>
     <string name="power_chooser_check_box_summary">Escolha um perfil de gestão de energia para prolongar a vida da bateria</string>
     <string name="power_chooser_smart_title">Padrão</string>
-    <string name="power_chooser_smart_summary">Guardar definições actuais, de limpar processos na tela de bloqueio</string>
+    <string name="power_chooser_smart_summary">Limpar os processos em execução em segundo plano no ecrã de bloqueio</string>
     <string name="power_chooser_standby_title">Modo maratona</string>
     <string name="power_chooser_standby_summary">Desactivar ligação Wi-Fi e rede móvel</string>
     <string name="power_chooser_sleep_title">Dormir</string>
@@ -467,7 +467,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_hips_location_cellinfo">Obter informação móvel</string>
     <string name="perm_hips_location_monitor">Acompanhar a sua posição</string>
     <string name="perm_hips_location_access">Obter a sua posição actual</string>
-    <string name="perm_hips_phoneid_imei">Obter número de IMEI</string>
+    <string name="perm_hips_phoneid_imei">Obter número do IMEI</string>
     <string name="perm_hips_phoneid_imeisn">Obter IMEI/SN</string>
     <string name="perm_hips_phoneid_iccid">Obter SN do Cartão SIM</string>
     <string name="perm_hips_phoneid_number">Obter seu número de telefone</string>
@@ -495,9 +495,9 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_hips_security_prompt_root_step1">Permitir %1$s permissões ROOT?</string>
     <string name="perm_hips_security_prompt_root_step2">Permitir permissão root pode causar instabilidade e destabilizar o seu dispositivo.</string>
     <string name="perm_hips_security_prompt_root_step3">Seus dados de privacidade, como contas, senhas e mensagens podem ficar comprometidas</string>
-    <string name="perm_hips_security_prompt_root_step4">Dano permanente de hardware também é possível</string>
-    <string name="perm_hips_security_prompt_root_step5">Use com cuidado!</string>
-    <string name="perm_hips_security_prompt_root_step6">Tem certeza que %1$s deseja permitir a permissão de ROOT?</string>
+    <string name="perm_hips_security_prompt_root_step4">Dano permanente de hardware também é possível.</string>
+    <string name="perm_hips_security_prompt_root_step5">Tenha cuidado: Dê apenas permissões root a aplicações que confia.</string>
+    <string name="perm_hips_security_prompt_root_step6">Permitir %1$s permissão de ROOT?</string>
     <string name="perm">Permissões</string>
     <string name="perm_app">Aplicações</string>
     <string name="perm_log">Registos</string>
@@ -602,7 +602,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="summary_usb">Evite espalhar vírus através da ligação USB</string>
     <string name="title_virus_update_no">Actualização automática de definições de vírus desligada</string>
     <string name="title_virus_update_yes">Actualização automática de definições de vírus ligada</string>
-    <string name="summary_virus_update">Acctualizar as definições de vírus automaticamente quando ligado a Wi-Fi</string>
+    <string name="summary_virus_update">Actualizar as definições de vírus automaticamente quando ligado a Wi-Fi</string>
     <string name="title_install_virus_no">Monitor de instalação desactivado</string>
     <string name="title_install_virus_yes">Monitor de instalação activado</string>
     <string name="summary_install_virus">Verificar se as aplicações tem vírus antes da instalação</string>
@@ -619,7 +619,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="button_text_security">Segurança</string>
     <string name="item_virus">Vírus</string>
     <string name="item_usb_debug">Depuração USB</string>
-    <string name="item_virus_lib">Acctualizar as definições de vírus automaticamente</string>
+    <string name="item_virus_lib">Actualizar as definições de vírus automaticamente</string>
     <string name="item_install_monitor">Instalar monitor</string>
     <string name="item_app_permission">Permissões das aplicações</string>
     <string name="item_mms">Filtro de mensagens indesejadas</string>
@@ -705,7 +705,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="virus_scan_app_solve">Todos os processos</string>
     <string name="virus_scan_app_finish">Verificação concluída</string>
     <string name="virus_scan_app_continue">Continuar a verificar</string>
-    <string name="virus_scan_app_uninstall">Eliminar (% d)</string>
+    <string name="virus_scan_app_uninstall">Eliminar %d</string>
     <string name="virus_scan_app_force_stop">Verificação pausada</string>
     <string name="virus_scan_app_find_risk">% d riscos encontrados</string>
     <string name="virus_scan_app_scan_finish">Verificação concluída</string>
@@ -1064,7 +1064,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="battery_info_uptime">Tempo desde a inicialização:</string>
     <string name="battery_info_awake_battery">Tempo da activação da bateria:</string>
     <string name="battery_info_awake_plugged">Tempo de activação quando a carregar:</string>
-    <string name="battery_info_screen_on">Horas no ecrã activado:</string>
+    <string name="battery_info_screen_on">Horas activadas no ecrã:</string>
     <string name="battery_info_status_unknown">Desconhecido</string>
     <string name="battery_info_status_charging">A carregar</string>
     <string name="battery_info_status_charging_ac">(AC)</string>
@@ -1314,7 +1314,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="unlock_set_unlock_off_summary" />
     <string name="unlock_set_unlock_none_title">Nenhum</string>
     <string name="unlock_set_unlock_none_summary">Desactivar o bloqueio de ecrã</string>
-    <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com  rosto</string>
+    <string name="unlock_set_unlock_biometric_weak_title">Desbloquear com o rosto</string>
     <string name="unlock_set_unlock_biometric_weak_summary">Nível de segurança baixo, experimental</string>
     <string name="unlock_set_unlock_pattern_title">Padrão</string>
     <string name="unlock_set_unlock_pattern_summary">Defina o padrão para desbloquear o ecrã</string>
@@ -1477,7 +1477,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
     <string name="wifi_poor_network_detection">Evitar ligações fracas</string>
     <string name="wifi_poor_network_detection_summary">Não utilize uma rede WiFi a menos que tenha uma boa ligação com a Internet</string>
-    <string name="wifi_setting_sleep_policy_title">Política de inatividade de Wi-Fi</string>
+    <string name="wifi_setting_sleep_policy_title">Política de inactividade de Wi-Fi</string>
     <string name="wifi_setting_sleep_policy_error">Houve um problema ao configurar</string>
     <string name="wifi_suspend_optimizations">Optimização Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">Minimizar o uso da bateria quando está em Wi-Fi</string>
@@ -1690,7 +1690,7 @@ Configuração do telefone pode exigir a atividade de rede significativa."</stri
     <string name="brightness">Brilho</string>
     <string name="brightness_summary">Ajustar o brilho do ecrã</string>
     <string name="screen_timeout">Dormir</string>
-    <string name="screen_timeout_summary">Após %1$s de inatividade</string>
+    <string name="screen_timeout_summary">Após %1$s de inactividade</string>
     <string name="wallpaper_settings_title">Papel de parede</string>
     <string name="wallpaper_settings_fragment_title">Escolher papel de parede a partir de</string>
     <string name="screensaver_settings_title">Papel de parede</string>
@@ -1703,7 +1703,7 @@ Configuração do telefone pode exigir a atividade de rede significativa."</stri
     <string name="screensaver_settings_when_to_dream">Quando a dormir</string>
     <string name="screensaver_settings_dream_start">Iniciar agora</string>
     <string name="screensaver_settings_button">Definições</string>
-    <string name="automatic_brightness">Luz automática</string>
+    <string name="automatic_brightness">Brilho automático</string>
     <string name="title_font_size">Tamanho da letra</string>
     <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Tamanho da letra</string>
@@ -1727,7 +1727,7 @@ Configuração do telefone pode exigir a atividade de rede significativa."</stri
 Possivelmente o PIN está incorreto."</string>
     <string name="sim_change_succeeded">PIN do SIM alterado</string>
     <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
-O PIN possivelmente está incorreto."</string>
+Possivelmente o PIN está incorreto."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancelar</string>
     <string name="device_info_settings">Estado do telefone</string>
@@ -1915,8 +1915,8 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="location_gps">Satélites GPS</string>
     <string name="location_street_level">Deixar as aplicações usar o GPS para identificar a sua localização</string>
     <string name="assisted_gps">Utilizar GPS assistido</string>
-    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desmarque para reduzir o uso de rede)</string>
-    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desmarque para melhorar o desempenho do GPS)</string>
+    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desactive para reduzir o uso de rede)</string>
+    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desactive para melhorar o desempenho do GPS)</string>
     <string name="use_location_title">Localização e Pesquisa Google</string>
     <string name="use_location_summary">Permitir que o Google use a sua localização para melhorar resultados de pesquisa e outros serviços</string>
     <string name="location_access_title">Acesso à minha localização</string>
@@ -2043,7 +2043,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="filter_apps_third_party">Transferido</string>
     <string name="filter_apps_running">Executar</string>
     <string name="filter_apps_onsdcard">No cartão SD</string>
-    <string name="disabled">Desativado</string>
+    <string name="disabled">Desactivado</string>
     <string name="not_installed">Não instalado</string>
     <string name="no_applications">Sem aplicações.</string>
     <string name="internal_storage">Armaz. interno</string>
@@ -2165,11 +2165,11 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="user_dict_settings_add_dialog_confirm">OK</string>
     <string name="user_dict_settings_add_word_option_name">Palavra:</string>
     <string name="user_dict_settings_add_shortcut_option_name">Atalho:</string>
-    <string name="user_dict_settings_add_locale_option_name">Idioma:</string>
+    <string name="user_dict_settings_add_locale_option_name">Linguagem:</string>
     <string name="user_dict_settings_edit_dialog_title">Editar palavra</string>
     <string name="user_dict_settings_context_menu_edit_title">Editar</string>
     <string name="user_dict_settings_context_menu_delete_title">Eliminar</string>
-    <string name="user_dict_settings_empty_text">"Não possui nenhum dicionário.
+    <string name="user_dict_settings_empty_text">"Não possui nenhum dicionário
 Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="user_dict_settings_all_languages">Para todos os idiomas</string>
     <string name="user_dict_settings_more_languages">Mais idiomas…</string>
@@ -2310,7 +2310,7 @@ Se o dispositivo tem vários utilizadores, usando este atalho na tela de bloquei
     <string name="bluetooth_on_time">Wi-Fi em tempo</string>
     <string name="usage_name_percent">"%1$s - %2$s%%"</string>
     <string name="history_details_title">Detalhes do histórico</string>
-    <string name="details_title">Detalhes de uso</string>
+    <string name="details_title">Detalhes do uso</string>
     <string name="details_subtitle">Detalhes de uso</string>
     <string name="controls_subtitle">Ajustar uso de energia</string>
     <string name="packages_subtitle">Pacotes incluídos</string>
@@ -2510,13 +2510,13 @@ Se o dispositivo tem vários utilizadores, usando este atalho na tela de bloquei
     <string name="wifi_setup_description_connecting">A ligação poderá demorar alguns minutos…</string>
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação
 
-Toque "<b>Anterior</b> para ligar a uma rede Wi-Fi diferente.</string>
+Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
     <string name="time_zone_auto_stub">Selecione fuso horário</string>
-    <string name="accessibility_sync_enabled">Sincronização ligada</string>
-    <string name="accessibility_sync_disabled">Sincronização desligada</string>
+    <string name="accessibility_sync_enabled">Sincronização activada</string>
+    <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
     <string name="sync_failed">Falha na sincronização</string>
-    <string name="sync_active">Sincronização ligada</string>
+    <string name="sync_active">Sincronização activada</string>
     <string name="account_sync_settings_title">Sincronização</string>
     <string name="sync_is_failing">A sincronização de momento está com problemas. Voltará brevemente.</string>
     <string name="add_account_label">Adicionar conta</string>
@@ -2550,7 +2550,7 @@ Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus co
     <string name="finish_button_label">Terminar</string>
     <string name="really_remove_account_title">Eliminar conta?</string>
     <string name="really_remove_account_message">Eliminar esta conta eliminará todas as suas mensagens, contactos e outros dados a partir do telefone!</string>
-    <string name="remove_account_failed">Esta conta é exigida por alguns aplicações. Apenas poderá removê-la redefinindo o telefone para padrões de fábrica (que exclui todos os seus dados pessoais) em Configurações &gt; Backup e Redefinir.</string>
+    <string name="remove_account_failed">Esta conta é exigida por alguns aplicações. Apenas poderá removê-la restaurando o telefone para padrões de fábrica (que elimina todos os dados pessoais) em Definições > Backup e Restaurar.</string>
     <string name="provider_label">Carregar subscrições</string>
     <string name="sync_item_title">%s</string>
     <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
@@ -2981,13 +2981,15 @@ Qualquer utilizador pode aceitar as permissões de aplicações atualizados em n
     <string name="manually_add_network">Adicionar rede manualmente</string>
     <string name="network_detail">%s Detalhe de rede</string>
     <string name="connected_wifi">Ligado a Wi-Fi</string>
-    <string name="incoming_call_vibrate_abbreviation">"Chamadas "</string>
-    <string name="notification_vibrate_abbreviation">"Notificações "</string>
-    <string name="mms_vibrate_abbreviation">"Mensagens "</string>
-    <string name="breathing_light_color_title">Cor do LED</string>
-    <string name="breathing_light_color_menu_title">Cor da luz</string>
-    <string name="breathing_light_color_summary">Cor do LED quando recebe uma notificação nova</string>
-    <string name="breathing_light_freq_title">Frequência de intermitência do LED</string>
+    <string name="incoming_call_breathing_light_color_title">Cor da luz nas chamadas</string>
+    <string name="notification_breathing_light_color_title">Cor da luz nas notificações</string>
+    <string name="mms_breathing_light_color_title">Cor da luz nas mensagens</string>
+    <string name="breathing_light_color_menu_title">Cor da luzLight color</string>
+    <string name="breathing_light_color_summary">Cor do LED ao receber uma notificação nova</string>
+    <string name="breathing_light_freq_title">Frequência da luz do LED</string>
+    <string name="incoming_call_breathing_light_freq_title">Frequência da luz do LED nas chamadas</string>
+    <string name="notification_breathing_light_freq_title">Frequência da luz do LED nas notificações</string>
+    <string name="mms_breathing_light_freq_title">Frequência da luz do LED nas messagens</string>
     <string name="breathing_light_freq_summary">Pausa do LED entre intermitências</string>
     <string name="led_settings">Notificação da luz</string>
     <string name="led_colors_summary">Notificações</string>
@@ -3175,20 +3177,20 @@ e executar o software."</li>"
     <string name="msd_install_retry_linux">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
 1) Use as ferramentas de instalação \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Crie um diretório \"mkdir\" /media/ mtp
+2) Crie um directório \"mkdir\" /media/ mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
-4) Volte a ligar
-5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros; igual ao directório local
+4) Inicie sessão novamente
+5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros, igual ao diretório local
 6) Desinstalar o dispositivo fusermount -u /media/mtp
  Note: Para ambiente ubuntu 8.04"</string>
     <string name="msd_install_status_undo">Instalar driver</string>
     <string name="msd_install_status_done">Driver instalado.</string>
     <string name="msd_driver_download">Transferir driver</string>
     <string name="msd_driver_windows_xp_download">"No PC, faça o download e clique Setup.exe para instalar
-Link para transferir http://miui.com/win"</string>
+Obtenha o driver em http://miui.com/win"</string>
     <string name="msd_driver_mac_download">"No Mac, faça a transferência e clique em AndroidFileTransfer.dmg para instalar
-Link para transferir http://miui.com/mac"</string>
-    <string name="vpn_settings_password">Proteção por senha VPN</string>
+Obtenha o driver em http://miui.com/mac"</string>
+    <string name="vpn_settings_password">Protecção por senha VPN</string>
     <string name="vpn_safe">Segurança</string>
     <string name="vpn_configure">Configuração</string>
     <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
@@ -3228,8 +3230,8 @@ Link para transferir http://miui.com/mac"</string>
     <string name="filter_apps_cached">Armazenada em cache</string>
     <string name="screen">Ecrã</string>
     <string name="system">Sistema</string>
-    <string name="screen_color_temperature">Cor da temperatura</string>
-    <string name="screen_saturation">Cor da saturação</string>
+    <string name="screen_color_temperature">Ajustar a temperatura da cor</string>
+    <string name="screen_saturation">Ajustar a saturação da cor</string>
     <string name="screen_color_temperature_and_saturation">Cor da temperatura e saturação</string>
     <string name="finish_application">Fim</string>
     <string name="header_category_accounts">Contas</string>
