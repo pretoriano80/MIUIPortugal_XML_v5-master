@@ -107,11 +107,6 @@
     <string name="transfer_menu_open">Abrir</string>
     <string name="transfer_menu_clear">Limpar da lista</string>
     <string name="transfer_clear_dlg_title">Limpar</string>
-    <string name="map_session_key_dialog_title">@string/pbap_session_key_dialog_title</string>
-    <string name="map_session_key_dialog_header">@string/pbap_session_key_dialog_header</string>
-    <string name="map_acceptance_timeout_message">@string/pbap_acceptance_timeout_message</string>
-    <string name="map_authentication_timeout_message">@string/pbap_authentication_timeout_message</string>
-    <string name="map_notif_ticker">@string/auth_notif_ticker</string>
     <string name="pbap_session_key_dialog_title">Digite a chave de sessão para %1$s</string>
     <string name="pbap_session_key_dialog_header">Chave de sessão Bluetooth necessária</string>
     <string name="pbap_acceptance_timeout_message">Não houve tempo para aceitar a ligação com %1$s</string>

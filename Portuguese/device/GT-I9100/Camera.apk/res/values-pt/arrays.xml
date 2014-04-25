@@ -7,8 +7,4 @@
         <item>Capturar</item>
         <item>Disparo</item>
     </string-array>
-    <string-array name="sel_pic_items">
-        <item>@string/gallery</item>
-        <item>@string/take_photo</item>
-    </string-array>
 </resources>
