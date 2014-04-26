@@ -241,9 +241,6 @@
     <string name="pref_lab_fullscreen_summary">Utilizar o modo de ecrã inteiro para ocultar a barra de estado</string>
     <string name="pref_data_title">Gestão da largura de banda</string>
     <string name="pref_data_preload_title">Pré-carregamento de resultados de pesquisa</string>
-    <string name="pref_data_preload_value_never">NEVER</string>
-    <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
-    <string name="pref_data_preload_value_always">ALWAYS</string>
     <string name="pref_data_preload_summary">: Permitir que o browser obtenha resultados de pesquisa de alta confiança em segundo plano</string>
     <string name="pref_data_preload_dialogtitle">Pré-carregamento de resultados de pesquisa</string>
     <string name="pref_link_prefetch_title">Pré-carregamento da página web</string>
