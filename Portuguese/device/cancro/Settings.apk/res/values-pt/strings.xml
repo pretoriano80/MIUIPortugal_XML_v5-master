@@ -1133,7 +1133,6 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
     <string name="activity_picker_label">Selecionar actividade</string>
-    <string name="debug_intent_sender_label">Tentativa de envio de Código Debug</string>
     <string name="device_info_label">Informações sobre o dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -1465,17 +1464,6 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="wifi_wps_available_second_item">(rede disponível protegida)</string>
     <string name="wifi_secured_first_item">Protegido por %1$s</string>
     <string name="wifi_secured_second_item">, protegido com %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_none">Nenhum</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_scan_always_turnon_message">"To improve location accuracy and for other purposes, %1$s wants to turn on network scanning, even when WLAN is off.
 
 Allow this for all apps that want to scan?"</string>

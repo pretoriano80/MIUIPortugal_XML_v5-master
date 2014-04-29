@@ -228,7 +228,6 @@
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
     <string name="activity_picker_label">Selecionar atividade</string>
-    <string name="debug_intent_sender_label">Tentativa de envio de Código Debug</string>
     <string name="device_info_label">Informações sobre o dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -540,7 +539,7 @@ Basta ter os dispositivos juntos (normalmente costas com costas) e toque no ecr�
     <string name="wifi_unchanged">(não alterado)</string>
     <string name="wifi_unspecified">(não especificado)</string>
     <string name="wifi_remembered">Guardado</string>
-    <string name="wifi_disabled_generic">Desativado</string>
+    <string name="wifi_disabled_generic">Desactivado</string>
     <string name="wifi_disabled_network_failure">Evitar ligações de Internet fracas</string>
     <string name="wifi_disabled_password_failure">Problema de autenticação</string>
     <string name="wifi_not_in_range">Não está dentro do alcance</string>
@@ -548,17 +547,7 @@ Basta ter os dispositivos juntos (normalmente costas com costas) e toque no ecr�
     <string name="wifi_wps_available_second_item">(rede disponível protegida)</string>
     <string name="wifi_secured_first_item">Protegido por %1$s</string>
     <string name="wifi_secured_second_item">, protegido com %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nenhum</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_connect">Ligar</string>
     <string name="wifi_failed_connect_message">Falha ao ligar à rede</string>
     <string name="wifi_forget">Desligar</string>

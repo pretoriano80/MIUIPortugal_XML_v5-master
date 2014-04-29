@@ -656,8 +656,6 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="default_preference_summary">&lt;Não definido></string>
     <string name="display_name_summary">&lt;Igual ao nome de utilizador></string>
     <string name="optional_summary">&lt;Opcional></string>
-    <string name="default_port">5060</string>
-    <string name="default_transport">UDP</string>
     <string name="advanced_settings_show">▷ Pressione para mostrar todos</string>
     <string name="advanced_settings_hide">▽ Pressione para ocultar todos</string>
     <string name="empty_alert">%s é campo obrigatório e não pode ser deixado em branco</string>
@@ -668,9 +666,8 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="no_wifi_available">Deve estar ligado a uma rede Wi-Fi para realizar chamadas pela internet (use as Configurações de redes sem fio e outras)</string>
     <string name="no_voip">Chamada pela internet não suportada</string>
     <string name="no_volte">Unable to make IMS call</string>
-    <string name="sip_system_decide">Automatico</string>
+    <string name="sip_system_decide">Automático</string>
     <string name="sip_always_send_keepalive">Enviar sempre</string>
-    <string name="set_primary">SetPrimary</string>
     <string name="ims_edit_title">IMS account details</string>
     <string name="ims_accounts_title">IMS Account</string>
     <string name="ims_domain_address_title">IMS Server</string>
