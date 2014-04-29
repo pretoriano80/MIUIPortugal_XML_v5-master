@@ -2403,7 +2403,6 @@ Se o dispositivo tem vários utilizadores, usando este atalho na tela de bloquei
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação.
 
 Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
-    <string name="time_zone_auto_stub">Selecione fuso horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
