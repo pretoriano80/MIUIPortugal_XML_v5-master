@@ -1067,7 +1067,7 @@ O cartão SIM será inutilizado após outra tentativa falhada"</string>
     <string name="turn_off_auto_select_title_miui">Não selecionar redes automaticamente</string>
     <string name="turn_off_auto_select_warning_message_miui">Usar a rede selecionada manualmente, não liga a outras redes.</string>
     <string name="turn_off_auto_select_confirm_message_miui">Talvez a rede não esteja disponível.</string>
-    <string name="network_work_query_failed_message_miui">Consulta de rede falhou. Pressione Cancelar para selecionar automaticamete a rede padrão ou pressione OK para repetir.</string>
+    <string name="network_work_query_failed_message_miui">A consulta de rede falhou. Pressione Cancelar para selecionar automaticamente a rede padrão ou pressione OK para repetir.</string>
     <string name="sum_select_automatically_option_miui">Selecionar automaticamente a rede padrao (%s)</string>
     <string name="register_network_failed_title_miui">Não foi possível ligar à rede</string>
     <string name="register_network_failed_message_miui">"Não é possível ligar à rede que selecionou.
@@ -1075,6 +1075,7 @@ ligar à sua rede preferida."</string>
     <string name="next_miui">Avançar</string>
     <string name="turn_off_miui">Desligar</string>
     <string name="back_miui">Voltar</string>
+    <string name="open_miui">Abrir</string>
     <string name="missed_call_notify_times_title_miui">Lembrete de chamadas perdidas</string>
     <string name="missed_call_notify_times_summary_miui">Escolha o número de vezes que quer ser lembrado sobre as chamadas não atendidas (lembretes são separados por intervalos de cinco minutos)</string>
     <string name="missed_call_notify_none_miui">Sem lembrete</string>
@@ -1107,4 +1108,5 @@ ligar à sua rede preferida."</string>
     <string name="duringcall">Esta operação não é permitida durante uma chamada</string>
     <string name="data_connected_change">Não é possível alterar redes enquanto o serviço de dados está em uso. Parar de usar o serviço de dados actual e selecionar outra rede disponível?</string>
     <string name="suspect_info">Antes de responder a qualquer mensagem deve verificar sempre a identidade da pessoa com que está a falar seja por telefone ou vídeo porque pode envolver as suas finanças pessoais.</string>
+    <string name="callwait_open_hint">Chamada em espera é um serviço prestado pelo operador, se receber um código de erro código MMI, entre em contacto com sua operadora local para verificar o serviço de chamada em espera.</string>
 </resources>

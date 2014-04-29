@@ -254,7 +254,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="power_chooser_check_box_title">Economizar bateria</string>
     <string name="power_chooser_check_box_summary">Escolha um perfil de gestão de energia para prolongar a vida da bateria</string>
     <string name="power_chooser_smart_title">Padrão</string>
-    <string name="power_chooser_smart_summary">Guardar definições actuais, de limpar processos na tela de bloqueio</string>
+    <string name="power_chooser_smart_summary">Limpar os processos em execução em segundo plano no ecrã de bloqueio</string>
     <string name="power_chooser_standby_title">Modo maratona</string>
     <string name="power_chooser_standby_summary">Desactivar ligação Wi-Fi e rede móvel</string>
     <string name="power_chooser_sleep_title">Dormir</string>
@@ -384,7 +384,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="power_mode_my_mode_summary">guardar automaticamente o estado uso diário</string>
     <string name="power_apply_toast">alterar para o modo %s e guardar automaticamente o estado actual</string>
     <string name="power_customize_giveup_change">cancelar a alteração?</string>
-    <string name="menu_item_force_stop">Forcar a paragem</string>
+    <string name="menu_item_force_stop">Forçar paragem</string>
     <string name="menu_item_uninstall">Desinstalar</string>
     <string name="menu_item_app_details">Detalhes</string>
     <string name="application_info_label">Aplicações</string>
@@ -705,7 +705,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="virus_scan_app_solve">Todos os processos</string>
     <string name="virus_scan_app_finish">Verificação concluída</string>
     <string name="virus_scan_app_continue">Continuar a verificar</string>
-    <string name="virus_scan_app_uninstall">Eliminar (% d)</string>
+    <string name="virus_scan_app_uninstall">Eliminar %d</string>
     <string name="virus_scan_app_force_stop">Verificação pausada</string>
     <string name="virus_scan_app_find_risk">% d riscos encontrados</string>
     <string name="virus_scan_app_scan_finish">Verificação concluída</string>
@@ -1219,7 +1219,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="language_picker_title">Idioma</string>
     <string name="activity_picker_label">Selecionar atividade</string>
     <string name="debug_intent_sender_label">Tentativa de envio de Código Debug</string>
-    <string name="device_info_label">Informações sobre o dispositivo</string>
+    <string name="device_info_label">Informações do dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
     <string name="phone_info_label">Informações do telefone</string>
@@ -1449,7 +1449,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="wifi_notify_open_networks_summary">Receber notificação quando uma rede aberta estiver disponível</string>
     <string name="wifi_poor_network_detection">Evitar ligações fracas</string>
     <string name="wifi_poor_network_detection_summary">Não utilize uma rede WiFi a menos que tenha uma boa ligação com a Internet</string>
-    <string name="wifi_setting_sleep_policy_title">Política de inatividade de Wi-Fi</string>
+    <string name="wifi_setting_sleep_policy_title">Política de inactividade de Wi-Fi</string>
     <string name="wifi_setting_sleep_policy_error">Houve um problema ao configurar</string>
     <string name="wifi_add_network">Adicionar rede Wi-Fi</string>
     <string name="wifi_access_points">Redes Wi-Fi</string>
@@ -1618,7 +1618,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="screen_timeout_summary">Após %1$s de inactividade</string>
     <string name="wallpaper_settings_title">Papel de parede</string>
     <string name="wallpaper_settings_fragment_title">Escolher papel de parede a partir de</string>
-    <string name="screensaver_settings_title">Papel de parede Candy</string>
+    <string name="screensaver_settings_title">Papel de parede</string>
     <string name="screensaver_settings_summary_on">Entrar em modo dormir se estiver ligado à energia</string>
     <string name="screensaver_settings_summary_off">Desligado</string>
     <string name="screensaver_component_title">Selecionado</string>
@@ -1627,7 +1627,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="screensaver_timeout_zero_summary">Nunca</string>
     <string name="screensaver_test">Experimente!</string>
     <string name="screensaver_activate_on_dock_title">Começar quando docked</string>
-    <string name="automatic_brightness">Luz automática</string>
+    <string name="automatic_brightness">Brilho automático</string>
     <string name="title_font_size">Tamanho da letra</string>
     <string name="dialog_title_font_size">Tamanho da letra</string>
     <string name="sim_lock_settings">Definições de bloqueio do cartão SIM</string>
@@ -1650,7 +1650,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
 Possivelmente o PIN está incorreto."</string>
     <string name="sim_change_succeeded">PIN do SIM alterado</string>
     <string name="sim_lock_failed">"Não é possível alterar o estado de bloqueio do cartão SIM.
-O PIN possivelmente está incorreto."</string>
+Possivelmente o PIN está incorreto."</string>
     <string name="sim_enter_ok">OK</string>
     <string name="sim_enter_cancel">Cancelar</string>
     <string name="device_info_settings">Estado do telefone</string>
@@ -1837,9 +1837,9 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Cartão SD</
     <string name="location_gps">Satélites GPS</string>
     <string name="location_street_level">Deixar as aplicações usar o GPS para identificar a sua localização</string>
     <string name="assisted_gps">Utilizar GPS assistido</string>
-    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desmarque para reduzir o uso de rede)</string>
-    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desmarque para melhorar o desempenho do GPS)</string>
-    <string name="use_location_title">Localização/Pesquisa Google</string>
+    <string name="assisted_gps_enabled">Utilizar servidor para ajudar GPS (desactive para reduzir o uso de rede)</string>
+    <string name="assisted_gps_disabled">Utilizar o servidor para ajudar GPS (desactive para melhorar o desempenho do GPS)</string>
+    <string name="use_location_title">Localização e Pesquisa Google</string>
     <string name="use_location_summary">Permitir que o Google use a sua localização para melhorar resultados de pesquisa e outros serviços</string>
     <string name="about_settings">Sobre o telefone:</string>
     <string name="about_settings_summary">Exibir informações legais, estado, versão de software</string>
@@ -2122,7 +2122,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="development_settings_summary">Define as opções para o desenvolvimento da aplicação</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver ligado</string>
-    <string name="keep_screen_on">Permanecer ativo</string>
+    <string name="keep_screen_on">Permanecer activo</string>
     <string name="keep_screen_on_summary">O ecrã nunca entrará em inatividade enquanto estiver carregando.</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
@@ -2135,7 +2135,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="enforce_read_external_confirm_title">Proteger o cartão SD?</string>
     <string name="enforce_read_external_confirm_message">"Quando o cartão SD está protegido, as aplicaçõess devem solicitar permissão para ler dados de armazenamento externo.
 
-Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus desenvolvedores."</string>
+Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus desenvolvedores."</string>
     <string name="gadget_picker_title">Escolher gadget</string>
     <string name="widget_picker_title">Escolher widget</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Criar widget e permitir o acesso?</string>
@@ -2382,6 +2382,7 @@ Algumas aplicações podem não funcionar até que sejam atualizadas pelos seus 
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação.
 
 Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
+    <string name="time_zone_auto_stub">Selecione fuso horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
@@ -2977,7 +2978,7 @@ e executar o software."</li>"
     <string name="msd_install_retry_linux">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
 1) Use as ferramentas de instalação \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
-2) Crie um diretório \"mkdir\" /media/mtp
+2) Crie um directório \"mkdir\" /media/ mtp
 3) Confirme as permissões do grupo de utilizadores no grupo de utilizadores em uso
 4) Inicie sessão novamente
 5) Acesso dispositivo montado mtpfs /media/mtp via Explorador de ficheiros, igual ao diretório local

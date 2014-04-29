@@ -101,12 +101,4 @@
     <string name="alarm_alert">Toque padrão</string>
     <string name="alarm_screen">Alarme no ecrã e toque</string>
     <item type="string" name="APKTOOL_DUMMY_0063">false</item>
-    <!-- Não eliminar linhas abaixo, são precisas-->
-    <string name="alarm_duration">Intervalo de tempo de toque (Em minutos)</string>
-    <string name="alarm_count">Parar automaticamente após vários toques</string>
-    <string name="alarm_duration_title">Definição do tempo de toque</string>
-    <string name="alarm_duration_summary">Intervalo do toque %d minuto(s)</string>
-    <string name="alarm_count_summary">，toque para automaticamente depois de %d vezes</string>
-    <string name="alarm_count_never_summary">，não pára automaticamente</string>
-    <string name="alarm_in_silent_mode_summary">O telefone está no modo silencioso, mas o alarme tocará</string>
 </resources>

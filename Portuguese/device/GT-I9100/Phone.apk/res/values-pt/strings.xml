@@ -899,13 +899,15 @@ O cartão SIM ficará inutilazado depois de falhar novamente."</string>
     <string name="turn_off_auto_select_title_miui">Desligar selecção automática de rede</string>
     <string name="turn_off_auto_select_warning_message_miui">Usar a rede selecionada manualmente, não liga a outras redes.</string>
     <string name="turn_off_auto_select_confirm_message_miui">Rede talvez indisponível</string>
-    <string name="network_work_query_failed_message_miui">"Consulta de rede falhou, pressione 'cancelar' para selecionar rede preferida automaticamente ou pressione 'ok' para repetir"</string>
-    <string name="sum_select_automatically_option_miui">Selecciona automaticamente a rede preferencial, %s</string>
+    <string name="network_work_query_failed_message_miui">A consulta de rede falhou, pressione Cancelar para selecionar rede preferida automaticamente ou pressione OK para repetir</string>
+    <string name="sum_select_automatically_option_miui">Selecciona automaticamente a rede preferencial, (%s)</string>
     <string name="register_network_failed_title_miui">Serviço não disponível</string>
-    <string name="register_network_failed_message_miui">Não consegue registar a rede selecionada, gostaria de selecionar rede preferida automaticamente?</string>
+    <string name="register_network_failed_message_miui">"Não consegue registar a rede selecionada.
+Gostaria de selecionar a rede preferida automaticamente?"</string>
     <string name="next_miui">Avançar</string>
     <string name="turn_off_miui">desligar</string>
     <string name="back_miui">Voltar</string>
+    <string name="open_miui">Abrir</string>
     <string name="missed_call_notify_times_title_miui">Lembrete de chamadas perdidas</string>
     <string name="missed_call_notify_times_summary_miui">Escolha o número de vezes que quer ser lembrado sobre as chamadas não atendidas (lembretes são separados por intervalos de cinco minutos)</string>
     <string name="missed_call_notify_none_miui">Sem lembrete</string>
@@ -956,4 +958,5 @@ O cartão SIM ficará inutilazado depois de falhar novamente."</string>
     <string name="duringcall">Esta operação não é permitida durante uma chamada</string>
     <string name="data_connected_change">Não é possível alterar redes enquanto o serviço de dados está em uso. Parar de usar o serviço de dados actual e selecionar outra rede disponível?</string>
     <string name="suspect_info">Dicas de segurança: O sistema identificará automaticamente as informações envolvidas desse número ligue para verificar a identidade</string>
+    <string name="callwait_open_hint">Chamada em espera é um serviço prestado pelo operador, se receber um código de erro código MMI, entre em contacto com sua operadora local para verificar o serviço de chamada em espera.</string>
 </resources>

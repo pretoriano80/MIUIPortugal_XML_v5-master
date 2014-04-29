@@ -901,13 +901,14 @@ Por favor, note que o cartão SIM ficará inutilizado e irá para o lixo caso fa
     <string name="turn_off_auto_select_title_miui">Desligar seleção automática de rede</string>
     <string name="turn_off_auto_select_warning_message_miui">Depois de desativar essa opção, irá usar a rede selecionada manualmente e não se registará noutra rede</string>
     <string name="turn_off_auto_select_confirm_message_miui">O sinal e rede podem não estar disponíveis, tem certeza que quer desligar esta opção?</string>
-    <string name="network_work_query_failed_message_miui">"Consulta de rede falhou, pressione 'cancelar' para selecionar rede preferencial automaticamente ou pressione 'ok' para repetir"</string>
-    <string name="sum_select_automatically_option_miui">Seleciona automaticamente rede preferencial, %s</string>
+    <string name="network_work_query_failed_message_miui">Consulta de rede falhou, pressione cancelar para selecionar rede preferencial automaticamente ou pressione OK para repetir</string>
+    <string name="sum_select_automatically_option_miui">Seleciona automaticamente rede preferencial, (%s)</string>
     <string name="select_network_automatic_hint_miui">"Não é possível registar na rede que selecionou,
-selecione rede preferida automaticamente"</string>
+selecione a rede preferida automaticamente"</string>
     <string name="next_miui">Avançar</string>
     <string name="turn_off_miui">Turn-off</string>
     <string name="back_miui">Voltar</string>
+    <string name="open_miui">Abrir</string>
     <string name="missed_call_notify_times_title_miui">Lembrete de chamadas perdidas</string>
     <string name="missed_call_notify_times_summary_miui">Repetir a cada 5 minutos, quando uma nova mensagem é recebida</string>
     <string name="missed_call_notify_none_miui">Sem lembrete</string>
@@ -975,4 +976,5 @@ selecione rede preferida automaticamente"</string>
     <string name="enter_callbarring_password">Digite a senha de restrição de chamadas(4 números)</string>
     <string name="wrong_password">Erro de senha</string>
     <string name="suspect_info">Cuidado: Deve verificar sempre a identidade do primeiro contacto por telefone ou vídeo antes de responder a qualquer mensagem envolvendo suas finanças pessoais.</string>
+    <string name="callwait_open_hint">Chamada em espera é um serviço prestado pelo operador, se receber um código de erro código MMI, entre em contacto com sua operadora local para verificar o serviço de chamada em espera.</string>
 </resources>

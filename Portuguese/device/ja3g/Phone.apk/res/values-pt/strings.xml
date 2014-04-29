@@ -777,8 +777,8 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="number_type_miui">Tipo de número</string>
     <string name="number_type_mob_miui">Móvel</string>
     <string name="number_type_tel_miui">Fixo</string>
-    <string name="old_pin2_hint_miui">PIN2 atual</string>
-    <string name="old_pin_hint_miui">PIN atual</string>
+    <string name="old_pin2_hint_miui">PIN2 actual</string>
+    <string name="old_pin_hint_miui">PIN actual</string>
     <string name="onscreen_add_call_text_miui">Adicionar chamada</string>
     <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
     <string name="onscreen_audio_mode_handset_miui">Mãos livres</string>
@@ -901,13 +901,14 @@ Por favor, note que o cartão SIM ficará inutilazado e irá para o lixo caso fa
     <string name="turn_off_auto_select_title_miui">Desligar seleção automática de rede</string>
     <string name="turn_off_auto_select_warning_message_miui">Depois de desativar essa opção, irá usar a rede selecionada manualmente e não se registará noutra rede</string>
     <string name="turn_off_auto_select_confirm_message_miui">O sinal e rede podem não estar disponíveis, tem certeza que quer desligar esta opção?</string>
-    <string name="network_work_query_failed_message_miui">"Consulta de rede falhou, pressione 'cancelar' para selecionar rede preferencial automaticamente ou pressione 'ok' para repetir"</string>
-    <string name="sum_select_automatically_option_miui">Seleciona automaticamente rede preferencial, %s</string>
-    <string name="select_network_automatic_hint_miui">"Can't register to the network you selected,
-select preferred network automatically"</string>
+    <string name="network_work_query_failed_message_miui">A consulta de rede falhou, pressione Cancelar para selecionar rede preferencial automaticamente ou pressione OK para repetir</string>
+    <string name="sum_select_automatically_option_miui">Seleciona automaticamente rede preferencial, (%s)</string>
+    <string name="select_network_automatic_hint_miui">"Não consegue registar à rede preferida que selecionou,
+selecionar a rede preferida automaticamente"</string>
     <string name="next_miui">Avançar</string>
-    <string name="turn_off_miui">Turn-off</string>
+    <string name="turn_off_miui">Desligar</string>
     <string name="back_miui">Voltar</string>
+    <string name="open_miui">Abrir</string>
     <string name="missed_call_notify_times_title_miui">Lembrete de chamadas perdidas</string>
     <string name="missed_call_notify_times_summary_miui">Repetir a cada 5 minutos, quando uma nova mensagem é recebida</string>
     <string name="missed_call_notify_none_miui">Sem lembrete</string>
@@ -964,8 +965,8 @@ select preferred network automatically"</string>
     <string name="deactivate_all">Cancelar todas</string>
     <string name="change_password">Nudar senha de barramento</string>
     <string name="call_barring_sum">Definições de barramento de chamadas de voz</string>
-    <string name="lable_disable">desativar</string>
-    <string name="lable_enable">Ativar</string>
+    <string name="lable_disable">desactivar</string>
+    <string name="lable_enable">Activar</string>
     <string name="old_password_label">Senha antiga(4 números)</string>
     <string name="new_password_label">nova senha(4 números)</string>
     <string name="invalid_password">Digite uma senha com 4 números.</string>
@@ -975,4 +976,5 @@ select preferred network automatically"</string>
     <string name="enter_callbarring_password">Digite a senha de barramento de chamadas(4 números)</string>
     <string name="wrong_password">Senha errada</string>
     <string name="suspect_info">Dicas de segurança: esse número pelo sistema identificará automaticamente as informações ligue para verificar a identidade do outro</string>
+    <string name="callwait_open_hint">Chamada em espera é um serviço prestado pelo operador, se receber um código de erro código MMI, entre em contacto com sua operadora local para verificar o serviço de chamada em espera.</string>
 </resources>
