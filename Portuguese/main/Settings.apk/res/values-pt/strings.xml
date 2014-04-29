@@ -85,7 +85,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="deep_clean_tips_cache_title">Cache:</string>
     <string name="deep_clean_tips_cache_content">Algumas aplicações usam ficheiros de cache para carregar recursos adicionais (ex. músicas e imagens). Tenha cuidado quando eliminar estes arquivos.</string>
     <string name="deep_clean_tips_residual_title">Residuais:</string>
-    <string name="deep_clean_tips_residual_content">Resíduos são arquivos (e.g. vídeos, papéis de parede, música, etc.) que tenham sido transferidos para o cartão SD do seu aparelho por aplicações que já foram desinstalados. Tenha cuidado quando está eliminando, alguns desses arquivos podem ainda ser necessários.</string>
+    <string name="deep_clean_tips_residual_content">Resíduos são arquivos (e.g. vídeos, papéis de parede, música, etc.) que tenham sido transferidos para o armaz. USB do seu aparelho por aplicações que já foram desinstalados. Tenha cuidado quando está eliminando, alguns desses arquivos podem ainda ser necessários.</string>
     <string name="deep_clean_tips_large_file_title">Ficheiros grandes:</string>
     <string name="deep_clean_tips_large_file_content">Ficheiros grandes são arquivos com mais de 10MB que estão armazenadas no seu dispositivo. Pode decidir se precisa ou não deles.</string>
     <string name="toast_qucik_scan_list_empty">Parece tudo bem, não há necessidade de limpar!</string>
@@ -93,7 +93,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="app_uninstall_residual">Elimine ficheiros de desinstalação residuais?</string>
     <string name="residual_cancel">Cancelar</string>
     <string name="residual_clean">Eliminar</string>
-    <string name="residual_tips_hints">%s foram encontrados ficheiros residuais no cartão SD</string>
+    <string name="residual_tips_hints">foram encontrados %s ficheiros residuais</string>
     <string name="clean_confirm_title">Eliminar estes ficheiros?</string>
     <string name="button_text_delete">Eliminar</string>
     <string name="uninstall_confirm_title">Desinstalar esta aplicação</string>
@@ -134,7 +134,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="msg_update_error_code_network_error">Erro de rede. Verifique a ligação.</string>
     <string name="msg_update_error_code_unknown_error">Erro desconhecido</string>
     <string name="msg_cleanup_db_update_time_unknown">Actualizado em: desconhecido</string>
-    <string name="toast_application_no_residual_on_sdcard">A aplicação não tem todos os arquivos armazenados em seu cartão SD</string>
+    <string name="toast_application_no_residual_on_sdcard">A aplicação não tem todos os arquivos armazenados em seu armazenamento USB</string>
     <string name="applications_sort_type_title">Ordenar</string>
     <string name="applications_sort_type_item_time">Usados frequentemente</string>
     <string name="applications_sort_type_item_size">Tamanho</string>
@@ -161,7 +161,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="item_title_garbage_size">Volume do Alarme</string>
     <string name="tab_title_internal_storage">Armazenamento interno</string>
     <string name="tab_title_external_storage">Armazenamento externo</string>
-    <string name="tab_title_sdcard_storage">Cartão SD</string>
+    <string name="tab_title_sdcard_storage">Armazenamento USB</string>
     <string name="internal_available_memory_hint">Disponível: A calcular…</string>
     <string name="internal_available_memory">Disponível: %s</string>
     <string name="internal_used_memory_hint">Usado: Calculating…</string>
@@ -1025,7 +1025,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="radioInfo_service_off">Rádio desactivado</string>
     <string name="radioInfo_roaming_in">Roaming</string>
     <string name="radioInfo_roaming_not">Não está em roaming</string>
-    <string name="radioInfo_phone_idle">Inativo</string>
+    <string name="radioInfo_phone_idle">Inactivo</string>
     <string name="radioInfo_phone_ringing">A tocar</string>
     <string name="radioInfo_phone_offhook">Chamada em curso</string>
     <string name="radioInfo_data_disconnected">Desligado</string>
@@ -1163,7 +1163,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="intent_sender_data_label">Dados:</string>
     <string name="intent_sender_sendbroadcast_text">Enviar transmissão</string>
     <string name="intent_sender_action_label">Acção:</string>
-    <string name="intent_sender_startactivity_text">Iniciar atividade</string>
+    <string name="intent_sender_startactivity_text">Iniciar actividade</string>
     <string name="intent_sender_resource_label">Recursos:</string>
     <string name="intent_sender_account_label">Conta:</string>
     <string name="proxy_settings_title">Definições de Proxy</string>
@@ -1234,8 +1234,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="skip_label">Ignorar</string>
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
-    <string name="activity_picker_label">Selecionar atividade</string>
-    <string name="debug_intent_sender_label">Tentativa de envio de Código Debug</string>
+    <string name="activity_picker_label">Selecionar actividade</string>
     <string name="device_info_label">Informações do dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -1406,7 +1405,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="bluetooth_device_context_connect_advanced">Opções…</string>
     <string name="bluetooth_menu_advanced">Avançado</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth avançado</string>
-    <string name="bluetooth_empty_list_bluetooth_off">Para ver os dispositivos, ative o Bluetooth.</string>
+    <string name="bluetooth_empty_list_bluetooth_off">Para ver os dispositivos, active o Bluetooth.</string>
     <string name="bluetooth_connect_specific_profiles_title">Ligar a…</string>
     <string name="bluetooth_profile_a2dp">Multimédia</string>
     <string name="bluetooth_profile_headset">Telefone Áudio</string>
@@ -1585,39 +1584,12 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="wifi_p2p_cancel_connect_title">Cancelar convite?</string>
     <string name="wifi_p2p_cancel_connect_message">Quer cancelar o convite para se ligar com %1$s?</string>
     <string name="wifi_tether_checkbox_text">Ponto Wi-Fi portátil</string>
-    <string name="wifi_tether_enabled_subtext">Ponto de acesso portátil %1$s ativo</string>
+    <string name="wifi_tether_enabled_subtext">Ponto de acesso portátil %1$s activo</string>
     <string name="wifi_tether_failed_subtext">Erro de ponto de acesso Wi-Fi portátil</string>
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">Ponto de acesso Wi-Fi portátil %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-    <string name="testing_wifi_info">Informações Wi-Fi</string>
-    <string name="disableNetwork">disableNetwork</string>
-    <string name="enableNetwork">enableNetwork</string>
-    <string name="disconnect">disconnect</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
-    <string name="wifi_status_test">Estado de Wi-Fi</string>
-    <string name="wifi_update">Actualizar estatísticas</string>
-    <string name="wifi_state_label">Estado de Wi-Fi:</string>
-    <string name="network_state_label">Estado da rede:</string>
-    <string name="supplicant_state_label">Estado do remetente:</string>
-    <string name="rssi_label">RSSI:</string>
-    <string name="bssid_label">BSSID:</string>
-    <string name="ssid_label">SSID:</string>
-    <string name="hidden_ssid_label">SSID oculto:</string>
-    <string name="ipaddr_label">Endereço IP:</string>
-    <string name="macaddr_label">Endereço MAC:</string>
-    <string name="networkid_label">ID de Rede:</string>
-    <string name="link_speed_label">Veloc. do Link:</string>
-    <string name="scan_list_label">Res. da verificação:</string>
-    <string name="wifi_state_disabling">A desactivar</string>
-    <string name="wifi_state_disabled">Desactivado</string>
-    <string name="wifi_state_enabling">A activar</string>
-    <string name="wifi_state_enabled">Activado</string>
-    <string name="wifi_state_unknown">Desconhecido</string>
     <string name="wifi_config_info">Definições de Wi-Fi</string>
-    <string name="config_list_label">Redes configuradas</string>
     <string name="display_settings_title">Ecrã</string>
     <string name="sound_settings">Som</string>
     <string name="ringtone_title">Toque do telefone</string>
@@ -1778,7 +1750,7 @@ Tentativas restantes :"</string>
     <string name="internal_format_summary">Elimina todos os dados do armazenamento interno, como músicas ou fotos</string>
     <string name="read_only">" (Só leitura)"</string>
     <string name="dlg_confirm_unmount_title">Desmontar armaz. USB?</string>
-    <string name="dlg_confirm_unmount_text">Se desmontar armaz. USB, algumas aplicações que estão em uso serão interrompidas e podem não estar disponíveis até ligar o cartão SD novamente.</string>
+    <string name="dlg_confirm_unmount_text">Se desmontar armaz. USB, algumas aplicações que estão em uso serão interrompidas e podem não estar disponíveis até ligar o armazenamento USB novamente.</string>
     <string name="dlg_error_unmount_title" />
     <string name="dlg_error_unmount_text">Não é possível desmontar o armaz. USB. Tente novamente mais tarde.</string>
     <string name="unmount_inform_text">O armaz. USB será desmontado.</string>
@@ -2009,7 +1981,7 @@ Pronto para começar? Prima Seguinte."</string>
     <string name="unknown">Desconhecido</string>
     <string name="sort_order_alpha">Ordenar por nome</string>
     <string name="sort_order_size">Ordenar por tamanho</string>
-    <string name="show_running_services">Mostrar serviços ativos</string>
+    <string name="show_running_services">Mostrar serviços activos</string>
     <string name="show_background_processes">Mostrar processos em cache</string>
     <string name="reset_app_preferences">Redefinir preferências da aplicação</string>
     <string name="reset_app_preferences_title">Redefinir preferências da aplicação?</string>
@@ -2178,10 +2150,10 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="configure_input_method">Configurar modos de entrada</string>
     <string name="input_method_settings">Definições</string>
     <string name="input_method_settings_button">Definições</string>
-    <string name="active_input_method_subtypes">Modos de entrada ativos</string>
-    <string name="use_system_language_to_select_input_method_subtypes">Utilizar idioma do sistema</string>
+    <string name="active_input_method_subtypes">Modos de entrada activos</string>
+    <string name="use_system_language_to_select_input_method_subtypes">Uctilizar idioma do sistema</string>
     <string name="input_methods_settings_label_format">Definições de %1$s</string>
-    <string name="input_methods_and_subtype_enabler_title">Escolher modos de entrada ativos</string>
+    <string name="input_methods_and_subtype_enabler_title">Escolher modos de entrada activos</string>
     <string name="onscreen_keyboard_settings_summary">Definições de teclado</string>
     <string name="builtin_keyboard_settings_title">Teclado do dispositivo</string>
     <string name="builtin_keyboard_settings_summary">Definições de teclado físico</string>
@@ -2190,7 +2162,7 @@ Adicionar uma palavra ao tocar no botão Adicionar (+)"</string>
     <string name="enable_adb">Depuração USB</string>
     <string name="enable_adb_summary">Modo de depuração quando o USB estiver ligado</string>
     <string name="keep_screen_on">Permanecer activo</string>
-    <string name="keep_screen_on_summary">O ecrã nunca entrará em inatividade enquanto estiver carregando.</string>
+    <string name="keep_screen_on_summary">O ecrã nunca entrará em inactividade enquanto estiver carregando.</string>
     <string name="allow_mock_location">Permitir locais fictícios</string>
     <string name="allow_mock_location_summary">Permitir locais fictícios</string>
     <string name="adb_warning_title">Permitir a depuração USB?</string>
@@ -2364,8 +2336,8 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="gadget_toggle_bluetooth">A actualizar a definições de Bluetooth</string>
     <string name="vpn_settings_title">Definições de VPN</string>
     <string name="credentials_title">Armazenamento de credenciais</string>
-    <string name="credentials_install">Instalar a partir do cartão SD</string>
-    <string name="credentials_install_summary">Instalar certificados a partir do cartão SD</string>
+    <string name="credentials_install">Instalar a partir do armazenamento interno</string>
+    <string name="credentials_install_summary">Instalar certificados a partir do armazenamento interno</string>
     <string name="credentials_reset">Eliminar credenciais</string>
     <string name="credentials_reset_summary">Eliminar todos os certificados</string>
     <string name="trusted_credentials">Credenciais confiáveis</string>
@@ -2449,7 +2421,6 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação.
 
 Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
-    <string name="time_zone_auto_stub">Selecione fuso horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
@@ -2492,7 +2463,7 @@ Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus co
     <string name="provider_label">Carregar subscrições</string>
     <string name="sync_item_title">%s</string>
     <string name="cant_sync_dialog_title">Não é possível sincronizar manualmente</string>
-    <string name="cant_sync_dialog_message">A sincronização para este ficheiro está desactivada. Para alterar esta configuração, ative temporariamente os dados em segundo plano e a sincronização automática.</string>
+    <string name="cant_sync_dialog_message">A sincronização para este ficheiro está desactivada. Para alterar esta configuração, active temporariamente os dados em segundo plano e a sincronização automática.</string>
     <string name="wimax_settings">Definições 4G</string>
     <string name="wimax_settings_summary">Configurar &amp; gerir rede 4G e modem</string>
     <string name="status_wimax_mac_address">4G MAC address</string>
@@ -2780,7 +2751,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="device_cpu">CPU:</string>
     <string name="device_memory">RAM:</string>
     <string name="device_internal_memory">Armaz. Interno:</string>
-    <string name="device_sd_memory">Cartão SD:</string>
+    <string name="device_sd_memory">Armaz. USB:</string>
     <string name="device_cpu2_info">Dual-Core:</string>
     <string name="device_cpu4_info">Quad-Core:</string>
     <string name="available_size">Disponível: %s</string>
@@ -3077,7 +3048,7 @@ Tente o seguinte:
 Obtenha o driver em http://miui.com/win"</string>
     <string name="msd_driver_mac_download">"No Mac, faça a transferência e clique em AndroidFileTransfer.dmg para instalar
 Obtenha o driver em http://miui.com/mac"</string>
-    <string name="vpn_settings_password">Protecção por senha VPN</string>
+    <string name="vpn_settings_password">Proteção por senha VPN</string>
     <string name="vpn_safe">Segurança</string>
     <string name="vpn_configure">Configuração</string>
     <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>

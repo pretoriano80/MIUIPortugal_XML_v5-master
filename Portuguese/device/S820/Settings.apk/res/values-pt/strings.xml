@@ -1138,8 +1138,7 @@ Nota: Aplicações com permissão podem causar instabilidade no sistema, até me
     <string name="skip_label">Ignorar</string>
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
-    <string name="activity_picker_label">Selecionar atividade</string>
-    <string name="debug_intent_sender_label">Tentativa de envio de Código Debug</string>
+    <string name="activity_picker_label">Selecionar actividade</string>
     <string name="device_info_label">Informações sobre o dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -1456,17 +1455,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="wifi_wps_available_second_item">(rede disponível protegida)</string>
     <string name="wifi_secured_first_item">Protegido por %1$s</string>
     <string name="wifi_secured_second_item">, protegido com %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nenhum</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_connect">Ligar</string>
     <string name="wifi_failed_connect_message">Falha ao ligar à rede</string>
     <string name="wifi_forget">Desligar</string>
@@ -2484,7 +2473,7 @@ Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus co
     <string name="enable_traces_summary_none">Nenhuma busca atualmente ativada</string>
     <string name="enable_traces_summary_num">%1$d buscas atualmente ativadas</string>
     <string name="enable_traces_summary_all">Todas as buscas ativadas</string>
-    <string name="enable_opengl_traces_title">Ativar traços OpenGL</string>
+    <string name="enable_opengl_traces_title">Activar traços OpenGL</string>
     <string name="debug_layout">Mostrar limites de layout</string>
     <string name="debug_layout_summary">Mostre os limites de clip, margens, etc.</string>
     <string name="show_cpu_usage">Mostrar utilização do CPU</string>

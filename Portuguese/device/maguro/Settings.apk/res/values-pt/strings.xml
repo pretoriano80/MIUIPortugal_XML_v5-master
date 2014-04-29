@@ -1195,8 +1195,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="skip_label">Ignorar</string>
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
-    <string name="activity_picker_label">Selecionar atividade</string>
-    <string name="debug_intent_sender_label">Tentativa de envio de Código Debug</string>
+    <string name="activity_picker_label">Selecionar actividade</string>
     <string name="device_info_label">Informações do dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -1513,17 +1512,7 @@ Para continuar a usar o telefone, deverá executar um reset de fábrica. Quando 
     <string name="wifi_wps_available_second_item">" (WPS disponível)"</string>
     <string name="wifi_secured_first_item">Protegido por %1$s</string>
     <string name="wifi_secured_second_item">, protegido com %1$s</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nenhum</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_connect">Ligar</string>
     <string name="wifi_failed_connect_message">Falha ao ligar à rede</string>
     <string name="wifi_forget">Desligar</string>
@@ -1579,26 +1568,7 @@ Configuração do telefone pode exigir a atividade de rede significativa."</stri
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">Ponto de acesso Wi-Fi portátil %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-    <string name="testing_wifi_info">Informações Wi-Fi</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
-    <string name="wifi_status_test">Estado de Wi-Fi</string>
-    <string name="wifi_update">Actualizar estatísticas</string>
-    <string name="wifi_state_label">Estado de Wi-Fi:</string>
-    <string name="network_state_label">Estado da rede:</string>
-    <string name="supplicant_state_label">Estado do remetente:</string>
-    <string name="hidden_ssid_label">SSID oculto:</string>
-    <string name="ipaddr_label">Endereço IP:</string>
-    <string name="macaddr_label">Endereço MAC:</string>
-    <string name="networkid_label">ID de Rede:</string>
-    <string name="link_speed_label">Veloc. do Link:</string>
-    <string name="scan_list_label">Res. da verificação:</string>
-    <string name="wifi_state_disabling">A desactivar</string>
-    <string name="wifi_state_disabled">Desactivado</string>
-    <string name="wifi_state_enabling">A activar</string>
-    <string name="wifi_state_enabled">Activado</string>
-    <string name="wifi_state_unknown">Desconhecido</string>
     <string name="wifi_config_info">Definições de Wi-Fi</string>
-    <string name="config_list_label">Redes configuradas</string>
     <string name="display_settings_title">Ecrã</string>
     <string name="sound_settings">Som</string>
     <string name="ringtone_title">Toque do telefone</string>
@@ -2473,7 +2443,6 @@ Se o dispositivo tem vários utilizadores, usando este atalho na tela de bloquei
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação
 
 Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
-    <string name="time_zone_auto_stub">Selecione fuso horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>

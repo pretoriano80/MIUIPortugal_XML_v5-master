@@ -226,8 +226,7 @@
     <string name="skip_label">Ignorar</string>
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
-    <string name="activity_picker_label">Selecionar atividade</string>
-    <string name="debug_intent_sender_label">Tentativa de envio de Código Debug</string>
+    <string name="activity_picker_label">Selecionar actividade</string>
     <string name="device_info_label">Informações sobre o dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
