@@ -86,7 +86,7 @@
         <item quantity="one">%1$s, %2$d música</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d músicas forameliminadas</item>
+        <item quantity="other">%d músicas foram eliminadas</item>
         <item quantity="one">1 música foi eliminadas</item>
     </plurals>
     <plurals name="NTrackstoDownload">
@@ -98,6 +98,6 @@
         <item quantity="one">%d dia restante</item>
     </plurals>
     <plurals name="Nvip_expired_remind">
-        <item quantity="other">O seu acesso a música de melhor qualidade está prestes a expirar (%d dias restantes)</item>
+        <item quantity="other">O seu acesso à música de alta qualidade vai expirar (%d dias restantes)</item>
     </plurals>
 </resources>

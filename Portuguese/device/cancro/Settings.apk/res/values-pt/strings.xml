@@ -30,7 +30,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="button_text_quick_scan">Comece a verificação</string>
     <string name="button_text_a_key_clean_up">Limpar</string>
     <string name="button_text_a_key_optimize">Optimizar agora</string>
-    <string name="button_text_a_key_uninstall">Uninstall</string>
+    <string name="button_text_a_key_uninstall">Desinstalar</string>
     <string name="button_text_done">Concluído</string>
     <string name="button_text_cancel">Cancelar</string>
     <string name="deep_cleaning">Avançado</string>
@@ -47,7 +47,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="optimize_apk_header_left">Pacotes de instalação: %d</string>
     <string name="optimize_large_file_header_left">Ficheiros grandes: %d</string>
     <string name="optimize_residual_header_left">Residuais: %d</string>
-    <string name="optimize_installed_apps_header_left">Download apps:%d</string>
+    <string name="optimize_installed_apps_header_left">Transferir aplicações:%d</string>
     <string name="optimize_cache_list_empty_content">Não foram encontrados ficheiros de cache</string>
     <string name="optimize_ad_list_empty_content">Não foram encontrados ficheiros de anúncios</string>
     <string name="optimize_apk_list_empty_content">Não foram encontrados pacotes instalados</string>

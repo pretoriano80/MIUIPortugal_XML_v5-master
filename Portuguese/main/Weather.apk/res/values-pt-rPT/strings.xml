@@ -16,8 +16,9 @@
     <string name="send_sms_notification">Notificações metereológicas</string>
     <string name="send_sms_notification_summary">Enviar dados meteorológicos de hoje para os seus contactos por mensagem de texto</string>
     <string name="location_management">Localizações</string>
-    <string name="enable_gps">GPS</string>
+    <string name="gps_hint">Localização actual</string>
     <string name="add_city">Adicionar localização</string>
+    <string name="edit_city">Editar</string>
     <string name="cancel">Cancelar</string>
     <string name="menu_send_sms">Enviar</string>
     <string name="app_love_sms_title">Mensagem</string>
@@ -41,6 +42,7 @@
     <string name="act_weather_cycle_update">A actualizar…</string>
     <string name="act_weather_update_time">Última actualização %s</string>
     <string name="act_weather_cycle_low_temp">baixo</string>
+    <string name="act_weather_cycle_no_forcast">Desconhecido</string>
     <string name="act_weather_range_title">Previsão do tempo local</string>
     <string name="act_weather_range_select">Escolha uma cidade</string>
     <string name="menu_around">Perto de</string>
@@ -83,6 +85,7 @@
     <string name="alert_provider_title">Notificação da localização</string>
     <string name="alert_provider_message">Para permitir o acesso ao local, entre em contacto com a sua operadora.</string>
     <string name="button_allow">Permitir</string>
+    <string name="button_abandon">Abandonar alterações</string>
     <string name="button_not_allow">Negar</string>
     <string name="location_allow_err">Não foi possível localizá-lo</string>
     <string name="format_date_wmd">d/M EEE</string>
@@ -99,10 +102,10 @@
     <string name="aqi_quality_index_unhealthy">doentio</string>
     <string name="aqi_quality_index_dangerous">perigoso</string>
     <string name="aqi_quality_index_hazardous">arriscado</string>
-    <string name="aqi_quality_index_break">Credo!</string>
+    <string name="aqi_quality_index_break">Caramba!</string>
     <string name="aqi_details_good">Está um grande dia para estar ao ar livre.</string>
     <string name="aqi_details_fine">Pessoas com condições médicas crónicas devem reduzir o esforço prolongado ou intenso.</string>
-    <string name="aqi_details_light_pollution">Pessoas com doenças cardíacas ou pulmonares, adultos mais velhos, e as crianças devem reduzir o esforço prolongado ou intenso.</string>
+    <string name="aqi_details_light_pollution">Pessoas com doenças cardiacas ou pulmonares, adultos mais velhos, e as crianças devem reduzir o esforço prolongado ou intenso.</string>
     <string name="aqi_details_unhealthy">Reduzir o esforço prolongado ou pesado.</string>
     <string name="aqi_details_dangerous">Evite o esforço prolongado ou intenso.</string>
     <string name="aqi_details_hazardous">Permanecer dentro de casa e reduzir o seu nível de actividade.</string>
@@ -111,7 +114,8 @@
     <string name="act_aqi_so2_title">SO2</string>
     <string name="act_aqi_no2_title">NO2</string>
     <string name="first_start_network_toast_text">Para obter informações do tempo, ligue a Internet.</string>
-    <string name="act_weather_find_city_search_online">Toque para localizar</string>
+    <string name="act_weather_find_city_net_no_good">Não é possível ligar à rede</string>
+    <string name="act_weather_find_city_click_retry">Selecione tentar novamente</string>
     <string name="act_weather_find_city_connect_net">Verifique a sua ligação de dados e ligue novamente.</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
@@ -123,4 +127,7 @@
     <string name="menu_add">Adicionar localização</string>
     <string name="menu_more">Detalhes</string>
     <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
+    <string name="location_tag">Localização</string>
+    <string name="act_weather_find_city_no_result">Sem resultados</string>
+    <string name="act_weather_find_city_added">Cidade adicionada</string>
 </resources>

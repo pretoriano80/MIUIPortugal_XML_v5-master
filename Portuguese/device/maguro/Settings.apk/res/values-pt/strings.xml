@@ -193,7 +193,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="list_sub_view_item_backup_cleanup">Primeiro faça cópias</string>
     <string name="white_list_cache_header">Ficheiros em cache: %d</string>
     <string name="white_list_ad_header">Adicionar ficheiros: %d</string>
-    <string name="white_list_apk_header">Inatalar Install pacotes: %d</string>
+    <string name="white_list_apk_header">Instalar pacotes: %d</string>
     <string name="white_list_large_file_header">Ficheiros grandes: %d</string>
     <string name="white_list_residual_header">Residuais: %d</string>
     <string name="white_list_title">Lista Branca</string>

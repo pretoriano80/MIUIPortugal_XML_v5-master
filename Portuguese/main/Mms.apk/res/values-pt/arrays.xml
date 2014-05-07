@@ -93,11 +93,11 @@
     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Via mensagem</item>
-        <item>Via mensagem na nuvem</item>
+        <item>Mensagem via Cloud</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>Via mensagem</item>
-        <item>Via mensagem pela nuvem</item>
+        <item>Mensagem via Cloud</item>
     </string-array>
     <string-array name="entryvalues_date_type">
         <item>0</item>
@@ -118,7 +118,7 @@
     </string-array>
     <string-array name="prefEntries_vibrateWhen">
         <item>Sempre</item>
-        <item>Apenas quando em silêncio</item>
+        <item>Apenas em silêncio</item>
         <item>Nunca</item>
     </string-array>
     <string-array name="prefValues_vibrateWhen">
