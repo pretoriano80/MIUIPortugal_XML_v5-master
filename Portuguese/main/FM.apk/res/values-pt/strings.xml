@@ -2,7 +2,7 @@
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string name="app_name">Rádio</string>
-    <string name="menu_play">Play</string>
+    <string name="menu_play">Ligar</string>
     <string name="menu_edit">Editar</string>
     <string name="menu_delete">Eliminar</string>
     <string name="menu_settings">Definições</string>

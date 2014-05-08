@@ -16,14 +16,6 @@
     <string name="abc_shareactionprovider_share_with">Partilhar com</string>
     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
     <string name="date">2888/88/88</string>
-    <string name="mailbox_name_server_inbox">Cx. Entrada</string>
-    <string name="mailbox_name_server_outbox">Cx. Saída</string>
-    <string name="mailbox_name_server_drafts">Rascunhos</string>
-    <string name="mailbox_name_server_trash">Lixo</string>
-    <string name="mailbox_name_server_sent">Enviados</string>
-    <string name="mailbox_name_server_junk">Lixo</string>
-    <string name="mailbox_name_server_starred">Favoritos</string>
-    <string name="mailbox_name_server_all_unread">Não lidos</string>
     <string name="main_help_context">ttl</string>
     <string name="trigger_save_char">s</string>
     <string name="trigger_compose_char">c</string>
@@ -356,10 +348,7 @@ CC: %4$s
     <string name="protocol_pop3">pop3</string>
     <string name="protocol_eas">eas</string>
     <string name="application_mime_type">application/email-ls</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="contact_content_provider">Contact Content Provider</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="from">From</string>
     <string name="to">To</string>
     <string name="cc">Cc</string>
@@ -375,8 +364,6 @@ CC: %4$s
     <string name="compose">Compose</string>
     <string name="contact_select">Select contacts</string>
     <string name="formatted_subject">%1$s%2$s</string>
-    <string name="reply_subject_label">Re:</string>
-    <string name="forward_subject_label">Fwd:</string>
     <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
     <string name="forward_attribution">---------- Forwarded message ----------&lt;br>From: %1$s&lt;br>Date: %2$s&lt;br>Subject: %3$s&lt;br>To: %4$s&lt;br></string>
     <string name="forward_attribution_no_headers">---------- Forwarded message ----------</string>
@@ -422,10 +409,6 @@ CC: %4$s
     <string name="menu_move_to">Move to</string>
     <string name="menu_move_to_inbox">Move to Inbox</string>
     <string name="menu_manage_folders">Folder settings</string>
-    <string name="report_rendering_problem">Looks bad</string>
-    <string name="report_rendering_improvement">Looks good</string>
-    <string name="report_rendering_problem_desc">This message looks bad.</string>
-    <string name="report_rendering_improvement_desc">This message looks good.</string>
     <string name="menu_show_original">Revert auto-sizing</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_search">Search</string>
