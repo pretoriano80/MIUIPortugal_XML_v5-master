@@ -327,7 +327,7 @@
     <string name="collect_bill_success">Música adicionada aos favoritos</string>
     <string name="collect_fm_success">Adicionado aos favoritos</string>
     <string name="uncollect_success">Eliminado dos favoritos</string>
-    <string name="sync_alert_title">Sincronizar músicatring>
+    <string name="sync_alert_title">Sincronizar música</string>
     <string name="sync_alert_message">Sincronizar as suas músicas favoritas através de dispositivos com a sua Conta Mi.</string>
     <string name="not_now">Agora não</string>
     <string name="sync_disable_toast">Pode activar a sincronização mais tarde em Definições > Contas > Mi Cloud</string>
