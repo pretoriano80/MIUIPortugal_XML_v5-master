@@ -1238,7 +1238,6 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
     <string name="activity_picker_label">Selecionar actividade</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Informações do dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -1583,25 +1582,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">Ponto de acesso Wi-Fi portátil %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-    <string name="testing_wifi_info">Informação de Wi-Fi</string>
-    <string name="wifi_status_test">Estado do Wi-Fi</string>
-    <string name="wifi_update">Actualizar estado</string>
-    <string name="wifi_state_label">Estado do Wi-fi:</string>
-    <string name="network_state_label">Estado da rede:</string>
-    <string name="supplicant_state_label">Estado suplicante:</string>
-    <string name="hidden_ssid_label">Hidden SSID:</string>
-    <string name="ipaddr_label">IPaddr:</string>
-    <string name="macaddr_label">MAC addr:</string>
-    <string name="networkid_label">ID de rede:</string>
-    <string name="link_speed_label">Velocidade do link:</string>
-    <string name="scan_list_label">Resultados da pesquisa:</string>
-    <string name="wifi_state_disabling">A desactivar</string>
-    <string name="wifi_state_disabled">Desactivado</string>
-    <string name="wifi_state_enabling">A activar</string>
-    <string name="wifi_state_enabled">Activado</string>
-    <string name="wifi_state_unknown">Desconhecido</string>
     <string name="wifi_config_info">Configuração de Wi-Fi</string>
-    <string name="config_list_label">Rede configurada</string>
     <string name="display_settings_title">Ecrã</string>
     <string name="sound_settings">Som</string>
     <string name="ringtone_title">Toque do telefone</string>
@@ -2433,7 +2414,6 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação.
 
 Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
-    <string name="time_zone_auto_stub">Selecione fuso horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
