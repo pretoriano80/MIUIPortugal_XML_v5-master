@@ -3,6 +3,10 @@
 <resources>
     <string name="category_default_number_text">(0)</string>
     <string name="download_current_progress">%1$d/100</string>
+    <string name="delete_folder">Eliminar esta pasta?</string>
+    <string name="delete_folders">Eliminar %1$d?</string>
+    <string name="delete_file">Eliminar este ficheiro?</string>
+    <string name="delete_files">Eliminar %1$d ficheiros?</string>
     <string name="app_name">Explorador</string>
     <string name="confirm">Confirma</string>
     <string name="menu_item_ftp">FTP</string>
@@ -49,12 +53,7 @@
     <string name="operation_rename_message">Nome da pasta</string>
     <string name="operation_create_folder_message">Nome da pasta</string>
     <string name="operation_delete_confirm_message">Eliminar</string>
-    <string name="operation_delete_confirm_message_folder">"Todos o conteúdo da pasta será eliminado.
-"</string>
-    <string name="delete_folder">Eliminar esta pasta?</string>
-    <string name="delete_folders">Eliminar %1$d?</string>
-    <string name="delete_file">Eliminar este arquivo?</string>
-    <string name="delete_files">Eliminar %1$d arquivos?</string>
+    <string name="operation_delete_confirm_message_folder">Todo o conteúdo da pasta será eliminado. </string>
     <string name="new_folder_name">Pasta sem nome</string>
     <string name="sd_card_size">Cartão SD: %1$s</string>
     <string name="sd_card_available">Disponível: %1$s</string>
@@ -84,8 +83,8 @@
     <string name="wifi_state">Estado de Wi-Fi</string>
     <string name="instruction_pre">Toque para iniciar o servidor FTP</string>
     <string name="instruction">Digite o seguinte endereço num cliente de FTP:</string>
-    <string name="no_wifi">Não foram detectadas redes Wi-Fi.</string>
-    <string name="no_wifi_hint">Verifique as configurações de ligação.</string>
+    <string name="no_wifi">Não foram detectadas redes Wi-Fi</string>
+    <string name="no_wifi_hint">Sem ligação</string>
     <string name="search_title">Pesquisar</string>
     <string name="search_hint">Pesquisar</string>
     <string name="dialog_select_type">Selecione tipo</string>
@@ -107,11 +106,9 @@
     <string name="ui_main_toast_favorite_removed">Favorito eliminado</string>
     <string name="ui_main_toast_operation_failed">Falha ao eliminar o favorito %1$s</string>
     <string name="user_guide">Introdução ao KuaiPan</string>
-    <string name="user_guide_summary">Uma breve visão geral</string>
     <string name="rename_failed">Falha ao renomear %1$s</string>
     <string name="directory_no_item">Pasta vazia</string>
     <string name="error_open_file_failed_no_app_found">Não foi encontrada nenhuma aplicação para concluir esta acção.</string>
-    <string name="no_enough_space">Não há espaço suficiente</string>
     <string name="directory_info_divider">"  |  "</string>
     <string name="no_enough_storage_title">Não há espaço suficiente</string>
     <string name="no_enough_storage_indication">O armazenamento está cheio.</string>
@@ -120,7 +117,6 @@
     <string name="create_kuaipan_shortcut_pref">Colocar no ambiente de trabalho</string>
     <string name="login_reg_content0">Use o KuaiPan em qualquer lugar.</string>
     <string name="login_reg_content">Armazenar arquivos e sincronizá-los entre vários dispositivos,
-tem que ligar à rede para usar este recurso."</string>
     <string name="start_use_xiaomi_account">Começar a usar KuaiPan</string>
     <string name="pan_settting">Definições do KuaiPan</string>
     <string name="xiaomi_account">Conta Xiaomi</string>
@@ -231,7 +227,6 @@ Foi adicionado %1$s de espaço grátis"</string>
     <string name="operating">A processar…</string>
     <string name="trans_task">Transferência de rede</string>
     <string name="des_running_trans">Não foram transferidos %1$d ficheiros.</string>
-    <string name="trans_task_delete_confirm_message">Eliminar %1$d tarefa selecionada?</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Clicar&lt;/a>para ir para a Lixeira</string>
     <string name="storage_internal">Armazenamento Interno</string>
     <string name="storage_sd_card">Cartão SD</string>
@@ -307,6 +302,4 @@ Foi adicionado %1$s de espaço grátis"</string>
     <string name="folder_exist">A pasta já existe</string>
     <string name="unmount_inform_text">Desmontar armaz. USB?</string>
     <string name="dlg_error_unmount_text">Falha ao desmontar o armazenamento USB.</string>
-    <item type="string" name="APKTOOL_DUMMY_012a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_012b">false</item>
 </resources>

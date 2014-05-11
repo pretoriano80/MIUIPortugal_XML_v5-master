@@ -166,9 +166,9 @@
     <string name="use_local_lyric">Obter letras: escolha o local dos arquivos</string>
     <string name="album_download">Obter capa do álbum: transferir</string>
     <string name="use_local_album">Obter capa do álbum: escolha o local dos arquivos</string>
-    <string name="lyric_picker_not_found">Não foi encontrada nenhuma aplicação para usar esta ação.</string>
+    <string name="lyric_picker_not_found">Não foi encontrada nenhuma aplicação para usar esta acção.</string>
     <string name="lrc_select">Selecionar letra</string>
-    <string name="album_picker_not_found">Não foi encontrada nenhuma aplicação para usar esta ação</string>
+    <string name="album_picker_not_found">Não foi encontrada nenhuma aplicação para usar esta acção</string>
     <string name="id3_edit_failed">Falha ao editar a informação da música</string>
     <string name="album_search_failed">Capa do álbum não encontrada</string>
     <string name="start_to_download_album">A transferir capas dos álbuns…</string>
@@ -314,7 +314,7 @@
     <string name="higher_quality_music_summary">Ouvir e transferir músicas de maior qualidade</string>
     <string name="expired">Expirado</string>
     <string name="enabled">Activado</string>
-    <string name="valid_period">"Valido : "</string>
+    <string name="valid_period">"Válido : "</string>
     <string name="period_format">%1$s-%2$s</string>
     <string name="vip_bought">Já comprou o acesso a música de qualidade superior</string>
     <string name="vip_expired">O seu acesso a música de qualidade superior expirou</string>

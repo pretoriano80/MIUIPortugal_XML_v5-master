@@ -277,9 +277,12 @@
     <string name="dlna_name">Partilhar dispositivo</string>
     <string name="dlna_list_name">Dispositivo DLNA</string>
     <string name="check_network">não é possível ligar à rede, verifique a rede</string>
-    <string name="temp_play_history_button_label">Mostra cronologia</string>
-    <string name="vp_VideoView_error_text_invalid_progressive_playback">Desculpe, o formato de vídeo selecionado não pode ser transmitido no seu dispositivo.</string>
-    <string name="vp_VideoView_error_text_unknown">Desculpe, o formato de vídeo selecionado não pode ser reproduzido.</string>
+    <string name="null_category">unknown</string>
+    <string name="null_videoname">unknown</string>
+    <string name="top_null_videoname">unknown videoname</string>
+    <string name="temp_play_history_button_label">Show Play history</string>
+    <string name="vp_VideoView_error_text_invalid_progressive_playback">Desculpe, este vídeo não é adequado para a reprodução neste dispositivo</string>
+    <string name="vp_VideoView_error_text_unknown">Desculpe, não é possível reproduzir este vídeo</string>
     <string name="vp_VideoView_error_title">Erro na reprodução do vídeo</string>
     <string name="vp_VideoView_error_button">OK</string>
     <string name="menu_item_media_info_label">Mostrar os detalhes do vídeo</string>

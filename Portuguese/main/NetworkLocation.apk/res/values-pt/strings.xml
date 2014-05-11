@@ -3,7 +3,7 @@
 <resources>
     <string name="app_label">Localização de Rede</string>
     <string name="location_warning_title">Autorização de localização</string>
-    <string name="location_warning_message">"Permitir que o Serviço de localização Google recolha dados de localização anónimos."</string>
+    <string name="location_warning_message">Permitir que o Serviço de localização Google recolha dados de localização anónimos.</string>
     <string name="agree">Concordo</string>
-    <string name="disagree">Discordo</string>
+    <string name="disagree">Não concordo</string>
 </resources>

@@ -3,22 +3,42 @@
 <resources>
     <plurals name="delete_files_confirm">
         <item quantity="other">Eliminar %1$d ficheiros</item>
-        <item quantity="one">Eliminar i ficheiro</item>
+        <item quantity="zero">Eliminar %1$d ficheiros</item>
+        <item quantity="one">Eliminar %1$d ficheiro</item>
+        <item quantity="two">Eliminar %1$d ficheiros</item>
+        <item quantity="few">%1$ Eliminado %1$d ficheiros</item>
+        <item quantity="many">Delete %1$d files</item>
     </plurals>
     <plurals name="delete_folders_confirm">
         <item quantity="other">" e %1$d pastas?"</item>
-        <item quantity="one">" e 1 pasta?"</item>
+        <item quantity="zero">" e %1$d pastas?"</item>
+        <item quantity="one">" e %1$d pastas?"</item>
+        <item quantity="two">" e %1$d pastas?"</item>
+        <item quantity="few">" e %1$d pastas?"</item>
+        <item quantity="many">" e %1$d pastas?"</item>
     </plurals>
     <plurals name="directory_item_count">
         <item quantity="other">%d ficheiros</item>
-        <item quantity="one">1 ficheiro</item>
+        <item quantity="zero">%d ficheiros</item>
+        <item quantity="one">%d ficheiro</item>
+        <item quantity="two">%d ficheiros</item>
+        <item quantity="few">%d ficheiro</item>
+        <item quantity="many">%d ficheiros</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
         <item quantity="other">faltam transferir %1$d ficheiros</item>
-        <item quantity="one">falta transferir 1 ficheiro</item>
+        <item quantity="zero">faltam transferir %1$d ficheiros</item>
+        <item quantity="one">faltam transferir %1$d ficheiro</item>
+        <item quantity="two">faltam transferir %1$d ficheiros</item>
+        <item quantity="few">faltam transferir %1$d ficheiros</item>
+        <item quantity="many">faltam transferir %1$d ficheiros</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
         <item quantity="other">faltam enviar %1$d ficheiros</item>
-        <item quantity="one">falta enviar 1 ficheiro</item>
+        <item quantity="zero">faltam enviar %1$d ficheiros</item>
+        <item quantity="one">falta enviar %1$d ficheiro</item>
+        <item quantity="two">faltam enviar %1$d ficheiros</item>
+        <item quantity="few">faltam enviar %1$d ficheiros</item>
+        <item quantity="many">faltam enviar %1$d ficheiros</item>
     </plurals>
 </resources>

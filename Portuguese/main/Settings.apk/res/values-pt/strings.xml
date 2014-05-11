@@ -60,7 +60,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="optimize_tips_cache_title">Cache:</string>
     <string name="optimize_tips_cache_content">Gerado por aplicações e processos temporários (ex: miniaturas).</string>
     <string name="optimize_tips_residual_title">Residuais:</string>
-    <string name="optimize_tips_residual_content">Ficheiros (ex. vídeos, papeis de parede, másica, etc.) que tenham sido transferidos para o cartão SD do seu aparelho por aplicações que já foram desinstalados. Como alguns desses arquivos podem ainda ter utilidade, nós recomendamos que use o recurso Avançado para limpeza de arquivos residuais.</string>
+    <string name="optimize_tips_residual_content">Ficheiros (ex. vídeos, papeis de parede, másica, etc.) que tenham sido transferidos para o armazenamento do seu aparelho por aplicações que já foram desinstalados. Como alguns desses arquivos podem ainda ter utilidade, nós recomendamos que use o recurso Avançado para limpeza de arquivos residuais.</string>
     <string name="quick_scan_apk_list_item_version_hit">Versão: %s</string>
     <string name="apk_status_uninstalled">Não instalado</string>
     <string name="apk_status_installed_old">Versão antiga</string>
@@ -89,7 +89,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="deep_clean_tips_large_file_title">Ficheiros grandes:</string>
     <string name="deep_clean_tips_large_file_content">Ficheiros grandes são arquivos com mais de 10MB que estão armazenadas no seu dispositivo. Pode decidir se precisa ou não deles.</string>
     <string name="toast_qucik_scan_list_empty">Parece tudo bem, não há necessidade de limpar!</string>
-    <string name="quick_scan_list_loading_hits">Localizando…</string>
+    <string name="quick_scan_list_loading_hits">A localizar…</string>
     <string name="app_uninstall_residual">Elimine ficheiros de desinstalação residuais?</string>
     <string name="residual_cancel">Cancelar</string>
     <string name="residual_clean">Eliminar</string>
@@ -164,7 +164,7 @@ Tem a certeza que quer desactivar?"</string>
     <string name="tab_title_sdcard_storage">Armazenamento USB</string>
     <string name="internal_available_memory_hint">Disponível: A calcular…</string>
     <string name="internal_available_memory">Disponível: %s</string>
-    <string name="internal_used_memory_hint">Usado: Calculating…</string>
+    <string name="internal_used_memory_hint">Usado: A calcular…</string>
     <string name="internal_used_memory">Usado: %s</string>
     <string name="internal_memory_item_cache_hint">Dados em cache: A calcular…</string>
     <string name="internal_memory_item_cache">Dados em cache: %s</string>
@@ -494,7 +494,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_hips_security_prompt_root_caption">Cuidado</string>
     <string name="perm_hips_security_prompt_root_step1">Permitir %1$s permissões ROOT?</string>
     <string name="perm_hips_security_prompt_root_step2">Permitir permissão root pode causar instabilidade e destabilizar o seu dispositivo.</string>
-    <string name="perm_hips_security_prompt_root_step3">Seus dados de privacidade, como contas, senhas e mensagens podem ficar comprometidas</string>
+    <string name="perm_hips_security_prompt_root_step3">Os seus dados de privacidade, como contas, senhas e mensagens podem ficar comprometidas</string>
     <string name="perm_hips_security_prompt_root_step4">Dano permanente de hardware também é possível.</string>
     <string name="perm_hips_security_prompt_root_step5">Tenha cuidado: Dê apenas permissões root a aplicações que confia.</string>
     <string name="perm_hips_security_prompt_root_step6">Permitir %1$s permissão de ROOT?</string>
@@ -505,8 +505,8 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_header_disabled">O Monitor de permissões está desactivado</string>
     <string name="perm_su_switch">Permissão root</string>
     <string name="perm_su">Gerir Permissões root</string>
-    <string name="perm_su_desc">Gerir %1$d aplicações para permissão ROOT</string>
-    <string name="perm_su_desc1">Gerir permissão ROOT</string>
+    <string name="perm_su_desc">Gerir %1$d aplicações para permissão root</string>
+    <string name="perm_su_desc1">Gerir permissão root</string>
     <string name="perm_su_disabled">Permissão ROOT desactivada</string>
     <string name="perm_su_disabled_in_stable">ROOT não disponível na MIUI estável</string>
     <string name="perm_su_disabled_in_stable_desc">"Dar permissão ROOT para aplicações 3-party pode causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos no hardware.
@@ -583,6 +583,9 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="power_autorun_empty">Sem aplicações instaladas</string>
     <string name="power_autorun_apps_empty">Sem aplicações de execução automática</string>
     <string name="power_perm_logs_empty">Sem registos</string>
+    <string name="dialog_title_auto_start_tips">Sobre iniciar automaticamente</string>
+    <string name="dialog_message_auto_start_tips">Algumas aplicações de segurança podem indicar incorretamente que a MIUI as impediu de iniciar. Para verificar as permissões que foram concedidas às aplicações individuais, vá a Definições > Aplicações.</string>
+    <string name="button_text_known">Eu sei</string>
     <string name="process_manage_title">Eliminar %1$d processos, livre %2$s de memória</string>
     <string name="process_list_empty_hints">Sem processos cache</string>
     <string name="protection_category_dangerous_title">Riscos (%d)</string>
@@ -1179,7 +1182,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="proxy_error">Atenção</string>
     <string name="proxy_error_dismiss">OK</string>
     <string name="proxy_error_invalid_host">O nome da máquina inserido não é válido.</string>
-    <string name="proxy_error_invalid_exclusion_list">A lista de exclusão que inseriu  não está corretamente formatada. Insira uma lista separada por vírgulas dos domínios excluídos</string>
+    <string name="proxy_error_invalid_exclusion_list">A lista de eliminação que inseriu  não está corretamente formatada. Insira uma lista separada por vírgulas dos domínios eliminados</string>
     <string name="proxy_error_empty_port">Deve completar o campo de porta.</string>
     <string name="proxy_error_empty_host_set_port">O valor da porta deve estar vazio se o valor do host está vazio.</string>
     <string name="proxy_error_invalid_port">A porta inserida não é válida.</string>
@@ -1235,6 +1238,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
     <string name="activity_picker_label">Selecionar actividade</string>
+    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Informações do dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -1579,7 +1583,25 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">Ponto de acesso Wi-Fi portátil %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-    <string name="wifi_config_info">Definições de Wi-Fi</string>
+    <string name="testing_wifi_info">Informação de Wi-Fi</string>
+    <string name="wifi_status_test">Estado do Wi-Fi</string>
+    <string name="wifi_update">Actualizar estado</string>
+    <string name="wifi_state_label">Estado do Wi-fi:</string>
+    <string name="network_state_label">Estado da rede:</string>
+    <string name="supplicant_state_label">Estado suplicante:</string>
+    <string name="hidden_ssid_label">Hidden SSID:</string>
+    <string name="ipaddr_label">IPaddr:</string>
+    <string name="macaddr_label">MAC addr:</string>
+    <string name="networkid_label">ID de rede:</string>
+    <string name="link_speed_label">Velocidade do link:</string>
+    <string name="scan_list_label">Resultados da pesquisa:</string>
+    <string name="wifi_state_disabling">A desactivar</string>
+    <string name="wifi_state_disabled">Desactivado</string>
+    <string name="wifi_state_enabling">A activar</string>
+    <string name="wifi_state_enabled">Activado</string>
+    <string name="wifi_state_unknown">Desconhecido</string>
+    <string name="wifi_config_info">Configuração de Wi-Fi</string>
+    <string name="config_list_label">Rede configurada</string>
     <string name="display_settings_title">Ecrã</string>
     <string name="sound_settings">Som</string>
     <string name="ringtone_title">Toque do telefone</string>
@@ -1747,7 +1769,7 @@ Tentativas restantes :"</string>
     <string name="sd_ejecting_title">Desmontar</string>
     <string name="sd_ejecting_summary">A desmontar…</string>
     <string name="storage_low_title">O espaço de armazenamento está a esgotar-se</string>
-    <string name="storage_low_summary">Algumas funções do sistema, como a sincronização, poderão não funcionar correctamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdo multimédia ou aplicações.</string>
+    <string name="storage_low_summary">Algumas funções do sistema, como a sincronização, poderão não funcionar corretamente. Tente obter espaço eliminando ou retirando ficheiros, como conteúdo multimédia ou aplicações.</string>
     <string name="storage_menu_usb">Ligação USB ao computador</string>
     <string name="storage_title_usb">Ligação USB ao computador</string>
     <string name="usb_connection_category">Ligar como</string>
@@ -1906,7 +1928,7 @@ Para eliminar músicas, imagens e outros dados de utilizador, o "<b>Armaz. USB</
     <string name="lockpattern_recording_intro_header">Desenhe um padrão de desbloqueio</string>
     <string name="lockpattern_recording_intro_footer">Pressione Menu para obter ajuda.</string>
     <string name="lockpattern_recording_inprogress">Solte o dedo quando terminar</string>
-    <string name="lockpattern_recording_incorrect_too_short">Ligue no mínimo %d pontos. Tente novamente:</string>
+    <string name="lockpattern_recording_incorret_too_short">Ligue no mínimo %d pontos. Tente novamente:</string>
     <string name="lockpattern_pattern_entered_header">Padrão registado</string>
     <string name="lockpattern_need_to_confirm">Desenhe o padrão novamente para confirmar:</string>
     <string name="lockpattern_pattern_confirmed_header">Seu novo padrão de desbloqueio:</string>
@@ -2072,7 +2094,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="phone_language">Idioma</string>
     <string name="phone_language_summary" />
     <string name="auto_replace">Substituição automática</string>
-    <string name="auto_replace_summary">Corrigir palavras digitadas incorrectamente</string>
+    <string name="auto_replace_summary">Corrigir palavras digitadas incorretamente</string>
     <string name="auto_caps">Iniciar com maiúscula</string>
     <string name="auto_caps_summary">Escrever a primeira letra nas frases com letra maiúscula</string>
     <string name="auto_punctuate">Pontuação automática</string>
@@ -2081,7 +2103,7 @@ Não irá perder quaisquer dados da aplicação."</string>
     <string name="show_password">Senhas visíveis</string>
     <string name="show_password_summary" />
     <string name="ime_security_warning">%1$s Poderá capturar todo o texto que digita, incluindo senhas e números de cartões de crédito e dados pessoais. Deseja usar este método de entrada?</string>
-    <string name="spellchecker_security_warning">Este corretor ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como senhas e números de cartões de crédito. Tem origem na aplicação %1$s. Utilizar este corrector ortográfico?</string>
+    <string name="spellchecker_security_warning">Este correto ortográfico poderá recolher todo o texto que digita, incluindo dados pessoais, como senhas e números de cartões de crédito. Tem origem na aplicação %1$s. Utilizar este corretor ortográfico?</string>
     <string name="spellchecker_quick_settings">Definições</string>
     <string name="spellchecker_language">Linguagem</string>
     <string name="failed_to_open_app_settings_toast">Falha ao abrir definições para %1$s</string>
@@ -2219,7 +2241,7 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="battery_stats_gps_on_label">GPS ligado</string>
     <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Activado</string>
-    <string name="battery_stats_phone_signal_label">Força do sinal</string>
+    <string name="battery_stats_phone_signal_label">Força do sinal de rede</string>
     <string name="awake">Tempo de activação do dispositivo</string>
     <string name="wifi_on_time">Wi-Fi em tempo</string>
     <string name="bluetooth_on_time">Wi-Fi em tempo</string>
@@ -2340,8 +2362,8 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="credentials_reset_hint">Tem certeza que deseja eliminar todas as credenciais e redefinir a senha do armazenamento de credenciais?</string>
     <string name="credentials_password_too_short">A senha deve ter no mínimo 8 caracteres.</string>
     <string name="credentials_wrong_password">Senha incorreta.</string>
-    <string name="credentials_reset_warning">Insira a senha correta. Tem mais uma tentactiva para inserir a senha correcta antes que o armazenamento de credenciais seja eliminado.</string>
-    <string name="credentials_reset_warning_plural">Insira a senha correta. Tem mais %1$d tentativas para inserir a senha correcta antes que o armazenamento de credenciais seja eliminado.</string>
+    <string name="credentials_reset_warning">Insira a senha correta. Tem mais uma tentactiva para inserir a senha correta antes que o armazenamento de credenciais seja eliminado.</string>
+    <string name="credentials_reset_warning_plural">Insira a senha correta. Tem mais %1$d tentativas para inserir a senha correta antes que o armazenamento de credenciais seja eliminado.</string>
     <string name="credentials_erased">O armazenamento de credenciais foi eliminado.</string>
     <string name="credentials_not_erased">O armazenamento da credencial não pode ser eliminado.</string>
     <string name="credentials_enabled">O armazenamento de credenciais foi activado.</string>
@@ -2411,6 +2433,7 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação.
 
 Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
+    <string name="time_zone_auto_stub">Selecione fuso horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
@@ -2532,7 +2555,7 @@ Uma abordagem do Google para sincronizar dados que permitem o acesso aos seus co
     <string name="data_usage_disable_3g_limit">Definir limite para dados 2G-3G</string>
     <string name="data_usage_disable_wifi_limit">Definir limite de dados Wi-Fi</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
-    <string name="data_usage_tab_ethernet">Ethernet</string>
+    <string name="data_usage_tab_ethernet">Internet</string>
     <string name="data_usage_tab_mobile">Telemóvel</string>
     <string name="data_usage_tab_4g">4G</string>
     <string name="data_usage_tab_3g">2G-3G</string>
@@ -2887,7 +2910,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="vibrate_category_title">Vibrar</string>
     <string name="vibrate_in_normal_title">Vibrar quando toca</string>
     <string name="silent_mode_title">Modo silêncio</string>
-    <string name="wifi_wapi_certification_dont_exist">A senha de rede que escreveu não está correcta. Por favor tente novamente.</string>
+    <string name="wifi_wapi_certification_dont_exist">A senha de rede que escreveu não está correta. Por favor tente novamente.</string>
     <string name="please_type_passphrase">Senha</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
@@ -2908,7 +2931,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="wifi_wapi_cert_mgmt_subdir_exist">Já existe um directório com esse nome.</string>
     <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Falhou a cração do diretório</string>
     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Por favor insira o nome do certificado AS</string>
-    <string name="wifi_wapi_cert_mgmt_as_dont_exist">O cartão SD não tem o certificado AS, por favor, verifique!</string>
+    <string name="wifi_wapi_cert_mgmt_as_dont_exist">O armazenamento USB não tem o certificado AS, por favor, verifique!</string>
     <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">O formato de certificado AS está errado! Por favor, instale o certificado AS correto</string>
     <string name="wifi_wapi_cert_mgmt_user_format_is_wrong">O certificado de Utilizador está errado! Por favor, instale o certificado de Utilizador correto</string>
     <string name="wifi_wapi_cert_mgmt_user_name_is_empty">Por favor, insira o nome do certificado utilizador</string>
@@ -3009,7 +3032,7 @@ Selecione o sistema operativo do seu computador:"</string>
     <string name="msd_install">Re-instalar o driver</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_windows_xp_step_2_1">Siga as etapas no Assistente de configuração para concluir a instalação.</string>
-    <string name="msd_install_retry_windows_xp">"Se o seu computador não detectar correctamente o seu telemóvel,
+    <string name="msd_install_retry_windows_xp">"Se o seu computador não detectar corretamente o seu telemóvel,
 Tente o seguinte:
 "<li>1) Volte a ligar o cabo USB.</li>"
 "<li>2) Reinstale o driver.</li></string>
@@ -3145,11 +3168,12 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="free_wifi_summary">Wi-Fi grátis, fornecida em parte por %1$s</string>
     <string name="free_wifi_connect_title">Wi-Fi disponível</string>
     <string name="free_wifi_connect_summary">Esta ligação à Internet sem fios gratuita é fornecido em parte por %1$s. Tap to connect.</string>
+    <string name="free_wifi_manage_summary">Toque para ver a %1$s.</string>
     <string name="free_wifi_connect_dialog_title">Disponível Wi-Fi gratuito</string>
     <string name="free_wifi_connect_dialog_summary">Esta Wi-Fi grátis %1$s é fornecido em parte por %2$s.</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_wifi_connect">Ligar</string>
-    <string name="free_wifi_connecting">A ligar...</string>
+    <string name="free_wifi_connecting">A ligar…</string>
     <string name="free_wifi_connected">Ligado a uma rede Wi-Fi grátis</string>
     <string name="free_wifi_connect_fail">Não é possível ligar à rede</string>
     <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Espere um minuto e tente novamente.</string>

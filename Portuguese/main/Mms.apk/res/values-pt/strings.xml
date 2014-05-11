@@ -106,11 +106,7 @@ Tentativa feita: %s."</string>
     <string name="pref_notification_settings_title">Notificações</string>
     <string name="pref_mms_settings_title">Multimédia (MMS) mensagens</string>
     <string name="pref_summary_mms_read_reports">Pedir relatório de leitura ao enviar mensagens</string>
-    <string name="pref_summary_delete_limit">%1$s por conv.</string>
     <string name="pref_title_mms_read_reports">Relatórios de leitura</string>
-    <string name="pref_title_sms_delete">Limite de texto da mensagem</string>
-    <string name="pref_title_mms_delete">Limite de texto da MMS</string>
-    <string name="pref_messages_to_save">Defenir o número de mensagens a guardar</string>
     <string name="pref_title_mms_auto_retrieval">Auto receber MMS</string>
     <string name="pref_summary_mms_auto_retrieval">Receber automaticamente MMS</string>
     <string name="pref_title_mms_retrieval_during_roaming">Receber automaticamente em roaming</string>
@@ -123,7 +119,6 @@ Tentativa feita: %s."</string>
     <string name="confirm_delete_group_message">Eliminar mensagens do grupo?</string>
     <string name="confirm_delete_message">Eliminar esta mensagem?</string>
     <string name="confirm_delete_locked_message">Eliminar esta mensagem bloqueada?</string>
-    <string name="confirm_restore_all_title">Restaurar todas as mensagens enviadas por este número?</string>
     <string name="confirm_no_block_title">Desbloquear este número e restaurar todas as mensagens enviadas por este número?</string>
     <string name="confirm_no_block_positive">Desbloquear</string>
     <string name="confirm_restore_title">Restaurar mensagens selecionadas?</string>
@@ -160,7 +155,6 @@ Tentativa feita: %s."</string>
     <string name="message_class_label">"Classe da mensagem: "</string>
     <string name="error_code_label">"Código de erro: "</string>
     <string name="menu_edit">Editar</string>
-    <string name="menu_delete_messages">Eliminar mensagens</string>
     <string name="menu_lock">Bloquear</string>
     <string name="menu_unlock">Desbloquear</string>
     <string name="sim_copy_to_phone_memory">Copiar para a memória do telefone</string>
@@ -253,8 +247,6 @@ Tentativa feita: %s."</string>
     <string name="to_count">%d destinatários</string>
     <string name="recipient_editor_count_format">%d</string>
     <string name="new_message_arrived">Tem uma mensagem nova</string>
-    <string name="festival_sms_category_count_format">%s</string>
-    <string name="festival_sms_loading">A carregar…</string>
     <string name="refresh">Actualizar</string>
     <string name="refresh_failed">Actualização sem sucesso</string>
     <string name="database_corruption">A reparar…</string>
@@ -356,9 +348,6 @@ Tentativa feita: %s."</string>
     <string name="title_date_type">Timestamp</string>
     <string name="mx_msg">Mensagens pela nuvem</string>
     <string name="mx_enable">Mensagens pela nuvem</string>
-    <string name="mx_warning_notice">Uma SMS será enviada para activar mensagens pela nuvem (serão aplicadas as taxas do operador).</string>
-    <string name="mx_int_warning_notice">Um SMS internacional será enviado para activar mensagens pela nuvem  (serão aplicadas as taxas do operador).</string>
-    <string name="mx_btn_enable">Activado</string>
     <string name="ex_type_sms">texto/MMS</string>
     <string name="ex_type_mx">Mensagem pela nuvem</string>
     <string name="mx_dspt">Enviar mensagens pela nuvem entre utilizadores MIUI.</string>
@@ -371,17 +360,6 @@ Tentativa feita: %s."</string>
     <string name="msg_type_hint_sms">Mensagem de texto</string>
     <string name="msg_type_hint_mms">Mensagem multimédia (MMS)</string>
     <string name="msg_type_hint_mx">Mensagem pela nuvem</string>
-    <string name="mx_reactivate">Re-Activar mensagem pela nuvem</string>
-    <string name="mx_activate_error_title">Falha ao activar mensagem pela nuvem</string>
-    <string name="mx_activate_error_sim_change">O Cartão SIM foi alterado: tem que reactivar o Cloud Mensageiro.</string>
-    <string name="mx_activate_error_malformed_info">Ligação perdida: tem que reactivar o Cloud Mensageiro.</string>
-    <string name="mx_activate_error_server">Falha ao activar.</string>
-    <string name="mx_activate_hint_sim_change">Uma mensagem de texto será enviada para reactivar o Cloud Mensageiro (serão aplicados os encargos normais de uso de dados).</string>
-    <string name="mx_activate_int_hint_sim_change">Uma mensagem de texto Internacional será enviada para reactivar o Cloud Mensageiro (serão aplicados os encargos normais de uso de dados).</string>
-    <string name="mx_activate_hint_malformed_info">Uma mensagem de texto será enviada para reactivar o Cloud Mensageiro (serão aplicados os encargos normais de uso de dados).</string>
-    <string name="mx_activate_int_hint_malformed_info">Uma mensagem de texto Internacional será enviada para reactivar o Cloud Mensageiro (serão aplicados os encargos normais de uso de dados).</string>
-    <string name="mx_activate_hint_server">Uma mensagem de texto será enviada para reactivar o Cloud Mensageiro (serão aplicados os encargos normais de uso de dados).</string>
-    <string name="mx_activate_int_hint_server">Uma mensagem de texto Internacional será enviada para reactivar o Cloud Mensageiro (serão aplicados os encargos normais de uso de dados).</string>
     <string name="need_download">A sincronizar…</string>
     <string name="found_wild_messages_title">Mensagens transferidas</string>
     <string name="found_wild_messages">Transfirir mensagens dos seus outros cartões SIM?</string>
@@ -391,11 +369,7 @@ Tentativa feita: %s."</string>
     <string name="loading_all_messages">A carregar mensagens…</string>
     <string name="mx_online">Online</string>
     <string name="mx_offline">Offline</string>
-    <string name="mx_enable_popup_msg">Cloud Mensageiro permite aos utilizadores MIUI enviar mensagens entre si sem usar dados móveis.</string>
-    <string name="mx_enable_int_popup_msg">Mensageiro permite aos utilizadores MIUI enviar mensagens entre si sem usar dados móveis</string>
-    <string name="mx_activation_done">Cloud Mensageiro está activado</string>
-    <string name="mx_activate_popup_msg">Cloud Mensageiro permite aos utilizadores MIUI para enviar mensagens entre si sem usar dados móveis.</string>
-    <string name="mx_activate_int_popup_msg">Mensageiro permite que os utilizadores MIUI para enviar mensagens entre si sem usar dados móveis.</string>
+    <string name="mx_enable_popup_msg">O Cloud Messaging permite que envie mensagens para qualquer pessoa utilizando a MIUI. São aplicadas tarifas de uso de dados, a menos que esteja ligado à rede Wi-Fi.</string>
     <string name="mx_btn_enable_now">Activar</string>
     <string name="loading_mms">A carregar…</string>
     <string name="add_number_to_sender">Adicionar número a %s</string>
@@ -439,7 +413,6 @@ Tentativa feita: %s."</string>
     <string name="type_vcard">vCard</string>
     <string name="add_slide_before">Adicionar slide</string>
     <string name="context_menu_add_to_browser_favorite">Adicionar o favorito ao navegador</string>
-    <string name="restore_all_button_msg">Restaurar todas as mensagens enviadas deste número</string>
     <string name="no_block_button_msg">Desbloquear este número</string>
     <string name="restore_blocked_message">Restaurar mensagem</string>
     <string name="overwrite_edited_content">O conteúdo que editou será substituído.</string>
@@ -456,7 +429,6 @@ Tentativa feita: %s."</string>
     <string name="title_collapse_sp_messages">Mensagens do aperador de rede</string>
     <string name="pref_collapse_sp_messages_summary">Mensagem do operador da rede na mesma conversa</string>
     <string name="sp_mark_as_read_title">Marcar todas as mensagens como lidas</string>
-    <string name="sp_mark_as_read">Marcar todas as mensagens como lidas?</string>
     <string name="sp_mark_as_read_progress">A marcar todas as mensagens como lidas…</string>
     <string name="refill_now">Encher agora</string>
     <string name="toast_feedback_start">Reunindo dados de registo…</string>

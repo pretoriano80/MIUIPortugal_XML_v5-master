@@ -462,6 +462,11 @@ Memória disponível: %2$s"</string>
     <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Introduziu a senha errada %d vezes. Depois de %d tentativas, para desbloquear o telefone tem que aceder à sua conta.
 
 Tente novamente em %d segundos."</string>
+    <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+    <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+    <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+    <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+    <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
     <string name="volume_ring_description">Toque &amp; notificações</string>
     <string name="login_website_in_case_forget_password">Para redefinir sua senha, vá a i.xiaomi.com</string>
     <string name="anti_aggression_day">Agressão japonesa</string>
@@ -487,7 +492,17 @@ Tente novamente em %d segundos."</string>
     <string name="day_following_good_friday">Dia seguinte Sexta-feira Santa</string>
     <string name="easter">Páscoa</string>
     <string name="v5_date_time_picker_dialog_title">Defina o tempo de lembrete</string>
-    <string name="open_wifi_settings">Abrir ligação de rede</string>
+    <string name="open_wifi_settings">Ligação de rede aberta</string>
+    <string name="sync_data_merge_warning_desc">Dados de %s no seu telefone serão fundidos com os dados não recuperáveis​​ da nuvem , por favor, tenha cuidado!</string>
+    <string name="sync_data_recover_warning_title">Aviso de recuperação de dados</string>
+    <string name="sync_data_recover_warning_desc">Dados de %s no seu telefone será recuperada a partir da nuvem, por favor, tenha cuidado!</string>
+    <string name="sync_data_merge_warning_ok">Fundir</string>
+    <string name="sync_data_merge_warning_cancel">Cancelar</string>
+    <string name="sync_data_recover_warning_ok">Recuperar</string>
+    <string name="sync_data_recover_warning_cancel">Cancelar</string>
+
+    <string name="sync_data_loading">Recuperação de informações a partir do servidor</string>
+    <string name="sync_data_merge_warning_title">Aviso de junção de dados</string>
     <string name="lockscreen_emergency_call">Chamada de emergência</string>
     <string name="lockscreen_forgot_pattern_button_text">Esquecer</string>
     <string name="lockscreen_transport_prev_description">Anterior</string>
@@ -496,7 +511,7 @@ Tente novamente em %d segundos."</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente em %d segundos.</string>
     <string name="lockscreen_pattern_wrong">Tente novamente:</string>
     <string name="lockscreen_pattern_instructions">Desenhar padrão para desbloquear</string>
-    <string name="unlockscreen_recharging_message">Carregando %d%%</string>
+    <string name="unlockscreen_recharging_message">A carregar %d%%</string>
     <string name="unlockscreen_recharge_completed">Carga completa</string>
     <string name="unlockscreen_low_battery">Ligue o seu carregador</string>
     <string name="emergency_call_string">Emergência</string>

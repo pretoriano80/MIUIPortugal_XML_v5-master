@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Leitor cód. barras</string>
+    <string name="copy">Copiar</string>
+    <string name="name">Nome:</string>
+    <string name="nickname">Apelido:</string>
+    <string name="company">Companhia:</string>
+    <string name="title">Título:</string>
+    <string name="phone">Telefone:</string>
+    <string name="email">Email:</string>
+    <string name="web">Web:</string>
+    <string name="address">Endereço:</string>
+    <string name="birthday">Aniversário:</string>
+    <string name="note">Nota:</string>
+    <string name="add_to_contacts">Adicionar acontactos</string>
+    <string name="recognize">Reconhecer</string>
+    <string name="place_barcode_into_rectangle">Coloque o código QR ​​ou código de barras dentro do retângulo do visor</string>
+    <string name="open_flash_error">Falha ao ligar o flash</string>
+    <string name="close_flash_error">Falha ao desligar o flash</string>
+    <string name="scan_fail">Falha ao verificar</string>
+    <string name="vcard_prompt">Não é possível adicionar o contacto porque falta o nome</string>
+    <string name="copy_succeed">Cópia com sucesso</string>
+    <string name="fail_generate_barcode">Falha ao gerar o código de barras ou o código QR</string>
+    <string name="scan_result">Resultados da verificação</string>
+    <string name="flash_lable">Flash</string>
+    <string name="picker_lable">Galeria</string>
+</resources>

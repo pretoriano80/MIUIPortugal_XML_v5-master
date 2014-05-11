@@ -13,7 +13,12 @@
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d imagens</item>
-        <item quantity="zero">%1$d imagem</item>
+        <item quantity="zero">%1$d imagens</item>
         <item quantity="one">%1$d imagem</item>
+    </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">%1$d ficheiros</item>
+        <item quantity="zero">%1$d ficheiros</item>
+        <item quantity="one">%1$d ficheiro</item>
     </plurals>
 </resources>

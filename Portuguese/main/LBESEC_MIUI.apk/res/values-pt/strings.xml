@@ -124,6 +124,9 @@
     <string name="HIPS_Perm_Recorder_Video">Gravar vídeo</string>
     <string name="HIPS_Perm_Recorder_Audio">Gravar áudio local</string>
     <string name="HIPS_Perm_Recorder_VoiceCall">Chamadas de audio gravadas</string>
+    <string name="HIPS_Perm_DisableKeyguard">Desbloquear ecrã</string>
+    <string name="HIPS_Perm_DisableKeyguard_Desc">Desbloquear ecrã</string>
+    <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s aplicações que podem desbloquear o ecrã</string>
     <string name="app_name">Gestor de permissões</string>
     <string name="Generic_Copyright">Produzido por LBE Privacy Guard</string>
     <string name="Generic_Version">Versão: %1$s</string>
@@ -159,7 +162,7 @@
     <string name="HIPS_Perm_Recorder_Hint">%1$s aplicações têm permissão para tirar fotos e gravar vídeo</string>
     <string name="HIPS_Perm_RecordAudio">gravar audio</string>
     <string name="HIPS_Perm_RecordVideo">gravar vídeo</string>
-    <string name="HIPS_Perm_Picture">tirar fotigrafia</string>
+    <string name="HIPS_Perm_Picture">tirar fotografia</string>
     <string name="HIPS_SecurityPrompt_Caption">Aviso de segurança</string>
     <string name="HIPS_SecurityPrompt_Title">%1$s está a tentar tentar %2$s</string>
     <string name="HIPS_SecurityPrompt_Remember">Lembrar a minha escolha</string>
