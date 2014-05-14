@@ -3159,8 +3159,8 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Espere um minuto e tente novamente.</string>
     <string name="free_wifi_login_again">Iniciar a sessão novamente</string>
     <string name="free_wifi_connected_count">%1$s utilizadores ligados</string>
-    <string name="free_wifi_speed_title">ligação lenta?</string>
-    <string name="free_wifi_connected_time">Duração Online：%1$s</string>
+    <string name="free_wifi_speed_title">Ligação lenta?</string>
+    <string name="free_wifi_connected_time">Duração:%1$s</string>
     <string name="free_wifi_confirm">Confirma</string>
     <string name="miui_screensaver_state_on">Ligado</string>
     <string name="miui_screensaver_state_off">Desligado</string>
@@ -3177,4 +3177,5 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="preferred_app_settings_default">Padrão</string>
     <string name="preferred_app_settings_reset">Restaurar aplicações padrão?</string>
     <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
+    <string name="translation_contributors_title">Contribuidores</string>
 </resources>

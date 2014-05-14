@@ -505,6 +505,9 @@
     <string name="sub_sync_item_browser_title_novel_summary">Sincronizar romances do navegador</string>
     <string name="sub_sync_item_browser_title_cloud_tab">Sincronizarpáginas</string>
     <string name="sub_sync_item_browser_title_cloud_tab_summary">Sincronizar páginas abertas em diferentes dispositivos</string>
+    <string name="xiaomi_bookmark_title">Xiaomi</string>
+    <string name="ssl_certificate">Certificados de segurança</string>
+    <string name="ssl_certificate_is_valid">Este certificado é válido.</string>
     <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
     <string name="pref_webapp_settings_nightmode_key">pref_webapp_settings_nightmode_key</string>
     <string name="pref_webapp_settings_savewidth_key">pref_webapp_settings_savewidth_key</string>

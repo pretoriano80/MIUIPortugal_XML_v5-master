@@ -333,6 +333,8 @@
     <string name="sync_disable_toast">Pode activar a sincronização mais tarde em Definições > Contas > Mi Cloud</string>
     <string name="login_and_enable">Iniciar sessão e sincronizar</string>
     <string name="sync_enable_toast">Pode alterar esta configuração em Definições > Contas > Mi Cloud</string>
+    <string name="volume_alert_playback_alert_title">Alerta de volumes</string>
+    <string name="volume_alert_playback_message">Para evitar possíveis danos na audição, não use o volume em níveis em alto som por longos períodos.</string>
     <string name="albumsongseparator">"
 "</string>
     <string name="notification_artist_album">"%2$s
