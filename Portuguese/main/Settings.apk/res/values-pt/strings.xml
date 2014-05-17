@@ -446,7 +446,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_hips_network_recv">receber dados</string>
     <string name="perm_hips_network_send">enviar dados</string>
     <string name="perm_hips_root">Root</string>
-    <string name="perm_hips_root_desc">Requer permissão ROOT</string>
+    <string name="perm_hips_root_desc">Requer permissão root</string>
     <string name="perm_hips_root_desc_stable">Este recurso não está disponível nesta versão do MIUI</string>
     <string name="perm_hips_root_hint">%1$s aplicações são permitidos para obter permissão de ROOT</string>
     <string name="perm_hips_send_sms_recipient">Recepiente:</string>
@@ -1582,7 +1582,7 @@ Digite o PIN para emparelhar com \"%1$s\". [Alta Segurança activada: Necessita 
     <string name="wifi_tether_configure_ap_text">Configurar ponto de acesso Wi-Fi</string>
     <string name="wifi_tether_configure_subtext">Ponto de acesso Wi-Fi portátil %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
-    <string name="wifi_config_info">Configuração de Wi-Fi</string>
+    <string name="wifi_config_info">Definições de Wi-Fi</string>
     <string name="display_settings_title">Ecrã</string>
     <string name="sound_settings">Som</string>
     <string name="ringtone_title">Toque do telefone</string>
@@ -2204,7 +2204,7 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="accessibility_service_disable_warning_title">Parar %1$s?</string>
     <string name="accessibility_service_disable_warning_summary">Tocar em OK irá parar %1$s.</string>
     <string name="accessibility_no_services_installed">Sem serviços instalados</string>
-    <string name="accessibility_service_no_apps_title">É preciso de um leitor de ecrã?</string>
+    <string name="accessibility_service_no_apps_title">Nenhuma aplicação relativa à acessibilidade encontrada.</string>
     <string name="accessibility_service_no_apps_message">TalkBack fornece feedback falado para ajudar os utilizadores cegos e de baixa visão. Deseja instalá-lo gratuitamente a partir do Gogle Play?</string>
     <string name="accessibility_script_injection_security_warning_summary">Pretende que as aplicações instalem scripts do Google para que conteúdos web fiquem mais acessíveis?</string>
     <string name="accessibility_service_default_description">Sem descrição fornecida.</string>
@@ -2257,7 +2257,7 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="battery_action_wifi">Wi-Fi settings</string>
     <string name="battery_action_bluetooth">Definições de Bluetooth</string>
     <string name="battery_desc_voice">Bateria usada por chamadas de voz</string>
-    <string name="battery_desc_standby">Bateria usada quando o telefone está ocioso</string>
+    <string name="battery_desc_standby">Bateria usada quando o telefone está inactivo</string>
     <string name="battery_desc_radio">Bateria usada por rádio móvel</string>
     <string name="battery_sugg_radio">Alternar para o modo para avião para economizar energia nas áreas sem cobertura móvel</string>
     <string name="battery_desc_display">Bateria usada pelo ecrã e pela luz de fundo</string>
@@ -2275,7 +2275,7 @@ Algumas aplicações podem não funcionar até que sejam actualizadas pelos seus
     <string name="menu_stats_last_unplugged">Desligado desde %1$s</string>
     <string name="menu_stats_total">Total de uso</string>
     <string name="menu_stats_refresh">Actualizar</string>
-    <string name="process_kernel_label">Android OS</string>
+    <string name="process_kernel_label">Sistema Android</string>
     <string name="process_mediaserver_label">Servidor de multimédia</string>
     <string name="voice_input_output_settings">Entrada e saída de voz</string>
     <string name="voice_input_output_settings_title">Definições de entrada e saída de voz</string>
@@ -2684,7 +2684,7 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="dndm_summary">Quando o modo não perturbar está activado as chamadas e notificações que chegam enquanto o telefone está bloqueado são silenciadas.</string>
     <string name="dndm_auto_setting_group">Agenda</string>
     <string name="dndm_auto_button_title">Hora</string>
-    <string name="dndm_auto_time_setting">Definições das horas</string>
+    <string name="dndm_auto_time_setting">Definir horas</string>
     <string name="dndm_auto_time_setting_summary">De %1$s a %2$s</string>
     <string name="dndm_auto_time_turn_on">Hora de início</string>
     <string name="dndm_auto_time_turn_on_title">Ligar automaticamente não perturbar</string>
@@ -2864,8 +2864,8 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="screen_button_custom">Personalize posição da tecla no ecrã</string>
     <string name="headset_settings">Auriculares</string>
     <string name="headset_function">Função do botão</string>
-    <string name="headset_mode_volume">Controlar nível do volume</string>
-    <string name="headset_mode_music">Controle de reprodução de música</string>
+    <string name="headset_mode_volume">Ajustar volume</string>
+    <string name="headset_mode_music">Reprodução de música</string>
     <string name="headset_calibrate">Calibrar botões</string>
     <string name="headset_calibrate_hint">Pressione o botão superior</string>
     <string name="headset_calibrate_success">Definições aplicadas</string>
@@ -2952,12 +2952,12 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="usb_msd_driver_installer_summary">Pode obter os drivers de insatalação para Windows ou Mac aqui</string>
     <string name="input_settings">Definições de entrada</string>
     <string name="show_magnifier_when_input">Mostrar lupa</string>
-    <string name="volume_voice_description">Voz</string>
-    <string name="volume_system_description">Disparo da Câmera, bloquear o ecrã, e outras notificações</string>
-    <string name="volume_bluetooth_description">Bluetooth</string>
-    <string name="volume_restore">Restaurar volumes</string>
-    <string name="volume_restore_alert">Quando redefine os volumes aos seus níveis padrão as definições actuais serão apagadas</string>
-    <string name="sound_category_calls_and_notification_title">Toque e notificações</string>
+    <string name="volume_voice_description">Volume da voz</string>
+    <string name="volume_system_description">Volume do sistema, para obturador da câmera, bloquear ecrã e outros notificações de sistema</string>
+    <string name="volume_bluetooth_description">Volume Bluetooth</string>
+    <string name="volume_restore">Restaurar volume</string>
+    <string name="volume_restore_alert">Restaurar volume para o volume padrão?</string>
+    <string name="sound_category_calls_and_notification_title">Toque e; notificações</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">Alterar o tamanho da fonte do sistema</string>
     <string name="font_size_small">Pequeno</string>
@@ -3037,7 +3037,7 @@ Tente o seguinte:
     <string name="msd_install_status_undo">Instalar driver</string>
     <string name="msd_install_status_done">Driver instalado.</string>
     <string name="msd_driver_download">Transferir driver</string>
-    <string name="msd_driver_windows_xp_download">"No PC, faça o download e clique Setup.exe para instalar
+    <string name="msd_driver_windows_xp_download">"Para o Windows, transfira o driver e clique Setup.exe para instalar
 Obtenha o driver em http://miui.com/win"</string>
     <string name="msd_driver_mac_download">"No Mac, faça a transferência e clique em AndroidFileTransfer.dmg para instalar
 Obtenha o driver em http://miui.com/mac"</string>

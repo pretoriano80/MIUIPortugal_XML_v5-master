@@ -3309,4 +3309,5 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="preferred_app_settings_default">Padrão</string>
     <string name="preferred_app_settings_reset">Restaurar aplicações padrão?</string>
     <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
+    <string name="translation_contributors_title">Contribuidores</string>
 </resources>

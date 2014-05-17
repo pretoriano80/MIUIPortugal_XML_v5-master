@@ -177,16 +177,16 @@ Tentativa feita: %s."</string>
     <string name="attach_slideshow">Apresentação</string>
     <string name="select_bottom_text">Texto no fim</string>
     <string name="select_top_text">Texto no início</string>
-    <string name="delivery_toast_body">A mensagem foi entregue a: %s</string>
+    <string name="delivery_toast_body">Mensagem recebida por %s</string>
     <string name="notification_multiple">%s mensagens não lidas</string>
     <string name="notification_multiple_title">Novas mensagens</string>
     <string name="notification_failed_multiple">%s mensagens não podem ser enviadas</string>
     <string name="notification_failed_multiple_title">Mensagens não enviadas</string>
     <string name="sim_full_body">Apague algumas mensagens para ter mais espaço.</string>
     <string name="sms_full_title">Memória de mensagens de texto cheia</string>
-    <string name="sms_full_body">Mensagem a receber foi rejeitada: Não existe espaço neste dispositivo.</string>
+    <string name="sms_full_body">Mensagem recebida foi rejeitada: Não existe espaço neste dispositivo.</string>
     <string name="sms_rejected_title">Mensagem de texto rejeitada</string>
-    <string name="sms_rejected_body">Uma mensagem de texto a receber foi rejeitada.</string>
+    <string name="sms_rejected_body">Uma mensagem de texto recebida foi rejeitada.</string>
     <string name="confirm">Confirmar</string>
     <string name="message_send_read_report">Será enviado um relatório de leitura.</string>
     <string name="message_queued">É impossível enviar a mensagem neste momento. Será enviada quando o serviço estiver disponível.</string>
@@ -440,4 +440,5 @@ Tentativa feita: %s."</string>
     <string name="feedback_description_hint">Escreva aqui o seu comentário</string>
     <string name="feedback_submit">Enviar comentário</string>
     <string name="confirm_send_mms">Um dos seus destinatários inclui um endereço de e-mail. Esta mensagem será enviada como uma mensagem MMS, o que pode resultar em custos adicionais na sua operadora.</string>
+    <string name="quick_reply">Responder</string>
 </resources>

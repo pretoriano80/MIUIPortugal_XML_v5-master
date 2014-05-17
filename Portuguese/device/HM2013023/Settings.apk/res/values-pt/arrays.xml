@@ -1,6 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
+    <string-array name="perm_hips_action">
+        <item>Permitir</item>
+        <item>Perguntar</item>
+        <item>Negar</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Alto desempenho</item>
+        <item>Balanço</item>
+        <item>Economizar bateria</item>
+    </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Depois de 1 minuto</item>
+        <item>Depois de 5 minutos</item>
+        <item>Depois de 10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 segundos</item>
+        <item>30 segundos</item>
+        <item>1 minuto</item>
+        <item>2 minutos</item>
+        <item>5 minutos</item>
+        <item>10 minutos</item>
+        <item>Nunca</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Alto desempenho</item>
+        <item>Balanço</item>
+        <item>Economizar bateria</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nunca vibrar</item>
+        <item>Vibrar a toque é silenciado</item>
+        <item>Vibrar sempre</item>
+    </string-array>
+    <string-array name="score_descriptions">
+        <item>Lista de Bloqueio está desligado</item>
+        <item>Gestor de permissões está desligado</item>
+        <item>O lixo é muito grande</item>
+        <item>As definições de vírus expiraram</item>
+        <item>Muitos processos em segundo plano</item>
+    </string-array>
     <string-array name="timezone_filters">
         <item>América</item>
         <item>Europa</item>
@@ -93,8 +135,13 @@
         <item>Desligado</item>
         <item>Sem sucesso</item>
         <item>Bloqueado</item>
-        <item>Evitar temporariamente ligações fracas</item>
-	</string-array>
+        <item>Evitar temporáriamente ligações fracas</item>
+    </string-array>
+    <string-array name="wifi_ap_security">
+        <item>Abrir</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Pressione o botão</item>
         <item>PIN de dispositivo ponto a ponto</item>
@@ -122,12 +169,17 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Sempre</item>
         <item>Só quando a carregar</item>
-        <item>Nunca (aumenta tráfego)</item>
+        <item>Nunca (aumenta uso de tráfego)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
         <item>Só quando ligado na tomada</item>
         <item>Nunca</item>
+    </string-array>
+    <string-array name="wifi_frequency_band_entries">
+        <item>Auto</item>
+        <item>Apenas 5 GHz</item>
+        <item>Apenas 2.4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo de utilização</item>
@@ -158,7 +210,7 @@
         <item>Nenhum</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP or CHAP</item>
+        <item>PAP ou CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -228,10 +280,10 @@
         <item>Nenhum</item>
         <item>Logcat</item>
         <item>Systrace (Gráficos)</item>
-        <item>Call stack on glGetError</item>
+        <item>Lista de chamadas glGetError</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Limite predifinido</item>
+        <item>Limite padrão</item>
         <item>Não há processos em segundo plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
@@ -248,11 +300,11 @@
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
+        <item>L2TP/IPSec VPN com chaves pre-partilhadas</item>
+        <item>L2TP/IPSec VPN com certificados</item>
+        <item>IPSec VPN com chaves pré-partilhadas e autenticação Xauth</item>
+        <item>IPSec VPN com certificados e autenticação Xauth</item>
+        <item>IPSec VPN com certificados e autenticação híbrida</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Desligado</item>
@@ -323,10 +375,11 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Nenhum</item>
-        <item>Iniciar painel recente</item>
-        <item>Iniciar assistente de Voz</item>
-        <item>Iniciar Google agora</item>
-        <item>Fechar aplicação atual</item>
+        <item>Mostrar aplicações recentes</item>
+        <item>Iniciar assistente</item>
+        <item>Iniciar agora o Google now</item>
+        <item>Desligar a aplicação actual</item>
+    </string-array>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 segundos</item>
@@ -350,11 +403,6 @@
         <item>Expirou o tempo, a repetir…</item>
         <item>Device connected</item>
     </string-array>
-    <string-array name="power_mode_entries">
-        <item>Performance Mode</item>
-        <item>Balance Mode</item>
-        <item>Modo de guardar energia</item>
-    </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP ou versões mais antigas</item>
         <item>Windows Vista ou versões mais recentes</item>
@@ -371,11 +419,11 @@ o driver precisa ser instalado manualmente"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Por favor, ignore o Assistente de Configuração)
-o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
+        <item>"(Ignore o Assistente de Configuração)
+o dispositivo de armazenamento Xiaomi irá aparecer no seu computador
 Abra e selecione Setup.exe para instalação"</item>
         <item></item>
-        <item>"o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
+        <item>"o dispositivo de armazenamento Xiaomi irá aparecer no seu computador
 Abra e selecione AndroidFileTransfer.dmg para instalação"</item>
         <item></item>
     </string-array>
@@ -383,8 +431,7 @@ Abra e selecione AndroidFileTransfer.dmg para instalação"</item>
         <item>"2.MI 2 de armazenamento móvel irá aparecer no seu computador
 Pode agora transferir arquivos"</item>
         <item></item>
-        <item>"Computador irá auto abrir e ler dados do telefone
-Agora pode transferir arquivos"</item>
+        <item>Transferir arquivos como faria para qualquer outro disco rígido externo.</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
@@ -405,16 +452,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Brilhante</item>
         <item>Padrão</item>
     </string-array>
-    <string-array name="perms_hips_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="perm_hips_action">
-        <item>Permitir</item>
-        <item>Perguntar</item>
-        <item>Negar</item>
-    </string-array>
     <string-array name="startup_hips_values">
         <item>2</item>
         <item>0</item>
@@ -423,11 +460,13 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Permitir</item>
         <item>Negar</item>
     </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Nativo</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Supressão de ruído Single-mic</item>
+        <item>Supressão de ruído Dual-mic</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Desbloquear com o rosto</item>
@@ -440,32 +479,50 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Últimos 4 digitos</item>
         <item>Não mostrar</item>
     </string-array>
-    <string-array name="gemini_sim_info_number_display_format_values">
-        <item>1</item>
-        <item>2</item>
-        <item>0</item>
-    </string-array>
     <string-array name="gemini_sim_roaming_reminder_entries">
         <item>Uma vez</item>
         <item>Sempre</item>
         <item>Nunca</item>
     </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (modo auto)</item>
+        <item>Apenas WCDMA</item>
+        <item>Apenas GSM</item>
+    </string-array>
+    <array name="wifi_security_wfa">
+        <item>@string/wifi_security_none</item>
+        <item>WEP</item>
+        <item>WPA PSK</item>
+        <item>WPA2 PSK</item>
+        <item>802.1x EAP</item>
+        <item>WAPI PSK</item>
+        <item>Certificado WAPI</item>
+    </array>
+    <string-array name="wifi_ap_channel_width">
+        <item>20 MHz</item>
+        <item>Auto 20/40 MHz</item>
+    </string-array>
+    <array name="wapi_security">
+        <item>@string/wifi_security_none</item>
+        <item>WAPI PSK</item>
+        <item>Certificado WAPI</item>
+    </array>
     <string-array name="network_use_entry">
-        <item>Only Home</item>
-        <item>Home + Roaming</item>
+        <item>Apenas em casa</item>
+        <item>Casa + Roaming</item>
     </string-array>
     <string-array name="auto_time_entries">
-        <item>Use network-provided time</item>
-        <item>Use GPS-provided time</item>
+        <item>Use o tempo fornecido pela rede</item>
+        <item>Use o tempo fornecido pelo GPS</item>
         <item>Off</item>
     </string-array>
     <string-array name="hdmi_video_mode_entries">
-        <item>Full screen</item>
-        <item>Best fit</item>
-        <item>Original size</item>
+        <item>Ecrã cheio</item>
+        <item>Melhor ajuste</item>
+        <item>Tamanho original</item>
     </string-array>
     <string-array name="sim_slot">
-        <item>(unspecified)</item>
+        <item>(não especificado)</item>
         <item>Ranhura do SIM 1</item>
         <item>Ranhura do SIM 2</item>
     </string-array>
@@ -476,16 +533,12 @@ Computador vai auto abrir e ler dados do telefone"</item>
     </string-array>
     <string-array name="wifi_hotspot_disable_policy_entries">
         <item>Sempre</item>
-        <item>Desligue quando ocioso por 5 min</item>
-        <item>Desligue quando ocioso por 10 min</item>
-    </string-array>
-    <string-array name="usb_tether_type_entries">
-        <item>Windows(RNDIS)</item>
-        <item>Linux/Mac OS(EEM)</item>
+        <item>Desligue quando inactivo por 5 min</item>
+        <item>Desligue quando inactivo por 10 min</item>
     </string-array>
     <string-array name="wifi_ap_wps_mode_entries">
-        <item>Push button</item>
-        <item>PIN from client</item>
+        <item>Pressione o botão</item>
+        <item>PIN do cliente</item>
     </string-array>
     <string-array name="wifi_ap_max_connection_entries">
         <item>1 utilizador</item>

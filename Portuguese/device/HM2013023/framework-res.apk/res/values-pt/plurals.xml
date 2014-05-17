@@ -36,7 +36,7 @@
         <item quantity="one">amanhã</item>
     </plurals>
     <plurals name="abbrev_num_seconds_ago">
-        <item quantity="other">"%d segundos   atrás"</item>
+        <item quantity="other">%d segundos   atrás</item>
         <item quantity="one">1 seg. atrás</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
@@ -67,6 +67,18 @@
         <item quantity="other">em %d dias</item>
         <item quantity="one">amanhã</item>
     </plurals>
+    <plurals name="duration_seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">1 segund0</item>
+    </plurals>
+    <plurals name="duration_minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">1 minuto</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">1 hora</item>
+    </plurals>
     <plurals name="wifi_available">
         <item quantity="other">Redes Wi-Fi disponíveis</item>
         <item quantity="one">Rede Wi-Fi disponível</item>
@@ -77,6 +89,6 @@
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">%1$d de %2$d</item>
-        <item quantity="one">Uma correspondência</item>
+        <item quantity="one">1 corresponde</item>
     </plurals>
 </resources>

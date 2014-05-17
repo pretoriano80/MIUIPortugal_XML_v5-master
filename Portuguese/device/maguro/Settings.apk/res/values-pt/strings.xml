@@ -3281,14 +3281,14 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="free_wifi_connect_dialog_summary">Esta Wi-Fi grátis %1$s é fornecido em parte por %2$s.</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_wifi_connect">Ligar</string>
-    <string name="free_wifi_connecting">A ligar...</string>
+    <string name="free_wifi_connecting">A ligar…</string>
     <string name="free_wifi_connected">Ligado a uma rede Wi-Fi grátis</string>
     <string name="free_wifi_connect_fail">Não é possível ligar à rede</string>
     <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Espere um minuto e tente novamente.</string>
     <string name="free_wifi_login_again">Iniciar a sessão novamente</string>
     <string name="free_wifi_connected_count">%1$s utilizadores ligados</string>
-    <string name="free_wifi_speed_title">ligação lenta?</string>
-    <string name="free_wifi_connected_time">Duração Online：%1$s</string>
+    <string name="free_wifi_speed_title">Ligação lenta?</string>
+    <string name="free_wifi_connected_time">Duração:%1$s</string>
     <string name="free_wifi_confirm">Confirma</string>
     <string name="restrict_background_data_title">Dados em segundo plano restritos</string>
     <string name="restrict_background_data_dialog_summary">Executar aplicações em segundo plano não podem receber a mensagem, tem certeza para restringir os dados de fundo?</string>
@@ -3307,6 +3307,7 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="alert_show_screensaver_when_not_charging_msg">A bateria irá descarregar mais rapidamente se mostrar a protecção de ecrã quando não estiver a carregar. Tem certeza que deseja fechar esta opção?</string>
     <string name="preferred_app_settings">Definições padrão das aplicações</string>
     <string name="preferred_app_settings_default">Padrão</string>
-    <string name="preferred_app_settings_reset">Restaurar para padrão</string>
-    <string name="preferred_app_settings_reset_message">Tem certeza que deseja restaurar para as definições padrão da aplicação?</string>
+    <string name="preferred_app_settings_reset">Restaurar aplicações padrão?</string>
+    <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
+    <string name="translation_contributors_title">Contribuidores</string>
 </resources>

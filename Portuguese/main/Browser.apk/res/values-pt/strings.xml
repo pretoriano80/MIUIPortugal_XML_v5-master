@@ -107,6 +107,7 @@
     <string name="menu_preferences">Definições</string>
     <string name="pref_content_title">Conteúdo da página</string>
     <string name="pref_content_block_popups">Bloquear janelas pop-up</string>
+    <string name="pref_content_cloud_speedup">Activar cloud speed-up</string>
     <string name="pref_content_javascript">Activar JavaScript</string>
     <string name="pref_content_open_in_background">Abrir em segundo plano</string>
     <string name="pref_content_plugins">Activar plug-ins</string>

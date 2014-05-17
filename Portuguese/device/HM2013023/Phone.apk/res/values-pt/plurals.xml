@@ -18,8 +18,4 @@
         <item quantity="zero">%1$d selecionado</item>
         <item quantity="one">%1$d ficheiro selecionado</item>
     </plurals>
-    <plurals name="sim_picker_timer_miui">
-        <item quantity="other">(%1$d segundos)</item>
-        <item quantity="one">(%1$d segundo)</item>
-    </plurals>
 </resources>

@@ -22,18 +22,18 @@
         <item>Checo</item>
         <item>Hebreu</item>
         <item>Arábico</item>
-        <item>Russio</item>
+        <item>Russo</item>
         <item>Islandês</item>
     </string-array>
     <string-array name="plmn_prefer_network_mode_choices">
         <item>GSM</item>
         <item>WCDMA</item>
-        <item>Dual mode</item>
+        <item>Modo Dual</item>
     </string-array>
     <string-array name="plmn_prefer_network_mode_td_choices">
         <item>GSM</item>
         <item>TD-SCDMA</item>
-        <item>Dual mode</item>
+        <item>Modo Dual</item>
     </string-array>
     <string-array name="gsm_umts_network_preferences_choices">
         <item>GSM/WCDMA (auto mode)</item>
@@ -91,7 +91,7 @@
         <item>Automático</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY desativado</item>
+        <item>TTY desactivado</item>
         <item>TTY completo</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>

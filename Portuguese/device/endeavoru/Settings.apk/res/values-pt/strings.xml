@@ -2800,8 +2800,8 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="screen_button_custom">Personalize posição da tecla no ecrã</string>
     <string name="headset_settings">Auriculares</string>
     <string name="headset_function">Função do botão</string>
-    <string name="headset_mode_volume">Controlar nível do volume</string>
-    <string name="headset_mode_music">Controle de reprodução de música</string>
+    <string name="headset_mode_volume">Ajustar volume</string>
+    <string name="headset_mode_music">Reprodução de música</string>
     <string name="headset_calibrate">Calibrar botões</string>
     <string name="headset_calibrate_hint">Pressione o botão superior</string>
     <string name="headset_calibrate_success">Definições aplicadas</string>
@@ -2890,12 +2890,12 @@ Uma vez que a utilização de dados é medida pelo seu telefone e o seu operador
     <string name="usb_msd_driver_installer_summary">Pode obter os drivers de insatalação para Windows ou Mac aqui</string>
     <string name="input_settings">Definições de entrada</string>
     <string name="show_magnifier_when_input">Mostrar lupa</string>
-    <string name="volume_voice_description">Voz</string>
-    <string name="volume_system_description">Disparo da Câmera, bloquear o ecrã, e outras notificações</string>
-    <string name="volume_bluetooth_description">Bluetooth</string>
-    <string name="volume_restore">Restaurar volumes</string>
-    <string name="volume_restore_alert">Quando redefine os volumes aos seus níveis padrão as definições actuais serão apagadas</string>
-    <string name="sound_category_calls_and_notification_title">Toque e notificações</string>
+    <string name="volume_voice_description">Volume da voz</string>
+    <string name="volume_system_description">Volume do sistema, para obturador da câmera, bloquear ecrã e outros notificações de sistema</string>
+    <string name="volume_bluetooth_description">Volume Bluetooth</string>
+    <string name="volume_restore">Restaurar volume</string>
+    <string name="volume_restore_alert">Restaurar volume para o volume padrão?</string>
+    <string name="sound_category_calls_and_notification_title">Toque e; notificações</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary">Alterar o tamanho da fonte do sistema</string>
     <string name="font_size_small">Pequeno</string>
@@ -2950,7 +2950,7 @@ Selecione o sistema operativo do seu computador:"</string>
     <string name="msd_install">Re-instalar o driver</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_windows_xp_step_2_1">Siga as etapas no Assistente de configuração para concluir a instalação.</string>
-    <string name="msd_install_retry_windows_xp">"Se o seu computador não detectar correctamente o seu telemóvel,
+    <string name="msd_install_retry_windows_xp">"Se o seu computador não detectar corretamente o seu telemóvel,
 Tente o seguinte:
 "<li>1) Volte a ligar o cabo USB.</li>"
 "<li>2) Reinstale o driver.</li></string>
@@ -2962,7 +2962,7 @@ Tente o seguinte:
 Transferência de Ficheiros Android,
 e executar o software."</li>"
 "<li>2) Volte a ligar o cabo USB.</li>"
-"<li>3) Reinstalar o driver.</li>" "</string>
+"<li>3) Reinstalar o driver.</li></string>
     <string name="msd_install_retry_linux">"Se o computador não conseguiu detectar o seu telefone,
 Tente o seguinte:
 1) Use as ferramentas de instalação \"sudo aptitude install mtpfs libfuse-dev libmad0-dev\"
@@ -2975,11 +2975,11 @@ Tente o seguinte:
     <string name="msd_install_status_undo">Instalar driver</string>
     <string name="msd_install_status_done">Driver instalado.</string>
     <string name="msd_driver_download">Transferir driver</string>
-    <string name="msd_driver_windows_xp_download">"No PC, faça o download e clique Setup.exe para instalar
+    <string name="msd_driver_windows_xp_download">"Para o Windows, transfira o driver e clique Setup.exe para instalar
 Obtenha o driver em http://miui.com/win"</string>
     <string name="msd_driver_mac_download">"No Mac, faça a transferência e clique em AndroidFileTransfer.dmg para instalar
 Obtenha o driver em http://miui.com/mac"</string>
-    <string name="vpn_settings_password">Protecção por senha VPN</string>
+    <string name="vpn_settings_password">Proteção por senha VPN</string>
     <string name="vpn_safe">Segurança</string>
     <string name="vpn_configure">Configuração</string>
     <string name="vpn_dns_servers_hint">e.g. 8.8.8.8</string>
@@ -3090,14 +3090,14 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="free_wifi_connect_dialog_summary">Esta Wi-Fi grátis %1$s é fornecido em parte por %2$s.</string>
     <string name="free_wifi_wiwide_provider">WiWide</string>
     <string name="free_wifi_connect">Ligar</string>
-    <string name="free_wifi_connecting">A ligar...</string>
+    <string name="free_wifi_connecting">A ligar…</string>
     <string name="free_wifi_connected">Ligado a uma rede Wi-Fi grátis</string>
     <string name="free_wifi_connect_fail">Não é possível ligar à rede</string>
     <string name="free_wifi_connect_fail2">Não é possível iniciar sessão. Espere um minuto e tente novamente.</string>
     <string name="free_wifi_login_again">Iniciar a sessão novamente</string>
     <string name="free_wifi_connected_count">%1$s utilizadores ligados</string>
-    <string name="free_wifi_speed_title">ligação lenta?</string>
-    <string name="free_wifi_connected_time">Duração Online：%1$s</string>
+    <string name="free_wifi_speed_title">Ligação lenta?</string>
+    <string name="free_wifi_connected_time">Duração:%1$s</string>
     <string name="free_wifi_confirm">Confirma</string>
     <string name="miui_screensaver_state_on">Ligado</string>
     <string name="miui_screensaver_state_off">Desligado</string>
@@ -3114,4 +3114,5 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="preferred_app_settings_default">Padrão</string>
     <string name="preferred_app_settings_reset">Restaurar aplicações padrão?</string>
     <string name="preferred_app_settings_reset_message">Todos as aplicações serão restauradas para as predefinições MIUI.</string>
+    <string name="translation_contributors_title">Contribuidores</string>
 </resources>

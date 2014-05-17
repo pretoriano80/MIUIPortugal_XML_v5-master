@@ -55,12 +55,12 @@
     <string name="policy_dont_allow_attachments">Não permitir anexos</string>
     <string name="policy_max_attachment_size">Restringir o tamanho do anexo</string>
     <string name="policy_require_manual_sync_roaming">Só permitir ligação manual em roaming</string>
-    <string name="policy_require_encryption">requere um dispositivo encriptado</string>
+    <string name="policy_require_encryption">Requere um dispositivo encriptado</string>
     <string name="auth_error_notification_title">Erro ao autenticar</string>
     <string name="auth_error_notification_text">Selecione para editar as definições das contas para %s</string>
     <string name="exchange_name_alternate">Sincronização Microsoft Exchange</string>
     <string name="app_name">Email</string>
-    <string name="account_setup_options_mail_window_auto">Automatic</string>
+    <string name="account_setup_options_mail_window_auto">Automático</string>
     <string name="account_setup_options_mail_window_1day">Last day</string>
     <string name="account_setup_options_mail_window_3days">Last three days</string>
     <string name="account_setup_options_mail_window_1week">Last week</string>
@@ -348,7 +348,10 @@ CC: %4$s
     <string name="protocol_pop3">pop3</string>
     <string name="protocol_eas">eas</string>
     <string name="application_mime_type">application/email-ls</string>
+    <string name="mock_content_provider">Mock Content Provider</string>
+    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="contact_content_provider">Contact Content Provider</string>
+    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="from">From</string>
     <string name="to">To</string>
     <string name="cc">Cc</string>
@@ -362,6 +365,8 @@ CC: %4$s
     <string name="save_draft">Save draft</string>
     <string name="discard">Discard</string>
     <string name="compose">Compose</string>
+    <string name="compose_send">Send</string>
+    <string name="compose_sent">Sent Successfully</string>
     <string name="contact_select">Select contacts</string>
     <string name="formatted_subject">%1$s%2$s</string>
     <string name="reply_attribution" formatted="false">On %s, %s wrote:</string>
@@ -379,6 +384,9 @@ CC: %4$s
     <string name="confirm_send_message_with_no_subject">"There's no text in the message subject."</string>
     <string name="confirm_send_message_with_no_body">"There's no text in the message body."</string>
     <string name="confirm_send_message">Send this message?</string>
+    <string name="confirm_save_message_title">Save as draft?</string>
+    <string name="confirm_save_message_yes">Yes</string>
+    <string name="confirm_save_message_no">No</string>
     <string name="message_discarded">Message discarded.</string>
     <string name="signature">"
 
@@ -409,6 +417,10 @@ CC: %4$s
     <string name="menu_move_to">Move to</string>
     <string name="menu_move_to_inbox">Move to Inbox</string>
     <string name="menu_manage_folders">Folder settings</string>
+    <string name="report_rendering_problem">Looks bad</string>
+    <string name="report_rendering_improvement">Looks good</string>
+    <string name="report_rendering_problem_desc">This message looks bad.</string>
+    <string name="report_rendering_improvement_desc">This message looks good.</string>
     <string name="menu_show_original">Revert auto-sizing</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_search">Search</string>
@@ -499,7 +511,7 @@ CC: %4$s
     <string name="cc_heading">"Cc: "</string>
     <string name="bcc_heading">"Bcc: "</string>
     <string name="date_heading">"Date: "</string>
-    <string name="show_images">Show pictures</string>
+    <string name="show_images">Download and show pictures</string>
     <string name="always_show_images">Always show pictures from this sender</string>
     <string name="always_show_images_toast">Pictures from this sender will be shown automatically.</string>
     <string name="address_display_format">%1$s | %2$s</string>
@@ -644,10 +656,12 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="copy_email">Copy email address</string>
     <string name="copy_number">Copy phone number</string>
     <string name="empty_email_tip">Could not send Empty Email</string>
+    <string name="empty_account_tip">Could not find account</string>
     <string name="remove_account">Remove account</string>
     <string name="remove_account_confirm">The account \"%1$s\" will be removed from WPSMail.</string>
     <string name="hint_quick_reply_all">Reply to all</string>
     <string name="Folders">Folders</string>
+    <string name="search_txt_size_limit_prompt">Search string must be greater than 3。</string>
     <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>
     <string name="name_or_number_is_error">User name or password error</string>
     <string name="account_set_up_notice">Just a few steps, you can set up an email account for the majority of</string>
@@ -691,6 +705,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="download_cancel_confirm_title">Cancel the download?</string>
     <string name="downlaod_cancel_confirm_download">Cancel download</string>
     <string name="downlaod_cancel_continue_download">Cancel</string>
+    <string name="downlaod_nonWifi_confirm_message">Download will consume the traffic, please confirm</string>
     <string name="menu_att_mgr">Attachments</string>
     <string name="menu_att_mgr_order_default">Default</string>
     <string name="menu_att_mgr_order_mime">Sort by format</string>
@@ -728,6 +743,7 @@ Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set 
     <string name="conversation_item_mark_unread">Unread</string>
     <string name="no_mails">No Mails</string>
     <string name="default_signature">Sent via Xiaomi</string>
+    <string name="account_name_toast">Duplicate with existing one, please rename</string>
     <string name="contact_list_add_btn">Add</string>
     <string name="validation_failed_prompt">Validation failed, please set the %s server</string>
     <string name="spaceChar">" "</string>
@@ -746,4 +762,29 @@ size exceeds receiving limit"</string>
     <string name="outbox_alert_button_confirm">Edit</string>
     <string name="blank_feedback_toast">The feedback is blank, please input feedback!</string>
     <string name="ApplicationIconMore99">99+</string>
+    <string name="parase_setup_data">Getting the config data...</string>
+    <string name="allread">All Readed</string>
+    <string name="upgrade_network_error">Erro de rede, verifique a sua ligação à rede</string>
+    <string name="checking_message">Verificação da versão…</string>
+    <string name="no_update">Está a usar a versão mais recente, não actualizar</string>
+    <string name="upgrade_check">Verificar actualizações</string>
+    <string name="no_display_this_version">Esta versão não é mais rápida</string>
+    <string name="now_version">Versão actual：</string>
+    <string name="new_version">Versão mais recente：</string>
+    <string name="new_feature_desc">Melhorar a informação：</string>
+    <string name="new_down_desc1">Dicas：</string>
+    <string name="new_down_desc2">Deseja guardar os registos da versão anterior</string>
+    <string name="new_down_desc3">Actualize o uso tráfego, recomendamos o uso de Wi-Fi</string>
+    <string name="download_now">Transferir agora</string>
+    <string name="start_download">Iniciar a transferência</string>
+    <string name="donot_download">Transferir mais tarde</string>
+    <string name="upgrade_now">Trasferir agora</string>
+    <string name="donot_upgrade">Não transferir</string>
+    <string name="downloading">A transferir</string>
+    <string name="upgrade_title">Actualizar</string>
+    <string name="download_complete_title">A transferência está concluída</string>
+    <string name="no_enough_space">Não existe espaço</string>
+    <string name="no_sdcard">O cartão SD não existe ou não está montado com êxito</string>
+    <string name="download_complete_message">Clique na imediatamente na actualização realizar uma experiênci nova!</string>
+    <string name="file_size">Tamanho</string>
 </resources>
