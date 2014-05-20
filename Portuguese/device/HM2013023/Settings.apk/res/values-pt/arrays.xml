@@ -380,7 +380,6 @@
         <item>Iniciar agora o Google now</item>
         <item>Desligar a aplicação actual</item>
     </string-array>
-    </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 segundos</item>
         <item>1 segundos</item>
@@ -460,10 +459,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Permitir</item>
         <item>Negar</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativo</item>
-    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Supressão de ruído Single-mic</item>
         <item>Supressão de ruído Dual-mic</item>
@@ -489,24 +484,10 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Apenas WCDMA</item>
         <item>Apenas GSM</item>
     </string-array>
-    <array name="wifi_security_wfa">
-        <item>@string/wifi_security_none</item>
-        <item>WEP</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-        <item>802.1x EAP</item>
-        <item>WAPI PSK</item>
-        <item>Certificado WAPI</item>
-    </array>
     <string-array name="wifi_ap_channel_width">
         <item>20 MHz</item>
         <item>Auto 20/40 MHz</item>
     </string-array>
-    <array name="wapi_security">
-        <item>@string/wifi_security_none</item>
-        <item>WAPI PSK</item>
-        <item>Certificado WAPI</item>
-    </array>
     <string-array name="network_use_entry">
         <item>Apenas em casa</item>
         <item>Casa + Roaming</item>

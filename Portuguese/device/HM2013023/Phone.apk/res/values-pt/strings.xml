@@ -342,7 +342,7 @@ Em condicional"</string>
     <string name="manual_select_title">Selecionar manualmente</string>
     <string name="manual_select_dialog_msg">O telefone não vai selecionar outros operadores no modo de seleção manual. Às vezes tem de fazer novamente a seleção manual ou voltar para o modo de seleção automática quando perdeu o serviço do operador selecionado.</string>
     <string name="no_service_msg_gemini">Serviço indisponível por \"%s\".</string>
-    <string name="no_service_msg">"Presentemente, não há serviço do operador selecionado.
+    <string name="no_service_msg">"Presentemente, não há serviço do operador selecionado.</string>
     <string name="show_always_title">Não me voltar a lembrar</string>
     <string name="no_service_msg_title_gemini">Sem serviços por \"%s\"</string>
     <string name="no_service_msg_title">Sem serviço</string>
@@ -372,7 +372,6 @@ Em condicional"</string>
     <string name="international_dialing_invalid_number">Este número é inválido. Quer continuar a marcar mesmo assim?</string>
     <string name="international_dialing_add_country_code_and_area_code_without_prefix">Quer adicionar o código do país ou código de área?</string>
     <string name="no_search_result">Nada foi econtrado</string>
-    <string name="no_search_result">Nenhum resultado na pesquisa</string>
     <string name="gemini_3g_disable_warning_case0">Deve ativar o roaming de dados para o primeiro cartão SIM, pode incorrer em tarifas de roaming significativas! Tem certeza que deseja ativar o roaming de dados e selecionar este cartão SIM?</string>
     <string name="gemini_3g_disable_warning_case1">O serviço 3G não está disponível neste cartão SIM. Isto pode carregar dados mais lentamente. Pode alterar as definições 3G em Definições > Wireless e; Redes > Redes móveis. Tem a certeza que quer selecionar este SIM?</string>
     <string name="disable_data_connection_msg">Procurar as redes disponíveis vai desligar a ligação de dados que está em uso. Quer continuar?</string>
@@ -1372,4 +1371,3 @@ Por favor, note que o cartão SIM ficará inutilazado e irá para o lixo caso fa
     <string name="oldman_speaker_button_text" />
     <string name="suspect_info">Dica de segurança: Este número é reconhecido automáticamente pelo sistema, envolvendo informações de propriedade ligue para verificar a identidade de cada um</string>
 </resources>
- 
