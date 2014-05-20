@@ -493,14 +493,6 @@
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
-    <string-array name="msd_pc_system_install_start_summary">
-        <item>"Para o Windows XP ou versões mais antigas,
-o driver precisa ser instalado manualmente"</item>
-        <item>@string/msd_pc_system_install_start_summary_vista</item>
-        <item>"Para sistema operativo Mac OS,
-o driver precisa ser instalado manualmente"</item>
-        <item></item>
-    </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
         <item>"(Por favor, ignore o Assistente de Configuração)
 o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
@@ -526,10 +518,6 @@ Abra e selecione AndroidFileTransfer.dmg para instalação"</item>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
         <item>Negar</item>
-    </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Nativo</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single-mic noise suppression</item>
