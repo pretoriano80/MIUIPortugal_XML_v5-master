@@ -6,6 +6,10 @@
         <item>Perguntar</item>
         <item>Negar</item>
     </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Permitir</item>
+        <item>Negar</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Alto desempenho</item>
         <item>Balanço</item>
@@ -117,6 +121,7 @@
         <item>Normal</item>
         <item>Alto</item>
         <item>Muito alto</item>
+
     </string-array>
     <string-array name="wifi_status">
         <item></item>
@@ -227,36 +232,38 @@
         <item>Deixe o sistema decidir</item>
     </string-array>
     <string-array name="app_ops_categories">
-        <item>Location</item>
-        <item>Personal</item>
-        <item>Messaging</item>
-        <item>Device</item>
+        <item>Localização</item>
+        <item>Pessoal</item>
+        <item>Mensagem</item>
+        <item>Média</item>
+        <item>Dispositivo</item>
+        <item>Bootup</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call log</item>
-        <item>Modify call log</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>Location</item>
-        <item>Post notification</item>
-        <item>Location</item>
-        <item>Call phone</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Modify settings</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Localização</item>
+        <item>Vibrar</item>
+        <item>Ler contactos</item>
+        <item>Modificar contacots</item>
+        <item>Ler registo das chamadas</item>
+        <item>Modificar registo das chamadas</item>
+        <item>Ler calendário</item>
+        <item>Modificar calendário</item>
+        <item>Localização</item>
+        <item>Publicar notificação</item>
+        <item>Localização</item>
+        <item>Ligar para telefone</item>
+        <item>Ler SMS</item>
+        <item>Escrever SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber SMS</item>
+        <item>Receber MMS</item>
+        <item>Receber SMS</item>
+        <item>Enviar SMS</item>
+        <item>Ler SMS</item>
+        <item>Escrever SMS</item>
+        <item>Modificar definiçõess</item>
         <item>Draw on top</item>
         <item>Access notifications</item>
         <item>Camera</item>
@@ -264,11 +271,61 @@
         <item>Play audio</item>
         <item>Read clipboard</item>
         <item>Modify clipboard</item>
+        <item>Media buttons</item>
+        <item>Audio focus</item>
+        <item>Master volume</item>
+        <item>Voice volume</item>
+        <item>Ring volume</item>
+        <item>Media volume</item>
+        <item>Alarm volume</item>
+        <item>Notification volume</item>
+        <item>Bluetooth volume</item>
+        <item>Keep awake</item>
+        <item>Location</item>
+        <item>Location</item>
+        <item>Wifi change</item>
+        <item>Bluetooth change</item>
+        <item>Data change</item>
+        <item>Send MMS</item>
+        <item>Read MMS</item>
+        <item>Write MMS</item>
+        <item>Auto start</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Curto</item>
         <item>Médio</item>
         <item>Longo</item>
+    </string-array>
+    <string-array name="captioning_typeface_selector_titles">
+        <item>Default</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+    </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Very small</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Very large</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>None</item>
+        <item>Outline</item>
+        <item>Drop shadow</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>White on black</item>
+        <item>Black on white</item>
+        <item>Yellow on black</item>
+        <item>Yellow on blue</item>
+        <item>Custom</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Use Dalvik</item>
+        <item>Use ART</item>
+        <item>Use ART debug build</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>Nunca verificar</item>
@@ -308,26 +365,15 @@
         <item>Escala da animação 10x</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
-    </string-array>
-    <string-array name="show_non_rect_clip_values">
-        <item>hide</item>
-        <item>region</item>
-        <item>highlight</item>
+        <item>Desligado</item>
+        <item>Desenhe região clipe não retangular em azul</item>
+        <item>Destaque testado comandos de desenho em verde</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>On screen as lines</item>
+        <item>Desligado</item>
+        <item>No ecrã como barras</item>
+        <item>No ecrã como linhas</item>
         <item>In adb shell dumpsys gfxinfo</item>
-    </string-array>
-    <string-array name="track_frame_time_values">
-        <item>false</item>
-        <item>visual_bars</item>
-        <item>visual_lines</item>
-        <item>true</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite predifinido</item>
@@ -361,8 +407,13 @@
     </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Perguntar</item>
-        <item>Nunca pemitir</item>
-        <item>Permitir sempre</item>
+        <item>Nunca perguntar</item>
+        <item>Perguntar sempre</item>
+    </string-array>
+    <string-array name="multi_sim_entries">
+        <item>Subscrição 1</item>
+        <item>Subscrição 2</item>
+        <item>Subscrição 3</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
         <item>Forte</item>
@@ -370,14 +421,9 @@
         <item>Leve</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
-        <item>Strong</item>
-        <item>Medium</item>
-        <item>Light</item>
-    </string-array>
-    <string-array name="media_feedback_level_values">
-        <item>15</item>
-        <item>7</item>
-        <item>0</item>
+        <item>Forte</item>
+        <item>Medio</item>
+        <item>Leve</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Gráficos</item>
@@ -425,21 +471,13 @@
         <item>Iniciar painel recente</item>
         <item>Iniciar assistente de Voz</item>
         <item>Iniciar Google agora</item>
-        <item>Fechar aplicação atual</item>
+        <item>Fechar aplicação actual</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
         <item>0.5 segundos</item>
         <item>1 segundos</item>
         <item>1.5 segundos</item>
         <item>2 segundos</item>
-    </string-array>
-    <string-array name="button_light_timeout_entries">
-        <item>1 segundo</item>
-        <item>2 segundos</item>
-        <item>5 segundos</item>
-        <item>10 segundos</item>
-        <item>20 segundos</item>
-        <item>Sempre</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Dispositivo ligado, a criar sessão…</item>
@@ -458,8 +496,7 @@
     <string-array name="msd_pc_system_install_start_summary">
         <item>"Para o Windows XP ou versões mais antigas,
 o driver precisa ser instalado manualmente"</item>
-        <item>"Para o Windows Vista ou versões mais recentes,
-o leitor de música MI 2 irá aparecer no seu computador"</item>
+        <item>@string/msd_pc_system_install_start_summary_vista</item>
         <item>"Para sistema operativo Mac OS,
 o driver precisa ser instalado manualmente"</item>
         <item></item>
@@ -473,18 +510,15 @@ Abra e selecione Setup.exe para instalação"</item>
 Abra e selecione AndroidFileTransfer.dmg para instalação"</item>
         <item></item>
     </string-array>
-    <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2.MI 2 de armazenamento móvel irá aparecer no seu computador
-Pode agora transferir arquivos"</item>
+    <array name="msd_pc_system_install_step_2_summary">
+        <item>@string/msd_pc_system_install_step_2_summary_xp</item>
         <item></item>
         <item>Transferência de arquivos, como faria com qualquer outro disco rígido externo</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
-        <item>"Se instalar este driver
-dispositivo 2.MI 2 de armazenamento móvel irá aparecer no seu computador"</item>
-        <item>"Para o Windows Vista ou versões mais recentes,
-o leitor de música MI 2 irá aparecer no seu computador"</item>
+        <item>@string/msd_pc_system_install_finish_summary_xp</item>
+        <item>@string/msd_pc_system_install_finish_summary_vista</item>
         <item>"Se instalar este driver
 Computador vai auto abrir e ler dados do telefone"</item>
         <item></item>
@@ -506,34 +540,29 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Permitir</item>
         <item>Negar</item>
     </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Nativo</item>
+    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Single-mic noise suppression</item>
         <item>Dual-mic noise suppression</item>
-    </string-array>
-    <string-array name="phone_call_noise_suppression_values">
-        <item>1</item>
-        <item>2</item>
-    </string-array>
-    <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
     </string-array>
     <string-array name="change_security_lock_picker">
         <item>Desbloquear com o rosto</item>
         <item>Predefinido</item>
         <item>PIN</item>
-        <item>Password</item>
+        <item>Senha</item>
     </string-array>
     <string-array name="wifi_connect_type_entries">
-        <item>Automatically connect</item>
-        <item>Manually connect</item>
-        <item>Always ask</item>
+        <item>Ligar automaticamente</item>
+        <item>Ligar manualmente</item>
+        <item>Perguntar sempre</item>
     </string-array>
     <string-array name="wifi_connect_type_values">
         <item>0</item>
         <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="nfc_se_route_values">
         <item>1</item>
@@ -563,9 +592,14 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Música</item>
         <item>Email</item>
     </string-array>
+    <string-array name="network_speed_slow_summary">
+        <item>A rede é lenta devido ao excesso de tráfego</item>
+        <item>A rede é lenta devido a intensidade do sinal ser fraco</item>
+        <item>A mover…</item>
+    </string-array>
     <string-array name="miracast_policies">
-        <item>Shorter delay</item>
-        <item>Standard</item>
-        <item>Better quality</item>
+        <item>Prazo mais curto</item>
+        <item>Padrão</item>
+        <item>Melhor qualidade</item>
     </string-array>
 </resources>

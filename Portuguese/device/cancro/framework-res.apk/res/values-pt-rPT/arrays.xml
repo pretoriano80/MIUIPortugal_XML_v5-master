@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string-array name="emailAddressTypes">
         <item>Residência</item>
@@ -37,51 +38,8 @@
         <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
-    <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive MMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to modify settings</item>
-        <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
-        <item>Trying to turn on/off Wifi</item>
-        <item>Trying to turn on/off bluetooth</item>
-        <item>Trying to turn on/off mobile data</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
-    </string-array>
-    <integer-array name="maps_starting_lat_lng">
-        <item>38707163</item>
-        <item>-9135517</item>
-    </integer-array>
     <integer-array name="maps_starting_zoom">
-        <item>4</item>
+        <item>3</item>
     </integer-array>
     <array name="common_nicknames" />
     <string-array name="imAddressTypes">

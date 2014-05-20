@@ -45,4 +45,12 @@
         <item quantity="other">%d aplicações podem ler as notificações</item>
         <item quantity="one">%d aplicação pode ler as notificações</item>
     </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Código PIN do cartão SIM está errado, tem %d tentativas restantes.</item>
+        <item quantity="one">Código PIN do cartão SIM está errado, tem %d tentativa restante deve entrar em contacto com sua operadora para desbloquear o dispositivo.</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s impressoras encontradas</item>
+        <item quantity="one">%1$s impressora encontrada</item>
+    </plurals>
 </resources>
