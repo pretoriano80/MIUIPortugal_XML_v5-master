@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
+    <string-array name="alarm_in_furture">
+        <item>O alarme toca em menos de 1 minuto</item>
+        <item>O alarme toca em %1$s</item>
+        <item>O alarme toca em %2$s</item>
+        <item>O alarme toca em %1$s %2$s</item>
+        <item>O alarme toca em %3$s</item>
+        <item>O alarme toca em %1$s %3$s</item>
+        <item>O alarme toca em %2$s %3$s</item>
+        <item>O alarme toca em %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Ontem</item>
+        <item>Hoje</item>
+        <item>Amanhã</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Uma vez</item>
+        <item>Diáriamente</item>
+        <item>Dias de trabalho</item>
+        <item>Seg a Sex</item>
+        <item>Personalizar</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Uma vez</item>
+        <item>Diáriamente</item>
+        <item>Seg a Sex</item>
+        <item>Personalizar</item>
+    </string-array>
     <integer-array name="alarm_repeat_type_values">
         <item>0</item>
         <item>1</item>
@@ -71,33 +99,5 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="alarm_in_furture">
-        <item>Alarme em menos de um minuto</item>
-        <item>Alarme em  %1$s</item>
-        <item>Alarme em  %2$s</item>
-        <item>Alarme em  %1$s %2$s</item>
-        <item>Alarme em  %3$s</item>
-        <item>Alarme em  %1$s %3$s</item>
-        <item>Alarme em  %2$s %3$s</item>
-        <item>Alarme em  %1$s %2$s %3$s</item>
-    </string-array>
-    <string-array name="days">
-        <item>Ontem</item>
-        <item>Hoje</item>
-        <item>Amanhã</item>
-    </string-array>
-    <string-array name="alarm_repeat_type">
-        <item>Uma vez</item>
-        <item>Diáriamente</item>
-        <item>Dias de trabalho</item>
-        <item>Seg a Sex</item>
-        <item>Personalizar</item>
-    </string-array>
-    <string-array name="alarm_repeat_type_no_workdays">
-        <item>Uma vez</item>
-        <item>Diáriamente</item>
-        <item>Seg a Sex</item>
-        <item>Personalizar</item>
     </string-array>
 </resources>
