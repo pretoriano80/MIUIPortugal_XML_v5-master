@@ -357,9 +357,8 @@
     <string name="permlab_bindVpnService">vincular a um serviço VPN</string>
     <string name="permdesc_bindVpnService">Permite que o titular se vincule à interface de nível superior de um serviço de VPN. Nunca deverá ser necessário para aplicações normais.</string>
     <string name="permlab_bindWallpaper">vincular a uma imagem de fundo</string>
-    <string name="permdesc_bindWallpaper">Allows the holder to bind to the top-level interface of a wallpaper. Should never be needed for normal apps.</string>
-    <string name="permlab_bindRemoteDisplay">bind to a remote display</string>
     <string name="permdesc_bindWallpaper">Permite ao titular vincular-se à interface de nível superior de uma imagem de fundo. Nunca deverá ser necessário para aplicações normais.</string>
+    <string name="permlab_bindRemoteDisplay">bind to a remote display</string>
     <string name="permlab_bindRemoteViews">vincular a um serviço de widget</string>
     <string name="permdesc_bindRemoteViews">Permite que o titular vincule a interface de nível superior de um serviço de widget. Nunca deverá ser necessário para aplicações normais.</string>
     <string name="permlab_bindDeviceAdmin">interagir com um administrador do dispositivo</string>

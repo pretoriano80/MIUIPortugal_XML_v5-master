@@ -335,7 +335,6 @@
     <string name="pref_ua_title">Gestão do Agente de Utilizador</string>
     <string name="pref_ua_string">Sequência do Agente de Utilizador</string>
     <string name="pref_ua_mione_entry">MI3</string>
-    <string name="pref_ua_mione_value">4</string>
     <string name="pref_content_search_engine">Definir motor de busca para barra de título</string>
     <string name="dump_counters">Esvaziar contadores V8</string>
     <string name="dump_dom_tree">Esvaziar arquivo de árvore DOM</string>
@@ -396,10 +395,6 @@
     <string name="pref_link_prefetch_summary">: Permitir ao navegador pré-carregar páginas da web relacionadas</string>
     <string name="pref_video_preload_summary">: Permitir ao navegador pré-carregar vídeos quando o servidor permite</string>
     <string name="pref_images_preload_summary">: Permitir browser para imagens quando o servidor permite</string>
-    <string name="pref_images_preload_value_never">0</string>
-    <string name="pref_images_preload_value_wifi_only">1</string>
-    <string name="pref_images_preload_value_always">2</string>
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
     <string name="pref_images_preload_title">Pré-carregar imagens</string>
     <string name="pref_images_preload_dialogtitle">Pré-carregar imagens</string>
     <string name="pref_images_preload_value_never_summary">Nunca pré-carregar imagens</string>
