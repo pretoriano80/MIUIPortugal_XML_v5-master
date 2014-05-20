@@ -510,13 +510,6 @@ Abra e selecione Setup.exe para instalação"</item>
 Abra e selecione AndroidFileTransfer.dmg para instalação"</item>
         <item></item>
     </string-array>
-    <string-array name="msd_pc_system_install_finish_summary">
-        <item>@string/msd_pc_system_install_finish_summary_xp</item>
-        <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>"Se instalar este driver
-Computador vai auto abrir e ler dados do telefone"</item>
-        <item></item>
-    </string-array>
     <string-array name="screen_color_title">
         <item>Quente</item>
         <item>Padrão</item>

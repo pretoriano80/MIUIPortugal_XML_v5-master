@@ -1198,7 +1198,6 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
     <string name="activity_picker_label">Selecionar actividade</string>
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Informações do dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -1440,15 +1439,6 @@ Digite o PIN para emparelhar \"%1$s\". [Alta segurança activada: Necessita de u
     <string name="wifi_display_options_forget">Esquecer</string>
     <string name="wifi_display_options_done">Cocluído</string>
     <string name="wifi_display_options_name">Nome</string>
-    <string name="wifi_display_certification_heading">Certificação</string>
-    <string name="wifi_display_session_info">Info. da sessão</string>
-    <string name="wifi_display_listen_mode">Active o modo de ouvir</string>
-    <string name="wifi_display_autonomous_go">Activar autónomo GO</string>
-    <string name="wifi_display_pause">Pausa</string>
-    <string name="wifi_display_resume">Resumo</string>
-    <string name="wifi_display_wps_config">Configuração WPS</string>
-    <string name="wifi_display_listen_channel">Ouvir canal</string>
-    <string name="wifi_display_operating_channel">Canal de operação</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">Permitir a troca de dados quando o telefone toca noutro dispositivo</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -1605,7 +1595,6 @@ A configuração do telefone pode exigir a actividade de rede significativa."</s
     <string name="wifi_tether_configure_subtext">Hotspot portátil %1$s %2$s</string>
     <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="wifi_config_info">Definições de Wi-Fi</string>
-    <string name="config_list_label">Definições de rede</string>
     <string name="home_settings">Home</string>
     <string name="display_settings_title">Ecrã</string>
     <string name="sound_settings">Som</string>
@@ -2889,7 +2878,6 @@ For more information, contact your administrator."</string>
 A trusted credential installed on your device is making this possible."</string>
     <string name="ssl_ca_cert_settings_button">Check trusted credentials</string>
     <string name="tune_away_title">Tune Away</string>
-    <string name="tune_away_Default">Disable</string>
     <string name="tune_away_enabled">TuneAway Enabled!</string>
     <string name="tune_away_disabled">TuneAway Disabled!</string>
     <string name="priority_sub_title">Priority Subscription</string>
