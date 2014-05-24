@@ -25,6 +25,7 @@
     <string name="micloud_error_empty_username">Digite nome de utilizador</string>
     <string name="micloud_error_empty_pwd">Digite a sua senha</string>
     <string name="micloud_error_illegal_pwd">Senha inválida</string>
+    <string name="micloud_error_illegal_pwd">A senha que digitou está incorrecta</string>
     <string name="micloud_error_empty_captcha_code">Digite o código de verificação</string>
     <string name="micloud_error_empty_vcode">Digite o código de verificação</string>
     <string name="micloud_email">Insira o seu email</string>
@@ -96,6 +97,11 @@ Para activar a sua conta,
     <string name="data_sync_notice">Use a sua conta Xiaomi para sincronizar mensagens, contactos e outros dados.</string>
     <string name="cmcc_data_sync_notice">Use sua conta Xiaomi para sincronizar mensagens, contatos e outros dados. Enquanto isso, aproveite os serviços na nuvem.</string>
     <string name="sync_dspt">Activar sincronização</string>
+    <string name="sync_sub_1_sms">Será enviada uma mensagem de texto para activar o seu cartão SIM (serão aplicadas taxas adicionais)</string>
+    <string name="sync_sub_1_intl_sms">Será enviada uma mensagem de texto para activar o seu cartão SIM (serão aplicadas taxas internacionais)</string>
+    <string name="sync_sub_2_sms">Serão enviadas 2 mensagens de texto para activar os seus cartões SIM (serão aplicadas taxas adicionais)</string>
+    <string name="sync_sub_2_intl_sms">Serão enviadas 2 mensagens de texto para activar os seus cartões SIM (serão aplicadas taxas internacionais)</string>
+    <string name="sync_sub_1_sms_1_intl_sms">Serão enviadas 2 mensagens de texto para activar os seus cartões SIM (serão aplicadas taxas normais e internacionais)</string>
     <string name="send_sms_for_sync_title">Enviar mensagem de texto</string>
     <string name="failed_to_send_activate_email">Falha ao enviar e-mail de activação.</string>
     <string name="access_denied">Acesso negado</string>

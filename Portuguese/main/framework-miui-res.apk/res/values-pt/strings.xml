@@ -255,8 +255,8 @@
     <string name="day_of_month">" %d"</string>
     <string name="delete">Eliminar</string>
     <string name="double_seventh_day">Tanabata</string>
-    <string name="error_forbidden">Existem alguns problemas com a sua conta: sincronização desactivada.</string>
-    <string name="error_not_acceptable">Erro no servidor: Sincronização desactivada.</string>
+    <string name="error_forbidden">Existem alguns problemas com a sua conta.</string>
+    <string name="error_not_acceptable">Erro no servidor. Sincronização desactivada.</string>
     <string name="error_title">Erro de sincronização</string>
     <string name="error_unauthorized">Sincronização foi desactivada devido a demasiadas tentativas.</string>
     <string name="every_day">Todos os dias</string>

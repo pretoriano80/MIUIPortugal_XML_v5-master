@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
-    <string name="menu_report_block">Bloquear</string>
+    <string name="menu_report_block">Marcar como spam</string>
     <string name="st_sub_title_customize_mode_name">Nome do modo</string>
     <string name="st_title_open_antispam">Lista de bloqueio</string>
     <string name="st_title_antispam_mode">Modo de lista debloqueio</string>
@@ -55,13 +55,13 @@
     <string name="info_unantispam_phone_sms">Permitir mensagens e chamadas</string>
     <string name="st_antispam_delete">Eliminar</string>
     <string name="baidu_thanks">Produzido por Baidu</string>
-    <string name="note_list_none">Nenhuma lista para editar</string>
-    <string name="note_sms_none">Nenhuma mensagem para editar</string>
-    <string name="note_call_none">Nenhuma chamada gravada para editar</string>
-    <string name="note_keyword_none">Nenhuma letra para editar</string>
-    <string name="note_preference_delete">No modo em uso, não podem ser eliminados</string>
-    <string name="block_message_number">mensagens span:%d</string>
-    <string name="block_phone_number">Chamadas sapan:%d</string>
+    <string name="note_list_none">Vazio</string>
+    <string name="note_sms_none">Vazio</string>
+    <string name="note_call_none">Vazio</string>
+    <string name="note_keyword_none">Vazio</string>
+    <string name="note_preference_delete">Este modo não pode ser eliminado porque está em uso</string>
+    <string name="block_message_number">Mensagens: %d</string>
+    <string name="block_phone_number">Chamadas: %d</string>
     <string name="app_name">Anti-Spam</string>
     <string name="fw_blocked">Bloqueadas:</string>
     <string name="fw_blocked_count">Bloqueadas:</string>
@@ -105,7 +105,7 @@
     <string name="dlg_no_block_ok">Desbloquear</string>
     <string name="dlg_add_blacklist">Bloquear este número?</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Cuidado</string>
-    <string name="dlg_add_blacklist_warn_conflict_content">%1$sand %2$soutros contatos já estão na sua lista branca.</string>
+    <string name="dlg_add_blacklist_warn_conflict_content">%1$sand %2$soutros contactos já estão na sua lista branca.</string>
     <string name="dlg_remove_blacklist">Desbloquear este número?</string>
     <string name="dlg_remove_whitelist">Eliminar este número da lista branca?</string>
     <string name="dlg_remove_address_blacklist">Eliminar este local da lista de bloqueio e restaurar mensagens enviadas à caixa de entrada?</string>
@@ -117,7 +117,9 @@
     <string name="dlg_add_manual_ok">Adicionar</string>
     <string name="dlg_add_manual_hint">Adcionar número de telefone</string>
     <string name="dlg_import_blacklist">A adicionar à lista bloqueio…</string>
+    <string name="dlg_remove_blacklist_ing">Eliminar da lista de bloqueio…</string>
     <string name="dlg_import_whitelist">A adcionar à lista branca…</string>
+    <string name="dlg_remove_whitelist_ing">Eliminar da lista branca…</string>
     <string name="dlg_add_keyword">Adicionar palavras-chave</string>
     <string name="dlg_edit_keyword">Editar palavra-chave</string>
     <string name="dlg_delete_keyword">Eliminar as palavras-chave selecionadas?</string>
@@ -216,8 +218,11 @@
     <string name="hint_antispam_mode_edit">Personalizar um modo</string>
     <string name="st_title_adress">Selecionar um local</string>
     <string name="st_title_adress_num">%d selecionado</string>
+    <string name="NACaddnumcontent">Digite o número do telefone</string>
+    <string name="ACaddnumcontent">Digite o início do número, o sistema irá preencher automaticamente*</string>
     <string name="SMS_BLACKLIST">Lista de bloqueio de mensagens</string>
     <string name="SMS_PREFIX">Lista de bloqueio de prefixo</string>
+    <string name="SMS_DEFAULT">Lista de bloqueio inteligente</string>
     <string name="SMS_MODENAME">Lista de bloqueio padrão</string>
     <string name="SMS_KEYWORDS">Lista de bloqueio de palavras</string>
     <string name="SMS_ADRESS">Lista de bloqueio de local</string>
@@ -226,6 +231,7 @@
     <string name="Call_MODENAME">Lista de bloqueio padrão</string>
     <string name="Call_ADRESS">Lista de bloqueio de local</string>
     <string name="Call_PRIVATE_CALL">Chamadas privadas</string>
+    <string name="Call_DEFAULT">Lista de bloqueio inteligente</string>
     <string name="PAST_BLOCK">Anteriormente bloqueadas</string>
     <string name="AD_AntiSpam">Solicitações de bloqueio</string>
     <string name="AD_SCANNING">A localizar…</string>
@@ -249,4 +255,7 @@
     <string name="ad_update_title">Auto actualizar</string>
     <string name="ad_update_time">Última actualização: %s</string>
     <string name="ad_update_time_unKnown">Última actualização: desconhecido</string>
+    <string name="sms_delete_hint">Eliminar todas as mensagens bloqueadas enviados do número selecionado?</string>
+    <string name="call_delete_hint">Eliminar todas as chamadas bloqueadas a partir do número selecionado?</string>
+    <string name="backsound_set_hint">Defina o seu som de volta para %s?</string>
 </resources>

@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Portuguese translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by www.miuiportugal.pt-->
 <resources>
     <string name="common_settings">Definições</string>
     <string name="alarm_settings">Definições do alarme</string>
@@ -9,7 +10,7 @@
     <string name="menu_edit_systemtime">Hora do sistema</string>
     <string name="delete_timezone_title">Eliminar fuso horário</string>
     <string name="delelte_selected_timezone">Eliminar os fusos horários selecionados?</string>
-    <string name="timezone_exist_error_message">Já está ativo este fuso horário</string>
+    <string name="timezone_exist_error_message">Este fuso horário já está ativo </string>
     <string name="alarm_disabled">Desativado</string>
     <string name="alarm_ascending_mode_title">Alarme em modo ascendente</string>
     <string name="alarm_ascending_mode_summary">O volume do alarme sobe gradualmente até ser desativado</string>
@@ -27,14 +28,15 @@
     <string name="dialog_confirm_abort">Cancelar as alterações?</string>
     <string name="confirm_abort">Cancelar</string>
     <string name="remind_ringtone">Toque</string>
-    <string name="keep_screen_on">Manter ecrã ativo</string>
+    <string name="keep_screen_on">Manter ecrã activo</string>
     <string name="start_up">Iniciar</string>
     <string name="cancel">Cancelar</string>
     <string name="timer_message_with_hour">%1$d horas e %2$d minutos</string>
     <string name="timer_message">%1$d minutos</string>
-    <string name="shutdown_alarm_title">Desativar alarme</string>
-    <string name="shutdown_alarm_enable_summary">Desativar o alarme quando ligado</string>
-    <string name="shutdown_alarm_disable_summary">Desativar o alarme quando desligado</string>
+    <string name="timer_message_with_seconds">%1$d segundos</string>
+    <string name="shutdown_alarm_title">Desactivar alarme</string>
+    <string name="shutdown_alarm_enable_summary">Desactivar o alarme quando está ligado</string>
+    <string name="shutdown_alarm_disable_summary">Desactivar o alarme quando está desligado</string>
     <string name="workday_alarm_clock">Alarme dia de trabalho</string>
     <string name="system_time_setting">Definições</string>
     <string name="lap_num">Volta</string>
@@ -62,7 +64,7 @@
     <string name="alarm_repeat">Repetir</string>
     <string name="alert">Toque</string>
     <string name="time">Hora</string>
-    <string name="alarm_alert_alert_silenced">O alarme desativa em %d minutos.</string>
+    <string name="alarm_alert_alert_silenced">O alarme desactiva em %d minutos.</string>
     <string name="timer_alert_alert_silenced">O temporizador desliga em %d minutos.</string>
     <string name="alarm_alert_snooze_set">Suspender por %d minutos.</string>
     <string name="day">1 dia</string>
@@ -80,25 +82,22 @@
     <string name="alarm_in_silent_mode_title">Alarme em Modo de silêncio</string>
     <string name="snooze_duration_title">Duração da suspensão</string>
     <string name="auto_silence_title">Desligar automático</string>
-    <string name="auto_silence_summary">O alarme desativa em %d minutos</string>
+    <string name="auto_silence_summary">O alarme desactiva em %d minutos</string>
     <string name="auto_silence_never">Nunca</string>
     <string name="done">Concluído</string>
     <string name="revert">Reverter</string>
     <string name="delete">Eliminar</string>
     <string name="alarm_volume_title">Volume do alarme</string>
     <string name="alarm_volume_summary">Define o volume do alarme</string>
-    <string name="silent_alarm_summary">"O alarme funciona mesmo que o telémovel
-esteja em modo de silêncio"</string>
+    <string name="silent_alarm_summary">O alarme funciona mesmo que o telémovel esteja em modo de silêncio</string>
     <string name="alarm_notify_text">Suspender ou desativar alarme.</string>
     <string name="alarm_notify_snooze_label">%s repetição</string>
     <string name="snooze_confirm_cancel">Cancelar repetição</string>
     <string name="volume_button_setting_title">Função dos botões do volume</string>
-    <string name="volume_button_setting_summary">"Define a função dos botões do volume
-durante o alarme"</string>
+    <string name="volume_button_setting_summary">Define a função dos botões do volume durante o alarme</string>
     <string name="battery_charging_level">%d%%</string>
     <string name="menu_item_dock_settings">Definições de dock</string>
-    <string name="alarm_klaxon_service_desc">"Serviço de reprodução de som para
-os alarmes definidos no DeskClock".</string>
+    <string name="alarm_klaxon_service_desc">Serviço de reprodução de som para os alarmes definidos em relógio.</string>
     <string name="loading_ringtone">A carregar o toque…</string>
     <string name="control_set_alarm">Definir alarme</string>
     <string name="control_set_alarm_with_existing">Alarme definido: %s</string>

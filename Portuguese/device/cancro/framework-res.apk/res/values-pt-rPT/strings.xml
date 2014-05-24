@@ -359,6 +359,7 @@
     <string name="permlab_bindWallpaper">vincular a uma imagem de fundo</string>
     <string name="permdesc_bindWallpaper">Permite ao titular vincular-se à interface de nível superior de uma imagem de fundo. Nunca deverá ser necessário para aplicações normais.</string>
     <string name="permlab_bindRemoteDisplay">bind to a remote display</string>
+    <string name="permdesc_bindRemoteDisplay">Allows the holder to bind to the top-level interface of a remote display. Should never be needed for normal apps.</string>
     <string name="permlab_bindRemoteViews">vincular a um serviço de widget</string>
     <string name="permdesc_bindRemoteViews">Permite que o titular vincule a interface de nível superior de um serviço de widget. Nunca deverá ser necessário para aplicações normais.</string>
     <string name="permlab_bindDeviceAdmin">interagir com um administrador do dispositivo</string>
@@ -838,7 +839,6 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="save_password_label">Confirmar</string>
     <string name="double_tap_toast">Sugestão: toque duas vezes para aumentar ou diminuir o zoom.</string>
     <string name="autofill_this_form">Preenchimento Automático</string>
-    <string name="setup_autofill">Configurar Preenchimento Automático</string>
     <string name="autofill_province">Província</string>
     <string name="autofill_postal_code">Código postal</string>
     <string name="autofill_state">Estado</string>
