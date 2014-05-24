@@ -125,7 +125,7 @@
     <string name="insert_record">Inserir registo</string>
     <string name="update_record">Confirmar registo</string>
     <string name="ack_record">Aceitar registo</string>
-    <string name="deleteAll_record">Eliminar todos os registos/string>
+    <string name="deleteAll_record">Eliminar todos os registos</string>
     <string name="ok_button">OK</string>
     <string name="delete_record">Eliminar registo</string>
     <string name="start_server">Iniciar o servidor TCP</string>
