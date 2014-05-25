@@ -25,7 +25,6 @@
     <string name="micloud_error_empty_username">Digite nome de utilizador</string>
     <string name="micloud_error_empty_pwd">Digite a sua senha</string>
     <string name="micloud_error_illegal_pwd">Senha inválida</string>
-    <string name="micloud_error_illegal_pwd">A senha que digitou está incorrecta</string>
     <string name="micloud_error_empty_captcha_code">Digite o código de verificação</string>
     <string name="micloud_error_empty_vcode">Digite o código de verificação</string>
     <string name="micloud_email">Insira o seu email</string>
