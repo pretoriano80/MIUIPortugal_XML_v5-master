@@ -95,7 +95,7 @@
         <item>TTY completo</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
-    </string-array>>
+    </string-array>
     <string-array name="dtmf_tone_entries">
         <item>Normal</item>
         <item>Longo</item>
