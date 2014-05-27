@@ -24,7 +24,7 @@
         <item>2 minutos</item>
         <item>5 minutos</item>
         <item>10 minutos</item>
-        <item>Never</item>
+        <item>Nunca</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
         <item>Alto desempenho</item>
@@ -36,13 +36,8 @@
         <item>Vibra quando o toque está desligado</item>
         <item>Vibra sempre</item>
     </string-array>
-    <string-array name="power_dialog_vibration_items_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-    </string-array>
     <string-array name="score_descriptions">
-        <item>Lista Negra desativada.</item>
+        <item>Lista Negra desactivada.</item>
         <item>Gestor de permissões desligado.</item>
         <item>Lixo é muito grande.</item>
         <item>Definições de Virus desatualizadas.</item>
@@ -104,15 +99,15 @@
         <item>Muito lento</item>
         <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Very fast</item>
+        <item>Rápido</item>
+        <item>Muito rápido</item>
     </string-array>
     <string-array name="tts_pitch_entries">
         <item>Muito Baixo</item>
         <item>Baixo</item>
         <item>Normal</item>
-        <item>High</item>
-        <item>Very high</item>
+        <item>Alto</item>
+        <item>Muito alto</item>
     </string-array>
     <string-array name="tts_demo_strings">
         <item>This is an example of speech synthesis in English.</item>
@@ -137,7 +132,7 @@
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>A Localizar</item>
+        <item>A Localizar…</item>
         <item>A ligar-se a %1$s…</item>
         <item>Autenticação com %1$s…</item>
         <item>A obter o endereço IP do %1$s…</item>
@@ -176,7 +171,7 @@
     <string-array name="wifi_sleep_policy_entries">
         <item>Sempre</item>
         <item>Só quando a carregar</item>
-        <item>Nunca (aumenta tráfego)</item>
+        <item>Nunca (aumenta uso de tráfego)</item>
     </string-array>
     <string-array name="wifi_sleep_policy_entries_wifi_only">
         <item>Sempre</item>
@@ -185,8 +180,8 @@
     </string-array>
     <string-array name="wifi_frequency_band_entries">
         <item>Auto</item>
-        <item>Só 5 GHz</item>
-        <item>Só 2.4 GHz</item>
+        <item>Apenas 5 GHz</item>
+        <item>Apenas 2.4 GHz</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>Tempo de utilização</item>
@@ -226,11 +221,6 @@
         <item>Verificar só o conteúdo DRM</item>
         <item>Verificar sempre</item>
     </string-array>
-    <string-array name="hdcp_checking_values">
-        <item>never</item>
-        <item>drm-only</item>
-        <item>always</item>
-    </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>Nunca usar verificação HDCP</item>
         <item>Usar verificação HDCP apenas para conteúdo DRM</item>
@@ -264,7 +254,7 @@
         <item>Escala da animação 10x</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Limite predifinido</item>
+        <item>Limite padrão</item>
         <item>Não há processos em segundo plano</item>
         <item>No máximo 1 processo</item>
         <item>No máximo 2 processos</item>
@@ -273,11 +263,11 @@
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
+        <item>L2TP/IPSec VPN com chaves pre-partilhadas</item>
+        <item>L2TP/IPSec VPN com certificados</item>
+        <item>IPSec VPN com chaves pré-partilhadas e autenticação Xauth</item>
+        <item>IPSec VPN com certificados e autenticação Xauth</item>
+        <item>IPSec VPN com certificados e autenticação híbrida</item>
     </string-array>
     <string-array name="vpn_states">
         <item>Desligado</item>
@@ -361,8 +351,8 @@
         <item>Dispositivo ligado, a criar sessão…</item>
         <item>Sessão criada.</item>
         <item>Sessão desligada…</item>
-        <item>Sessão falhou.</item>
-        <item>Tempo esgotado, repetir…</item>
+        <item>Sessão falhou</item>
+        <item>Expirou o tempo, a repetir…</item>
         <item>Dispositivo ligado</item>
     </string-array>
     <string-array name="msd_pc_system">
@@ -381,11 +371,11 @@ o driver precisa ser instalado manualmente"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_step_1_summary">
-        <item>"(Por favor, ignore o Assistente de Configuração)
-o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
+        <item>"(Ignore o Assistente de Configuração)
+o dispositivo de armazenamento Xiaomi irá aparecer no seu computador
 Abra e selecione Setup.exe para instalação"</item>
         <item></item>
-        <item>"o dispositivo de armazenamento XIAOMI irá aparecer no seu computador
+        <item>"o dispositivo de armazenamento Xiaomi irá aparecer no seu computador
 Abra e selecione AndroidFileTransfer.dmg para instalação"</item>
         <item></item>
     </string-array>

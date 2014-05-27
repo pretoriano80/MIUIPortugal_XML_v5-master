@@ -52,7 +52,7 @@
     <string name="no_vm_number_msg">Não existe número de voicemail armazenado no cartão SIM.</string>
     <string name="add_vm_number_str">Adicionar número</string>
     <string name="puk_unlocked">O seu cartão SIM foi desbloqueado. A desbloquear o telefone…</string>
-    <string name="label_ndp">SIM network unlock PIN</string>
+    <string name="label_ndp">PIN de desbloqueio do cartão rede SIM</string>
     <string name="sim_ndp_unlock_text">Desbloquear</string>
     <string name="sim_ndp_dismiss_text">Rejeitar</string>
     <string name="requesting_unlock">Solicitando desbloqueio de rede…</string>
@@ -79,7 +79,7 @@
     <string name="labelCW">Chamada em espera</string>
     <string name="sum_cw_enabled">Durante uma chamada, notifique-me de chamadas recebidas</string>
     <string name="sum_cw_disabled">Durante uma chamada, me avise sobre chamadas recebidas</string>
-    <string name="call_forwarding_settings">Definições de encaminhamento de chamadas</string>
+    <string name="call_forwarding_settings">Definições de reencaminhamento de chamadas</string>
     <string name="labelCF">Encaminhamento de chamadas</string>
     <string name="labelCFU">Reencaminhar sempre</string>
     <string name="messageCFU">Sempre usar este número</string>
@@ -289,7 +289,7 @@ O próximo período começa em %2$d dias (%3$s)"</string>
     <string name="delete_fdn_contact">Eliminar número de chamadas fixas</string>
     <string name="deleting_fdn_contact">A eliminar número de chamadas fixas…</string>
     <string name="fdn_contact_deleted">Número de chamadas fixas foi eliminado.</string>
-    <string name="pin2_invalid">FDN não actualizado: digitou um PIN2 incorrecto.</string>
+    <string name="pin2_invalid">FDN não atualizado: digitou um PIN2 incorreto.</string>
     <string name="fdn_invalid_number">FDN não actualizado: o número não pode exceder 20 caracteres e apenas pode ter letras ou \'+\'.</string>
     <string name="pin2_or_fdn_invalid">"FDN não foi actualizado. O PIN2 estava incorrecto, ou o número de telefone foi rejeitado."</string>
     <string name="simContacts_emptyLoading">A ler a partir do cartão SIM…</string>
@@ -592,7 +592,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="auto_ip_exception_summary_miui">%d totalmente</string>
     <string name="auto_ip_exception_summary_more_miui">,... %d totalmente</string>
     <string name="auto_ip_support_local_numbers">Suportar números locais</string>
-    <string name="auto_record_call_summary_miui">Iniciar a gravação quando a chamada for conectada, e salve-a na pasta MIUI/sound_recorder/call_rec do cartão SD</string>
+    <string name="auto_record_call_summary_miui">Iniciar a gravação quando a chamada for iniciada, e guarde-a na pasta MIUI/sound_recorder/call_rec do cartão SD</string>
     <string name="auto_record_call_title_miui">Gravação automática</string>
     <string name="auto_record_scenario_title_miui">Definir gravação automática para</string>
     <string name="auto_record_scenario_enteries_always_miui">Todos os números</string>
@@ -607,10 +607,10 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="auto_redial_pref_title_miui">Remarcação automática</string>
     <string name="auto_retry_mode_summary_miui">Activar repetição automática</string>
     <string name="auto_retry_mode_title_miui">Repetição automática</string>
-    <string name="bad_pin2_miui">Tente novamente: o PIN2 antigo inserido não está correcto.</string>
-    <string name="bad_pin_miui">Tente novamente: o PIN antigo inserido não está correcto.</string>
-    <string name="bad_puk2_miui">Tente novamente: o PUK2 inserido está incorrecto.</string>
-    <string name="bad_puk_miui">Tente novamente: o PUK inserido está incorrecto.</string>
+    <string name="bad_pin2_miui">Tente novamente: O PIN2 antigo inserido não está correcto.</string>
+    <string name="bad_pin_miui">Tente novamente: O PIN antigo inserido não está correcto.</string>
+    <string name="bad_puk2_miui">Tente novamente: O PUK2 inserido está incorrecto.</string>
+    <string name="bad_puk_miui">Tente novamente: O PUK inserido está incorrecto.</string>
     <string name="call_assistant_miui">Assistente de marcação</string>
     <string name="caller_id_sum_miui">Ocultar o meu número ao efectuar ligações (confirme se a sua operadora suporta esta função)</string>
     <string name="caller_id_title_miui">ID de chamada</string>
@@ -641,7 +641,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="card_title_forwarded_incoming_call_miui">Encaminhar chamadas recebidas</string>
     <string name="carrier_related_setting_catory_miui">Configurações de operadora</string>
     <string name="cdma_system_select_choices_auto_miui">Automático</string>
-    <string name="cdma_system_select_choices_home_only_miui">Apenas casa</string>
+    <string name="cdma_system_select_choices_home_only_miui">Apenas em casa</string>
     <string name="cfb_title_miui">Encaminhar quando ocupado</string>
     <string name="cfnrc_title_miui">Encaminhar quando desligado</string>
     <string name="cfnry_title_miui">Encaminhar quando não atendida</string>
@@ -701,7 +701,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="description_target_answer_miui">Atender</string>
     <string name="description_target_decline_miui">Recusar</string>
     <string name="description_target_send_sms_miui">Enviar SMS</string>
-    <string name="disable_all_cf_miui">Desactive todos os reencaminhamento das chamadas</string>
+    <string name="disable_all_cf_miui">Desactivar todos os reencaminhamento das chamadas</string>
     <string name="disable_miui">Desactivar</string>
     <string name="disable_sim_pin_miui">Desactivar PIN do SIM</string>
     <string name="dtmf_tone_entries_long_miui">Longo</string>
@@ -880,7 +880,7 @@ O cartão SIM será inutilizado após outra tentativa falhada"</string>
     <string name="delete_all_sim_contacts_miui">Eliminar todos os contactos do cartão SIM</string>
     <string name="cdma_three_way_calls_miui">Chamada a três</string>
     <string name="cdma_conference_call_miui">Chamada em conferência</string>
-    <string name="respond_via_sms_canned_response_1_miui">Não posso atender. Liga-me mais tarde?</string>
+    <string name="respond_via_sms_canned_response_1_miui">Não posso atender. Ligue mais tarde?</string>
     <string name="respond_via_sms_canned_response_2_miui">Eu ligo-lhe dentro de um minuto</string>
     <string name="respond_via_sms_canned_response_3_miui">Eu ligo-lhe mais tarde</string>
     <string name="respond_via_sms_canned_response_4_miui">Não posso falar agora ao telefone. Que se passa?</string>

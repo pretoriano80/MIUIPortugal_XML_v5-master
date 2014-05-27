@@ -380,7 +380,7 @@ Quando a bateria se recupera o dispositivo está definido para mudar para esta c
     <string name="perm_su_disabled_in_stable_desc">"Dar permissão ROOT para aplicações 3-party pode causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos no hardware.
 
 Faça a transferência do desenvolvedor de construção de MIUI para permitir permissão ROOT."</string>
-    <string name="perm_su_disabled_desc">"Dar permissão ROOT para aplicações 3-party pode causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos ao hardware.
+    <string name="perm_su_disabled_desc">Dar permissão ROOT para aplicações 3-party pode causar instabilidade no sistema, até mesmo perda de dados pessoais, do sistema ou danos ao hardware.
 Faça a transferência do desenvolvedor de construção de MIUI para permitir permissão ROOT."</string>
     <string name="perm_su_disabled_in_stable_download">Transferir MIUI</string>
     <string name="perm_hips_switch">Gestor de permições</string>
@@ -1054,6 +1054,7 @@ Tenha cuidado, dar permissão root pode causar instabilidade no seu dispositivo,
     <string name="next_label">Avançar</string>
     <string name="language_picker_title">Idioma</string>
     <string name="activity_picker_label">Selecionar actividade</string>
+    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="device_info_label">Informações do dispositivo</string>
     <string name="battery_info_label">Informações da bateria</string>
     <string name="display_label">Ecrã</string>
@@ -2301,6 +2302,7 @@ Se o dispositivo tem vários utilizadores, usando este atalho no ecrã de bloque
     <string name="wifi_setup_description_connected">Toque <b>Seguinte</b>" para continuar a instalação.
 
 Toque "<b>Voltar</b> para ligar a uma rede Wi-Fi diferente.</string>
+    <string name="time_zone_auto_stub">Selecione o fuso horário</string>
     <string name="accessibility_sync_enabled">Sincronização activada</string>
     <string name="accessibility_sync_disabled">Sincronização desactivada</string>
     <string name="accessibility_sync_error">Erro de sincronização.</string>
@@ -3090,7 +3092,7 @@ pode usar também as redes de outros utilizadores"</string>
     <string name="turn_off_security_lock">Desligue o bloqueio</string>
     <string name="change_password">Mudar senha</string>
     <string name="change_security_lock">Experimentar outras maneiras de desbloquear</string>
-    <string name="sync_wifi_only">Apenas WI-FI</string>
+    <string name="sync_wifi_only">Apenas Wi-Fi</string>
     <string name="line_breaking_title">Optimize text</string>
     <string name="line_breaking_summary">Optimize paragraph line breaking</string>
     <string name="nfc_se_route_title">Secure element position</string>

@@ -9,7 +9,7 @@
     <string-array name="power_mode_entries">
         <item>Alto desempenho</item>
         <item>Balanço</item>
-        <item>Economizar bateria</item>
+        <item>Economia de bateria</item>
     </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Depois de 1 minuto</item>
@@ -29,12 +29,12 @@
     <string-array name="power_dialog_cpu_state_items">
         <item>Alto desempenho</item>
         <item>Balanço</item>
-        <item>Economizar bateria</item>
+        <item>Economia de bateria</item>
     </string-array>
     <string-array name="power_dialog_vibration_items">
-        <item>Nunca vibrar</item>
-        <item>Vibrar a toque é silenciado</item>
-        <item>Vibrar sempre</item>
+        <item>Nunca vibra</item>
+        <item>Vibra quando o toque está desligado</item>
+        <item>Vibra sempre</item>
     </string-array>
     <string-array name="score_descriptions">
         <item>Lista de Bloqueio está desligado</item>
@@ -83,7 +83,7 @@
         <item>30 minutos</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Pequena</item>
+        <item>Pequeno</item>
         <item>Normal</item>
         <item>Grande</item>
         <item>Enorme</item>
@@ -186,13 +186,6 @@
         <item>Iniciar contagem</item>
         <item>Nome da aplicação</item>
     </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>Nenhum</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
-    </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
         <item>Estático</item>
@@ -206,21 +199,10 @@
         <item>Alerta</item>
         <item>Vibrar</item>
     </string-array>
-    <string-array name="apn_auth_entries">
-        <item>Nenhum</item>
-        <item>PAP</item>
-        <item>CHAP</item>
-        <item>PAP ou CHAP</item>
-    </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
         <item>eHRPD</item>
         <item>Indeterminado</item>
-    </string-array>
-    <string-array name="bearer_values">
-        <item>14</item>
-        <item>13</item>
-        <item>0</item>
     </string-array>
     <string-array name="app_install_location_entries">
         <item>Armazenamento interno do dispositivo</item>
@@ -289,14 +271,6 @@
         <item>No máximo 2 processos</item>
         <item>No máximo 3 processos</item>
         <item>No máximo 4 processos</item>
-    </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
@@ -377,7 +351,7 @@
         <item>Nenhum</item>
         <item>Mostrar aplicações recentes</item>
         <item>Iniciar assistente</item>
-        <item>Iniciar agora o Google now</item>
+        <item>Iniciar agora o Google</item>
         <item>Desligar a aplicação actual</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
@@ -400,7 +374,7 @@
         <item>Sessão desligada…</item>
         <item>Sessão falhou</item>
         <item>Expirou o tempo, a repetir…</item>
-        <item>Device connected</item>
+        <item>Dispositivo ligado</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP ou versões mais antigas</item>
@@ -439,7 +413,7 @@ dispositivo 2.MI 2 de armazenamento móvel irá aparecer no seu computador"</ite
         <item>"Para o Windows Vista ou versões mais recentes,
 o leitor de música MI 2 irá aparecer no seu computador"</item>
         <item>"Se instalar este driver
-Computador vai auto abrir e ler dados do telefone"</item>
+O computador vai auto abrir e ler dados do telefone."</item>
         <item></item>
     </string-array>
     <string-array name="screen_color_title">
@@ -450,10 +424,6 @@ Computador vai auto abrir e ler dados do telefone"</item>
     <string-array name="screen_saturation_title">
         <item>Brilhante</item>
         <item>Padrão</item>
-    </string-array>
-    <string-array name="startup_hips_values">
-        <item>2</item>
-        <item>0</item>
     </string-array>
     <string-array name="startup_hips_action">
         <item>Permitir</item>
@@ -467,7 +437,17 @@ Computador vai auto abrir e ler dados do telefone"</item>
         <item>Desbloquear com o rosto</item>
         <item>Predefinido</item>
         <item>PIN</item>
-        <item>Senha</item>
+        <item>Palavra passe</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Marcador</item>
+        <item>Mesagens</item>
+        <item>Navegador</item>
+        <item>Câmera</item>
+        <item>Galeria</item>
+        <item>Música</item>
+        <item>Email</item>
     </string-array>
     <string-array name="gemini_sim_info_number_display_format_entries">
         <item>Primeiros 4 digitos</item>

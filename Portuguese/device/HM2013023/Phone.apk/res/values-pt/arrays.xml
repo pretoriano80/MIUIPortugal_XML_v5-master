@@ -102,7 +102,7 @@
     </string-array>
     <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Sempre</item>
-        <item>Apenas quando em silêncio</item>
+        <item>Apenas em silêncio</item>
         <item>Nunca</item>
     </string-array>
 </resources>

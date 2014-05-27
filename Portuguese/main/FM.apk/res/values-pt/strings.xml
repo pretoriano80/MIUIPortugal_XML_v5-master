@@ -22,7 +22,7 @@
     <string name="default_station">FM</string>
     <string name="default_blank" />
     <string name="transmit_msg_string">Transmitir em:</string>
-    <string name="set">Defenir</string>
+    <string name="set">Definir</string>
     <string name="stations_list">Lista de estações</string>
     <string name="stations_list_empty">Lista de estações vazia</string>
     <string name="station_freq_format">%sMHz</string>
@@ -38,7 +38,7 @@
     <string name="turn_on_speaker_phone">Ligar alto-falante</string>
     <string name="view_stations_list">Ver lista de estações</string>
     <string name="pre_station">Pstação anterior</string>
-    <string name="next_station">Próxima estaçãonext station</string>
+    <string name="next_station">Próxima estaçã</string>
     <string name="reduce_af">Reduzir a frequência</string>
     <string name="increase_af">Aumentar frequência</string>
     <string name="new_frequency">Nova frequência</string>
