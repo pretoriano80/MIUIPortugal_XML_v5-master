@@ -4,7 +4,7 @@
     <string name="pref_default_text_encoding_default">UTF-8</string>
     <string name="application_name">Navegador</string>
     <string name="choose_upload">Escolha o ficheiro para envio</string>
-    <string name="uploads_disabled">O envio de ficheiros está desactivado.</string>
+    <string name="uploads_disabled">O envio de ficheiros está desactivado</string>
     <string name="new_tab">Nova janela</string>
     <string name="new_incognito_tab">Novo separador sem registo</string>
     <string name="tab_bookmarks">Favoritos</string>
@@ -312,7 +312,7 @@
     <string name="error_console_eval_text_hint">Avaliar JavaScript</string>
     <string name="error_console_eval_button_text">Avaliar</string>
     <string name="defaultBookmarksUpButton">Favoritos</string>
-    <string name="empty_bookmarks_folder">Sem favoritos.</string>
+    <string name="empty_bookmarks_folder">Sem favoritos</string>
     <string name="other_bookmarks">Outros favoritos</string>
     <string name="rlz_access_point">Y1</string>
     <string name="account_chooser_dialog_title">Escolha uma conta</string>
@@ -359,6 +359,7 @@
     <string name="accessibility_state_frozen">Página guardada</string>
     <string name="accessibility_transition_navscreen">Gestão de separadores</string>
     <string name="pref_content_block_float_popups">Bloquear pop-ups</string>
+    <string name="url_visit_confirm">Vai visitar</string>
     <string name="miui_search_notification_title">Navegador pesquisa rápida</string>
     <string name="miui_search_notification_message">abrir a pesquisa rápida</string>
     <string name="miui_quicksearch_enable_pref_title">notificação pesquisa rápida</string>

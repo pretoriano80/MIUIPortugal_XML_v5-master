@@ -596,4 +596,6 @@ Tem certeza de que deseja sair desta página?"</string>
     <string name="webview_today">Hoje</string>
     <string name="webview_last_month">Último mês</string>
     <string name="webview_older">Antigo</string>
+    <string name="date_picker_dialog_other_button_label">Outro</string>
+    <string name="copy_to_clipboard_failure_message">Falha ao copiar para a área de transferência</string>
 </resources>
