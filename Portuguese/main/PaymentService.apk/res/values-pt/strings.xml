@@ -230,8 +230,8 @@ Tem que ligar à Internet para usar os Mi créditos."</string>
     <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Palavra passe errada, tem mais %d tentativas&lt;/font></string>
     <string name="lockpattern_pattern_confirmed_header">Seu novo padrão de desbloqueio:</string>
     <string name="lockpattern_recording_inprogress">Levante o dedo no ecrã ao finalizar.</string>
-    <string name="lockpattern_retry_text"><u>Restaurar palavra passe padrão/u></string>
-    <string name="forget_password"><u>Esqueceu a palavra passe/u></string>
+    <string name="lockpattern_retry_text"><u>Restaurar palavra passe padrão</u></string>
+    <string name="forget_password"><u>Esqueceu a palavra passe</u></string>
     <string name="login">Iniciar sessão</string>
     <string name="cancel">Cancelar</string>
     <string name="change_security_lock">Mais bloqueios de ecrã</string>
