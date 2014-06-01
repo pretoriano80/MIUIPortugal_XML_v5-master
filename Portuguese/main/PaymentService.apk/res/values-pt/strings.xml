@@ -51,9 +51,9 @@
 Por favor contacte o SAC Xiaomi."</string>
     <string name="error_account_changed_title">Conta alterada</string>
     <string name="error_account_changed_summary">"As informações de conta foram alteradas.
-Por favor ligue-se novamente."</string>
-    <string name="error_too_frequent_visits_summary">"Número de ações na conta excedido.
-Aguarde 5 minutos e tente novamente."</string>
+Por favor inicie sessão novamente."</string>
+    <string name="error_cert_date_summary">"Erro nos dados do certificado. 
+Por favor verifique sua rede móvel e tente novamente."</string>
     <string name="title_recharge">Recarregar MiCredit</string>
     <string name="recharge_group_favorite">Utilizar método de recarga anterior</string>
     <string name="recharge_group_others">Outros métodos de recarga</string>
@@ -162,8 +162,8 @@ Aguarde 5 minutos e tente novamente."</string>
     <string name="bankcall_call_hint">Receberá uma chamada da UnionPay (020-96585) em breve.</string>
     <string name="btn_wait_call">A aguardar…</string>
     <string name="btn_wait_call_count">A aguardar (%1$s)</string>
-    <string name="bankcall_error_card">Número da conta inválido. Por favor, corrija-o.</string>
-    <string name="bankcall_error_card_info">Informações da conta estão incorrectas. Por favor, corrija-as.</string>
+    <string name="bankcall_error_card">Número da conta inválido: Por favor, corrija-o.</string>
+    <string name="bankcall_error_card_info">Informações da conta estão incorrectas: Por favor, corrija-as.</string>
     <string name="progress_bankcall_card_querying">A verificar tipo de conta…</string>
     <string name="progress_bankcall_card_creating">A gerar compra…</string>
     <string name="btn_other_bankcard">Usar outro cartão</string>

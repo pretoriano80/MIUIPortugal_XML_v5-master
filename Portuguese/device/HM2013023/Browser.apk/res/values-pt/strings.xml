@@ -359,6 +359,7 @@
     <string name="accessibility_state_frozen">Página guardada</string>
     <string name="accessibility_transition_navscreen">Gestão de separadores</string>
     <string name="pref_content_block_float_popups">Bloquear pop-ups</string>
+    <string name="url_visit_confirm">Vai visitar</string>
     <string name="miui_search_notification_title">Navegador pesquisa rápida</string>
     <string name="miui_search_notification_message">abrir a pesquisa rápida</string>
     <string name="miui_quicksearch_enable_pref_title">notificação pesquisa rápida</string>
@@ -395,7 +396,7 @@
     <string name="pref_privacy_clear_history_by_group_dlg">Eliminar histórico de navegação?</string>
     <string name="edit">Editar</string>
     <string name="delete">Eliminar</string>
-    <string name="multi_select_title">%1$s Ficheiro(s) selecionado(s).</string>
+    <string name="multi_select_title">%1$s selecionado</string>
     <string name="delete_multi_bookmarks_alert_title">Eliminar %1$s ficheiros?</string>
     <string name="add_bookmark">Adicionar favorito</string>
     <string name="send_bookmark_to_home_screen">Enviar para o ecrã inicial</string>
@@ -420,10 +421,10 @@
     <string name="share_link">Partilhar</string>
     <string name="open_all_bookmarks">Abrir todos</string>
     <string name="move_to_up_folder">Voltar à pasta anterior</string>
-    <string name="bookmark_folder_needs_title">A Pasta deve ter um nome.</string>
+    <string name="bookmark_folder_needs_title">A Pasta deve ter um nome</string>
     <string name="tab_yellowpage">Páginas amarelas</string>
     <string name="tab_quicklinks">Links rápidos</string>
-    <string name="pref_content_night_read_mode">Ativar modo noturno</string>
+    <string name="pref_content_night_read_mode">Activar modo noturno</string>
     <string name="general_set_default_browser_title">Definir como navegador padrão</string>
     <string name="general_set_default_browser_dialog_summary">Use aplicações MIUI integradas para acelerar um desempenho mais suave</string>
     <string name="general_set_default_browser_dialog_close_txt">Fechar</string>

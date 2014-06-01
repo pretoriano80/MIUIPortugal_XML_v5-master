@@ -803,7 +803,7 @@ Tente novamente ou ligue para o serviço de atendimento ao cliente para obter ma
     <string name="call_record_sd_error_miui">Falha ao aceder ao cartão SD</string>
     <string name="call_record_sd_space_low_miui">Não existe espaço: o seu cartão SD está muito cheio</string>
     <string name="call_settings_category_miui">Chamada</string>
-    <string name="call_settings_miui">Configurações da chamada</string>
+    <string name="call_settings_miui">Definições da chamada</string>
     <string name="call_title_redialing_with_times_miui">Remarcando %d vezes</string>
     <string name="call_waiting_sum_miui">Durante uma chamada, notificar-me de chamadas em espera</string>
     <string name="card_title_forwarded_incoming_call_miui">Encaminhar chamadas recebidas</string>
