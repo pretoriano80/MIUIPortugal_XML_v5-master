@@ -348,10 +348,7 @@ CC: %4$s
     <string name="protocol_pop3">pop3</string>
     <string name="protocol_eas">eas</string>
     <string name="application_mime_type">application/email-ls</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="contact_content_provider">Contact Content Provider</string>
-    <string name="account_cache_provider">Account Cache Provider</string>
     <string name="from">From</string>
     <string name="to">To</string>
     <string name="cc">Cc</string>
@@ -417,10 +414,6 @@ CC: %4$s
     <string name="menu_move_to">Move to</string>
     <string name="menu_move_to_inbox">Move to Inbox</string>
     <string name="menu_manage_folders">Folder settings</string>
-    <string name="report_rendering_problem">Looks bad</string>
-    <string name="report_rendering_improvement">Looks good</string>
-    <string name="report_rendering_problem_desc">This message looks bad.</string>
-    <string name="report_rendering_improvement_desc">This message looks good.</string>
     <string name="menu_show_original">Revert auto-sizing</string>
     <string name="menu_settings">Settings</string>
     <string name="menu_search">Search</string>
